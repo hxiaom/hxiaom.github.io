@@ -1,38 +1,14 @@
+---
+layout: default
+title: 我的Blog
+---
 
-<!DOCTYPE html>
-<!--TODO:加粗，字号，排版，照片大小，改用CSS，域名-->
-<html>
-<head>
-    <title>黄晓明简历</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <meta name="keywords" content="黄晓明 黄晓明简历" />
-    <meta name="description" content="resume" />
-</head>
-<body>
-<table width="1000">
-<tr>
-    <td width="300" align="center"><img src="http://hxiaom-photo.stor.sinaapp.com/avatar.jpg" width="98" height="142"/></td>
-    <td>
-        <p>黄晓明</p>
-        <p>中山大学软件学院 软件工程</p>
-        <p>邮箱:hxiaom0117@163.com</p>
-    </td>
-</tr>
-    
+<h2>{{ page.title }}</h2>
 
-<th colspan="2" align="left">主要经历<hr /></th>
-    
-<tr>
-    <td colspan="2">
-        <ul>
-            <li>2011.09-2015.07 中山大学软件学院软件工程 本科</li>
-            <li>2013.09-2014.02 中山大学管理学院会计学 双学位</li>
-            <li>2015.07-至今 中山大学管理学院管理科学与工程 研究生</li>
-        </ul>
-    </td>
-</tr>
-    
-</table>
+<p>最新文章</p>
 
-</body>
-</html>
+<ul>
+   {% for post in site.posts %}
+   <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+</ul>
