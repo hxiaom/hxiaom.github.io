@@ -1,0 +1,155 @@
+/*@import url(http://fonts.googleapis.com/css?family=Lekton|Mako|Ubuntu+Mono|Gudea|Convergence|Signika|Telex|Shanti|Open+Sans|Inconsolata);*/
+/*@import url(http://fonts.googleapis.com/css?family=Homenaje);*/
+/*@import url(http://fonts.googleapis.com/css?family=Gudea);*/
+
+/*@font-face {
+    font-family: '/static/bariol/bariol_regularregular';
+    src: url('/static/bariol/bariol_regular-webfont.eot');
+    src: url('/static/bariol/bariol_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/static/bariol/bariol_regular-webfont.woff') format('woff'),
+         url('/static/bariol/bariol_regular-webfont.ttf') format('truetype'),
+         url('/static/bariol/bariol_regular-webfont.svg#bariol_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+@import url(/static/bariol/stylesheet.css);
+
+html {
+	background-color: #eee;
+}
+
+body {
+	font-family: 'bariol_regularregular', Helvetica, Arial, sans-serif;
+	color: #333;
+	width: 66%;
+	margin: 60px auto;
+    font-size: 18px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+h1 { margin-left: 80px; font-size: 2.7em; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.1em; }
+h4 { font-size: 1.0em; }
+h4 { font-size: 0.9em; }
+
+strong { font-weight: normal; font-family: 'bariol_boldbold'; }
+
+
+
+header {
+    display: table;
+    width: 100%;
+}
+
+header a {
+    position: relative;
+}
+
+/*
+header a:hover {
+    padding-bottom: 2px;
+    bottom: 2px;
+}
+*/
+
+header>nav, header>div {
+    display: table-cell;
+}
+
+nav>a {
+    margin: 0px 10px;
+    text-decoration: none;
+    font-size: 0.9em;
+    color: #000;
+}
+
+nav a.current {
+    font-family: 'bariol_boldbold';
+}
+
+#social {
+    text-align: right;
+}
+
+#social>a {
+    position: relative;
+    margin: 0px 5px 0px 0px;
+    text-decoration: none;
+    font-size: 1.0em;
+}
+
+#wrap {
+	margin: 20px 0px 20px 0px;
+	background-color: #fff;
+	border-radius: 3px;
+	border: solid 1px #ccc;
+}
+
+#content {
+	padding: 20px 40px 20px 80px;
+}
+
+a {
+    color: #118;
+    -webkit-transition:all 150ms ease-in;
+	-o-transition:all 150ms ease-in;
+	-moz-transition:all 150ms ease-in;
+}
+
+a:hover {
+    color: #33c;
+}
+
+div#content>ul {
+	margin: 0px 0px 0px 40px;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+ul>li {
+    margin: 50px 0px;
+    padding: 0;
+}
+
+ul ul>li, ul ul, ul ol {
+	margin: 0;
+	padding: 0;
+}
+
+ul ul ul, ul ul ol {
+	list-style: circle;
+	margin: 0px 50px;
+}
+
+ul ul ul>li, ul ul ol>li {
+    margin: 10px 0px;
+}
+
+h3 {
+    text-transform: lowercase;
+    position: relative;
+    left: -80px;
+    margin: 0px -50px;
+    width: 100px;
+    float: left;
+    text-align: right;
+    color: #777;
+}
+
+ul ol {
+    color: #888;
+}
+
+ul ol a {
+    color: #666;
+}
+
+/* section specifics */
+
+#wrap.blog #content>ul>li {
+	
+}
