@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: 黄晓明
+title: 黄 晓 明
 short: true
 toc: true
 ---
