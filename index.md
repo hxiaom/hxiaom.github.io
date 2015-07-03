@@ -4,7 +4,7 @@ title: Huang Xiaoming
 short: true
 toc: true
 ---
-Huang Xiaoming, testing
+Huang Xiaoming is a graduate student at SYSU. Here's what I've been up to.
 
 ## Projects
 
