@@ -1,8 +1,8 @@
 ---
-layout:frontpage
-title:黄晓明
-short:true
-toc:true
+layout: frontpage
+title: 黄晓明
+short: true
+toc: true
 ---
 Huang Xiaoming, testing
 
