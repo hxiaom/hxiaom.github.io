@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: 黄 晓 明
+title: Huang Xiaoming
 short: true
 toc: true
 ---
