@@ -12,9 +12,8 @@ Recent projects
 
 ### Active projects
 * testing
-<img src="/static/images/graduation.jpg" width="400" height="100">
 
-![images](/static/images/graduation.jpg)
+![images](/static/images/2015-06-18-graduation.jpg)
 
 ## Contact
 * tel.:+86 13560358211
