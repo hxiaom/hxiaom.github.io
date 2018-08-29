@@ -4,3 +4,10 @@ title: hxiaom
 
 header_pages:
   - about.md
+
+github_username:  hxiaom
+rss: rss
+
+mastodon:
+ - username: jekyll
+   instance: example.com
