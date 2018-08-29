@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Git Page搭建"
+title: "Github Page搭建"
 categories: misc
 ---
+本文档记录了Github Page的搭建过程，供自己后续改进参考。
+
 # 参考教程
 [Github Pages](https://pages.github.com/)
 
