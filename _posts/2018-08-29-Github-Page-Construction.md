@@ -14,3 +14,4 @@ categories: Software
 1. 文章分类系统 DONE
 2. about.md
 3. 增加底部weibo链接 
+4. 离线查看
