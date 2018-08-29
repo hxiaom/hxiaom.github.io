@@ -16,3 +16,7 @@ rss: rss
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+ # Pagination
+paginate: 1
+paginate_path: "/page/:num/"
