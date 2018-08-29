@@ -7,9 +7,9 @@ categories: misc
 
 # 参考教程
 1. [Github Pages](https://pages.github.com/)
-
 2. 使用默认模板[minima](https://github.com/jekyll/minima)
 
 # TODO
 1. 文章分类系统
 2. about.md
+3. 增加底部weibo链接
