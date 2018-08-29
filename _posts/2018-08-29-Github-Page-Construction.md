@@ -6,9 +6,10 @@ categories: misc
 本文档记录了Github Page的搭建过程，供自己后续改进参考。
 
 # 参考教程
-[Github Pages](https://pages.github.com/)
+1. [Github Pages](https://pages.github.com/)
 
-使用默认模板[minima](https://github.com/jekyll/minima)
+2. 使用默认模板[minima](https://github.com/jekyll/minima)
 
 # TODO
-文章分类系统
+1. 文章分类系统
+2. about.md
