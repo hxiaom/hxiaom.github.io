@@ -11,7 +11,7 @@ categories: Software
 3. [jekyll categories](https://blog.webjeda.com/jekyll-categories/)
 
 # TODO
-1. 文章分类系统 DONE
+1. 文章分类系统 <font color=red>DONE</font>
 2. about.md
 3. 增加底部weibo链接 
 4. 离线查看
