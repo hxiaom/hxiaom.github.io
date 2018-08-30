@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "滴滴公司分析"
-categories: GIS
+categories: Mobility
 ---
 
 ### 公司战略
@@ -52,7 +52,21 @@ categories: GIS
 
 程维表示，全中国每天有11亿次出行，滴滴只渗透了市场的2%，从中国走向世界，滴滴服务的人群会从13亿变成60亿。(http://www.pinchain.com/article/153931)
 
-成本结构无从获知。
+<font color="red">成本结构无从获知。</font>
+[滴滴有7000员工](http://news.zol.com.cn/654/6545950.html)
+
+这些数据都很有意思
+
+可以对照着神州专车的一些数据，理解整个行业。
+
+<font color="red">
+### TODO：
+</font>
+1. 通过对照已上市的同类型公司，理解滴滴的成本结构。
+2. 思考指标设置是否合理，参考阿里巴巴的指标设计。
+3. [MIT How many taxis does a city need?](http://news.mit.edu/2018/minimum-vehicle-fleet-rider-demand-0523)
+4. 参考2016年滴滴企业公民报告，观察发展和变化，很有意思。
+
 
 信息来源：
 [滴滴出行企业公民报告2017](https://www.didiglobal.com/news/newsDetail?id=384&type=news)
