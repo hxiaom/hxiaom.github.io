@@ -11,7 +11,8 @@ categories: Software
 3. [jekyll categories](https://blog.webjeda.com/jekyll-categories/)
 
 # TODO
-1. 文章分类系统 <font color=red>DONE</font>
-2. about.md
+1. 文章分类系统 √
+2. about.md √
 3. 增加底部weibo链接 
-4. 离线查看
+4. [本地修改](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler) √ [nokogiri install error](/software/2018/08/30/nokogiri-problem.html)
+5. pagination
