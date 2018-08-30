@@ -17,10 +17,10 @@ rss: rss
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
 
  # Pagination
-gems:
-  - jekyll-paginate
+  
 
-paginate: 3
+paginate: 5
 paginate_path: posts/page:num/
