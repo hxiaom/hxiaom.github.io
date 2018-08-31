@@ -11,7 +11,7 @@ header_pages:
   - category.md
 
 # social links
-github_username:  hxiaom
+github_username: hxiaom
 rss: rss
 
 plugins:
@@ -19,8 +19,10 @@ plugins:
  - jekyll-seo-tag
  - jekyll-paginate
 
- # Pagination
-  
-
+# Pagination
 paginate: 5
 paginate_path: posts/page:num/
+
+# Comments
+disqus:
+  shortname: hxiaom
