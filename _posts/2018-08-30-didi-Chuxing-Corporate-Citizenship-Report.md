@@ -88,8 +88,7 @@ categories: Mobility
 </font>
 1. 通过对照已上市的同类型公司，理解滴滴的成本结构。
 2. 思考指标设置是否合理，参考阿里巴巴的指标设计。
-3. [MIT How many taxis does a city need?](http://news.mit.edu/2018/minimum-vehicle-fleet-rider-demand-0523)
-4. 参考2016年滴滴企业公民报告，观察发展和变化，很有意思。
+3. 参考2016年滴滴企业公民报告，观察发展和变化，很有意思。
 
 
 信息来源：
