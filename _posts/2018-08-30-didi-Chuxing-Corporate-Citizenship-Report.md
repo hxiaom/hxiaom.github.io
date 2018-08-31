@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "滴滴公司分析"
+title: "滴滴出行分析"
 categories: Mobility
 ---
 
@@ -119,8 +119,12 @@ categories: Mobility
 
 [滴滴有7000员工](http://news.zol.com.cn/654/6545950.html)
 
+空驶率
 
 
+## 企业管理者信息
+
+- 程维，销售出身。
 
 <font color="red">
 ### TODO：
