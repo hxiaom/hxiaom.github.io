@@ -147,3 +147,4 @@ categories: Mobility
 
 信息来源：
 [滴滴出行企业公民报告2017](https://www.didiglobal.com/news/newsDetail?id=384&type=news)
+[《滴滴:分享经济改变中国》](https://book.douban.com/subject/26800138/)
