@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "智慧城市学习资料"
-categories: GIS
+categories: Mobility
 ---
 
 # 智慧城市

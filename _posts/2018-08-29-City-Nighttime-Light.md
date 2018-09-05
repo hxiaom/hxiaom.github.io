@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "City Nighttime Lights"
-categories: GIS
+categories: Mobility
 ---
 # 城市夜间灯光
 创建一个中国县/市级别的城市夜间灯光照片生成网站，如下：
