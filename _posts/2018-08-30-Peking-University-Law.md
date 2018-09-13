@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "北京大学法理学公开课"
-categories: IntellectualPropertyProtection
+categories: IntellectualPropertyProtection Management
 ---
 ### [法理学视频](https://www.bilibili.com/video/av5735619/)
 #### 北京大学法学院 朱苏力
