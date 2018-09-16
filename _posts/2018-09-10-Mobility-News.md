@@ -13,6 +13,7 @@ categories: Mobility
 * 地图提供商
     * 高德地图
     * 百度地图
+    * Wayz.ai
 
 * 汽车制造产商
     * 小鹏汽车 https://www.xiaopeng.com/news.html
