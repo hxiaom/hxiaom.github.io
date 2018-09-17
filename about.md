@@ -9,3 +9,6 @@ permalink: /about/
 - 数据分析师
 - 信息系统在读博士生
 
+本博客记录框架如下：
+
+![](/img/about.jpg)
