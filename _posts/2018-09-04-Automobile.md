@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "自动驾驶"
-categorites: Mobility
+categories: Mobility
 ---
 ## 1. 自动驾驶技术：
 ### 1.1 技术方案
