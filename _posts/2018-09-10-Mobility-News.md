@@ -14,6 +14,8 @@ categories: Mobility
     * 小马智行 https://www.pony.ai/zh/news/
     * 景驰科技 http://www.jing-chi.com/media
     * 百度Apollo http://apollo.auto/news_cn.html
+    * 禾多科技 http://www.holomatic.cn/index.html#news
+    * drive.ai https://www.drive.ai/careers/
 
 * 地图提供商
     * 高德地图
