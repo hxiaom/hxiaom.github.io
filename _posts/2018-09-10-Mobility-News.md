@@ -32,24 +32,27 @@ categories: Mobility
 * [waymo](https://waymo.com/)
 * [drive.ai](https://www.drive.ai/careers/)
 
-* 地图提供商
-    * [高德地图](http://www.autonavi.com/#/)
-    * [百度地图](http://lbsyun.baidu.com/)
-    * [Wayz.ai](http://wayz.ai/)
-    * Google maps
+#### 1.2 地图提供商
 
-* 智能汽车制造产商
-    * [小鹏汽车](https://www.xiaopeng.com/news.html)
-    * [蔚来汽车](https://www.nio.com/news)
-    * [车和家](https://www.chehejia.com/) 
-    * [特斯拉](https://www.tesla.com/)
-    * 传统汽车厂商
+* [高德地图](http://www.autonavi.com/#/)
+* [百度地图](http://lbsyun.baidu.com/)
+* [Wayz.ai](http://wayz.ai/)
+* Google maps
 
-* 出行服务
-    * [滴滴](https://www.didiglobal.com/news/newsCenter)
-    * [Lyft](https://www.lyft.com/)
-    * [优步UBER](https://www.uber.com/)
-    * 神州租车
+#### 1.3 智能汽车制造产商
+
+* [小鹏汽车](https://www.xiaopeng.com/news.html)
+* [蔚来汽车](https://www.nio.com/news)
+* [车和家](https://www.chehejia.com/) 
+* [特斯拉](https://www.tesla.com/)
+* 传统汽车厂商
+
+#### 1.4 出行服务
+
+* [滴滴](https://www.didiglobal.com/news/newsCenter)
+* [Lyft](https://www.lyft.com/)
+* [优步UBER](https://www.uber.com/)
+* 神州租车
 
 ### 政府规划
 * [中国交通运输部](http://www.mot.gov.cn/)
