@@ -60,6 +60,8 @@ categories: Mobility
 ### 科技新闻
 * [36Kr-汽车交通](https://36kr.com/)
 * [虎嗅-车与出行](https://www.huxiu.com/channel/21.html)
+* [Techcrunch Transportation](https://techcrunch.com/transportation/)
+* Google News - automobile
 
 ### 城市规划
 * [Sidewalk Labs](https://sidewalklabs.com/)
