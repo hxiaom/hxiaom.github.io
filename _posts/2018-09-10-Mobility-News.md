@@ -61,6 +61,7 @@ categories: Mobility
 * [36Kr-汽车交通](https://36kr.com/)
 * [虎嗅-车与出行](https://www.huxiu.com/channel/21.html)
 * [Techcrunch Transportation](https://techcrunch.com/transportation/)
+* [Automotive News](http://www.autonews.com/)
 * Google News - automobile
 
 ### 城市规划
