@@ -203,6 +203,7 @@ DAPPRA
 
 ### 课程
 * [Udacity 自动驾驶网课](https://www.udacity.com/self-driving-car)
+* [MIT 6.S094: Deep Learning for Self-Driving Car](https://selfdrivingcars.mit.edu/)
 
 
 参考：
