@@ -85,3 +85,15 @@ categories: Mobility
 
 * 我想做什么？数据分析？我的好奇心，但是我还没有做深入的东西？产品经理，他们的价值在于什么？ 如果做得不好会怎么样？
 * 我能做什么？
+
+Waymo https://waymo.com/joinus/
+Uber https://careers-uber.icims.com/jobs/search?ss=1&searchCategory=818705
+Argo.ai https://www.argo.ai/join-us
+Zoox https://jobs.lever.co/zoox
+nuTonomy https://www.nutonomy.com/careers/
+Nauto https://www.nauto.com/jobs
+Cruise https://www.getcruise.com/careers
+Lucid Motors https://lucidmotors.com/company/careers
+Drive.ai https://www.drive.ai/careers/
+Pony.ai https://www.pony.ai/careers/
+Starsky https://jobs.lever.co/starskyrobotics/
