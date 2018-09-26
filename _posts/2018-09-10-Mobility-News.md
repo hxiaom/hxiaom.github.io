@@ -51,6 +51,12 @@ categories: Mobility
 * [Oxbotica](https://www.oxbotica.ai/)
 * [Argo.ai](https://www.argo.ai/)
 
+* [Polysync](https://polysync.io/):开源开发平台
+* [BrightWay Vision](https://www.brightwayvision.com/):视觉系统
+* [Nvidia](http://www.nvidia.com/page/home.html):人工智能处理器
+* [Minds.ai](https://www.minds.ai/):人工智能技术
+* [Nuro](https://nuro.ai/):人工智能机器人
+* [Carnegie Robotics](http://carnegierobotics.com/):人工智能机器人
 
 #### 1.2 地图提供商
 
@@ -58,6 +64,15 @@ categories: Mobility
 * [百度地图](http://lbsyun.baidu.com/)
 * [Wayz.ai](http://wayz.ai/)
 * Google maps
+* [Mapper.ai](http://mapper.ai/):自动驾驶地图
+* [Carmera](https://www.carmera.com/):3D自动驾驶地图
+* [Understand.ai](https://understand.ai/):地图信息标识
+* [TomTom](https://www.tomtom.com/en_us/):自动驾驶地图
+* [DeepMap](https://www.deepmap.ai/):自动驾驶高精地图
+* [Civil Maps](https://civilmaps.com/):众包地图技术
+* [Telenav](https://www.telenav.com/home):众包地图技术
+* [Swift Navigation](https://www.swiftnav.com/):自动驾驶导航
+* [EXO Technologies](https://www.exactorbit.com/):高精导航
 
 #### 1.3 智能汽车制造产商
 
@@ -115,6 +130,56 @@ categories: Mobility
 
 * [DriveBetter](https://www.drivebetter.com/):驾驶习惯记录仪
 * [CarVi](https://getcarvi.com/):驾驶习惯记录仪
+* [Light Metrics](https://www.lightmetrics.co/):驾驶习惯记录仪
+* [Automatic](https://www.automatic.com/):驾驶习惯记录仪
+* [TrueMotion](https://gotruemotion.com/):驾驶习惯记录仪
+* [Zubie](http://zubie.com/):驾驶习惯记录
+* [CarIQ](https://mycariq.com/):驾驶习惯记录
+* [TourmalineLabs](https://www.tourmalinelabs.com/):驾驶习惯开发平台
+* [Cortex Labs](http://www.cortexlabs.com.au):疲劳驾驶探测
+* [Carma](https://www.gocarma.com/):乘客数量探测APP
+
+#### 1.9 网络安全
+
+* [Cymotive](http://www.cymotive.com/):汽车防系统攻击
+* [Arilou](https://www.nng.com/arilou-cyber-security/):汽车防系统攻击
+* [Olympus Sky](http://olympussky.com/):网联车网络安全
+* [Karamba Security](https://www.karambasecurity.com/):自动驾驶安全
+* [Argus](https://argus-sec.com/):自动驾驶安全
+* [Braiq](https://braiq.ai/):自动驾驶乘客行为探测
+
+#### 1.10 车内电脑
+
+* [Link Motion](http://www.link-motion.com/cn/home-cn):自动驾驶车内电脑
+* [Swedspot](http://www.swedspot.com/):网联车信息交互
+* [Predict Systems](http://www.predictsystems.com/):网联车信息交互
+* [Hudify](http://www.gethudify.com/):透明导航屏
+* [Cloudcar](http://www.cloudcar.com/):车内娱乐控制
+* [Rightware](http://www.rightware.com/):智能仪表盘
+* [Ficonic](http://www.ficonicsolutions.com/index.html):智能仪表盘
+* [Navdy](https://www.navdy.com/):智能仪表盘
+* [Radiomize](https://www.radiomize.net/):智能方向盘
+* [Navideck](http://navideck.com/):智能车内音乐播放APP
+
+#### 1.11 感应器
+
+* [TriLumina](https://www.trilumina.com/):自动驾驶感应器
+* [Mobileye](https://www.mobileye.com/zh-cn/):视觉辅助驾驶
+* [VayaVision](https://www.vayavision.com/):自动驾驶视觉
+* [DeepScale](http://deepscale.ai/):自动驾驶视觉
+* [Deep Vision](http://www.deepvisioncorp.com/):计算机视觉
+* [Chronocam](https://www.prophesee.ai/):计算机视觉
+* [Facet](http://www.facet-tech.com/):激光雷达
+* [Innoviz](https://innoviz.tech/):激光雷达
+* [LeddarTech](https://leddartech.com/):激光雷达
+* [Phantom Intelligence](http://phantomintelligence.com/):激光雷达
+* [Velodyne](https://velodynelidar.com/):激光雷达
+* [Strobe](https://www.strobeinc.com/):激光雷达
+
+#### 1.12 新汽车材料
+
+* [NaWa Technologies](http://www.nawatechnologies.com/zh-hans):纳米材料
+* [Nanosteel](https://nanosteelco.com/):3D纳米打印
 
 ### 政府规划
 * [中国交通运输部](http://www.mot.gov.cn/)
@@ -135,6 +200,9 @@ categories: Mobility
 
 ### 比赛
 DAPPRA
+
+### 课程
+* [Udacity 自动驾驶网课](https://www.udacity.com/self-driving-car)
 
 
 参考：
