@@ -1,5 +1,5 @@
 ---
 layout: post
-title: 《Storytelling with Data》
+title: 【Book】Storytelling with Data
 categories: DataScience
 ---

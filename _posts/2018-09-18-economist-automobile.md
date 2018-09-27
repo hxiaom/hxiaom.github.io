@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《无人驾驶：十万亿美元的大饼怎么分？》
+title: 【Book】无人驾驶：十万亿美元的大饼怎么分？
 categories: Mobility
 ---
 

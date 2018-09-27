@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《智能化未来：无人驾驶如何改变我们的生活》
+title: 【Book】智能化未来：无人驾驶如何改变我们的生活
 categories: Mobility
 ---
 

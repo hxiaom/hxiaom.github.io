@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《How to measure anything?》Douglas W. Hubbard
+title: 【Book】How to measure anything?
 categories: DataScience
 ---
 
