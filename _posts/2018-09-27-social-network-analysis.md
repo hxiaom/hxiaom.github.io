@@ -1,6 +1,6 @@
 ---
 layout: post
-title: social Network Analysis
+title: Social Network Analysis
 categories: DataScience
 ---
 
