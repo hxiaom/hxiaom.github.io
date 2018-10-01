@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "企业分析方法论"
-categories: DataScience
+categories: Analytics
 ---
 ### 企业信息性质
 

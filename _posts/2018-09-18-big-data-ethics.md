@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 大数据与人工智能的伦理挑战
-categories: DataScience
+categories: Analytics
 ---
 [周涛原创 大数据与人工智能的伦理挑战（1、2）](https://mp.weixin.qq.com/s/8cXBPeIMtKK0Ds3KsL07gw)
 

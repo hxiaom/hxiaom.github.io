@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 数据分析思考
-categories: DataScience
+categories: Analytics
 ---
 
 数据分析，为了获得洞见。辅助商业决策。

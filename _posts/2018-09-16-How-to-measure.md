@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Book】How to measure anything?
-categories: DataScience
+categories: Analytics
 ---
 
 本文为《How to measure anything?》Douglas W. Hubbard读书笔记

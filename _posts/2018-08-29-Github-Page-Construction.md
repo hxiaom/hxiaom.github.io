@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Github Page搭建"
-categories: DataScience
+categories: Analytics
 comments: true
 ---
 本文档记录了Github Page的搭建过程，供自己后续改进参考。

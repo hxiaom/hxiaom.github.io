@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Error in installing nokogiri (1.8.4)"
-categories: DataScience
+categories: Analytics
 ---
 
 1. 在本地化Github Page的bundle install步骤报错如下
