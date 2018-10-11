@@ -25,10 +25,9 @@ categories: Analytics
     - 辩证思考，防止思维漏洞 (*参考:[思维偏误](http://hxiaom.github.io/analytics/2018/10/11/thinking-mistakes.html)*)
 
 3. 分析技术：
-    - 机器学习：大数据中的模式识别
-    - 计量经济学：利用数据和经济学思维解释现象
+    - 机器学习：大数据中的模式识别 (*参考:[CS5487 Machine Learning(1)](http://hxiaom.github.io/analytics/2018/09/11/CS5487.html);[CS5487 Machine Learning(2)](http://hxiaom.github.io/analytics/2018/09/20/CS5418-2.html)*)
+    - 计量经济学：利用数据和经济学思维解释现象 (*参考:[EF5470 Econometrics Part I](http://hxiaom.github.io/analytics/2018/09/17/EF5470.html);[EF5470 Econometrics Part II](http://hxiaom.github.io/analytics/2018/10/01/EF5470-2.html)*)
 
 4. 讲好故事：
-    <Storytelling with data>
     - 用数字说话
     - 为下一步更强的执行做准备：说服大家，组织大家，协调大家
