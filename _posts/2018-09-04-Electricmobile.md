@@ -6,6 +6,10 @@ categories: Mobility
 
 ### 环保问题
 
+集中污染处理
+
+电池制造问题
+
 ### 经济性
 
 ### 智能体验
@@ -21,3 +25,5 @@ categories: Mobility
 
 参考：
 1. [电动车凭什么做未来的大趋势](https://www.weibo.com/ttarticle/p/show?id=2309404279386974091064#_0)
+2. [电动汽车清洁疑云：是口水仗还是真污染？](https://www.huxiu.com/article/266660.html)
+
