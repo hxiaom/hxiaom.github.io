@@ -3,8 +3,12 @@ layout: post
 title: "北京大学法理学公开课"
 categories: IntellectualPropertyProtection Management
 ---
-### [法理学视频](https://www.bilibili.com/video/av5735619/)
-#### 北京大学法学院 朱苏力
+[法理学视频](https://www.bilibili.com/video/av5735619/)
+
+北京大学法学院 朱苏力
+
+* TOC
+{:toc}
 
 ### 第一讲 何为法律
 1.	制定法
