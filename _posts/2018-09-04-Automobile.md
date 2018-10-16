@@ -52,6 +52,9 @@ Level 1-5
 
 我们如何才能知道自动驾驶技术是否已经成熟了呢？美国交通运输局，采用让自动驾驶公司自证安全的方式，来进行管理。自动驾驶公司们纷纷出具安全报告。自动驾驶公司们普遍采用过程安全和结果安全两种方式来证明它们的产品安全。
 
+[Rand study shows it's hard to gauge self-driving car safety](http://www.autonews.com/article/20181015/MOBILITY/181019703/autonomous-vehicle-safety-measurements)
+
+
 **过程安全**
 
 自动驾驶提供商们，希望通过解释自动驾驶构造原理及其运行过程，来证明自动驾驶的安全性。
@@ -82,6 +85,8 @@ Level 1-5
 传统安全问题大多数由单一司机的错误造成，不具有广泛的影响力。而自动驾驶技术一旦出现漏洞，其错误可能在上百万辆的汽车上同时产生，问题的严重性将会大大加剧。因此，自动驾驶的运营工作显得非常重要。不断更新，不断构建更强的能力，成为必须。
 
 此外，传统由单个司机造成的安全问题，往往很容易找出原因，具有可解释性。而自动驾驶中人工智能算法错误的归因则很难。如何克服这个问题？如果追责，如何向公众传达错误的原因？都是等待解决的问题。
+
+[Not everyone is ready to ride as autonomous vehicles take to the road in ever-increasing numbers](https://www.cnbc.com/2018/10/14/self-driving-cars-take-to-the-road-but-not-everyone-is-ready-to-ride.html)
 
 ### 2.2 出行成本降低
 
