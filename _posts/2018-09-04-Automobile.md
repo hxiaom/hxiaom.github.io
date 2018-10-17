@@ -165,6 +165,8 @@ Level 1-5
 
 对于其他出行形式的影响，地铁，动车，。。。
 
+道路会更堵吗？[Uber and Lyft are responsible for about half of SF’s rise in traffic since 2010, SFCTA says](https://techcrunch.com/2018/10/16/uber-and-lyft-are-responsible-for-about-half-of-sfs-rise-in-traffic-since-2010-sfcta-says/)
+
 ### 4.2 货运
 
 以上几点主要谈及的都是客运和货运的变革。
