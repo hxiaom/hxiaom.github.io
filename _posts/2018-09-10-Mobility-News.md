@@ -205,6 +205,9 @@ DAPPRA
 * [Udacity 自动驾驶网课](https://www.udacity.com/self-driving-car)
 * [MIT 6.S094: Deep Learning for Self-Driving Car](https://selfdrivingcars.mit.edu/)
 
+### 论文关键词
+
+* autonomous vehicles
 
 参考：
 1. [你想要的108家自动驾驶领域公司盘点](https://zhuanlan.zhihu.com/p/28908700)
