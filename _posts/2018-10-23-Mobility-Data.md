@@ -13,3 +13,5 @@ The data set related to Mobility.
 自动驾驶图片/视频数据集
 
 ![](/img/autonomous_vehicle_dataset.png)
+
+网上关于自动驾驶的言论

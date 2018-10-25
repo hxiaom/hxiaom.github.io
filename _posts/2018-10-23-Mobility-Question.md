@@ -4,6 +4,21 @@ title: Mobility Research Questions
 categories: Mobility
 ---
 
+商学院喜欢的问题：
+- 公平
+- 利润最大化
+
+
+媒体关注的问题：
+
+road safety, 
+privacy, 
+traffic flow, 
+energy and environmental impacts, 
+land use, 
+economics of the vehicle industry, 
+cybersecurity
+
 目前的研究：
 
 - WTP (Willing to Pay)
