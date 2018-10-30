@@ -14,7 +14,7 @@ categories: Mobility
 - management science (MS)
 
 Geo-related
-## Keywords
+### Keywords
 
 - vehicle
 - automobile
@@ -63,6 +63,15 @@ Geo-related
 - Transportation Research Part E: Logistics and Transportation
 - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
 - Transportation Policy
+
+### Papers
+
+- Fagnant D J, Kockelman K. Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations[J]. Transportation Research Part A: Policy and Practice, 2015, 77: 167-181.
+- Yang W H, Wong R C P, Szeto W Y. Modeling the acceptance of taxi owners and drivers to operate premium electric taxis: Policy insights into improving taxi service quality and reducing air pollution[J]. Transportation Research Part A: Policy and Practice, 2018, 118: 581-593.
+- Atiyeh Vaezipour, Andry Rakotonirainy, Narelle Haworth, Patricia Delhomme, A simulator evaluation of in-vehicle human machine interfaces for eco-safe driving [J]. Transportation Research Part A: Policy and Practice, 2018.
+- Zhu J, Fan Y. Daily travel behavior and emotional well-being: Effects of trip mode, duration, purpose, and companionship[J]. Transportation Research Part A: Policy and Practice, 2018, 118: 360-373.
+- Greene D, Hossain A, Hofmann J, et al. Consumer willingness to pay for vehicle attributes: What do we Know?[J]. Transportation Research Part A: Policy and Practice, 2018, 118: 258-279.
+- Ma L, Zhang X, Ding X, et al. Bike sharing and users’ subjective well-being: An empirical study in China[J]. Transportation Research Part A: Policy and Practice, 2018, 118: 14-24.
 
 
 ## Researchers
