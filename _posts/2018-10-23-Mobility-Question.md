@@ -35,7 +35,7 @@ categories: Mobility
     - 中立
     - 隐私
     - 环保
-    - 公共福利
+    - 公共福利 social benefits
 
 ## 数据支持
 
