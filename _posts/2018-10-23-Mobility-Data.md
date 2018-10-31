@@ -307,6 +307,16 @@ Traffic Lights Recognition (TLR) 是一个交通信号灯识别的视频数据�
 
 http://www.lara.prd.fr/benchmarks/trafficlightsrecognition
 
+## 3. Point of Interest (POI) Data
+
+## 4. Social Media with Geo-Tag
+
+### 4.1 Weibo
+
+## 5. House Price
+
+## 6. Environment
+
 ## 数据总结及问题
 
 - 目前的数据多是问卷数据。
