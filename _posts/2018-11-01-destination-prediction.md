@@ -4,6 +4,8 @@ title: 【Research】Destination Prediction / Recommendation
 categories: Mobility
 ---
 
+从自动驾驶切入去讲
+
 ## Claim the field
 
 Why is this problem important?
@@ -37,6 +39,10 @@ POI
 geo-based social network
 
 event-driving
+
+传统机器学习模型，重新训练不容易，对异常值（如节日）不敏感。造成调度问题。
+
+知识图谱
 
 ## Propose method
 
