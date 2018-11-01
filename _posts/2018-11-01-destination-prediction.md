@@ -20,6 +20,12 @@ relocation problem， many new users
 
 predicting demand
 
+现在还依赖司机自身的判断，而未来是没有司机的， 就全局优化
+
+event-driving: movie ... yanchanghui, xiabanshijian
+
+出租车司机比你更清楚你几点下班。 -> 小黄车 OFO relocation problem
+
 ## Identify the problem
 
 previous studies
@@ -30,12 +36,17 @@ POI
 
 geo-based social network
 
+event-driving
+
 ## Propose method
 
 ## advantages
 
 
 ## Contribution
+
+propose a even-representation framework
+
 
 
 
