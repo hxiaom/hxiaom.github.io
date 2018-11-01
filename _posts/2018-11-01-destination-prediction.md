@@ -18,6 +18,8 @@ mobile advertisement
 
 relocation problem， many new users
 
+predicting demand
+
 ## Identify the problem
 
 previous studies
@@ -31,6 +33,11 @@ geo-based social network
 ## Propose method
 
 ## advantages
+
+
+## Contribution
+
+
 
 ## Reference
 
