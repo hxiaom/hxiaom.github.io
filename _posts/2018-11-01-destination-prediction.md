@@ -4,6 +4,9 @@ title: 【Research】Destination Prediction / Recommendation
 categories: Mobility
 ---
 
+Event-driven share autonomous vehicle dispatching based on knowledge graph
+
+Predicting taxi demand in autonomous vehicle ages
 从自动驾驶切入去讲
 
 ## Claim the field
@@ -48,14 +51,10 @@ event-driving
 
 ## advantages
 
-
 ## Contribution
 
 propose a even-representation framework
-
-
-
-
+  
 ## Reference
 
 - [A Taxi Order Dispatch Model based On Combinatorial Optimization](http://hxiaom.github.io/mobility/2018/10/31/paper7.html)
@@ -66,3 +65,7 @@ AdNext: A visit-pattern-aware mobile advertising system for urban commercial com
 Artificial neural networks applied to taxi destination prediction.
 
 Next place prediction using mobility Markov chains
+
+SHARED-VEHICLE MOBILITY-ON-DEMAND SYSTEMS: A FLEET OPERATOR’S GUIDE TO REBALANCING EMPTY VEHICLES
+
+
