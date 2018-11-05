@@ -9,6 +9,8 @@ Event-driven share autonomous vehicle dispatching based on knowledge graph
 Predicting taxi demand in autonomous vehicle ages
 从自动驾驶切入去讲
 
+关键在于特殊日期的预测（节日，演唱会）
+
 ## Claim the field
 
 Why is this problem important?
