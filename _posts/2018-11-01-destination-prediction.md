@@ -9,7 +9,7 @@ Event-driven share autonomous vehicle dispatching based on knowledge graph
 Predicting taxi demand in autonomous vehicle ages
 从自动驾驶切入去讲
 
-关键在于特殊日期的预测（节日，演唱会）
+关键在于特殊日期的预测（节日，演唱会）,基于其他网站的补充信息。是不是曾经有人通过他来预测堵车呢？
 
 ## Claim the field
 
