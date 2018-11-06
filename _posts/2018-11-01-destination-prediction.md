@@ -56,7 +56,13 @@ event-driving
 ## Contribution
 
 propose a even-representation framework
-  
+
+## Review
+
+tegrated moving average (ARIMA)
+
+图像方法
+
 ## Reference
 
 - [A Taxi Order Dispatch Model based On Combinatorial Optimization](http://hxiaom.github.io/mobility/2018/10/31/paper7.html)
