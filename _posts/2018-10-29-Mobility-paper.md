@@ -81,3 +81,4 @@ Geo-related
 - Jieping Ye: Didi
 - Sebastian
 - Emilio Frazzoli, CTO, nuTonomy
+- 吴甘沙
