@@ -80,3 +80,4 @@ Geo-related
 - Ahmed El-Geneidy, Dea van Lierop, & Rania Wasfi 
 - Jieping Ye: Didi
 - Sebastian
+- Emilio Frazzoli, CTO, nuTonomy

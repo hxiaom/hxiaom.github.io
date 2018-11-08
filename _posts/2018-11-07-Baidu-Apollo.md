@@ -18,6 +18,8 @@ http://apollo.auto/devcenter/coursevideo_cn.html?target=1_9
 
 ### 5. 无人驾驶车的运作方式
 
+![](/img/2018-11-07-Baidu-Apollo-1.png)
+
 ### 6. Apollo 团队与架构
 
 ### 7. 参考车辆与硬件平台
