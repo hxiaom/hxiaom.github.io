@@ -4,6 +4,8 @@ title: 【Talk】无人驾驶就是你对美好生活的向往 吴甘沙
 categories: Mobility
 ---
 
+https://www.bilibili.com/video/av34089401?from=search&seid=3541340966621481224
+
 ![](/img/2018-11-11-Gansha-Wu-Talk-1.png)
 
 ![](/img/2018-11-11-Gansha-Wu-Talk-2.png)

@@ -4,6 +4,8 @@ title: 【Talk】数据与城市正义 茅明睿
 categories: Mobility
 ---
 
+https://yixi.tv/speech/145
+
 ![](/img/2018-11-11-Mingrui-Mao-Talk-1.png)
 
 ![](/img/2018-11-11-Mingrui-Mao-Talk-2.png)
