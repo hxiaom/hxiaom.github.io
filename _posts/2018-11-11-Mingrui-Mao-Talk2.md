@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Talk】智能出行——从技术试验到社会试验 茅明睿
+title: 【Talk】智能出行—从技术试验到社会试验 茅明睿
 categories: Mobility
 ---
 
