@@ -83,3 +83,5 @@ Geo-related
 - Emilio Frazzoli, CTO, nuTonomy
 - 吴甘沙
 - Tony Seba
+- J. Christian Gerdes
+- Sacha Arnoud
