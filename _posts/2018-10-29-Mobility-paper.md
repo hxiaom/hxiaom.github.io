@@ -86,3 +86,4 @@ Geo-related
 - J. Christian Gerdes
 - Sacha Arnoud
 - Sertac Karaman
+- Lex Fridman
