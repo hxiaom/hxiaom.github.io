@@ -196,7 +196,15 @@ categories: Mobility
 * [北京城市实验室BCL](https://www.beijingcitylab.com/)
 
 ### 人
-* 
+- Jieping Ye (叶杰平): VP of Didi research; Professor at Arizona State University
+- Sebastian Thrun: Professor of Computer Science at Stanford University; he founded Google X and Google's self-driving car team
+- Emilio Frazzoli: Professor at MIT; CTO of nuTonomy
+- Gansha Wu (吴甘沙): CEO of Uisee
+- Tony Seba: Author of "Clean Disruption of Energy and Transportation"
+- J. Christian Gerdes: Professor of Mechanical Engineering at Stanford University, Director of the Center for Automotive Research at Stanford (CARS) 
+- Sacha Arnoud: Director of Engineering of Waymo
+- Sertac Karaman: Associate Professor at MIT
+- Lex Fridman: Research Scientist at MIT; Instructor of MIT Self-driving course;
 
 ### 比赛
 DAPPRA
