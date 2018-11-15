@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Book】地理信息分析
-categories: Mobility
+categories: Analytics
 ---
 
 本文为《地理信息分析》 David O'Sullivan, Dave Unwin 的读书笔记
