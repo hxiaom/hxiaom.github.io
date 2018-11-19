@@ -89,3 +89,5 @@ Geo-related
 - Sacha Arnoud: Director of Engineering of Waymo
 - Sertac Karaman: Associate Professor at MIT
 - Lex Fridman: Research Scientist at MIT; Instructor of MIT Self-driving course;
+- Debbie Hopkins: Research Lecturer, University of Oxford
+
