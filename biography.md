@@ -7,10 +7,9 @@ permalink: /biography/
 I am a PhD candidate in City University of Hong Kong with the following interests:
 
 - Mobility
-    - Autonomous Vehicles
-    - Human Mobility
-- Scientific research management
-    - Scientometric 
+    - Human Mobility; Autonomous Vehicles; Urban Computing; Smart City; Mobile Commerce
+- Data Analytics
+    - Machine Learning; Economics; Data Management; 
 
 
 ### Education
