@@ -4,12 +4,17 @@ title: Biography
 permalink: /biography/
 ---
 
-HUANG Xiaoming
-============
+I am a PhD candidate in City University of Hong Kong with the following interests:
+
+- Mobility
+    - Autonomous Vehicles
+    - Human Mobility
+- Scientific research management
+    - Scientometric 
 
 
-Education
----------
+### Education
+
 
 - City University of Hong Kong, Hong Kong
 :   PhD in Information Systems, Aug. 2017 ~ Present, advised by Prof. Jian MA
@@ -21,9 +26,9 @@ Education
 - Sun Yat-sen University, Guangzhou, China
 :   B.S. in Software Engineering; Jul. 2015
 
-Publications
-----------
+### Publications
 
-Conference Papers:
 
-- facilitating technology transfer by patent knowledge graph
+**Conference Papers:**
+
+- Deng W, Huang X, Zhu P. Facilitating technology transfer by patent knowledge graph[C]//Proceedings of the 52th the Hawaii International Conference on System Sciences (HICSS). 2019.
