@@ -19,3 +19,7 @@ comments: true
 5. pagination <font color="red">DONE</font> 参考 https://github.com/jekyll/minima/pull/150
 6. [增加评论区](https://github.com/jekyll/minima) <font color="red">DONE</font>
 7. 被墙了？
+8. 建立网站搜索
+    https://github.com/jekylltools/jekyll-tipue-search
+    搜索框板式自适应
+    搜索长度限制
