@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Book】决战大数据
-categories: Mobility
+categories: Analytics
 ---
 
 本文为《决战大数据》车品觉 的读书笔记。
