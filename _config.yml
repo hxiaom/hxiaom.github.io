@@ -10,6 +10,7 @@ header_pages:
   - about.md
   - category.md
   - biography.md
+  - search.md
 
 # social links
 github_username: hxiaom
@@ -27,3 +28,9 @@ paginate_path: posts/page:num/
 # Comments
 disqus:
   shortname: hxiaom
+
+# Search
+tipue_search:
+  include:
+    pages: true
+  
