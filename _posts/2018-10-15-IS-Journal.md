@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Target Journal
-categories: IntellectualPropertyProtection
+categories: Mobility
 ---
 
 UTD Journals:
