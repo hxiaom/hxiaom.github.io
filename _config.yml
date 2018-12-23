@@ -33,4 +33,6 @@ disqus:
 tipue_search:
   include:
     pages: true
+  exclude:
+    files: [search.md, category.md, index.html]
   
