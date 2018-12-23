@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【商业的本质】
+title: 【Book】商业的本质
 categories: Management
 ---
 
