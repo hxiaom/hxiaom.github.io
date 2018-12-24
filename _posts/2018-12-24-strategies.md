@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Book】略胜一筹 - 中国企业持续发展的出路
-categories: Managment
+categories: Management
 ---
 
 本文为《略胜一筹：中国企业持续发展的出路》曾鸣 的读书笔记。
