@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 情商：新发现
+title: 【Book】情商：新发现
 categories: Management Mind
 ---
 
