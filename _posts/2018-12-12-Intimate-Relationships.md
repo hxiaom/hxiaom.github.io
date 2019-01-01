@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Book】亲密关系
-categories: Management
+categories: Management Mind
 ---
 
 本文为《亲密关系》的读书笔记
