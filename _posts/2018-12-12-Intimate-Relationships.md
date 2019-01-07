@@ -6,6 +6,9 @@ categories: Management Mind
 
 本文为《亲密关系》的读书笔记
 
+* TOC
+{:toc}
+
 # 第一部分 亲密关系研究导论
 
 ## 第一章 关系的要素
