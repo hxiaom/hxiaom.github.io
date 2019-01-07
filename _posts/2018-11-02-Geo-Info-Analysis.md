@@ -6,6 +6,9 @@ categories: Analytics
 
 本文为《地理信息分析》 David O'Sullivan, Dave Unwin 的读书笔记
 
+* TOC
+{:toc}
+
 ## 第二版序言
 
 本书基本框架依托于在地理信息科学中具有悠久历史的两个关键思想——制图学思想和统计学思想。
