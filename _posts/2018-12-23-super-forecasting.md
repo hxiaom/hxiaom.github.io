@@ -361,7 +361,7 @@ Any sufficiently advanced technology is indistinguishable from magic. —— Cla
 
 多样性 & 能力
 
-### 第十章 领导者的两难抉择：如何成为超级领导者
+## 第十章 领导者的两难抉择：如何成为超级领导者
           
 领导者：自信、决断力、描绘蓝图；但是这三个品质可能与超级预测者的品质有所偏差。
      
