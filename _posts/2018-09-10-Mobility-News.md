@@ -190,6 +190,7 @@ categories: Mobility
 * [Techcrunch Transportation](https://techcrunch.com/transportation/)
 * [Forbes Transportation](https://www.forbes.com/transportation/)
 * Google News - self-driving
+* [PAVE Campaign](https://pavecampaign.org)
 
 ### 城市规划
 * [Sidewalk Labs](https://sidewalklabs.com/)
@@ -206,6 +207,19 @@ categories: Mobility
 - Sertac Karaman: Associate Professor at MIT
 - Lex Fridman: Research Scientist at MIT; Instructor of MIT Self-driving course;
 - John Krafcik: Waymo CEO
+- Brad Stertz: Director of Government Affairs, Audi
+- Danny Shapiro: Senior Director of Automotive, NVIDIA
+- Chris Urmson: CEO & Co-Founder, Aurora
+- Robbie Diamond: CEO & President, SAFE
+- Oliver Cameron: Co-Founder & CEO, Voyage
+- Kelly Nantel, Vice President, Communications & Advocacy, National Safety Council
+- Mark Rosekind: Chief Safety Innovation Officer, ZOOX
+- Avery Ash: Head of Autonomous Mobility, INRIX
+- Carlos A. Gimenez: Mayor, Miami-Dade County
+- Robert Grant: Vice President, Global Government Relations, Cruise Automation
+- Deborah Hersman: CEO, National Safety Council
+- Alice N. Bravo, P.E.: Director, Transportation & Public Works Dept. Miami-Dade County
+- David Schutt: CEO, SAE International
 
 ### 比赛
 DAPPRA
