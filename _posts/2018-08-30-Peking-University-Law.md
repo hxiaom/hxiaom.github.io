@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京大学法理学公开课"
+title: 【Class】北京大学法理学公开课
 categories: Management
 ---
 [法理学视频](https://www.bilibili.com/video/av5735619/)

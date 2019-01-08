@@ -7,7 +7,7 @@ categories: Analytics
 * TOC
 {:toc}
 
-## 数据分析思维
+## 0. 数据分析思维
 
 [【Book】禅与摩托车维修艺术](http://hxiaom.github.io/analytics/2018/12/23/zen.html)
 
@@ -27,15 +27,15 @@ categories: Analytics
 
 [【Book】How to measure anything?](http://hxiaom.github.io/analytics/2018/09/16/How-to-measure.html)
 
-## 数据管理
+## 1. 数据管理
 
-### 数据获取
+### 1.1. 数据获取
 
 [Programming Skill](http://hxiaom.github.io/analytics/2018/12/23/programming-skill.html)
 
-### 数据存储
+### 1.2. 数据存储
 
-### 数据管理
+### 1.3. 数据管理
 
 [DAMA数据管理知识体系指南](http://hxiaom.github.io/analytics/2019/01/02/DAMA.html)
 
@@ -43,9 +43,9 @@ categories: Analytics
 
 [大数据与人工智能的伦理挑战](http://hxiaom.github.io/analytics/2018/09/18/big-data-ethics.html)
 
-## 数据分析
+## 2. 数据分析
 
-### 计量经济学
+### 2.1. 计量经济学
 
 [Tidy Data](http://hxiaom.github.io/analytics/2019/01/01/tidy-data.html)
 
@@ -53,7 +53,7 @@ categories: Analytics
 
 [EF5470 Econometrics Part II](http://hxiaom.github.io/analytics/2018/10/01/EF5470-2.html)
 
-### 机器学习
+### 2.2. 机器学习
 
 [Batch Size in Deep Learning](http://hxiaom.github.io/analytics/2018/12/26/batch-size.html)
 
@@ -67,38 +67,38 @@ categories: Analytics
 
 [CS5487 Machine Learning (2)](http://hxiaom.github.io/analytics/2018/09/20/CS5418-2.html)
 
-### 知识图谱
+### 2.3. 知识图谱
 
 [Knowledge Graph Embedding - A Survey of Approaches and Applications](http://hxiaom.github.io/analytics/2019/01/02/paper1.html)
 
 [Knowledge Graph Embedding](http://hxiaom.github.io/analytics/2018/12/29/Knowledge-graph-embedding.html)
 
-## 数据可视化
+## 3. 数据可视化
 
 [D3.js](http://hxiaom.github.io/analytics/2018/10/16/D3JS.html)
 
 [【Book】Storytelling with Data](http://hxiaom.github.io/analytics/2018/09/26/Storytelling-with-data.html)
 
-## 特定类型数据分析
+## 4. 特定类型数据分析
 
-### 时间序列分析
+### 4.1. 时间序列分析
 
 [Time Series Data Analyze](http://hxiaom.github.io/analytics/2018/11/19/time-series-data.html)
 
-### 地理信息分析
+### 4.2. 地理信息分析
 
 [【Book】地理信息分析](http://hxiaom.github.io/analytics/2018/11/02/Geo-Info-Analysis.html)
 
-### 社交网络分析
+### 4.3. 社交网络分析
 
 [Social Network Analysis](http://hxiaom.github.io/analytics/2018/09/27/social-network-analysis.html)
 
-### 自然语言处理
+### 4.4. 自然语言处理
 
 [Named Entity Recognizer Using CRF](http://hxiaom.github.io/analytics/2019/01/08/NER.html)
 
 [Natural Language Porcessing With NLTK](http://hxiaom.github.io/analytics/2018/09/18/NLP.html)
 
-### 企业分析
+### 4.5. 企业分析
 
 [企业分析方法论](http://hxiaom.github.io/analytics/2018/08/31/company-analysis.html)
