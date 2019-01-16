@@ -220,6 +220,7 @@ categories: Mobility
 - Deborah Hersman: CEO, National Safety Council
 - Alice N. Bravo, P.E.: Director, Transportation & Public Works Dept. Miami-Dade County
 - David Schutt: CEO, SAE International
+- PHAN Tuan Quang: Assistant Professor at NUS in the Department of Information Systems and Analytics
 
 ### 比赛
 DAPPRA
