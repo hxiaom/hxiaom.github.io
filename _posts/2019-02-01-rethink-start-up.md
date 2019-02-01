@@ -4,6 +4,8 @@ title: 【Book】重新理解创业
 categories: Management
 ---
 
+* TOC
+{:toc}
 
 ## 第一章 重新理解战略
 
