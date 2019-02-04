@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2018书单
+title: hxiaom's 2018 书单
 categories: Mind
 ---
 
-仿照我的偶像Arber整理一份2018年的书单，
+仿照我的偶像[Arber](https://weibo.com/ttarticle/p/show?id=2309404335912082372572#_0)整理一份2018年的书单，虽然发现很多书读完都已经忘记内容，希望以后能够在每本书中总结吸收一些，化为自身所有。今年所读大多是工具书，希望以后更多读三类书一是拓宽视野理解世界类，二是实用类，三是丰富感知类。
 
 1. [《数据的本质》车品觉](https://book.douban.com/subject/27148631/) 
 
@@ -79,4 +79,28 @@ categories: Mind
     怎样解决数学问题和怎样解决生活中的问题是相似的。
 
 20. [《智能化未来》泉田良辅](http://localhost:4000/mobility/2018/09/19/intellegence-future.html)
+
+21. [《复杂》梅拉妮·米歇尔](https://book.douban.com/subject/6749832/)
+
+    不是所有复杂都能简化，作者试图探寻复杂中的规律。
+
+22. [《千面英雄》约瑟夫·坎贝尔](https://book.douban.com/subject/7174792/)
+
+    每个人的一生都是一个英雄事迹。
+
+23. [《滴滴：分享经济改变中国》](https://book.douban.com/subject/26800138/)
+
+    一个新出行的诞生
+
+24. [《大投机家的证券心理学》安德烈·科斯托拉尼](https://book.douban.com/subject/2160066/)
+
+    投资家是真正试图理解世界如何运行，并利用其中规律的人。
+
+25. [《情商：新发现》丹尼尔·戈尔曼](https://book.douban.com/subject/30181147/)
+
+    这本书比该系列第一本差很多。
+
+26. [《重新理解创业》周航](https://book.douban.com/subject/30365007/)
+
+    干活，周航在易到失败之后的复盘之作。
 
