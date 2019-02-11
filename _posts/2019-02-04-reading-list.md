@@ -100,7 +100,3 @@ categories: Mind
 
     这本书比该系列第一本差很多。
 
-26. [《重新理解创业》周航](https://book.douban.com/subject/30365007/)
-
-    干活，周航在易到失败之后的复盘之作。
-
