@@ -50,3 +50,4 @@ categories: Mobility
 
 - **School of Intelligent Systems Engineering, Sun Yat-sen University(中山大学智能工程学院)** [[Homepage](http://ise.sysu.edu.cn/)] : 智能交通; 智慧医疗; 先进制造.
 
+- **Intelligent Transportation Systems (ITS) Laboratory, HKUST** [[Homepage](https://sites.google.com/view/hkustits/home)] : 交通行为、交通均衡分析，网络设计与优化; 交通需求管理（拥堵收费，可交易电子路票系统等）; 智慧城市交通系统（交通控制，电动车管理，网约车出行，共享出行等）; 公共交通系统（经济分析，建模，规划和运营，高峰出行需求管理等）
