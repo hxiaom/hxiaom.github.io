@@ -18,6 +18,8 @@ categories: Mobility
 
 - **Sertac Karaman** [[Homepage](http://karaman.mit.edu/)] : Associate Professor at MIT; Robotics; Control theory
 
+- **Yu Guizhen(余贵珍)** : 踏歌智行创始人；北京航空航天大学教授；车辆智能感知与控制
+
 ### 1.2 Business Field
 
 - **YANG Hai(杨海)** [[Homepage](http://cehyang.people.ust.hk/)] : Editor-in-Chief of Transportation Research Part B: Methodological from 2013 to 2018; Professor at HKUST; Smart Mobility (Ride-sharing, Ride-sourcing, Taxi Industry); Traffic and Transport Dynamics; Road Pricing and Tradable Travel Credit Schemes; Public Transportation; Transportation Economics; Transportation Network Modeling and Optimization
