@@ -23,3 +23,4 @@ comments: true
     https://github.com/jekylltools/jekyll-tipue-search
     搜索框板式自适应
     搜索长度限制：中文两个字无法搜索，如“管理”
+9. Display math formula http://g14n.info/2014/09/math-on-github-pages/
