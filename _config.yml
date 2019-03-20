@@ -36,3 +36,5 @@ tipue_search:
   exclude:
     files: [search.md, category.md, index.html]
   
+# Formula
+mathjax: true
