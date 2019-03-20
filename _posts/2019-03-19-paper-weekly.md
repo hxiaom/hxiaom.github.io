@@ -23,3 +23,21 @@ categories: Mobility
     Works: the current decision-making processes in transportation projects do not always explicitly take into account sustainable transportation requirements and often ignore concerns that may arise in other fields such as environmental protection, health, or urban design. The proposed framework in this paper aims at integrating sustainability in a decision-making process by creating better collaboration and communication between professionals of such disparate fields.
 
     Comments: 城市规划的决策支持系统。
+
+4. [Markou I, Kaiser K, Pereira F C. Predicting taxi demand hotspots using automated Internet Search Queries[J]. Transportation Research Part C: Emerging Technologies, 2019, 102: 73-86.](https://www.sciencedirect.com/science/article/pii/S0968090X18311999)
+
+    Works: Event (by Internet search queries) to predict demand
+
+    Comments: 和我想做的事情挺像的。
+
+5. [Iskander, Julie, Mohammed Attia, Khaled Saleh, Darius Nahavandi, Ahmed Abobakr, Shady Mohamed, Houshyar Asadi, Abbas Khosravi, Chee Peng Lim, and Mohammed Hossny. “From Car Sickness to Autonomous Car Sickness: A Review.” Transportation Research Part F: Traffic Psychology and Behaviour 62 (2019): 716–26. doi:https://doi.org/10.1016/j.trf.2019.02.020.](https://www.sciencedirect.com/science/article/pii/S1369847818308581?via%3Dihub)
+
+    Findings: A customisable solution is the only viable solution to mitigate motion sickness.
+
+    Comments: 标题就很有意思。
+
+6. [Useche S A, Montoro L, Sanmartin J, et al. Healthy but risky: A descriptive study on cyclists’ encouraging and discouraging factors for using bicycles, habits and safety outcomes[J]. Transportation Research Part F: Traffic Psychology and Behaviour, 2019, 62: 587-598.](https://www.sciencedirect.com/science/article/pii/S1369847818306934)
+
+    Findings: This study addressed encouraging and discouraging factors influencing cyclists’ decision to use the bike. Physical health, environmental sustainability and economy were the main factors encouraging cycling. Perceived crash risk, adverse weather conditions and lack of safety were found to be the most relevant discouraging factors.
+
+    Comments: 该不该骑自行车。
