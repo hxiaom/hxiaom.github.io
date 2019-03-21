@@ -34,10 +34,30 @@ categories: Mobility
 
     Findings: A customisable solution is the only viable solution to mitigate motion sickness.
 
-    Comments: 标题就很有意思。
+    Comments: 标题就很有意思。晕车是个大问题。
 
 6. [Useche S A, Montoro L, Sanmartin J, et al. Healthy but risky: A descriptive study on cyclists’ encouraging and discouraging factors for using bicycles, habits and safety outcomes[J]. Transportation Research Part F: Traffic Psychology and Behaviour, 2019, 62: 587-598.](https://www.sciencedirect.com/science/article/pii/S1369847818306934)
 
     Findings: This study addressed encouraging and discouraging factors influencing cyclists’ decision to use the bike. Physical health, environmental sustainability and economy were the main factors encouraging cycling. Perceived crash risk, adverse weather conditions and lack of safety were found to be the most relevant discouraging factors.
 
     Comments: 该不该骑自行车。
+
+7. [Tseng C M, Chau S C K, Liu X. Improving viability of electric taxis by taxi service strategy optimization: A big data study of new york city[J]. IEEE Transactions on Intelligent Transportation Systems, 2018 (99): 1-13.](https://ieeexplore.ieee.org/document/8393462/authors#authors)
+
+    Findings: The profitability of electric taxi drivers is studied empirically under various battery capacity and charging conditions.
+
+    Comments: 电动车情形下的出租车运营。
+
+8. [Sovacool B K, Abrahamse W, Zhang L, et al. Pleasure or profit? Surveying the purchasing intentions of potential electric vehicle adopters in China[J]. Transportation Research Part A Policy and Practice, 2019.](https://www.sciencedirect.com/science/article/pii/S0965856418305366#!)
+
+    Findings: Social motivations are positively related to intentions to adopt electric vehicles. However, public charging infrastructure is unrelated to intentions to adopt. Policy interventions need targeted at different consumer groups if the aim is to further achieve mass adoption.
+
+    Comments: 中国人买电动车考虑啥？
+
+9. [Malokin A, Circella G, Mokhtarian P L. How do activities conducted while commuting influence mode choice? Testing public transportation advantage and autonomous vehicle scenarios[R]. 2015.](https://www.sciencedirect.com/science/article/pii/S0965856416306772)
+
+    Findings: The results empirically demonstrate the potential of a multitasking propensity to reduce the disutility of travel time. 
+
+    Comments:车上到底能不能干活？
+
+
