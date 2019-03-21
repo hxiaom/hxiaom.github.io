@@ -60,4 +60,14 @@ categories: Mobility
 
     Comments:车上到底能不能干活？
 
+10. [Yu W. Discovering Frequent Movement Paths From Taxi Trajectory Data Using Spatially Embedded Networks and Association Rules[J]. IEEE Transactions on Intelligent Transportation Systems, 2018 (99): 1-12.](https://ieeexplore.ieee.org/document/8363003)
 
+    Findings: This paper aims at mining spatial–temporal movement patterns from massive taxi trajectory data for discovering the inherent travel flow information within the urban system. 
+
+11. [De Vos J. Satisfaction-induced travel behaviour[J]. Transportation Research Part F: Traffic Psychology and Behaviour, 2019, 63: 12-21.](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Satisfaction-induced+travel+behaviour&btnG=)
+
+    Findings: The effect of travel mode on travel satisfaction seems partly mediated by attitudes. Travel satisfaction might affect mode choice and attitudes more than vice versa. A model reshaping links between mode choice, attitudes and satisfaction is proposed.
+
+12. [Pérez-Marín A M, Ayuso M, Guillen M. Do young insured drivers slow down after suffering an accident?[J]. Transportation Research Part F: Traffic Psychology and Behaviour, 2019, 62: 690-699.](https://www.sciencedirect.com/science/article/abs/pii/S1369847818306053)
+
+    Findings: Being involved in an accident significantly reduces a driver’s propensity to speed. However young drivers continue to commit speed violations, albeit to a lesser degree. This outcome is more accentuated among young male drivers. A greater reduction in speeding by drivers that suffer severe bodily injuries is observed.
