@@ -26,3 +26,8 @@ categories: Mobility
 
 6. [Spatial Decision Support Systems: Three decades on](https://www.sciencedirect.com/science/article/pii/S0167923618301672)
 
+7. [Torre-Bastida A I, Del Ser J, Laña I, et al. Big Data for transportation and mobility: recent advances, trends and challenges[J]. IET Intelligent Transport Systems, 2018, 12(8): 742-755.](https://ieeexplore.ieee.org/document/8461278)
+
+8. [Zhao Z, Chen W, Wu X, et al. LSTM network: a deep learning approach for short-term traffic forecast[J]. IET Intelligent Transport Systems, 2017, 11(2): 68-75.](https://ieeexplore.ieee.org/document/7874313/authors#authors)
+
+9. [Nguyen H, Kieu L M, Wen T, et al. Deep learning methods in transportation domain: a review[J]. IET Intelligent Transport Systems, 2018, 12(9): 998-1004.](https://ieeexplore.ieee.org/document/8490353/authors#authors)
