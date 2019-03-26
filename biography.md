@@ -8,6 +8,8 @@ I am a PhD candidate in City University of Hong Kong with the following interest
 
 - Mobility
     - Human Mobility; Autonomous Vehicles; Urban Computing; Smart City; Mobile Commerce
+- Science of Science
+    - Scientometrics
 - Data Analytics
     - Machine Learning; Economics; Data Management; 
 
