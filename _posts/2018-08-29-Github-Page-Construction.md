@@ -24,3 +24,4 @@ comments: true
     搜索框板式自适应
     搜索长度限制：中文两个字无法搜索，如“管理”
 9. Display math formula http://g14n.info/2014/09/math-on-github-pages/  http://sgeos.github.io/github/jekyll/2016/08/21/adding_mathjax_to_a_jekyll_github_pages_blog.html https://blog.csdn.net/lihaoweicsdn/article/details/83895143
+    http://docs.mathjax.org/en/latest/tex.html#supported-latex-commands
