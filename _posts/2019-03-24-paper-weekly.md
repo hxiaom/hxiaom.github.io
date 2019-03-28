@@ -42,4 +42,14 @@ categories: Mobility
 
 12. [Schwanen T, Lucas K, Akyelken N, et al. Rethinking the links between social exclusion and transport disadvantage through the lens of social capital[J]. Transportation Research Part A: Policy and Practice, 2015, 74: 123-135.](https://www.scopus.com/record/display.uri?eid=2-s2.0-84924268125&origin=inward&txGid=99c250c328c17fc32bf5f2b4620edcbe)
 
-    
+13. [Pick J B, Turetken O, Deokar A, et al. Location Analytics and Decision Support: Reflections on Recent Avancementa, a Research Framework and the Path Ahead[J]. Decision Support Systems, 2017, 99.](https://www.sciencedirect.com/science/article/pii/S016792361730101X)
+
+14. [Deodhar S J, Subramani M, Zaheer A. Geography of online network ties: A predictive modelling approach[J]. Decision Support Systems, 2017, 99: 9-17.](https://www.sciencedirect.com/science/article/pii/S016792361730088X)
+
+    > Distance is relevant even in online contexts that do not conform to the two-sided market structure. Compared to psychic distances, geographic distance is the strongest predictor of network ties. The predictive power of geographic distance is substitutable by other distance measures.
+
+15. [Lozano M G, Schreiber J, Brynielsson J. Tracking geographical locations using a geo-aware topic model for analyzing social media data[J]. Decision Support Systems, 2017, 99: 18-29.](https://www.sciencedirect.com/science/article/pii/S0167923617300842)
+
+    > Online discussions can be tracked geographically over time. A distributed geo-aware streaming LDA (SLDA) model has been developed. Evaluation was performed during the 2016 American presidential primary elections.
+
+
