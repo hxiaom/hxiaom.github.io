@@ -52,4 +52,12 @@ categories: Mobility
 
     > Online discussions can be tracked geographically over time. A distributed geo-aware streaming LDA (SLDA) model has been developed. Evaluation was performed during the 2016 American presidential primary elections.
 
+16. [Guo J, Zhang W, Fan W, et al. Combining Geographical and Social Influences with Deep Learning for Personalized Point-of-Interest Recommendation[J]. Journal of Management Information Systems, 2018, 35(4): 1121-1153.](https://www.jmis-web.org/articles/1410)
 
+    > Deep learning is a representation-learning method with multiple levels for discovering intrinsic features to better represent user preferences. We analyzed users’ check-in behavior in detail and developed a deep learning model to integrate geographical and social influences for POI recommendation tasks. We used a semi-restricted Boltzmann machine to model the geographical similarity and a conditional layer to model the social influence. Experiments with real-world LBSNs showed that our method performed better than other state-of-the-art methods. Theoretically, our study contributes to the effective usage of data science and analytics for social recommender system design. In practice, our results can be used to improve the quality of personalized POI recommendation services for websites and applications.
+    
+17. [Advanced turbidity prediction for operational water supply planning](https://www.sciencedirect.com/science/article/pii/S0167923619300375)
+
+    > We develop a system for predicting turbidity peaking events at a water company by using operational, meteorological and hydrogeological factors. We explore correlations and variable significance and confirm, in most instances, that there is non-linearity in the data. We conclude that machine learning techniques can be used to successfully predict turbidity peaking events with AUC values over 0.80 at five of six sites.
+
+18. [Reggiani A, Nijkamp P, Lanzi D. Transport resilience and vulnerability: the role of connectivity[J]. Transportation research part A: policy and practice, 2015, 81: 4-15.](https://www.scopus.com/record/display.uri?eid=2-s2.0-84939566693&origin=inward&txGid=f5b27ae4f5bc4cabc31bd27ecb95d5f0)
