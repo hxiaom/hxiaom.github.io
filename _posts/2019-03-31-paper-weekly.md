@@ -15,3 +15,10 @@ categories: Mobility
 3. [Seizing the Commuting Moment: Contextual Targeting Based on Mobile Transportation Apps](https://pubsonline.informs.org/doi/10.1287/isre.2018.0792)
 
     > Despite the average daily commuting time of commuters increasing by the day, the way marketers can benefit from our commuting behaviors has not yet been examined. In collaboration with one of the largest global mobile telecom providers, this study investigates how contextual targeting with commuting impacts user redemptions of mobile coupons. The analysis is based on a rich field study in which 14,741 mobile coupons were sent to 9,928 public transit app users consisting of commuters and noncommuters. The key findings indicate that commuters are about 3× as likely to redeem their mobile coupon compared with noncommuters. However, a multiple-coupon distribution strategy is more effective in increasing redemption among noncommuters than commuters. Moreover, the redemption rate of commuters is higher for coupons with shorter expiration periods, whereas that of noncommuters is higher for coupons with longer expiration periods. On the basis of theories from psychology and physiology, we argue that stress, which is exacerbated by commuting, increases commuters’ coupon redemption rate. We provide empirical support for this argument and show that marketers can increase response rates by focusing on specific periods of the day when commuting stress is relatively high (e.g., rush hours). By carefully exploiting commuting, which is easily identifiable and occurs throughout the world, managers may improve their mobile marketing effectiveness.
+
+4. [The Digital Sin City: An Empirical Study of Craigslist’s Impact on Prostitution Trends](https://pubsonline.informs.org/doi/10.1287/isre.2018.0799)
+
+5. [Is the value of travel time savings increasing? Analysis throughout a financial crisis](https://www.sciencedirect.com/science/article/pii/S0965856418307079)
+
+6. [Exploring effects of environment density on heterogeneous populations’ level of service perceptions](https://www.sciencedirect.com/science/article/pii/S0965856418303677)
+
