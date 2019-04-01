@@ -29,3 +29,40 @@ categories: Mobility
 
     > 陈默：它的商业化首先会出现在美国，并且大概还需要3-5年。当它实现真正的商业化、成为生活刚需的时候，很多人并不会选择买无人车，而会更多地选择乘坐网约无人车。因为如果Uber、Lyft实现了无人化，那么它们就有了降价空间，打车变得更便宜。 
 
+4. [你的隐私正在“裸奔”：特斯拉被曝储存大量未加密个人数据](https://www.huxiu.com/article/291983.html)
+
+    > 据两名安全研究人员说，这是因为特斯拉汽车上的电脑保存了驾驶员自愿储存在汽车上的所有信息，以及汽车本身留下的大量其它信息，包括视频、位置和导航数据，这些数据可以准确解释导致事故的原因。
+
+    > 但研究人员的发现却强调了特斯拉是如何在隐私和网络安全方面自相矛盾的。一方面，特斯拉紧紧掌握着汽车生成的数据，并在法庭上与那些要求他们交出汽车数据的客户进行对峙。如果车主真的是处于法律、保险等原因需要这些汽车数据的话，他们必须购买价值995美元的数据线，并从特斯拉下载一套软件，才能通过特斯拉的“事件数据记录仪”获取有限的信息。
+
+5. [中国首份无人车路测报告：8 家公司 54 台车跑了 15 万公里](https://36kr.com/p/5190224)
+
+    > 在这份名为《北京市自动驾驶车辆道路测2018年度工作报告》的文件中，北京自动驾驶管理小组披露了8家公司过去一年在北京进行自动驾驶路测的情况——2018年，54辆自动驾驶汽车在北京的道路上测试了超过15万公里，中国的互联网巨头百度独占其中14万公里，余下7家企业每家在北京驻守1-2辆测试车，总共贡献了1.3万公里测试里程。
+
+    > 北京的自动驾驶路测并未统计路测过程中出现的人工干预次数，以及由此计算而来的MPD值（Miles Per Disengagement，自动驾驶汽车每次干预能够自主行驶的里程数），只是统计了每家企业的路测车队规模和路测里程，使得外部缺乏一个权威的指标去衡量各家企业的自动驾驶技术水平。
+
+    > 北京市交通委、经信局、公安交通管理局提出了下一阶段的三个重点工作: 1、完善智能网联汽车测试评价体系; 2、逐步扩大自动驾驶测试区域和测试道路范围; 3、研究推进自动驾驶载人测试工作
+
+6. [Honda and Hino team up with Toyota and SoftBank on self-driving tech](https://www.cnet.com/roadshow/news/honda-hino-softbank-toyota-self-driving-car-venture/)
+
+    > The joint venture is called Monet Technologies, and both Honda and Hino (which is owned in part by Toyota) will contribute around $2.27 million for a 10 percent slice of the pie each. 
+
+7. [Daimler Trucks picks up self-driving software firm Torc Robotics](https://www.therobotreport.com/torc-robotics-self-driving-trucks-daimler/)
+
+    > “We are forming the ideal combination between Torc’s expertise on agile software development and our experience in delivering reliable and safe truck hardware,” said Martin Daum, board member responsible for trucks and buses at Daimler AG.
+
+    > In addition to its software development and testing at its headquarters in Blacksburg, Va., Torc’s 100 staffers will work on self-driving trucks with Daimler’s chassis research and development team in Portland, Ore. The company said that Torc will continue working with Mercedes-Benz Cars on sensors and operations.
+
+8. [From cashier-less checkout to self-driving car delivery, food shoppers are expecting big things](https://www.wraltechwire.com/2019/03/29/from-cashier-less-checkout-to-self-driving-car-delivery-food-shoppers-are-expecting-big-things-consumer-report/)
+
+    > “Consumers’ feedback demonstrates the need for grocers to embrace technology options that make the shopping experience easier and more enjoyable. And as we look towards the future, it’s clear that consumers have some high demands for the technology applications they expect grocers to invest in – from cashier-less checkout to self-driving car delivery.”
+
+9. [Elon Musk clarifies Tesla’s plan to retrofit cars for ‘Full Self-Driving’ with new HW3 computer](https://electrek.co/2019/03/29/tesla-full-self-driving-computer-retrofit-elon-musk/)
+
+
+10. [Self-driving Cars Learn to Navigate Unknown, Extreme Conditions](https://www.news18.com/news/auto/self-driving-cars-learn-to-navigate-unknown-extreme-conditions-2081859.html)
+
+    > To develop a more flexible, responsive control system, the researchers built a neural network -- a type of artificially intelligent computing system -- that integrates data from past driving experiences, and a winter test facility with foundational knowledge provided by 200,000 physics-based trajectories.
+
+    > "With the techniques available today, you often have to choose between data-driven methods and approaches grounded in fundamental physics," said J Christian Gerdes, a professor at Stanford. 
+ 
