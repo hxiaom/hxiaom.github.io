@@ -22,3 +22,14 @@ categories: Mobility
 
 6. [Exploring effects of environment density on heterogeneous populations’ level of service perceptions](https://www.sciencedirect.com/science/article/pii/S0965856418303677)
 
+7. [Do Electronic Health Records Affect Quality of Care? Evidence from the HITECH Act](https://pubsonline.informs.org/doi/10.1287/isre.2018.0813)
+
+    > In contrast to existing research that has focused on EHR investments or adoption, we propose that its actual use should be the focus in evaluating the advantages of EHRs. We leveraged the meaningful use (MU) provisions of the HITECH Act to quantify different degrees of EHR use in a large and heterogeneous set of hospitals. The results provided evidence of EHRs’ positive effects on quality of care and reconciled earlier mixed findings by showing that their benefits vary according to different levels of use and hospital characteristics.
+
+8. [Transit Pattern Detection Using Tensor Factorization](https://pubsonline.informs.org/doi/10.1287/ijoc.2018.0824)
+
+    > In this paper, we propose a framework based on transit tensor factorization (TTF) to identify citywide travel patterns. In particular, we create a transit tensor, which summarizes the citywide OTD information of all passenger trips captured in the AFC records. The TTF framework imposes spatial regularization in the formulation to group nearby stations into meaningful regions and uses multitask learning to identify traffic flows among these regions at different times of the day and days of the week. Evaluated with large-scale, real-world data, our results show that the proposed TTF framework can effectively identify meaningful citywide transit patterns.
+
+9. [Stochastic Network Design for Planning Scheduled Transportation Services: The Value of Deterministic Solutions](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2018.0819)
+
+    > We study several problem variants and models and investigate, for each case, the immediate quality of the deterministic solutions stemming from the 50th and the 75th percentile of the demand distributions. We then show that for all models, but in different ways, we are able to make effective use of parts of the deterministic solution, confirming the value of the deterministic solution in the stochastic environment, even when the deterministic solution itself performs badly.
