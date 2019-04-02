@@ -66,3 +66,11 @@ categories: Mobility
 
     > "With the techniques available today, you often have to choose between data-driven methods and approaches grounded in fundamental physics," said J Christian Gerdes, a professor at Stanford. 
  
+11. [搞自动驾驶到底有多贵？一台行走的钞票粉碎机](https://www.huxiu.com/article/292070.html)
+
+    > 被通用汽车收购至旗下的自动驾驶公司Cruise，去年成功为母公司损失了七亿两千八百万美元（$728.000.000），比2017年增加16%，并仍处于纯粹研发的烧钱状态。
+
+    > Uber的自动驾驶部门——Uber ATG，也在近日Uber的IPO进程中公开了它的月度账单：两千万美元。
+
+    > 2015年，即Uber进军自动驾驶的年份，Waymo已成功烧掉11亿美元。据Waymo前员工及其他行业内人士估算，如今的Waymo，每年要在各方面花掉10亿美元以上。你没看错，是每年10亿美元……
+
