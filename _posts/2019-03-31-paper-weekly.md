@@ -33,3 +33,10 @@ categories: Mobility
 9. [Stochastic Network Design for Planning Scheduled Transportation Services: The Value of Deterministic Solutions](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2018.0819)
 
     > We study several problem variants and models and investigate, for each case, the immediate quality of the deterministic solutions stemming from the 50th and the 75th percentile of the demand distributions. We then show that for all models, but in different ways, we are able to make effective use of parts of the deterministic solution, confirming the value of the deterministic solution in the stochastic environment, even when the deterministic solution itself performs badly.
+
+10. [Optimal Market Entry Timing for Successive Generations of Technological Innovations](https://www.misq.org/skin/frontend/default/misq/pdf/Abstracts/14307_RA_JiangQuAbstract.pdf)
+
+11. [The Experts in the Crowd: The Role of Experienced Investors in a Crowdfunding Market](https://www.misq.org/skin/frontend/default/misq/pdf/Abstracts/13758_RA_KimViswanathanAbstract.pdf)
+
+12. [What Users Do Besides Problem-Focused Coping in the IT Security Context: An Emotion-Focused Coping Perspective](https://www.misq.org/skin/frontend/default/misq/pdf/Abstracts/14360_RA_LiangXueAbstract.pdf)
+
