@@ -18,7 +18,9 @@ categories: Mobility
 
 4. [Xu Y, Zhou D, Ma J. Scholar-friend recommendation in online academic communities: An approach based on heterogeneous network[J]. Decision Support Systems, 2019, 119: 1-13.](https://www.sciencedirect.com/science/article/pii/S0167923619300120)
 
-    > Scholar-friend recommendation in online academic communities involves different entities and various relationships. A heterogeneous network based approach is proposed to recommend scholar-friends. Information gain is used to identify meta paths and an optimization approach is employed to make recommendations. Results demonstrate that the proposed approach can achieve better performance compared to baseline approaches.
+    - Motivation: Academic social network
+    - Research Gap: Information overload to find a friend
+    - Proposed method: heterogeneous network; information gain; regularization-based optimization
 
 5. [Lian, Xu, and Zhang. "Family Profile Mining in Retailing." Decision Support Systems 118 (2019): 102-14. Web.](https://www.sciencedirect.com/science/article/pii/S0167923619300156)
 
