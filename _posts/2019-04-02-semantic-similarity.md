@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Daily Method】Semantic Similarity
+title: 【Method】Semantic Similarity
 categories: Analytics
 ---
 
