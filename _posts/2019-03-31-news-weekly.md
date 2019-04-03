@@ -74,3 +74,20 @@ categories: Mobility
 
     > 2015年，即Uber进军自动驾驶的年份，Waymo已成功烧掉11亿美元。据Waymo前员工及其他行业内人士估算，如今的Waymo，每年要在各方面花掉10亿美元以上。你没看错，是每年10亿美元……
 
+12. [最前线 华人运通发布概念车Concept U](https://36kr.com/p/5191418)
+
+    > 华人运通不仅仅是“造车”——它所谓“三智”指的是智能汽车、智捷交通、智慧城市一体化，实现车更聪明，路更互联，城更智慧的出行目标。2019年初，华人运通已开始在上海机动车检验检测中心开始整车的部分测试，首款车型也于日前完成了第一期风洞测试。根据计划，首款量产定型车将于7月发布；2019年12月，首款量产工程车下线；2020年底，首款车型正式量产。
+
+13. [Toyota is giving automakers free access to nearly 24,000 hybrid car-related patents](https://techcrunch.com/2019/04/03/toyota-is-giving-automakers-free-access-to-nearly-24000-hybrid-car-related-patents/)
+
+    > Toyota said Wednesday it will give royalty-free access to its nearly 24,000 patents related to electrification technology and systems through 2030 in a move that aims to encourage rival automakers to adopt the low-emissions and fuel-saving technology.
+
+14. [Ford, GM, and Toyota team up to develop self-driving safety standards](https://arstechnica.com/cars/2019/04/ford-gm-and-toyota-team-up-to-develop-self-driving-safety-standards/)
+
+    > Three of the world's leading automakers are joining forces to develop safety standards for self-driving cars. The new consortium will be called the Automated Vehicle Safety Consortium (AVSC), and it will be affiliated with the prominent auto engineering group SAE International.
+
+    > The AVSC's press release did mention one specific goal that seems sorely needed: better sharing of sensor data. The group's website says it will work on new methods for "data collection, protection, and sharing required to reconstruct certain events."
+
+15. [Tesla confirms new full self-driving computer is in production, will demonstrate capability this month](https://electrek.co/2019/04/03/tesla-full-self-driving-computer-production-demonstration/)
+
+    > “With a number of very exciting developments coming in the weeks and months ahead, Tesla will host investors on the morning of April 19th at our headquarters in Palo Alto to provide a deep dive into our self-driving technology and road map.”
