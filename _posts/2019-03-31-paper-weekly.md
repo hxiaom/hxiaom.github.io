@@ -40,3 +40,8 @@ categories: Mobility
 
 12. [What Users Do Besides Problem-Focused Coping in the IT Security Context: An Emotion-Focused Coping Perspective](https://www.misq.org/skin/frontend/default/misq/pdf/Abstracts/14360_RA_LiangXueAbstract.pdf)
 
+13. [Process Analytics Approach for R&D Project Selection](https://dl.acm.org/citation.cfm?id=2629436)
+
+    Motivation: billions of dollars R&D project selection
+    Research gaps: not effective; ignore insight: quality of the reviewers, social relationships
+    Proposed method: data-driven decision models; NSFC
