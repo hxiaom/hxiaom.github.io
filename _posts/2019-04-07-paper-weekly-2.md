@@ -14,4 +14,10 @@ categories: Mobility
         - a multiple-coupon distribution strategy is more effective in increasing redemption among noncommuters than commuters
         - the redemption rate of commuters is higher for coupons with shorter expiration periods, whereas that of noncommuters is higher for coupons with longer expiration periods.
     - Theory: 
-        - stress, which is exacerbated by commuting, increases commuters’ coupon redemption rate. We
+        - stress, which is exacerbated by commuting, increases commuters’ coupon redemption rate. 
+
+2. [Price S, Flach P A. Computational support for academic peer review: a perspective from artificial intelligence[J]. Commun. ACM, 2017, 60(3): 70-79.](https://m-cacm.acm.org/magazines/2017/3/213825-computational-support-for-academic-peer-review/fulltext?mobile=true)
+
+    - Motivation: Peer review is cornerstone of academic practice
+    - Research goal: identify opportunities and describe a few early solutions fro automating key stages in the established academic peer review process
+    - Writing: 当有很多文章，你仍想在这一块做类似贡献 -> Yet, despite many publications on this topic over the intervening years, research results in paper assignment have made relatively few inroads into mainstream CMS tools and everyday peer review practice. Hence, whagt we have achieved over the last 25 years or so appears to be a streamlined process rather than a fundamentally improved one: we believe it would be difficult to argue the decisions taken by program committees today are significantly better in comparison with the paper-based process. But this doesn't mean that opportunities for imroving the process don't exist-on the contrary, there is, as we demonstrate in this article, considerable scope for exploying the very techniques that researc hers in machine learning and artificial intelligence have been developing over the years.

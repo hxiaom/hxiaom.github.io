@@ -30,3 +30,5 @@ categories: Mobility
 
 7. [Waymo Pet来了，“Waymo Baby”还会远吗？](https://www.weibo.com/ttarticle/p/show?id=2309404358386832535292#_0)
 
+8. [中国造车记](https://www.huxiu.com/article/293050.html)
+
