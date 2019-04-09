@@ -21,3 +21,10 @@ categories: Mobility
     - Motivation: Peer review is cornerstone of academic practice
     - Research goal: identify opportunities and describe a few early solutions fro automating key stages in the established academic peer review process
     - Writing: 当有很多文章，你仍想在这一块做类似贡献 -> Yet, despite many publications on this topic over the intervening years, research results in paper assignment have made relatively few inroads into mainstream CMS tools and everyday peer review practice. Hence, whagt we have achieved over the last 25 years or so appears to be a streamlined process rather than a fundamentally improved one: we believe it would be difficult to argue the decisions taken by program committees today are significantly better in comparison with the paper-based process. But this doesn't mean that opportunities for imroving the process don't exist-on the contrary, there is, as we demonstrate in this article, considerable scope for exploying the very techniques that researc hers in machine learning and artificial intelligence have been developing over the years.
+
+3. [Zola P, Cortez P, Carpita M. Twitter user geolocation using web country noun searches[J]. Decision Support Systems, 2019.](https://www.sciencedirect.com/science/article/pii/S0167923619300442)
+
+    - Motivation: Social media analytics require geolocation data. 
+        - 当我觉得Twitter内部可以依靠IP地址来获知地理位置的时候，作者给出了适当的解释。the percentage of geotagged tweets is low and Twitter user profile location data is often unreliable.
+    - Proposed method: a novel statistical approach for country-level location detection of Twitter users.
+    - The proposed Google Trends nouns (GTN) method uses GT to solve a spatial detection task rather than a temporal task (as proposed in previous GT studies).
