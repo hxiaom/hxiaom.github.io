@@ -50,3 +50,4 @@ categories: Mobility
 
     > Car giants General Motors and BMW are backing blockchain tech as a way to share self-driving car data among themselves and other automakers.
 
+13. [Uber scientist says some time before self-driving cars dominate the road](https://www.reuters.com/article/uber-autonomous-newsmaker/newsmaker-uber-scientist-says-some-time-before-self-driving-cars-dominate-the-road-idUSL1N21Q0UB)

@@ -28,3 +28,11 @@ categories: Mobility
         - 当我觉得Twitter内部可以依靠IP地址来获知地理位置的时候，作者给出了适当的解释。the percentage of geotagged tweets is low and Twitter user profile location data is often unreliable.
     - Proposed method: a novel statistical approach for country-level location detection of Twitter users.
     - The proposed Google Trends nouns (GTN) method uses GT to solve a spatial detection task rather than a temporal task (as proposed in previous GT studies).
+
+4. [Modeling individuals’ willingness to share trips with strangers in an autonomous vehicle future](https://www.sciencedirect.com/science/article/pii/S0965856418309819)
+
+    - Motivation: Autonomous Vehicles
+    - Research gap: willingness to sharing the same AV
+    - Findings:
+        - users are less sensitive to the presence of strangers when in a commute trip compared to a leisure-activity trip. 
+        - the travel time added to the trip to serve other passengers may be a greater barrier to the use of shared services compared to the presence of a stranger
