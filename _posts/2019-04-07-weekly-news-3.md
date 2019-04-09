@@ -32,3 +32,21 @@ categories: Mobility
 
 8. [中国造车记](https://www.huxiu.com/article/293050.html)
 
+9. [小蓝、摩拜涨价，用户：不如自己买一辆](https://www.huxiu.com/article/293086.html)
+
+    > 从今日起，北京地区的摩拜单车（非助力车）执行新版计费规则，骑行15分钟以内收费1元，超出部分每15分钟收费0.5元，骑行一小时费用为2.5元。
+
+10. [野蛮人平安“收割”汽车之家：不到三年，爆赚500亿](https://www.huxiu.com/article/293150.html)
+
+11. [频频犯错的无人车，可能缺了一个“域适应”](https://www.huxiu.com/article/293253.html)
+
+    > 尽管无人驾驶测试车的上路里程和接管数据都越来越漂亮，但对于机器学习模型来说，如何在新的、未知的环境中也能和测试道路上表现的一样优秀，这仍然是一个公开的难题。
+
+    > 一是源域（source domain）表示与测试样本不同的领域，但是有丰富的标注数据。比如伯克利和滴滴的驾驶视频数据集BDD100K，以及D²-City。
+
+    > 一个是目标域（target domain）表示测试样本所在的领域，无标签或者只有少量标签。当一辆无人车测试车从硅谷变换到波士顿的道路上，它面对的就是一个全新的目标域。
+
+12. [GM, BMW Back Blockchain Data Sharing For Self-Driving Cars](https://www.coindesk.com/gm-bmw-back-blockchain-data-sharing-for-self-driving-cars)
+
+    > Car giants General Motors and BMW are backing blockchain tech as a way to share self-driving car data among themselves and other automakers.
+
