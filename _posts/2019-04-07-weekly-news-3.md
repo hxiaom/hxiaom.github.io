@@ -51,3 +51,11 @@ categories: Mobility
     > Car giants General Motors and BMW are backing blockchain tech as a way to share self-driving car data among themselves and other automakers.
 
 13. [Uber scientist says some time before self-driving cars dominate the road](https://www.reuters.com/article/uber-autonomous-newsmaker/newsmaker-uber-scientist-says-some-time-before-self-driving-cars-dominate-the-road-idUSL1N21Q0UB)
+
+14. [Uber is expected to seek $10 billion in IPO](https://techcrunch.com/2019/04/10/uber-is-expected-to-seek-10-billion-in-ipo/)
+
+15. [FORD TAPS THE BRAKES ON THE ARRIVAL OF SELF-DRIVING CARS](https://www.wired.com/story/ford-taps-brakes-arrival-self-driving-cars/)
+
+    > The industry “overestimated the arrival of autonomous vehicles,” Hackett told the Detroit Economic Club. Though Ford is not wavering from its self-imposed due date of 2021 for its first purpose-built driverless car, Hackett acknowledged that the vehicle’s “applications will be narrow, what we call geo-fenced, because the problem is so complex.” Bloomberg earlier reported the comments.
+
+16. [Florida Could Expand Self-Driving Car Law](https://www.insurancejournal.com/news/southeast/2019/04/10/523102.htm)

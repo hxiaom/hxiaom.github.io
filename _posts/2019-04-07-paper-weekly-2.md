@@ -36,3 +36,9 @@ categories: Mobility
     - Findings:
         - users are less sensitive to the presence of strangers when in a commute trip compared to a leisure-activity trip. 
         - the travel time added to the trip to serve other passengers may be a greater barrier to the use of shared services compared to the presence of a stranger
+
+5. [Deodhar S J, Subramani M, Zaheer A. Geography of online network ties: A predictive modelling approach[J]. Decision Support Systems, 2017, 99: 9-17.](https://www.sciencedirect.com/science/article/pii/S016792361730088X)
+
+    - Motivation: internet
+    - Research gap: whether these platforms truly alleviate the influence of geographic distance remains unexplored
+    - Findings: not only the geographic distance and network ties exhibit an inverse association but also that geographic distance is the strongest predictor of such ties.
