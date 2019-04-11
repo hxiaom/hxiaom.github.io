@@ -28,6 +28,12 @@ x =(x - 𝜇)/𝜎
 
 如下图，经过StandardScaler之后，横坐标与纵坐标的分布出现了很大的差异，这可能是outliers造成的。
 
+```python
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+scaled_df = scaler.fit_transform(data)
+```
+
 ### MinMaxScaler
 
 将特征缩放至特定区间,将特征缩放到给定的最小值和最大值之间，或者也可以将每个特征的最大绝对值转换至单位大小。这种方法是对原始数据的线性变换，将数据归一到[0,1]中间。转换函数为:
@@ -38,12 +44,33 @@ x = (x-min)/(max-min)
 
 敲黑板，这种方法对于outlier非常敏感，因为outlier影响了max或min值，所以这种方法只适用于数据在一个范围内分布的情况
 
+```python
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler()
+scaled_df = scaler.fit_transform(data)
+```
+
 ### RobustScaler
 
 如果你的数据包含许多异常值，使用均值和方差缩放可能并不是一个很好的选择。这种情况下，你可以使用 robust_scale 以及 RobustScaler 作为替代品。它们对你的数据的中心和范围使用更有鲁棒性的估计。
 
 This Scaler removes the median（中位数） and scales the data according to the quantile range(四分位距离，也就是说排除了outliers)
 
+```python
+from sklearn.preprocessing import RobustScaler
+scaler = RobustScaler()
+scaled_df = scaler.fit_transform(data)
+```
+
+### Normalizer
+
+```python
+from sklearn.preprocessing import Normalizer
+scaler = Normalizer()
+scaled_df = scaler.fit_transform(data)
+```
+
 ## 参考文献
 
 - [机器学习数据预处理——标准化/归一化方法](https://www.cnblogs.com/bjwu/p/8977141.html)
+- [Feature Scaling with scikit-learn](http://benalexkeen.com/feature-scaling-with-scikit-learn/)
