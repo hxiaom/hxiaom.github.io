@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Network Analysis
+title: 【Method】Social Network Analysis（一）
 categories: Analytics
 ---
 
@@ -68,3 +68,4 @@ categories: Analytics
 
 - [社会网络分析——Social Network Analysis](https://www.cnblogs.com/linzhenjie/p/3586032.html)
 - [社会网络分析的主要内容](https://blog.csdn.net/zhaozhn5/article/details/78061556)
+- [Coursera-SNA](https://github.com/ladamalina/coursera-sna)
