@@ -59,3 +59,7 @@ categories: Mobility
     > The industry “overestimated the arrival of autonomous vehicles,” Hackett told the Detroit Economic Club. Though Ford is not wavering from its self-imposed due date of 2021 for its first purpose-built driverless car, Hackett acknowledged that the vehicle’s “applications will be narrow, what we call geo-fenced, because the problem is so complex.” Bloomberg earlier reported the comments.
 
 16. [Florida Could Expand Self-Driving Car Law](https://www.insurancejournal.com/news/southeast/2019/04/10/523102.htm)
+
+17. [Uber spent $457 million on self-driving and flying car R&D last year](https://techcrunch.com/2019/04/11/uber-spent-457-million-on-self-driving-and-flying-car-rd-last-year/)
+
+18. [Uber files for IPO](https://techcrunch.com/2019/04/11/uber-files-for-ipo/)
