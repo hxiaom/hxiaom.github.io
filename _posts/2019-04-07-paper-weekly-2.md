@@ -42,3 +42,21 @@ categories: Mobility
     - Motivation: internet
     - Research gap: whether these platforms truly alleviate the influence of geographic distance remains unexplored
     - Findings: not only the geographic distance and network ties exhibit an inverse association but also that geographic distance is the strongest predictor of such ties.
+
+6. [Deep Reinforcement Learning with Applications in Transportation](https://outreach.didichuxing.com/tutorial/AAAI2019/)
+
+    - Question:
+        - Ride-sharing Platform
+            - Order dispatching
+            - Driver repositioning
+            - Drivers distribution
+        - Micro-level Impact
+            - Short-term
+            - Long-term
+        - Carpool
+            - Multiple passengers
+            - Factors to consider
+        - Route Planning
+            - Planning a route for a trip on map
+            - Planning a route for robot navigation
+        - Traffic Signals Control
