@@ -63,3 +63,13 @@ categories: Mobility
 17. [Uber spent $457 million on self-driving and flying car R&D last year](https://techcrunch.com/2019/04/11/uber-spent-457-million-on-self-driving-and-flying-car-rd-last-year/)
 
 18. [Uber files for IPO](https://techcrunch.com/2019/04/11/uber-files-for-ipo/)
+
+19. [压垮我的不是加班，而是通勤](https://www.huxiu.com/article/293952.html)
+
+20. [Uber要上市，招股书披露六大看点](https://www.huxiu.com/article/294027.html)
+
+    > 平台在全球63个国家700个城市运营业务，共完成了15亿次出行，目前平台每天完成1500万次出行，是一家真正国际化的共享出行服务平台。
+
+21. [California to allow testing of light-duty self-driving trucks](https://www.theverge.com/2019/4/12/18308136/california-dmv-self-driving-trucks-light-duty)
+
+22. [Backer of Musical.ly, Grindr and Opera to invest $50M in self-driving startup Pony.ai](https://techcrunch.com/2019/04/12/kunlun-invests-50m-in-pony-ai/)
