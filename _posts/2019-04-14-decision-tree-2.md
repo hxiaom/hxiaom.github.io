@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Method】决策树（二）特征选择
+title: 【Method】决策树（二）特征选择&决策树生成
 categories: Analytics
 ---
 
@@ -42,11 +42,38 @@ $$H(Y|X)=\sum_{i=1}^n p_i H(Y|X=x_i)$$
 
 $$g(D,A) = H(D) - H(D|A)$$
 
-一般地，熵H(Y)与条件熵$$H(Y|X)$$之差称为互信息（mutual information）。决策树学习中的信息增益等价于训练数据集中类与特征的互信息。
+一般地，熵H(Y)与条件熵$$H(Y\midX)$$之差称为互信息（mutual information）。决策树学习中的信息增益等价于训练数据集中类与特征的互信息。
 
 决策树学习应用信息增益准则选择特征。给定训练数据集D和特征A，经验熵H(D)表示对数据集D进行分类的不确定性。而经验条件熵H(D\|A)表示在特征A给定的条件下对数据集D进行分类的不确定性。那么它们的差，即信息增益，就表示由于特征A而使得对数据集D的分类不确定性减少的程度。显然，对于数据集D而言，信息增益依赖于特征，不同的特征往往具有不同的信息增益。信息增益大的特征具有更强的分类能力。
 
 根据信息增益准则的特征选择方法是：对训练数据集（或子集）D，计算每个特征的信息增益 ，并比较它们的大小，选择信息增益最大的特征。
 
-设训练数据集为D，\|D\|表示其样本容量，即样本个数。设有K个类$$C_k,k=1,2,...,K$$，$$|C_k|$$为属于类$$C_k$$的样本个数。
+设训练数据集为D，\|D\|表示其样本容量，即样本个数。设有K个类$$C_k,k=1,2,...,K$$，$$\mid C_k \mid$$为属于类$$C_k$$的样本个数，$$\sum_{k=1}^K \mid C_k \mid = \mid D \mid$$。设特征A有n个不同的取值$${a_1,a_2,...,a_n}$$，根据特征A的取值将D划分为n个子集$$D_1, D_2,...,D_n$$，$$\mid D_i \mid$$为$$D_i$$的样本个数，$$\sum_{i=1}^n \mid D_i \mid = \mid D \mid$$。记子集$$D_i$$中属于类$$C_k$$的样本的集合为$$D_{ik}$$，即$$D_{ik} = D_i \cap C_k$$，$$\mid D_{ik} \mid$$为$$D_{ik}$$的样本个数。于是信息增益的算法如下：
+
+输入：训练数据集D和特征A
+
+输出：特征A对训练数据集D的信息增益g(D,A)
+
+(1) 计算数据集D的经验熵H(D)
+
+$$H(D) = -\sum_{k=1}^K \frac{\mid C_k \mid}{\mid D \mid} log_2 \frac{\mid C_k \mid}{\mid D \mid}$$
+
+(2) 计算特征A对数据集D的经验条件熵H(D\|A)
+
+$$H(D \mid A)=\sum_{i=1}^n \frac{\mid D_i \mid}{\mid D \mid}H(D_i) = -\sum_{i=1}^n \frac{\mid D_i \mid}{\mid D \mid} \sum_{k=1}^K \frac{\mid D_{ik} \mid}{\mid D_i \mid} log_2 \frac{\mid D_{ik} \mid}{\mid D_i \mid}$$
+
+(3) 计算信息增益
+
+$$g(D,A)=H(D)-H(D \mid A)$$
+
+以信息增益作为划分训练数据集的特征，存在偏向于选择取值较多的特征的问题。使用信息增益比（information gain ratio）可以对这一问题进行校正。这是特征选择的另一个准则。
+
+信息增益比：特征A对训练数据集D的信息增益比$$g_R(D,A)$$定义为其信息增益$$g(D,A)$$与训练数据集D关于特征A的值的熵$$H_A(D)$$之比，即
+
+$$g_R(D,A)=\frac{g(D,A)}{H_A(D)}$$
+
+其中，$$H_A(D)=-\sum_{i=1}^n \frac{\mid D_i \mid}{\mid D \mid} log_2 \frac{\mid D_i \mid}{\mid D \mid}$$，n是特征A取值的个数。
+
+
+
 
