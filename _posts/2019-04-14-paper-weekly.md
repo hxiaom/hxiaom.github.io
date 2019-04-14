@@ -14,3 +14,11 @@ categories: Mobility
     - Proposed method:
         - R&D output prediction model
         - robust optimization technique to hedge against uncertainty
+
+2. [A multi-objective approach for profit-driven feature selection in credit scoring](https://www.sciencedirect.com/science/article/pii/S0167923619300570)
+
+    - Motivation: feature selection in credit scoring
+    - Research gap: standard feature selection only rely on statistical criteria
+    - Proposed method:
+        - extend the use of profit measures to feature selection 
+        - develop a multi-objective wrapper framework based on the NSGA-II genetic algorithm with two fitness functions: the Expected Maximum Profit (EMP) and the number of features. 
