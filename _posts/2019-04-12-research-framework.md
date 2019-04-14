@@ -5,12 +5,19 @@ categories: Mobility
 ---
 
 - Mobility
-    - Transportation Economics
-        - Twitter
-    - Geo-related Economics (Geo Tag)
+    - Smart Mobility Systems
+        - smart tansportation systems
+        - geo-related systems
+    - Mobility Economics
+        - human mobility (Mobile age)
+        - object mobility (AV age)
 
-- Science of Science
-    - 3P (Patent, Paper, Project)
-    - Academic Recommendation
-    - Management perspective
-    - Reviewer assignment
+- Innovation Knowledge Graph
+    - Knowledge Representation
+    - Profile
+    - IKG Application
+        - Academic Recommendation
+        - Reviewer assignment
+        - Big data analysis
+            - Management perspective
+            - 3P (Patent, Paper, Project)
