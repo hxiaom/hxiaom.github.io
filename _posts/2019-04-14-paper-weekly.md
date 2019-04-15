@@ -22,3 +22,7 @@ categories: Mobility
     - Proposed method:
         - extend the use of profit measures to feature selection 
         - develop a multi-objective wrapper framework based on the NSGA-II genetic algorithm with two fitness functions: the Expected Maximum Profit (EMP) and the number of features. 
+
+3. [A Novel Method for Topic Linkages Between ScientificPublications and Patents](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24175)
+
+    - Motivation: 
