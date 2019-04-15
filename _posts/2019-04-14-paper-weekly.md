@@ -25,4 +25,8 @@ categories: Mobility
 
 3. [A Novel Method for Topic Linkages Between ScientificPublications and Patents](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24175)
 
-    - Motivation: 
+    - Motivation: understanding the relationships between science and technology.
+    - Research Gap: Previous studies on the linkages mainly focus on the analysis of nonpatent references on the front page of patents, or the resulting citation- link networks, but with unsatisfactory performance.
+    - Proposed method:
+        - a novel statistical entity-topic model (named the CCorrLDA2 model), armed with the collapsed Gibbs sampling inference algorithm, is proposed to discover the hidden topics respectively from the academic articles and patents.
+        - a topic linkages construction problem is transformed into the well-known optimal transportation problem after topic similarity is calculated on the basis of symmetrized Kullback–Leibler (KL) divergence.
