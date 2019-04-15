@@ -6,6 +6,8 @@ categories: Analytics
 
 ## 原理
 
+与传统决策树不同的是，传统的决策树中每次决策是Heuristic（启发式）的（比如信息增益），而这里，每次决策都是Objective（目标性质的，与目标函数相关）。
+
 ### Boosting Tree Model
 
 提升树（Boosting tree）是以分类树或回归树为基本分类器的提升方法。提升数被认为是统计学习中性能最好的方法之一。
