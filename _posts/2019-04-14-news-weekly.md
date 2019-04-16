@@ -36,5 +36,3 @@ categories: Mobility
     > As Waymo's ambitions grow, it still has to reckon with the obsessive attention to detail autonomous vehicles require. Self-driving cars must be able to handle small details in complex environments, like parking lots, which are challenging because they feature cars and pedestrians moving in unpredictable patterns and don't have road markings, Krafcik said.
 
     > Beyond mastering technical details, Waymo also has to anticipate the preferences of its customers. The company had thought passengers who were traveling to a grocery store, for example, would want to be picked up where they were dropped off — at the front door. But the front door is a major source of foot-traffic at grocery stores, and passengers told Waymo that they felt self-conscious loading bags into a car in such a busy area.
-
-10. []
