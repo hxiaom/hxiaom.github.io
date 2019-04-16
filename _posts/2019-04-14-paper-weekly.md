@@ -30,3 +30,12 @@ categories: Mobility
     - Proposed method:
         - a novel statistical entity-topic model (named the CCorrLDA2 model), armed with the collapsed Gibbs sampling inference algorithm, is proposed to discover the hidden topics respectively from the academic articles and patents.
         - a topic linkages construction problem is transformed into the well-known optimal transportation problem after topic similarity is calculated on the basis of symmetrized Kullback–Leibler (KL) divergence.
+
+4. [Data objects and documenting scientific processes: An analysis of data events in biodiversity data papers](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24226)
+
+    - Motivation: data paper
+    - Research gap: Research examining how data papers report data events, such as data transactions and manipulations, is limited.
+    - Method & findings: 
+        - A content analysis was conducted examining the full texts of 82 data papers
+        - Data events recorded for each paper were organized into a set of 17 categories.
+        - The findings challenge the degrees to which data papers are a distinct genre compared to research articles and they describe data‐centric research processes in a through way.
