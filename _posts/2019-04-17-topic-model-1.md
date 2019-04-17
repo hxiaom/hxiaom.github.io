@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Method】Topic Model（一）LSA & pLSA
+title: 【Method】Topic Model（一）LSA
 categories: Analytics
 ---
 
@@ -41,6 +41,11 @@ $$w_{i,j} = tf-idf_{i,j}$$
 - 不同单词的相似度
 - 术语（或"queries"）与文档的相似度（当我们想要检索与查询最相关段落，即进行信息检索时，这一点非常有用）
 
+LSA 方法快速且高效，但它也有一些主要缺点：
+
+- 缺乏可解释的嵌入（我们并不知道主题是什么，其成分可能积极或消极，这一点是随机的）
+- 需要大量的文件和词汇来获得准确的结果
+- 表征效率低
 
 ## 参考文献
 
