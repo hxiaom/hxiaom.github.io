@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evaluation of Machine Learning Model
+title: 【Method】ML Evaluation
 categories: Analytics
 ---
 
@@ -79,3 +79,10 @@ categories: Analytics
 直观理解：均方根误差
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/eeb88fa0f90448e9d1a67cd7a70164f674aeb300)
+
+
+## Cross Validation
+
+## 参考文献
+
+- [Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)
