@@ -36,3 +36,15 @@ categories: Mobility
     > As Waymo's ambitions grow, it still has to reckon with the obsessive attention to detail autonomous vehicles require. Self-driving cars must be able to handle small details in complex environments, like parking lots, which are challenging because they feature cars and pedestrians moving in unpredictable patterns and don't have road markings, Krafcik said.
 
     > Beyond mastering technical details, Waymo also has to anticipate the preferences of its customers. The company had thought passengers who were traveling to a grocery store, for example, would want to be picked up where they were dropped off — at the front door. But the front door is a major source of foot-traffic at grocery stores, and passengers told Waymo that they felt self-conscious loading bags into a car in such a busy area.
+
+10. [自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”](https://www.huxiu.com/article/294710.html)
+
+11. [Uber千亿美元估值稳了？无人驾驶业务有望获软银等投资10亿美元](https://36kr.com/p/5195905)
+
+12. [Aptiv takes its self-driving car ambitions (and tech) to China](https://techcrunch.com/2019/04/16/aptiv-takes-its-self-driving-car-ambitions-and-tech-to-china/)
+
+    > Aptiv,  the U.S. auto supplier and self-driving software company, is opening an autonomous mobility center in Shanghai to focus on the development and eventual deployment of its technology on public roads.
+
+13. [Apple in talks for sensors that could hint it’s building a self-driving car](https://www.cnbc.com/2019/04/17/apple-in-talks-for-lidar-for-self-driving-cars.html)
+
+14. [Self-Driving Automobiles: Two Visions Of The Future](https://www.forbes.com/sites/uhenergy/2019/04/17/self-driving-automobiles-two-visions-of-the-future/#7853193226f6)

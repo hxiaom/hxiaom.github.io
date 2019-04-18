@@ -39,3 +39,13 @@ categories: Mobility
         - A content analysis was conducted examining the full texts of 82 data papers
         - Data events recorded for each paper were organized into a set of 17 categories.
         - The findings challenge the degrees to which data papers are a distinct genre compared to research articles and they describe data‐centric research processes in a through way.
+
+5. [Examining scientific writing styles from the perspective of linguistic complexity](https://onlinelibrary.wiley.com/doi/10.1002/asi.24126)
+
+    - Motivation: Publishing articles in high‐impact English journals is difficult for non‐native English‐speaking scholars
+    - Research Gap: uncover the differences in English scientific writing between native English‐speaking scholars (NESs) and NNESs
+    - Proposed method:
+        - examined the scientific writing styles in English from a two‐fold perspective of linguistic complexity: 
+        - (a) syntactic complexity, including measurements of sentence length and sentence complexity; 
+        - (b) lexical complexity, including measurements of lexical diversity, lexical density, and lexical sophistication. 
+    - Findings: The observations suggest marginal differences between groups in syntactical and lexical complexity.
