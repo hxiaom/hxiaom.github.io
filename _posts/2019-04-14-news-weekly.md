@@ -48,3 +48,16 @@ categories: Mobility
 13. [Apple in talks for sensors that could hint it’s building a self-driving car](https://www.cnbc.com/2019/04/17/apple-in-talks-for-lidar-for-self-driving-cars.html)
 
 14. [Self-Driving Automobiles: Two Visions Of The Future](https://www.forbes.com/sites/uhenergy/2019/04/17/self-driving-automobiles-two-visions-of-the-future/#7853193226f6)
+
+15. [高铁京沪线盈利之路](https://www.huxiu.com/article/294954.html)
+
+16. [专访 GoFun 出行：我们是第一家备案区块链服务的出行公司](https://36kr.com/p/5196015)
+
+    > 3 月 30 日，国家互联网信息办公室（下称网信办）公开发布第一批 197 个区块链信息服务名称及备案编号。
+
+    > 据悉，区块链联动平台的初级模型体现在能量方块上，简而言之就是“用车即挖矿”，依托区块链底层技术，用户每天完成用车、签到、邀请好友等任务，便可产生相应数量的能量积分，这些积分可以兑换相应的用车优惠券。 
+
+17. [华为参加车展：徐直军宣布华为不造车，那到底要做什么？](https://36kr.com/p/5195897)
+
+    > 徐直军给出了华为的战略选择：他们要做「面向智能网联汽车的增量部件供应商」，这意味着，在汽车行业，华为第一次有了清晰明确的定位。
+
