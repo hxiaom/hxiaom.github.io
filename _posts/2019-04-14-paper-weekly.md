@@ -49,3 +49,11 @@ categories: Mobility
         - (a) syntactic complexity, including measurements of sentence length and sentence complexity; 
         - (b) lexical complexity, including measurements of lexical diversity, lexical density, and lexical sophistication. 
     - Findings: The observations suggest marginal differences between groups in syntactical and lexical complexity.
+
+6. [Modeling the relationship between scientific and bibliographic classification for music](https://onlinelibrary.wiley.com/doi/10.1002/asi.24120)
+
+    - Motivation: Scientific classification is an important topic in contemporary knowledge organization discourse
+    - Research gap: the nature of the relationships between scientific and bibliographic classifications has not been fully studied. 
+    - Proposed method:
+        - start from the connections between scientific and bibliographic classifications for music
+        - Three relationship characteristics are posited: similarity, causation, and time.
