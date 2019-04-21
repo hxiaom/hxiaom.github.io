@@ -68,6 +68,55 @@ $$P(d_m, w_n) = P(d_m)P(w_n \mid d_m)$$
 
 $$P(\overrightarrow{w} \mid d_m) = \prod_{n=1}^N P(w_n \mid d_m)$$
 
+我们看一下$$P(w_n \mid d_m)$$的表达式。如果不考虑随机变量之间的条件独立性的话，有
+
+$$P(w_n \mid d_m) = \sum_k P(z_k \mid d_m)P(w_n \mid z_k, d_m)$$
+
+但是观察图模型中的d、z、w可以知道，它们三个是有向图模型里非常典型的head-to-tail的情况：当z已知时，d和w条件独立，也就是
+
+$$P(w_n \mid z_k, d_m)$$ = P(w_n \mid z_k)$$
+
+进而有
+
+$$P(w_n \mid d_m) = \sum_k P(z_k \mid d_m)P(w_n \mid z_k)$$
+
+所以最终的联合分布表达式为
+
+$$P(d_m, w_n) = P(d_m) \sum_k P(z_k \mid d_m)P(w_n \mid z_k)$$
+
+### 似然函数
+
+这样的话，我们要做的事就是从文档集里估计出上面的参数。pLSA是频率学派的方法，将模型参数看作具体值，而不是有先验的随机变量。所以，考虑最大化对数似然函数：
+
+$$\begin{align}
+L(\theta) &= ln \prod_{m=1}^M \prod_{n=1}^N P(d_m,w_n)^{n(d_m,w_n)} \\
+&= \sum_m \sum_n n(d_m, w_n) ln P(d_m, w_n) \\
+&= \sum_m \sum_n n(d_m, w_n) (ln P(d_m) + ln P(w_n \mid d_m)) \\
+&= \sum_m \sum_n n(d_m, w_n) ln P(w_n \mid d_m) + \sum_m \sum_n n(d_m, w_n) ln P(d_m) \\
+\end{align}$$
+
+第二项可以直接去掉，那么不妨直接记：
+
+$$\begin{align}
+L(\theta) &= \sum_m \sum_n n(d_m, w_n) ln P(w_n \mid d_m) \\
+&=  \sum_m \sum_n n(d_m, w_n) ln [\sum_k P(z_k \mid d_m)P(w_n \mid z_k)] \\
+\end{align}$$
+
+### 参数估计：EM算法迭代求解
+
+由于参数全部在求和号里被外层的log套住，所以很难直接求偏导数估计参数。到了这里，就轮到EM算法闪亮登场了。
+
+- E步，求期望
+
+对于pLSA模型来说，Q函数的形式为
+
+$$\begin{align}
+Q(\theta; \theta_t) = \sum_m \sum_n n(d_m,w_n) E_{z_k \mid w_n,d_m;\theta_t}[ln P(w_n, z_k \mid d_m)] \\
+&= \sum_m \sum_n n(d_m,w_n) \sum_k P(z_k \mid w_n, d_m; \theta_t) ln P(w_n, z_k \mid d_m) \\
+\end{align}$$
+
+
+
 ## 参考文献
 
 - [一文读懂如何用LSA、PSLA、LDA和lda2vec进行主题建模](https://www.sohu.com/a/234584362_129720)
