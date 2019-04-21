@@ -64,9 +64,9 @@ $$P(d_m, z_k,, w_n) = P(d_m)P(z_k \mid d_m)P(w_n \mid z_k)$$
 
 $$P(d_m, w_n) = P(d_m)P(w_n \mid d_m)$$
 
-假设有一篇文档为$$w^{\to} = (w_1, w_2, ...,w_N)$$，生成它的概率就是
+假设有一篇文档为$$\overrightarrow{w} = (w_1, w_2, ...,w_N)$$，生成它的概率就是
 
-$$P(w^\to \mid d_m) = \prod_{n=1}^N P(w_n \mid d_m)$$
+$$P(\overrightarrow{w} \mid d_m) = \prod_{n=1}^N P(w_n \mid d_m)$$
 
 ## 参考文献
 
