@@ -111,7 +111,7 @@ L(\theta) &= \sum_m \sum_n n(d_m, w_n) ln P(w_n \mid d_m) \\
 对于pLSA模型来说，Q函数的形式为
 
 $$\begin{align}
-Q(\theta; \theta_t) = \sum_m \sum_n n(d_m,w_n) E_{z_k \mid w_n,d_m;\theta_t}[ln P(w_n, z_k \mid d_m)] \\
+Q(\theta; \theta_t) &= \sum_m \sum_n n(d_m,w_n) E_{z_k \mid w_n,d_m;\theta_t}[ln P(w_n, z_k \mid d_m)] \\
 &= \sum_m \sum_n n(d_m,w_n) \sum_k P(z_k \mid w_n, d_m; \theta_t) ln P(w_n, z_k \mid d_m) \\
 \end{align}$$
 
@@ -122,6 +122,71 @@ $$P(w_n, z_k \mid d_m) = P(z_k \mid d_m)P(w_n \mid z_k,d_m) = P(z_k \mid d_m) = 
 (2) $$P(z_k \mid w_n, d_m; \theta_t)$$的求解：
 
 所谓的$$\theta_t$$实际上就是上一步迭代的全部$$K \times M$$个$$P(z_k \mid d_m)$$和$$V \times K$$个$$P(w_n \mid z_k)$$。
+
+$$\begin{align}
+P(z_k \mid w_n, d_m; \theta_t) &= \frac{P_t(z_k, w_n, d_m)}{P_t(w_n, d_m)} = \frac{P_t(d_m)P_t(z_k \mid d_m)P_t(w_n \mid z_k)}{P_t(d_m)P_t(w_n \mid d_m)} \\
+&= \frac{P_t(z_k \mid d_m)P_t(w_n \mid z_k)}{P_t(w_n \mid d_m)} = \frac{P_t(z_k \mid d_m)P_t(w_n \mid z_k)}{\sum_j P_t(z_j \mid d_m)P_t(w_n \mid z_j)} \\
+\end{align}$$
+
+基于以上两个结果，得到Q函数的形式为
+
+$$\begin{align}
+Q(\theta; \theta_t) &= \sum_m \sum_n n(d_m, w_n) \sum_k P(z_k \mid w_n, d_m; \theta_t)(ln P(z_k \mid d_m) + ln P(w_n \mid z_k)) \\
+&= \sum_m \sum_n n(d_m, w_n) \sum_k \frac{P_t(z_k \mid d_m)P_t(w_n \mid z_k)}{\sum_j P_t(z_j \mid d_m)P_t(w_n \mid z_j)} (ln P(z_k \mid d_m) + ln P(w_n \mid z_k)) \\
+\end{align}$$
+
+终于，在这个形式里面，除了$$\theta$$（全部$$K \times M$$个$$P(z_k \mid d_m)$$和$$V \times K$$个$$P(w_n \mid z_k)$$），已经全部为已知量。
+
+- M步，求极大值
+
+剩下的工作就是
+
+$$\theta_{t+1} = arg max_\theta Q(\theta; \theta_t)$$
+
+问题将会被概括为如下的约束最优化问题：
+
+目标函数：$$max_\theta Q(\theta; \theta_t)$$；
+约束：$$\sum_n P(w_n \mid z_k) = 1, \sum_k P(z_k \mid d_m) = 1$$
+
+使用Lagrange乘数法，得到Lagrange函数为
+
+$$Q(\theta; \theta_t) + \sum_k \tau_k (1- \sum_n P(w_n \mid z_k) ) + \sum_m \rho_m(1- \sum_k P(z_k \mid d_m))$$
+
+令其对参数的偏导数等于零，得到$$K \times M + V \times K$$个方程，这些方程的解就是最优化问题的解：
+
+$$\frac{\partial}{\partial P(w_n \mid _k)} = \frac{\sum_m n(d_m, w_n) P(z_k \mid w_n, d_m; \theta_t)}{P(w_n \mid z_k)} - \tau_k = 0, 1 \leq n \leq V, 1 \leq k \leq K$$
+
+$$\frac{\partial}{\partial P(z_k \mid d_m)} = \frac{\sum_n n(d_m, w_n) P(z_k \mid w_n, d_m; \theta_t)}{P(z_k \mid d_m))} - \rho_m = 0, 1 \leq m \leq V, 1 \leq k \leq K$$
+
+方程的解为
+
+$$P(w_n \mid z_k) = \frac{\sum_m n(d_m,w_n) P(z_k \mid w_n, d_m; \theta_t)}{\tau_k}$$
+
+$$P(z_k \mid d_m) = \frac{\sum_m n(d_m,w_n) P(z_k \mid w_n, d_m; \theta_t)}{\rho_m}$$
+
+注意到两个约束条件，即
+
+$$\sum_n \frac{\sum_m n(d_m, w_n)P(z_k \mid w_n, d_m; \theta_t)}{\tau_k} = 1$$
+
+$$\sum_k \frac{\sum_m n(d_m,w_n) P(z_k \mid w_n, d_m; \theta_t)}{\rho_m} = 1$$
+
+从中可求得$$\tau_k, \rho_m$$，所以方程的解为
+
+$$P_{t+1}(w_n \mid z_k) = \frac{\sum_m n(d_m, w_n) P(z_k \mid w_n, d_m; \theta_t)}{\sum_n \sum_m n(d_m, w_n) P(z_k \mid w_n, d_m; \theta_t)}$$
+
+$$P_{t+1}(z_k \mid d_m) = \frac{\sum_n n(d_m, w_n) P(z_k \mid w_n, d_m; \theta_t)}{\sum_k \sum_n n(d_m, w_n) P(z_k \mid w_n, d_m; \theta_t)}$$
+
+当模型参数全部估计好后，便得到了完整的pLSA模型。上面的迭代过程很明显是一个频数估计（极大似然估计）的形式，意义很明确。模型使用EM算法进行参数估计时往往都会推导出这样的结果，例如HMM。
+
+### pLSA模型小结
+
+上面一系列公式因为总是在前面挂着两个求和号，所以看上去貌似挺热闹，其实它相比于朴素的三硬币模型的推导过程来说，无非就是多了作为条件出现的随机变量d，其余地方没有本质区别。
+
+不难看出来，pLSA模型需要顾及的参数数量是和训练文档集的大小是有关系的——因为有$$P(z_k \mid d_m)$$。显然，在训练集上训练出来的这组参数无法应用于训练文档以外的测试文档。
+
+作为频率学派的模型，pLSA模型中的参数被视作具体的值，也就谈不上什么先验。如果在真实应用场景中，我们对参数事先有一些先验知识，那么就需要使用贝叶斯估计来做参数估计。此时就会用到LDA模型。
+
+
 
 ## 参考文献
 
