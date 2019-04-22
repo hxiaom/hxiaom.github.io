@@ -74,7 +74,7 @@ $$P(w_n \mid d_m) = \sum_k P(z_k \mid d_m)P(w_n \mid z_k, d_m)$$
 
 但是观察图模型中的d、z、w可以知道，它们三个是有向图模型里非常典型的head-to-tail的情况：当z已知时，d和w条件独立，也就是
 
-$$P(w_n \mid z_k, d_m)$$ = P(w_n \mid z_k)$$
+$$P(w_n \mid z_k, d_m) = P(w_n \mid z_k)$$
 
 进而有
 
