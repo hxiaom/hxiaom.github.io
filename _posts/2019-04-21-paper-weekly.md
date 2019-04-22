@@ -15,3 +15,12 @@ categories: Mobility
     - Motivation: scientist immigration
     - Research gaps: The recruitment of foreign-trained scientists enhances US science through an expanded workforce but could also cause harm by displacing better connected domestically-trained scientists, thereby reducing localized knowledge spillovers.
     - Findings: we do not find evidence that foreign-trained scientists harm US science by crowding out better-connected domestically-trained scientists, measured by citations by the US scientific community to their publications.
+
+3. [International research collaboration: Novelty, conventionality, and atypicality in knowledge recombination](https://www.sciencedirect.com/science/article/abs/pii/S0048733319300046)
+
+    - Motivation: International research collaboration
+    - Research gaps: this article tests for novelty and conventionality in international research collaboration.
+    - Findings: 
+        - Scholars have found that coauthored articles are more novel and have suggested that diverse groups have a greater chance of producing creative work. 
+        - international collaboration appears to produce less novel and more conventional knowledge combinations. 
+        - Higher citations to international work may be explained by an audience effect.
