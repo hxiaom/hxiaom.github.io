@@ -95,7 +95,7 @@ L(\theta) &= ln \prod_{m=1}^M \prod_{n=1}^N P(d_m,w_n)^{n(d_m,w_n)} \\
 &= \sum_m \sum_n n(d_m, w_n) ln P(w_n \mid d_m) + \sum_m \sum_n n(d_m, w_n) ln P(d_m) \\
 \end{align}$$
 
-第二项可以直接去掉，那么不妨直接记：
+其中$$n(d_m, w_n)$$是$$w_n$$出现在文档$$d_m$$中的次数。第二项可以直接去掉，那么不妨直接记：
 
 $$\begin{align}
 L(\theta) &= \sum_m \sum_n n(d_m, w_n) ln P(w_n \mid d_m) \\
