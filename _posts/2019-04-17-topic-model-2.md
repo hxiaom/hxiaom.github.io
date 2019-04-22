@@ -115,7 +115,13 @@ Q(\theta; \theta_t) = \sum_m \sum_n n(d_m,w_n) E_{z_k \mid w_n,d_m;\theta_t}[ln 
 &= \sum_m \sum_n n(d_m,w_n) \sum_k P(z_k \mid w_n, d_m; \theta_t) ln P(w_n, z_k \mid d_m) \\
 \end{align}$$
 
+(1) 联合概率$$P(w_n,z_k \mid d_m)$$求解：
 
+$$P(w_n, z_k \mid d_m) = P(z_k \mid d_m)P(w_n \mid z_k,d_m) = P(z_k \mid d_m) = P(z_k \mid d_m)P(w_n \mid z_k)$$
+
+(2) $$P(z_k \mid w_n, d_m; \theta_t)$$的求解：
+
+所谓的$$\theta_t$$实际上就是上一步迭代的全部$$K \times M$$个$$P(z_k \mid d_m)$$和$$V \times K$$个$$P(w_n \mid z_k)$$。
 
 ## 参考文献
 
