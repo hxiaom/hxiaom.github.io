@@ -95,7 +95,7 @@ L(\theta) &= ln \prod_{m=1}^M \prod_{n=1}^N P(d_m,w_n)^{n(d_m,w_n)} \\
 &= \sum_m \sum_n n(d_m, w_n) ln P(w_n \mid d_m) + \sum_m \sum_n n(d_m, w_n) ln P(d_m) \\
 \end{align}$$
 
-其中$$n(d_m, w_n)$$是$$w_n$$出现在文档$$d_m$$中的次数。第二项可以直接去掉，那么不妨直接记：
+其中$$n(d_m, w_n)$$是$$w_n$$出现在文档$$d_m$$中的次数。出现的次数是确定的，文档的概率也是已有的，对求取极大值点无影响，所以第二项可以直接去掉，那么不妨直接记：
 
 $$\begin{align}
 L(\theta) &= \sum_m \sum_n n(d_m, w_n) ln P(w_n \mid d_m) \\
@@ -192,3 +192,4 @@ $$P_{t+1}(z_k \mid d_m) = \frac{\sum_n n(d_m, w_n) P(z_k \mid w_n, d_m; \theta_t
 
 - [一文读懂如何用LSA、PSLA、LDA和lda2vec进行主题建模](https://www.sohu.com/a/234584362_129720)
 - [NLP —— 图模型（三）pLSA（Probabilistic latent semantic analysis，概率隐性语义分析）模型](https://www.cnblogs.com/Determined22/p/7237111.html)
+- [LDA（一）：LDA前身PLSA介绍与推导](https://blog.csdn.net/iothouzhuo/article/details/51470076)
