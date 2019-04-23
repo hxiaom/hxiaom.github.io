@@ -41,3 +41,9 @@ categories: Mobility
 
 11. [ARE WE THERE YET? A REALITY CHECK ON SELF-DRIVING CARS](https://www.wired.com/story/future-of-transportation-self-driving-cars-reality-check/)
 
+12. [小鹏汽车“失速”](https://36kr.com/p/5197706)
+
+13. [Waymo picks Detroit factory to build self-driving cars](https://techcrunch.com/2019/04/23/waymo-picks-detroit-factory-to-build-self-driving-cars/)
+
+    > Waymo,  the self-driving vehicle technology startup under Alphabet, is setting up shop in a Detroit factory on American Axle & Manufacturing’s campus.
+
