@@ -24,3 +24,12 @@ categories: Mobility
         - Scholars have found that coauthored articles are more novel and have suggested that diverse groups have a greater chance of producing creative work. 
         - international collaboration appears to produce less novel and more conventional knowledge combinations. 
         - Higher citations to international work may be explained by an audience effect.
+
+4. [Research joint ventures and technological proximity](https://www.sciencedirect.com/science/article/abs/pii/S0048733319300058)
+
+    - Motivation: Research joint ventures
+    - Research gap: knowledge spillovers increase with the technological proximity between firms.
+    - Findings: 
+        - (i) RJVs do not generally outperform competitive research with respect to innovative output and social welfare; 
+        - (ii) technological proximity and the intensity of collaboration play a decisive role for the private and social benefits of a RJV;
+        - (iii) joint research combined with complete knowledge sharing does not generally outperform less intensive collaboration forms.
