@@ -14,6 +14,7 @@ categories: Mobility
 
 - Innovation Knowledge Graph
     - Knowledge Representation
+    - IKG Schema
     - Profile
     - IKG Application
         - Academic Recommendation
