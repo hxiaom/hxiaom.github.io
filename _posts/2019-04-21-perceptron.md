@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Method】感知机（一）
+title: 【Method】感知机
 categories: Analytics
 ---
 
