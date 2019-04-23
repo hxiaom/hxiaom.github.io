@@ -190,7 +190,7 @@ $$b = \sum_{i=1}^N \alpha_i y_i$$
 
 其中$$\alpha = (\alpha_1, \alpha_2, ..., \alpha_N)^T$$
 
-(1) $$\alpah \gets 0, \b gets 0$$
+(1) $$\alpha \gets 0, b gets 0$$
 
 (2) 在训练集中依次选取数据$$(x_i, y_i)$$
 
