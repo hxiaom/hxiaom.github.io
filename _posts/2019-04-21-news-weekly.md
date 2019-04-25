@@ -47,3 +47,12 @@ categories: Mobility
 
     > Waymo,  the self-driving vehicle technology startup under Alphabet, is setting up shop in a Detroit factory on American Axle & Manufacturing’s campus.
 
+14. [滴滴顺风车开放灰度测试](https://www.huxiu.com/article/296135.html)
+
+15. [Tesla reports $702 million loss in first quarter](https://techcrunch.com/2019/04/24/tesla-reports-702-million-loss-in-first-quarter/)
+
+    > Tesla  reported Wednesday wider-than-expected loss of $702 million, or $4.10 a share, in the first quarter after disappointing delivery numbers, costs and pricing adjustments to its vehicles threw the automaker off of its profitability track.
+
+16. [Tesla plans to launch an insurance product ‘in about a month’](https://techcrunch.com/2019/04/24/tesla-plans-to-launch-an-insurance-product-in-about-a-month/)
+
+17. [Elon Musk on taking Tesla private: ‘That ship has sailed’](https://techcrunch.com/2019/04/24/elon-musk-on-taking-tesla-private-that-ship-has-sailed/)

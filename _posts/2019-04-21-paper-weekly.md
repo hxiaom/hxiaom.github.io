@@ -33,3 +33,5 @@ categories: Mobility
         - (i) RJVs do not generally outperform competitive research with respect to innovative output and social welfare; 
         - (ii) technological proximity and the intensity of collaboration play a decisive role for the private and social benefits of a RJV;
         - (iii) joint research combined with complete knowledge sharing does not generally outperform less intensive collaboration forms.
+
+5. [Enriched LDA (ELDA): Combination of latent Dirichlet allocation with word co-occurrence analysis for aspect extraction]
