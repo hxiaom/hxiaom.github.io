@@ -35,3 +35,7 @@ categories: Mobility
         - (iii) joint research combined with complete knowledge sharing does not generally outperform less intensive collaboration forms.
 
 5. [Enriched LDA (ELDA): Combination of latent Dirichlet allocation with word co-occurrence analysis for aspect extraction]
+
+    - Motivation: Aspect extraction
+    - Research gap: Current aspect extraction techniques are mostly based on topic models; however, employing only topic models causes incoherent aspects to be generated. 
+    - Proposed method: this paper aims to discover more precise aspects by incorporating co-occurrence relations as prior domain knowledge into the Latent Dirichlet Allocation (LDA) topic model.
