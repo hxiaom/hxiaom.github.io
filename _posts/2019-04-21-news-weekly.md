@@ -56,3 +56,9 @@ categories: Mobility
 16. [Tesla plans to launch an insurance product ‘in about a month’](https://techcrunch.com/2019/04/24/tesla-plans-to-launch-an-insurance-product-in-about-a-month/)
 
 17. [Elon Musk on taking Tesla private: ‘That ship has sailed’](https://techcrunch.com/2019/04/24/elon-musk-on-taking-tesla-private-that-ship-has-sailed/)
+
+18. [美团打车在上海、南京上线“聚合模式”，接下来要和高德抢生意了](https://36kr.com/p/5198561)
+
+    > 36氪了解到，美团打车将于26日在上海、南京上线“聚合模式”，通过接入首汽约车、曹操出行、神州专车等主流出行服务商，用户可以在美团一键呼叫多个不同平台的车辆，享受到不同品类的打车服务。近期，美团打车将以“聚合模式”在更多城市试点。
+
+19. [Self-Driving Cars Get the Greenlight Under New Utah Law](https://www.govtech.com/policy/Self-Driving-Cars-Get-the-Greenlight-Under-New-Utah-Law.html)
