@@ -39,3 +39,9 @@ categories: Mobility
     - Motivation: Aspect extraction
     - Research gap: Current aspect extraction techniques are mostly based on topic models; however, employing only topic models causes incoherent aspects to be generated. 
     - Proposed method: this paper aims to discover more precise aspects by incorporating co-occurrence relations as prior domain knowledge into the Latent Dirichlet Allocation (LDA) topic model.
+
+6. [TelCoVis: Visual Exploration of Co-occurrence in Urban Human Mobility Based on Telco Data](https://ieeexplore.ieee.org/abstract/document/7192730)
+
+    - Motivation: co-occurrence in urban human mobility
+    - Research gap: widespread use of mobile phone, lack of systematic and efficient methods to analysis
+    - Proposed method: TelCoVis, an interactive visual analytics system, which helps analysts leverage their domain knowledge to gain insight into the co-occurrence in urban human mobility based on telco data.
