@@ -60,8 +60,47 @@ $$P(Y=1 \mid x) = \frac{exp(w \bullet x)}{1+exp(w \bullet x)}$$
 
 这时，线性函数的值越接近正无穷，概率值就越接近1；线性函数的值越接近负无穷，概率值就越接近0。这样的模型就是逻辑斯蒂回归模型。
 
+### 模型参数估计
 
+逻辑斯蒂回归模型学习时，对于给定的训练数据集$$T={(x_1, y_1),(x_2, y_2),...,(x_N,y_N)}$$，其中，$$x_i \in R^n, y_i \in {0,1}$$，可以应用极大似然估计法估计参数模型，从而得到逻辑斯蒂回归模型。
 
+设；
+
+$$P(Y=1 \mid x) = \pi(x) , P(Y=0 \mid x)= 1- \pi(x)$$
+
+似然函数为
+
+$$\prod_{i=1}^N [\pi (x_i)]^{y_i} [1- \pi(x_i)]^{1-y_i}$$
+
+对数似然函数为
+
+$$\begin{align}
+L(w) &= \sum_{i=1}^N [y_i log \pi(x_i) + (1-y_i)log(1- \pi(x_i))] \\
+& = \sum_{i=1}^N [y_i log \frac{\pi(x_i)}{1- \pi(x_i)} + log(1- \pi(x_i))] \\
+&= \sum_{i=1}^N [y_i (w \bullet x_i) + log(1+ exp(w \bullet x_i))] \\
+\end{align}$$
+
+对L(w)求极大值，得到w的估计值。
+
+这样，问题就变成了以对数似然函数为目标函数的最优化问题。逻辑斯蒂回归学习中通常采用的方法是梯度下降法及牛顿法。
+
+假设w的极大似然估计值是$$\hat{w}$$，那么学习到的逻辑斯蒂回归模型为：
+
+$$P(Y=1 \mid x) = \frac{exp(\hat{w} \bullet x)}{1+exp(\hat{w} \bullet x)}$$
+
+$$P(Y=0 \mid x) = \frac{1}{1+exp(\hat{w} \bullet x)}$$
+
+### 多项逻辑斯蒂回归
+
+上面介绍的逻辑斯蒂回归模型是二项分类模型，用于二类分类。可以将其推广为多项逻辑斯蒂回归（multi-nominal logistic regression model），用于多类分类。假设离散随机变量Y的取值集合是{1,2,...,K}，那么多项逻辑斯蒂回归模型是
+
+$$P(Y=k \mid x) = \frac{exp(w_k \bullet x)}{1+ \sum_{k=1}^{K-1}exp(w_k \bullet x)}, k=1,2,...,K-1$$
+
+$$P(Y=K \mid x) = \frac{1}{1+ \sum_{k=1}^{K-1}exp(w_k \bullet x)}$$
+
+这里，$$x \in R^{n+1}, w_k \in R^{n+1}$$。
+
+二项逻辑斯蒂回归的参数估计法也可以推广到多项逻辑斯蒂回归。
 
 
 
