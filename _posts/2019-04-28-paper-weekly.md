@@ -9,3 +9,9 @@ categories: Mobility
     - Motivation: Author name disambiguation
     - Research gap: First, the namesake problem in which two or more authors with the same name publishes in a similar domain. Second, the diverse topic problem in which one author publishes in diverse topical domains with a different set of coauthors.
     - Proposed method: we initially propose a method named ATGEP for AND that addresses the namesake issue. 
+
+2. [Allocation of e-car charging: Assessing the utilization of charging infrastructures by location](https://www.sciencedirect.com/science/article/pii/S0965856418311042)
+
+    - Motivation: The availability of charging infrastructure
+    - Research question: This paper aims to examine the distribution of the allocation of future charges to the various types of charging stations in order to provide a starting point for the evaluation of the need for charging infrastructure, i.e. its number, design and cost-effectiveness.
+    - Proposed method: a new approach to derive the allocation of charging processes is applied by using demographic variables and decision rules.
