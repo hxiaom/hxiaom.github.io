@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Series Data Analyze
+title: 【Method】Time Series Data Analyze
 categories: Analytics
 ---
 

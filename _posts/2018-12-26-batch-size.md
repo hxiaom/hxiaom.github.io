@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Batch Size in Deep Learning
+title: 【Method】Batch Size in Deep Learning
 categories: Analytics
 ---
 
