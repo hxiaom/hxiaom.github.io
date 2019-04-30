@@ -15,3 +15,9 @@ categories: Mobility
     - Motivation: The availability of charging infrastructure
     - Research question: This paper aims to examine the distribution of the allocation of future charges to the various types of charging stations in order to provide a starting point for the evaluation of the need for charging infrastructure, i.e. its number, design and cost-effectiveness.
     - Proposed method: a new approach to derive the allocation of charging processes is applied by using demographic variables and decision rules.
+
+3. [Recommendations and privacy in the arXiv system: A simulation experiment using historical data](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24236)
+
+    - Motivation: Recommendation and privacy.
+    - Research gaps: Recommender systems may accelerate knowledge discovery in many fields. However, their users may be competitors guarding their ideas before publication or for other reasons.
+    - Research work: We describe a simulation experiment to assess user privacy against targeted attacks, modeling recommendations based on co‐access data. 

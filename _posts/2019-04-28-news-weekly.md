@@ -8,3 +8,6 @@ categories: Mobility
 
 2. [王兴「曲线救国」：美团推打车平台，不再死磕滴滴](https://36kr.com/p/5198910)
 
+3. [When Rainbow Physics Meets Self-driving Cars](https://www.entrepreneur.com/article/332952)
+
+    
