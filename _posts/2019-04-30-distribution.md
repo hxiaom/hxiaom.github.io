@@ -40,3 +40,7 @@ categories: Analytics
 $$P(\theta \mid X) = \frac{P(X \mid \theta)P(\theta)}{P(X)}$$
 
 我们可以通过现实情况建模似然函数的分布，例如我们把n个独立的是/非实验看作二项分布，即我们的数据符合$$P(X \mid \theta)$$。但对于二项分布的参数p的分布我们是不知道的，为了计算方便。我们选择与先验分布共轭的分布，作为参数p的分布。即$$P(\theta)$$与$$P(\theta \mid X)$$的分布。
+
+## 参考文献
+- [共轭是指 ‘先验分布与后验分布共轭“ ，还是指 "先验分布与似然函数共轭“？](https://www.zhihu.com/question/41846423/answer/221280615)
+- [Conjugate prior](https://en.wikipedia.org/wiki/Conjugate_prior)
