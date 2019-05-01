@@ -10,4 +10,10 @@ categories: Mobility
 
 3. [When Rainbow Physics Meets Self-driving Cars](https://www.entrepreneur.com/article/332952)
 
-    
+4. [Uber和滴滴背后迥异的“悬崖式”监管](https://www.huxiu.com/article/297087.html)
+
+5. [GM’s electric future includes a pickup truck](https://techcrunch.com/2019/04/30/gms-electric-future-includes-a-pickup-truck/)
+
+6. [Uber adds real-time public transport data for London](https://techcrunch.com/2019/04/30/assimilate/)
+
+    > From today, Uber  has added public transport to its app in London, incorporating real-time information on the city’s Underground, Overground, train and bus network, as well as other trams, shuttle, river boat and the DLR’s driverless trains.
