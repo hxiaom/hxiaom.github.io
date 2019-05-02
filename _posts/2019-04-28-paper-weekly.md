@@ -21,3 +21,9 @@ categories: Mobility
     - Motivation: Recommendation and privacy.
     - Research gaps: Recommender systems may accelerate knowledge discovery in many fields. However, their users may be competitors guarding their ideas before publication or for other reasons.
     - Research work: We describe a simulation experiment to assess user privacy against targeted attacks, modeling recommendations based on co‐access data. 
+
+4. [Dynamic ridesharing with variable-ratio charging-compensation scheme for morning commute](https://www.sciencedirect.com/science/article/pii/S0191261518307689)
+
+    - Motivation: Ridesharing, Morning commute
+    - Research gap: variable-ratio charging-compensation scheme (VCS)
+    - Research work: The optimal VCS without imposing road pricing when the ridesharing platform minimizes the disutility or maximizes its profit is analyzed.
