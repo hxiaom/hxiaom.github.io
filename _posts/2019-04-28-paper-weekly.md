@@ -27,3 +27,9 @@ categories: Mobility
     - Motivation: Ridesharing, Morning commute
     - Research gap: variable-ratio charging-compensation scheme (VCS)
     - Research work: The optimal VCS without imposing road pricing when the ridesharing platform minimizes the disutility or maximizes its profit is analyzed.
+
+5. [Explicit factor models for explainable recommendation based on phrase-level sentiment analysis](https://dl.acm.org/citation.cfm?id=2609579)
+
+    - Motivation: explainable
+    - Research gap: the latent features make CF algorithms difficulty to explain the recommendation results to the users. with the continuous growth of online user reviews, the information available for training a recommender system is no longer limited to just numerical star ratings or user/item features.
+    - Proposed method: we propose the Explicit Factor Model (EFM) to generate explainable recommendations, meanwhile keep a high prediction accuracy.
