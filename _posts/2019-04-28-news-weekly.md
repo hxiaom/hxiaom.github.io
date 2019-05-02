@@ -34,3 +34,7 @@ categories: Mobility
 
     > Waymo One now lets you stream music through screens in its self-driving cars. 
 
+11. [Toyota to invest $100 million in self-driving and robotic technology start-ups](https://www.cnbc.com/2019/05/02/toyota-to-invest-100-million-in-autonomous-driving-and-robotic-startups.html)
+
+    > Toyota AI Ventures, a Silicon Valley-based subsidiary of Toyota, plans to invest the money into early-stage startups that are developing “disruptive” technologies in those fields, the company said.
+
