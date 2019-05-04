@@ -38,3 +38,6 @@ categories: Mobility
 
     > Toyota AI Ventures, a Silicon Valley-based subsidiary of Toyota, plans to invest the money into early-stage startups that are developing “disruptive” technologies in those fields, the company said.
 
+12. [Tesla's self-driving 'brain' hit with serious Trump administration tariff](https://mashable.com/article/tesla-self-driving-trump-tariff/)
+
+13. [Self-driving will make Tesla a $500B company - Musk](https://seekingalpha.com/news/3458524-self-driving-will-make-tesla-500b-company-musk)
