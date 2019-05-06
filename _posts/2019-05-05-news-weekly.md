@@ -51,3 +51,11 @@ categories: Mobility
     > Tesla has suggested that the tariffs could force it to cease making its self-driving computers in China, thus delaying their introduction and even reducing vehicle safety.
 
     > But on March 15, the USTR’s general counsel informed Tesla that it was denying the company’s request because it “concerns a product strategically important or related to ‘Made in China 2025’ or other Chinese industrial programs.” The USTR also rejected a retroactive exemption request for legacy Autopilot 2.5 hardware, for the same reason.
+
+6. [比亚迪的电动汽车巨头之路，与特斯拉完全不同](https://36kr.com/p/5201084)
+
+7. [Self-driving shuttle service to launch in Providence](https://www.sfchronicle.com/news/article/Self-driving-shuttle-service-to-launch-in-13820454.php?psid=30Iyd)
+
+    > Democratic Gov. Gina Raimondo and state Department of Transportation Director Peter Alviti say the "Little Roady" autonomous vehicle pilot program is scheduled to begin May 15. It's the first service of its kind in the state.
+
+8. [Better Buy: NVIDIA vs. Qualcomm](https://www.fool.com/investing/2019/05/05/better-buy-nvidia-vs-qualcomm.aspx)
