@@ -19,3 +19,12 @@ categories: Mobility
         - RJVs do not generally outperform competitive research with respect to innovative output and social welfare; 
         - technological proximity and the intensity of collaboration play a decisive role for the private and social benefits of a RJV;
         - joint research combined with complete knowledge sharing does not generally outperform less intensive collaboration forms.
+
+3. [Temporal Unknown Incremental Clustering Model for Analysis of Traffic Surveillance Videos](https://ieeexplore.ieee.org/document/8384026)
+
+    - Motivation: Optimized scene representation is an important characteristic of a framework for detecting abnormalities on live videos.
+    - Research gaps:
+        - detecting abnormalities in live videos is real-time detection of objects in a non-parametric way.
+        - efficiently represent the state of objects temporally across frames.
+    - Proposed method:
+        - a Gibbs sampling-based heuristic model referred to as temporal unknown incremental clustering has been proposed to cluster pixels with motion. 
