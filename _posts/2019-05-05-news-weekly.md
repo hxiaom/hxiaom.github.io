@@ -59,3 +59,11 @@ categories: Mobility
     > Democratic Gov. Gina Raimondo and state Department of Transportation Director Peter Alviti say the "Little Roady" autonomous vehicle pilot program is scheduled to begin May 15. It's the first service of its kind in the state.
 
 8. [Better Buy: NVIDIA vs. Qualcomm](https://www.fool.com/investing/2019/05/05/better-buy-nvidia-vs-qualcomm.aspx)
+
+9. [投资滴滴、摩拜失败之后，腾讯亲自下场做出行](https://36kr.com/p/5201524)
+
+10. [Uber and Lyft drivers are striking ahead of Uber’s IPO](https://techcrunch.com/2019/05/06/uber-and-lyft-drivers-are-striking-ahead-of-ubers-ipo/)
+
+11. [RI: Date set for launch of self-driving shuttle service in Providence](https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/news/21079251/date-set-for-launch-of-selfdriving-shuttle-service-in-providence)
+
+    > Democratic Gov. Gina Raimondo and state Department of Transportation Director Peter Alviti say the "Little Roady" autonomous vehicle pilot program is scheduled to begin May 15. It's the first service of its kind in the state.
