@@ -67,3 +67,25 @@ categories: Mobility
 11. [RI: Date set for launch of self-driving shuttle service in Providence](https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/news/21079251/date-set-for-launch-of-selfdriving-shuttle-service-in-providence)
 
     > Democratic Gov. Gina Raimondo and state Department of Transportation Director Peter Alviti say the "Little Roady" autonomous vehicle pilot program is scheduled to begin May 15. It's the first service of its kind in the state.
+
+12. [出行平台高峰涨价是在趁火打劫吗？](https://www.huxiu.com/article/298004.html)
+
+    > 滴滴等出行平台，采用潮汐定价策略（高峰涨价），并不是想要在这个时候对乘客趁火打劫，增加平台收益。而是采用了经济学相关理论，通过价格手段，让更多乘客能享受出行服务的同时，也让司机获得更多收益，从而实现整个交易系统效率最大化。
+
+13. [司机产品的四个关键问题](https://www.huxiu.com/article/298035.html)
+
+    > 司机的核心需求是收入和自由度；
+
+    > 司机使用产品的环境复杂；
+
+    > 司机遭遇问题没有解答会过度解读；
+
+    > 司机遭遇问题是必然事件；
+
+14. [特斯拉Autopilot推出“车找人” ，再也不怕忘了停车](https://36kr.com/p/5202183)
+
+15. [Waymo and Lyft partner to scale self-driving robotaxi service in Phoenix](https://techcrunch.com/2019/05/07/waymo-and-lyft-partner-to-scale-self-driving-robotaxi-service-in-phoenix/)
+
+    > Waymo  is partnering with Lyft to bring self-driving vehicles onto the ride-hailing network in Phoenix as the company ramps up its commercial robotaxi service.
+
+    > Waymo will add 10 of its self-driving vehicles onto Lyft  platform over the next few months, according to CEO John Krafcik. Once Waymo vehicles are on the platform, Lyft users in the area will have the option to select a Waymo directly from the Lyft app for eligible rides.
