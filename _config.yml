@@ -22,7 +22,7 @@ plugins:
  - jekyll-paginate
 
 # Pagination
-paginate: 5
+paginate: 6
 paginate_path: posts/page:num/
 
 # Comments
