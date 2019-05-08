@@ -28,3 +28,12 @@ categories: Mobility
         - efficiently represent the state of objects temporally across frames.
     - Proposed method:
         - a Gibbs sampling-based heuristic model referred to as temporal unknown incremental clustering has been proposed to cluster pixels with motion. 
+
+4. [A novel classification method for paper-reviewer recommendation](https://link.springer.com/article/10.1007/s11192-018-2726-6)
+
+    - Motivation: Reviewer recommendation
+    - Research gap: many unsupervised recommendation methods have been researched to solve this task. not supervised method.
+    - Proposed method: a novel classification method named Word Mover’s Distance–Constructive Covering Algorithm (WMD–CCA, for short)
+        - First, the submission or the reviewer is represented as some vectors by a word embedding method
+        - Second, the Word Mover’s Distance (WMD, for short) method is used to measure the minimum distances between submissions and reviewers. 
+        - finally, the reviewer recommendation task is transformed into a classification problem which is solved by a supervised learning method- Constructive Covering Algorithm (CCA, for short)
