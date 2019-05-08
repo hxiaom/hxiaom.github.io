@@ -89,3 +89,21 @@ categories: Mobility
     > Waymo  is partnering with Lyft to bring self-driving vehicles onto the ride-hailing network in Phoenix as the company ramps up its commercial robotaxi service.
 
     > Waymo will add 10 of its self-driving vehicles onto Lyft  platform over the next few months, according to CEO John Krafcik. Once Waymo vehicles are on the platform, Lyft users in the area will have the option to select a Waymo directly from the Lyft app for eligible rides.
+
+16. [中国新能源汽车将走向何方](https://www.huxiu.com/article/298227.html)
+
+17. [数据说话，2018年中国民航发展的怎么样？](https://www.huxiu.com/article/298260.html)
+
+18. [顺风车曾为滴滴贡献九成净利润，最高达到9亿](https://www.huxiu.com/article/298267.html)
+
+19. [Uber司机罢工正式开始，900亿美元独角兽IPO前危机袭来](https://36kr.com/p/5202614)
+
+20. [寻找创新——来自汽车行业的实践  鲸准研究院](https://36kr.com/p/5199620)
+
+21. [Waymo CTO: In a natural disaster, self-driving cars must recognize their limits](https://www.cnet.com/news/waymo-cto-in-a-natural-disaster-self-driving-cars-must-recognize-their-limits/)
+
+22. [Waymo at 1,000 Riders: The Self-Driving Frontrunner Inches Forward](https://www.bloomberg.com/news/articles/2019-05-08/waymo-at-1-000-riders-the-self-driving-frontrunner-inches-forward)
+
+    > Waymo, the self-driving project owned by Alphabet Inc., announced on Tuesday that it has enrolled 1,000 customers for its ride-hailing service in suburban Phoenix. 
+
+23. [Report: Amazon in talks to acquire self-driving truck startup TuSimple](https://siliconangle.com/2019/05/07/report-amazon-talks-acquire-self-driving-truck-startup-tusimple/)

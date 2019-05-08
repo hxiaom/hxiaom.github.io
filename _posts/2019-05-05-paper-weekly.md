@@ -37,3 +37,9 @@ categories: Mobility
         - First, the submission or the reviewer is represented as some vectors by a word embedding method
         - Second, the Word Mover’s Distance (WMD, for short) method is used to measure the minimum distances between submissions and reviewers. 
         - finally, the reviewer recommendation task is transformed into a classification problem which is solved by a supervised learning method- Constructive Covering Algorithm (CCA, for short)
+
+5. [Reliable and Secure Distributed Smart Road Pricing System for Smart Cities](https://ieeexplore.ieee.org/document/8428666)
+
+    - Motivation: pay-as-you-drive services
+    - Research gap: the road pricing systems need trip data to invoice citizens, it is vital to ensure geolocation privacy while keeping drivers honest.
+    - Proposed method: security approach for smart road pricing systems, which prevents toll evasion violations. 
