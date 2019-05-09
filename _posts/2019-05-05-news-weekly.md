@@ -107,3 +107,5 @@ categories: Mobility
     > Waymo, the self-driving project owned by Alphabet Inc., announced on Tuesday that it has enrolled 1,000 customers for its ride-hailing service in suburban Phoenix. 
 
 23. [Report: Amazon in talks to acquire self-driving truck startup TuSimple](https://siliconangle.com/2019/05/07/report-amazon-talks-acquire-self-driving-truck-startup-tusimple/)
+
+24. [Waymo CTO: 5G will be a self-driving car ‘accelerator and enabler’](https://venturebeat.com/2019/05/08/waymo-cto-5g-will-be-a-self-driving-car-accelerator-and-enabler/)

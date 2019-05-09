@@ -43,3 +43,9 @@ categories: Mobility
     - Motivation: pay-as-you-drive services
     - Research gap: the road pricing systems need trip data to invoice citizens, it is vital to ensure geolocation privacy while keeping drivers honest.
     - Proposed method: security approach for smart road pricing systems, which prevents toll evasion violations. 
+
+6. [ASGR: An Artificial Spider-Web-Based Geographic Routing in Heterogeneous Vehicular Networks](https://ieeexplore.ieee.org/document/8357467/authors#authors)
+
+    - Motivation: vehicular ad hoc networks (VANETs) 
+    - Research Gap: Due to high mobility and frequent link disconnections, it becomes quite challenging to establish a reliable route for delivering packets in VANETs. 
+    - Proposed method:  an artificial spider geographic routing in urban VAENTs (ASGR) 
