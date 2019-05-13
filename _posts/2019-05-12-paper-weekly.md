@@ -14,3 +14,9 @@ categories: Mobility
         - Perceived usefulness also positively impacts satisfaction and attitude. 
         - Perceived risk tends to be negatively related to satisfaction. 
         - Perceived ease of use is positively associated with perceived usefulness and attitude.
+
+2. [Identification, Characterization, and Prediction of Traffic Flow Patterns in Multi-Airport Systems](https://ieeexplore.ieee.org/document/8373742)
+
+    - Motivation: Efficient planning of airport capacity
+    - Research gap: the dynamic and uncertain behavior of capacity-determining factors makes it difficult to estimate flow rates precisely, especially for strategic planning horizons.
+    - Proposed method:  a data-driven framework to identify, characterize, and predict traffic flow patterns in the terminal area of multi-airport systems toward improved capacity planning decision support in complex airspace. 
