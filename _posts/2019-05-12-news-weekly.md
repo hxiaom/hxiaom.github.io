@@ -23,3 +23,15 @@ categories: Mobility
     > 2020 presidential candidate Andrew Yang is using his campaign to warn America about the potentially damaging impact automation could have on the economy — and he's putting an emphasis on truck drivers.
 
     > What he's saying: "What are the truck drivers going to do when the robot trucks come and start driving themselves?” Yang asked at a recent rural issues forum in Stuart, Iowa. Yang says the country needs a plan to manage the loss of these jobs, describing truck driving as the "most common job in 29 states."
+
+8. [3万条航班数据背后，230座城市的天空之战](https://www.huxiu.com/article/298893.html)
+
+9. [Uber had an abysmal second day of trading](https://techcrunch.com/2019/05/13/uber-stock-day-two/)
+
+    > It’s not looking great for ride-hailing giant Uber (NYSE: UBER). Today, Uber closed its second day of trading down more than 18.8% from its IPO price at $37.25 per share, with a market cap of $62.2 billion.
+
+10. [Uber launches PIN feature to cut wait times at US airports, starting in Portland](https://techcrunch.com/2019/05/13/uber-launches-pin-feature-to-cut-wait-times-at-airports-starting-in-portland/)
+
+11. [May Mobility will deploy self-driving shuttles in third city this week](https://www.autonews.com/mobility-report/may-mobility-will-deploy-self-driving-shuttles-third-city-week)
+
+12. [AAA survey finds more optimism over self-driving cars than in EVs](https://www.greencarreports.com/news/1123023_aaa-survey-finds-more-optimism-over-self-driving-cars-than-in-evs)
