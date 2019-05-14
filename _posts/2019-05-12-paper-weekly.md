@@ -20,3 +20,9 @@ categories: Mobility
     - Motivation: Efficient planning of airport capacity
     - Research gap: the dynamic and uncertain behavior of capacity-determining factors makes it difficult to estimate flow rates precisely, especially for strategic planning horizons.
     - Proposed method:  a data-driven framework to identify, characterize, and predict traffic flow patterns in the terminal area of multi-airport systems toward improved capacity planning decision support in complex airspace. 
+
+3. [Scheduling the Operation of a Connected Vehicular Network Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8365853)
+
+    - Motivation: Internet of Vehicles (IoV)
+    - Research gap: satisfy the driver’s well-being and demand for continuous connectivity in the IoV era.
+    - Proposed method: this paper addresses both safety and quality-of-service (QoS) concerns in a green, balanced, connected, and efficient vehicular network. Using the recent advances in training deep neural networks, we exploit the deep reinforcement learning model, namely deep Q-network, which learns a scheduling policy from high-dimensional inputs corresponding to the current characteristics of the underlying model.
