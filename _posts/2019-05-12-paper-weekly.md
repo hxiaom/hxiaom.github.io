@@ -26,3 +26,11 @@ categories: Mobility
     - Motivation: Internet of Vehicles (IoV)
     - Research gap: satisfy the driver’s well-being and demand for continuous connectivity in the IoV era.
     - Proposed method: this paper addresses both safety and quality-of-service (QoS) concerns in a green, balanced, connected, and efficient vehicular network. Using the recent advances in training deep neural networks, we exploit the deep reinforcement learning model, namely deep Q-network, which learns a scheduling policy from high-dimensional inputs corresponding to the current characteristics of the underlying model.
+
+4. [A longitudinal analysis of the effectiveness of California’s ban on cellphone use while driving](https://www.sciencedirect.com/science/article/pii/S0965856418313272)
+
+    - Motivation: In California, the use of handheld cellphones while driving has been prohibited since July 1, 2008.
+    - Findings: interrupted time series analysis
+        - The ban was found effective in reducing the cellphone usage-caused crashes in terms of both crash frequency and crash proportion. 
+        - crashes caused by cellphone use produce more severe outcomes than other crashes.
+        - the ban motivates drivers to switch from handheld cellphones to hands-free cellphones, but in terms of crash severity, hands-free cellphone usage and handheld cellphone usage do not show significant differences. 
