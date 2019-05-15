@@ -20,3 +20,12 @@ secure_file_priv=/tmp/   -- 限制mysqld的导入导出只能发生在/tmp/目�
 
 secure_file_priv=' '     -- 不对mysqld 的导入 导出做限制
 
+修改 /etc/my.cnf 文件
+
+```
+[mysqld_safe]
+[mysqld]
+secure_file_priv=""
+```
+
+重启mysql server
