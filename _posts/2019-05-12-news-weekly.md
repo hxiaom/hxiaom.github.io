@@ -35,3 +35,37 @@ categories: Mobility
 11. [May Mobility will deploy self-driving shuttles in third city this week](https://www.autonews.com/mobility-report/may-mobility-will-deploy-self-driving-shuttles-third-city-week)
 
 12. [AAA survey finds more optimism over self-driving cars than in EVs](https://www.greencarreports.com/news/1123023_aaa-survey-finds-more-optimism-over-self-driving-cars-than-in-evs)
+
+13. [为西安人着急，西安机场啥时候能通地铁？](https://www.huxiu.com/article/299301.html)
+
+14. [小鹏汽车进军网约车市场，上线“有鹏出行”平台提供专车服务](https://36kr.com/p/5205163)
+
+    > 小鹏汽车宣布旗下“有鹏出行”平台在广州上线试运营，定位于专车服务。小鹏方面表示，“有鹏出行”的品牌名称取自《论语.学而》“有朋自远方来，不亦乐乎”
+
+    > “有鹏出行”方面称，在试运营阶段将投入数百辆小鹏G3在广州的核心城区进行运营服务，此后会在供给侧快速爬坡，预计7月全面覆盖到全广州，并计划于今年底全城投入超过2000辆定制款小鹏G3用于网约车服务。
+
+15. [36氪首发「新石器」获云启资本领投近亿元人民币 A 轮融资，瞄准L4级无人车规模化交付](https://36kr.com/p/5204345)
+
+    > 新石器从2015年底开始研发L4级短途商用无人车，至今已发布两款无人车产品，配备车规级底盘和换电系统、车联网AI平台和模块化智能货厢。2018年4月，新石器曾获得车和家和元禾原点的天使轮融资。
+
+    > 该公司CEO余恩源在2009年创办新石器。新石器在2010年自主研发了第一代物流移动智能终端（PDA），并拥有快递柜的发明专利，曾提出无人机队运货解决方案。
+
+16. [汽车36人 地平线余凯：从创业开始，我就在努力从科学家变成一个商人](https://36kr.com/p/5204865)
+
+17. [36氪独家 滴滴青桔单车首次进入北京，首批投放3000辆](https://36kr.com/p/5204789)
+
+18. [充电桩越多，车主越“焦虑”？](https://36kr.com/p/5204466)
+
+    > 01.充电车位常被占，车主“扑空”成常态
+
+    > 02.充电桩缺乏修缮，坏桩影响充电效率
+
+    > 03.充电桩要“量”更要“管”
+
+19. [Self-driving vehicle pulled over by curious police officer](https://www.wpri.com/news/local-news/providence/self-driving-vehicle-pulled-over-by-curious-police-officer/2004006849)
+
+20. [Providence will get its first publicly available self-driving shuttle, report says](https://www.cnet.com/roadshow/news/providence-ri-self-driving-shuttle-may-mobility/)
+
+21. [Tesla’s self-driving patent application hints at faster collision response](https://www.teslarati.com/tesla-self-driving-patent-emergency-signal/)
+
+    > A recently published Tesla patent application titled “Autonomous Driving System Emergency Signaling” describes a method of quickly communicating emergency information from vehicle sensors feeding into autonomous driving software. The new communication method will improve Autopilot’s response in emergency situations, thereby reducing the probability of accidents.

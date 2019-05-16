@@ -13,3 +13,4 @@ pysqldf = lambda q: sqldf(q, globals())
 print(pysqldf("SELECT * FROM meat LIMIT 10;"))
 ```
 
+时快时慢
