@@ -69,3 +69,27 @@ categories: Mobility
 21. [Tesla’s self-driving patent application hints at faster collision response](https://www.teslarati.com/tesla-self-driving-patent-emergency-signal/)
 
     > A recently published Tesla patent application titled “Autonomous Driving System Emergency Signaling” describes a method of quickly communicating emergency information from vehicle sensors feeding into autonomous driving software. The new communication method will improve Autopilot’s response in emergency situations, thereby reducing the probability of accidents.
+
+22. [停在北上广](https://www.huxiu.com/article/299615.html)
+
+    > 2015年，北京的机动车保有量是570万左右，按照国际1:1.3的标准，理想停车位应在620万至740万之间。骨感的现实却是，停车位远不及这个数量。同年9月，广州市登记在册的规范停泊位约66万个，汽车车位比约1:0.3。
+
+    > 但是有许多外埠车已经心照不宣，“外地车只要早晚高峰不往核心区走，躲着点交警，没多大问题。”在他们看来，几千元办个牌，一年中偶尔没办进京证被拍到罚款几百块，“挺划算的”。
+
+23. [奔驰共享汽车败走中国，水土不服还是另有所谋？](https://www.huxiu.com/article/299583.html)
+
+    > 曾经在美国奥斯汀第一批体验car2go服务的云涛告诉寻找中国创客，和美国相比，car2go在中国的停车位依然是最大的问题。
+
+    > 相比共享单车，共享汽车的前期投入巨大，每一辆车所涉及的车辆购置费、停车费、燃料费、维修保养费以及运营维护费，都是数额巨大的成本开支，同时受困于交通条件，共享汽车并不能像共享单车一样在短时间内大规模扩张。
+
+24. [滴滴回应被约谈：置换小蓝，正积极沟通；](https://www.huxiu.com/article/299599.html)
+
+    > 5月16日，北京市交通部门对滴滴出行（北京小桔科技有限公司）进行约谈，指出其在未按照要求报备的情况下强行投放车辆，违反了《北京市非机动车管理条例》相关规定，扰乱了北京市互联网租赁自行车运营秩序。责令滴滴出行于5月16日下午进行车辆回收，5月17日12时前完成全部违规投放车辆的回收工作。同时，依法开展执法调查，并按程序对滴滴出行违规投放青桔单车一事实施处罚。
+
+25. [大辩论（一）：支持！现阶段中国应该发展商业航天](https://www.huxiu.com/article/299343.html)
+
+26. [大辩论（二）：反对！现阶段中国不该发展商业航天](https://www.huxiu.com/article/299351.html)
+
+27. [研发自动驾驶环卫清扫车,「仙途智能 Autowise.ai」开启德国港口试运营](https://36kr.com/p/5205019)
+
+28. [Renault ready to roll out its first fully self-driving services](https://www.motorauthority.com/news/1123122_renault-ready-to-roll-out-its-first-fully-self-driving-services)
