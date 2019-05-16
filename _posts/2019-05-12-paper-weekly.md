@@ -34,3 +34,10 @@ categories: Mobility
         - The ban was found effective in reducing the cellphone usage-caused crashes in terms of both crash frequency and crash proportion. 
         - crashes caused by cellphone use produce more severe outcomes than other crashes.
         - the ban motivates drivers to switch from handheld cellphones to hands-free cellphones, but in terms of crash severity, hands-free cellphone usage and handheld cellphone usage do not show significant differences. 
+
+5. [An Evaluation of HTM and LSTM for Short-Term Arterial Traffic Flow Prediction](https://ieeexplore.ieee.org/document/8424074)
+
+    - Motivation: big data + machine learning
+    - Research gap: leverage the increasingly large amounts of traffic volume data to improve traffic flow prediction and the detection of anomalous traffic flows
+    - Proposed method: hierarchical temporal memory (HTM) for short-term prediction of traffic flows over real-world Sydney Coordinated Adaptive Traffic System data on arterial roads in the Adelaide metropolitan area in South Australia. Results are compared with those from long–short-term memory (LSTM).
+        - HTM has potential as an effective tool for short term traffic flow prediction with results on par with LSTM and improvements when traffic flow distributions change.
