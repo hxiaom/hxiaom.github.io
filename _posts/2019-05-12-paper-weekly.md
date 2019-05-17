@@ -41,3 +41,8 @@ categories: Mobility
     - Research gap: leverage the increasingly large amounts of traffic volume data to improve traffic flow prediction and the detection of anomalous traffic flows
     - Proposed method: hierarchical temporal memory (HTM) for short-term prediction of traffic flows over real-world Sydney Coordinated Adaptive Traffic System data on arterial roads in the Adelaide metropolitan area in South Australia. Results are compared with those from long–short-term memory (LSTM).
         - HTM has potential as an effective tool for short term traffic flow prediction with results on par with LSTM and improvements when traffic flow distributions change.
+
+6. [A pricing versus slots game in airport networks](https://www.sciencedirect.com/science/article/pii/S0191261517309128)
+
+    - Motivation: networks with two or three complementary airports.
+    - Research work: We show that equilibrium policies involve slots when airport profits do not matter and pricing policies when airport profits matter. We further show that the equilibrium slot policies reach the first-best passenger quantities when congestion effects are absent.   
