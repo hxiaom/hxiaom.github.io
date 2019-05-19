@@ -10,3 +10,12 @@ categories: Mobility
     - Proposed method: We consider the framework to use the world knowledge as indirect supervision.
         - We provide three ways to specify the world knowledge to domains by resolving the ambiguity of the entities and their types, and represent the data with world knowledge as a heterogeneous information network.
         - incorporating world knowledge as indirect supervision can significantly outperform the state-of-the-art clustering algorithms as well as clustering algorithms enhanced with world knowledge features.
+
+2. [Multimodal divide: Reproduction of transport poverty in smart mobility trends](https://www.sciencedirect.com/science/article/pii/S0965856418301927)
+
+    - Motivation:  the discussion about the transition from an automobile society to a multimodal society in Western transport and mobility research, which is characterised by a flexible use of different transport options.
+    - Research gaps: transport poverty
+    - Research findings: The theses challenge the often-postulated potential ubiquity of multimodal behaviours: 
+        - (i) Transport poverty – represented by a lack of mode options – inhibits the potential production of multimodal behaviours, particularly by socially marginalised people (low income, low education, precarious job situation, etc.). 
+        - (ii) A multimodal divide describes the reproduction of transport poverty in the guise of modernisation, as the transport poor – with few mode options – also lack certain ICTs that provide central access media to smart mobility. 
+        - (iii) Another (perfidious) form of social exclusion from participation in smart mobility concerns critical thinkers who avoid installing mobility applications to protect their privacy. This exclusion occurs because these apps do not have an alternative as access software to smart mobility.
