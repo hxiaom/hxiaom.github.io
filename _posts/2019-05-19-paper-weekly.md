@@ -19,3 +19,9 @@ categories: Mobility
         - (i) Transport poverty – represented by a lack of mode options – inhibits the potential production of multimodal behaviours, particularly by socially marginalised people (low income, low education, precarious job situation, etc.). 
         - (ii) A multimodal divide describes the reproduction of transport poverty in the guise of modernisation, as the transport poor – with few mode options – also lack certain ICTs that provide central access media to smart mobility. 
         - (iii) Another (perfidious) form of social exclusion from participation in smart mobility concerns critical thinkers who avoid installing mobility applications to protect their privacy. This exclusion occurs because these apps do not have an alternative as access software to smart mobility.
+
+3. [Assessing the relationships between young adults’ travel and use of the internet over time](https://www.sciencedirect.com/science/article/pii/S0965856417302082)
+
+    - Motivation: use internet while traveling
+    - Research gap: the relationship between changes in the use of ICT over time and young people’s travel patterns
+    - Research findings: consistently high levels of Internet use between adolescence and young adulthood is associated with the formation of environmental attitudes.
