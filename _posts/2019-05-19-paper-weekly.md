@@ -25,3 +25,9 @@ categories: Mobility
     - Motivation: use internet while traveling
     - Research gap: the relationship between changes in the use of ICT over time and young people’s travel patterns
     - Research findings: consistently high levels of Internet use between adolescence and young adulthood is associated with the formation of environmental attitudes.
+
+4. [Crowd Counting With Limited Labeling Through Submodular Frame Selection](https://ieeexplore.ieee.org/document/8360780)
+
+    - Motivation: Automated crowd counting is valuable for intelligent transportation systems, as it can help to improve the emergency planning and prevent congestion in transit hubs such as train stations and airports.
+    - Research gap: existing methods do not incorporate ways to effectively select informative frames as labeled training samples, resulting in low accuracy on unseen crowd scenes.
+    - Proposed method: submodular method to select the most informative frames from the image sequences of crowds.
