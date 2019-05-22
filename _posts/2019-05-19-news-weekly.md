@@ -24,3 +24,16 @@ categories: Mobility
 
     > In March 2018, Beijing earmarked 33 roads with a total length of 105 km for autonomous car testing in Yizhuang, Shunyi and Haidian, all of which are outside the Fifth Ring Road and away from densely-populated areas.
 
+9. [谁说只有电动车才有自动驾驶](https://www.huxiu.com/article/300251.html)
+
+    > 日产公司在近期公布了自家的自动驾驶系统升级版——“ProPILOT2.0”系统，新系统能够达到自动驾驶Level 3级别，并将会在2019年秋天于日本市场部署到新款Skyline型号上（美国对应车型是英菲尼迪Q50）。
+
+10. [苹果自动驾驶项目“未死”：建设室内驾驶场](https://36kr.com/p/5207202)
+
+    > 苹果的自动驾驶汽车项目也被称为“泰坦计划”（Project Titan Car）。据国外媒体报道，美国Roth资本公司的金融分析师克雷格·欧文(CraigIrwin)在接受媒体采访时透露，苹果今天还在继续实施其“泰坦计划”，“苹果公司正在加州建造多个超大型的室内驾驶场地。”，另外在动力电池方面，苹果也在进行一些有趣的研究，“泰坦计划绝对没有死亡。”
+
+11. [Self-driving truck startup TuSimple will haul mail for USPS in two-week pilot](https://techcrunch.com/2019/05/21/self-driving-truck-startup-tusimple-will-haul-mail-for-usps-in-two-week-pilot/)
+
+    > The company announced Tuesday that it was awarded a contract to complete five round trips, for a two-week pilot, hauling USPS trailers more than 1,000 miles between the postal service’s Phoenix and Dallas distribution centers. A safety engineer and driver will be on board throughout the pilot.
+
+    > TuSimple will run a series of its self-driving trucks for 22 hours each, which includes overnight driving, along Interstates 10, 20 and 30 corridors to make the trip through Arizona, New Mexico and Texas.
