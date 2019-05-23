@@ -31,3 +31,9 @@ categories: Mobility
     - Motivation: Automated crowd counting is valuable for intelligent transportation systems, as it can help to improve the emergency planning and prevent congestion in transit hubs such as train stations and airports.
     - Research gap: existing methods do not incorporate ways to effectively select informative frames as labeled training samples, resulting in low accuracy on unseen crowd scenes.
     - Proposed method: submodular method to select the most informative frames from the image sequences of crowds.
+
+5. [Model and analysis of labor supply for ride-sharing platforms in the presence of sample self-selection and endogeneity](https://www.sciencedirect.com/science/article/pii/S0191261518306106)
+
+    - Motivation: With the popularization of ride-sharing services, drivers working as freelancers on ride-sharing platforms can design their schedules flexibly. 
+    - Research gap: evaluation of the impacts of hourly income rate on labor supply becomes important.
+    - Research work: we propose an econometric framework with closed-form measures to estimate both the participation elasticity (i.e., extensive margin elasticity) and working-hour elasticity (i.e., intensive margin elasticity) of labor supply. 
