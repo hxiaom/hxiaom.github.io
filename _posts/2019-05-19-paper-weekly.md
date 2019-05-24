@@ -37,3 +37,9 @@ categories: Mobility
     - Motivation: With the popularization of ride-sharing services, drivers working as freelancers on ride-sharing platforms can design their schedules flexibly. 
     - Research gap: evaluation of the impacts of hourly income rate on labor supply becomes important.
     - Research work: we propose an econometric framework with closed-form measures to estimate both the participation elasticity (i.e., extensive margin elasticity) and working-hour elasticity (i.e., intensive margin elasticity) of labor supply. 
+
+6. [Group-to-group reviewer assignment problem](https://www.sciencedirect.com/science/article/pii/S0305054812001700)
+
+    - Motivation: Reviewer Assignment Problem
+    - Research gap: group-to-group reviewer assignment problem
+    - Proposed method: multi-objective mixed integer programming model, which is proven NP-hard. An effective two-phase stochastic-biased greedy algorithm is then proposed to solve the problem.
