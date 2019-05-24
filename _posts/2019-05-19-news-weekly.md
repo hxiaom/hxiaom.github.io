@@ -37,3 +37,17 @@ categories: Mobility
     > The company announced Tuesday that it was awarded a contract to complete five round trips, for a two-week pilot, hauling USPS trailers more than 1,000 miles between the postal service’s Phoenix and Dallas distribution centers. A safety engineer and driver will be on board throughout the pilot.
 
     > TuSimple will run a series of its self-driving trucks for 22 hours each, which includes overnight driving, along Interstates 10, 20 and 30 corridors to make the trip through Arizona, New Mexico and Texas.
+
+12. [特斯拉命悬一“厂”](https://www.huxiu.com/article/300865.html)
+
+13. [滴滴暂停孵化酒旅业务，负责人已经转岗](https://36kr.com/p/5207907)
+
+14. [没有驾驶舱和方向盘，宇通 L4 级自动驾驶公交上路试运行](https://36kr.com/p/5206669)
+
+15. [消费者报告：特斯拉自动驾驶需大量人为干预，变道能力远不及人类](https://36kr.com/p/5207760)
+
+16. [Lime’s founding CEO steps down as his co-founder takes control](https://techcrunch.com/2019/05/23/limes-founding-ceo-steps-down-as-his-co-founder-takes-control/)
+
+17. [Cruise says its AV successfully completed 1,400 unprotected left-hand turns](https://techcrunch.com/2019/05/23/cruise-releases-video-purporting-1400-successful-unprotected-left-hand-turns/)
+
+18. [SELF-DRIVING STARTUP AURORA BUYS SPEED-SENSING LIDAR COMPANY](https://www.wired.com/story/self-driving-startup-aurora-buys-speed-sensing-lidar/)
