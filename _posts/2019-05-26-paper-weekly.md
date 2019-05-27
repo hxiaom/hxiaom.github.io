@@ -29,6 +29,7 @@ categories: Mobility
     - [Multimodal divide: Reproduction of transport poverty in smart mobility trends](https://www.sciencedirect.com/science/article/pii/S0965856418301927)
     - [Assessing the relationships between young adults’ travel and use of the internet over time](https://www.sciencedirect.com/science/article/pii/S0965856417302082)
     - [Model and analysis of labor supply for ride-sharing platforms in the presence of sample self-selection and endogeneity](https://www.sciencedirect.com/science/article/pii/S0191261518306106)
+    - [The influence of weather conditions on adult transit ridership in the sub-tropics](https://www.sciencedirect.com/science/article/pii/S0965856418304166)
 
 ## Innovation
 
