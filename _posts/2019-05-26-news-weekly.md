@@ -25,3 +25,5 @@ categories: Mobility
     > 趋势7：车企的组织架构将由金字塔型转向去中心化、扁平化组织
 
 4. [Germany plans to unveil self-driving car test track by 2020](https://www.fin24.com/Economy/germany-plans-to-unveil-self-driving-car-test-track-by-2020-20190525)
+
+5. [Self-driving tractors are now a reality in China](https://news.cgtn.com/news/3d3d514f3045544f34457a6333566d54/index.html)
