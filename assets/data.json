@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {"id": "crowdfunding", "group": 3},
+    {"id": "cultural differences", "group": 1},
+    {"id": "geography", "group": 1},
+    {"id": "microfinance", "group": 1},
+    {"id": "prosocial lending", "group": 1},
+    {"id": "statistics", "group": 1},
+    {"id": "network embeddedness", "group": 3},
+    {"id": "peer influence", "group": 2},
+    {"id": "prosocial campaigns", "group": 2},
+    {"id": "public good", "group": 2},
+    {"id": "social marketing", "group": 2},
+    {"id": "social network", "group": 2},
+    {"id": "economics of is", "group": 4}
+  ],
+  "links": [
+    {"source": "crowdfunding", "target": "economics of is", "value": 8},
+    {"source": "crowdfunding", "target": "cultural differences", "value": 1},
+    {"source": "crowdfunding", "target": "geography", "value": 1},
+    {"source": "crowdfunding", "target": "microfinance", "value": 1},
+    {"source": "crowdfunding", "target": "prosocial lending", "value": 1},
+    {"source": "peer influence", "target": "prosocial campaigns", "value": 1}
+  ]
+}

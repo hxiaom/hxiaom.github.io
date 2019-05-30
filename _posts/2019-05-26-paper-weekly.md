@@ -32,6 +32,8 @@ categories: Mobility
     - [Assessing the relationships between young adults’ travel and use of the internet over time](https://www.sciencedirect.com/science/article/pii/S0965856417302082)
     - [Model and analysis of labor supply for ride-sharing platforms in the presence of sample self-selection and endogeneity](https://www.sciencedirect.com/science/article/pii/S0191261518306106)
     - [The influence of weather conditions on adult transit ridership in the sub-tropics](https://www.sciencedirect.com/science/article/pii/S0965856418304166)
+- System
+    - [A Novel Car-Following Control Model Combining Machine Learning and Kinematics Models for Automated Vehicles](https://ieeexplore.ieee.org/document/8424196/authors#authors)
 
 ## Innovation
 

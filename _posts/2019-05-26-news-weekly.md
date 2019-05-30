@@ -58,3 +58,8 @@ categories: Mobility
 
 15. [Japan law loosens rules for self-driving cars](https://phys.org/news/2019-05-japan-law-loosens-self-driving-cars.html)
 
+16. [高铁站打车难或许有了解决办法,「国铁吉讯」推出极速打车服务](https://36kr.com/p/5209152)
+
+    > 为了解决旅客打车难、高铁站客流疏散困难的问题，国铁吉讯科技有限公司（以下简称“国铁吉讯”）在其旗下的“掌上高铁APP”上线了“极速打车”服务。
+
+    > “极速打车”从今年4月中旬开始运营，采用聚合模式，提供一键全网打车功能，目前已接入5家运力服务商：曹操出行、首汽约车、神州专车、秒走打车、AA出行。
