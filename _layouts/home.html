@@ -18,9 +18,9 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | relative_url }}" target="_blank">{{ post.title | escape }}</a>
-        </h2>
+        </h3>
       </li>
     {% endfor %}
   </ul>

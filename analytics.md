@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【Method】汇总
-categories: Analytics
+title: Analytics
+permalink: /analytics/
 ---
 
 ## 数学基础
