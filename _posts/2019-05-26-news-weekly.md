@@ -45,3 +45,16 @@ categories: Mobility
 10. [Chinese startup begins mass-producing self-driving delivery vans in world's first, and could roll out as many as 30,000 per year](https://www.dailymail.co.uk/sciencetech/article-7078847/Chinese-startup-begins-mass-producing-self-driving-delivery-vans-worlds-first.html)
 
     > According to a report from Bloomberg, the company Neolix has begun production on 1,000 level four autonomous vehicles that it plans to roll out in China throughout the next year.  
+
+11. [从自营到聚合，沉寂一年的美团打车能翻身吗？](https://www.huxiu.com/article/301793.html)
+
+    > 今年4月下旬起，美团打车再次开城，接入了曹操出行、首汽约车、神州专车等出行服务商，为用户提供出行服务。这意味着，美团不再自己上场做出行，而变身为聚合平台。
+
+12. [Uber实验室是怎样研发无人驾驶汽车的？](https://36kr.com/p/5210251)
+
+13. [Model Y准备投产，特斯拉加州工厂改造，马斯克呼吁员工抓紧交付车辆](https://36kr.com/p/5210443)
+
+14. [补贴骤减竞争加剧，百亿注资能否撑起“蔚来”？](https://36kr.com/p/5210147)
+
+15. [Japan law loosens rules for self-driving cars](https://phys.org/news/2019-05-japan-law-loosens-self-driving-cars.html)
+

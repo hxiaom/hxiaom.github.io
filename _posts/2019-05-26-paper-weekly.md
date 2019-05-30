@@ -14,6 +14,7 @@ categories: Mobility
     - [Reliable and Secure Distributed Smart Road Pricing System for Smart Cities](https://ieeexplore.ieee.org/document/8428666)
     - [A pricing versus slots game in airport networks](https://www.sciencedirect.com/science/article/pii/S0191261517309128)
     - [Road infrastructure and public bus transport service provision under different funding schemes: A simulation analysis](https://www.sciencedirect.com/science/article/pii/S0965856418311169)
+    - [Incentive game of investor speculation in PPP highway projects based on the government minimum revenue guarantee](https://www.sciencedirect.com/science/article/pii/S0965856417303269)
 - Traffic Analysis
     - [Temporal Unknown Incremental Clustering Model for Analysis of Traffic Surveillance Videos](https://ieeexplore.ieee.org/document/8384026)
     - [Crowd Counting With Limited Labeling Through Submodular Frame Selection](https://ieeexplore.ieee.org/document/8360780)
