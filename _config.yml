@@ -20,6 +20,7 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-paginate
+ - jekyll-archives
 
 # Pagination
 paginate: 6
@@ -38,3 +39,14 @@ tipue_search:
   
 # Formula
 mathjax: true
+
+# Archive
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
