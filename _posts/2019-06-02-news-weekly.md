@@ -14,3 +14,10 @@ categories: Mobility
 
     > Local media reported that some injuries – the first resulting from an accident involving an automated train in 30 years – appeared to be serious but non-life-threatening.
 
+5. [为了拯救低迷的车市，广深新增14万个车牌指标](https://www.huxiu.com/article/302366.html)
+
+6. [任正非签发文件：华为成立智能汽车BU](https://36kr.com/p/5211675)
+
+7. [激光雷达的中场战事](https://36kr.com/p/5211802)
+
+8. [China Has Whole Towns Focused Entirely on Making Electric Cars](https://www.bloomberg.com/news/articles/2019-06-02/china-s-spending-30-billion-to-assemble-its-electric-detroits)
