@@ -10,3 +10,4 @@ categories: Mobility
     - [Where to Find Next Passengers on E-hailing Platforms? - A Markov Decision Process Approach](https://arxiv.org/pdf/1905.09906.pdf)
     - [Adaptive Multi-Kernel SVM With Spatial–Temporal Correlation for Short-Term Traffic Flow Prediction](https://ieeexplore.ieee.org/document/8454853)
     - [Detection and Evaluation of Driver Distraction Using Machine Learning and Fuzzy Logic](https://ieeexplore.ieee.org/document/8440785)
+    - [Comparing Future Autonomous Electric Taxis With an Existing Free-Floating Carsharing System](https://ieeexplore.ieee.org/document/8428661)
