@@ -23,3 +23,5 @@ categories: Mobility
 8. [China Has Whole Towns Focused Entirely on Making Electric Cars](https://www.bloomberg.com/news/articles/2019-06-02/china-s-spending-30-billion-to-assemble-its-electric-detroits)
 
 9. [Nissan Sides With Tesla on Camera-Based Self-Driving Approach](https://www.autobodynews.com/index.php/oem-news/item/17776-nissan-sides-with-tesla-on-camera-based-self-driving-approach.html?showall=1)
+
+10. [未来出行：畅想“竹蜻蜓”，不如期待公共交通](https://36kr.com/p/5212748)
