@@ -25,3 +25,7 @@ categories: Mobility
 9. [Nissan Sides With Tesla on Camera-Based Self-Driving Approach](https://www.autobodynews.com/index.php/oem-news/item/17776-nissan-sides-with-tesla-on-camera-based-self-driving-approach.html?showall=1)
 
 10. [未来出行：畅想“竹蜻蜓”，不如期待公共交通](https://36kr.com/p/5212748)
+
+11. [2024年载人重返月球，阿尔忒弥斯计划靠不靠谱？](https://www.huxiu.com/article/303122.html)
+
+12. [高德顺风车将上线 广东、武汉用户收到车主招募提示](https://36kr.com/p/5212940)

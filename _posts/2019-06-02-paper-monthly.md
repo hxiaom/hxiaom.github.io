@@ -12,3 +12,4 @@ categories: Mobility
     - [Detection and Evaluation of Driver Distraction Using Machine Learning and Fuzzy Logic](https://ieeexplore.ieee.org/document/8440785)
     - [Comparing Future Autonomous Electric Taxis With an Existing Free-Floating Carsharing System](https://ieeexplore.ieee.org/document/8428661)
     - [Multi-Dimensional Traffic Congestion Detection Based on Fusion of Visual Features and Convolutional Neural Network](https://ieeexplore.ieee.org/document/8451957)
+    - [On Access Control in Cabin-Based Transport Systems](https://ieeexplore.ieee.org/document/8454857)
