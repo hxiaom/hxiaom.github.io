@@ -13,3 +13,4 @@ categories: Mobility
     - [Comparing Future Autonomous Electric Taxis With an Existing Free-Floating Carsharing System](https://ieeexplore.ieee.org/document/8428661)
     - [Multi-Dimensional Traffic Congestion Detection Based on Fusion of Visual Features and Convolutional Neural Network](https://ieeexplore.ieee.org/document/8451957)
     - [On Access Control in -Based Transport Systems](https://ieeexplore.ieee.org/document/8454857)
+    - [Cooperation-Aware Task Assignment in Spatial Crowdsourcing](https://ieeexplore.ieee.org/abstract/document/8731402)
