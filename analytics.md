@@ -105,6 +105,13 @@ permalink: /analytics/
 ### 知识图谱
 
 - [KG（一）知识表示与知识建模](http://hxiaom.github.io/analytics/2019/05/05/knowledge-representation.html)
+- [知识图谱（一）概述](http://hxiaom.github.io/analytics/2019/06/02/kg-1.html)
+- [知识图谱（二）知识表示](http://hxiaom.github.io/analytics/2019/06/04/kg-2.html)
+- [知识图谱（三）知识体系构建](http://hxiaom.github.io/analytics/2019/06/04/kg-3.html)
+- [知识图谱（四）知识融合](http://hxiaom.github.io/analytics/2019/06/06/kg-4.html)
+- [知识图谱（五）实体识别](http://hxiaom.github.io/analytics/2019/06/08/kg-5.html)
+- [知识图谱（六）细粒度实体识别](http://hxiaom.github.io/analytics/2019/06/10/kg-6.html)
+- [知识图谱（七）实体扩展](http://hxiaom.github.io/analytics/2019/06/12/kg-7.html)
 - [Knowledge Graph Embedding](http://hxiaom.github.io/analytics/2018/12/29/Knowledge-graph-embedding.html)
 
 ## 应用领域方法
