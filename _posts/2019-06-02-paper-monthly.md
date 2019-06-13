@@ -14,3 +14,4 @@ categories: Mobility
     - [Multi-Dimensional Traffic Congestion Detection Based on Fusion of Visual Features and Convolutional Neural Network](https://ieeexplore.ieee.org/document/8451957)
     - [On Access Control in -Based Transport Systems](https://ieeexplore.ieee.org/document/8454857)
     - [Cooperation-Aware Task Assignment in Spatial Crowdsourcing](https://ieeexplore.ieee.org/abstract/document/8731402)
+    - [Automatic Pavement Crack Detection by Multi-Scale Image Fusion](https://ieeexplore.ieee.org/document/8428669)
