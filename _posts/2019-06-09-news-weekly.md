@@ -25,3 +25,7 @@ categories: Mobility
     > Apple  is potentially seeking to acquire Silicon Valley autonomous driving startup Drive.ai, according to a new report from The Information. The report describes the acquisition as in process, and says it will be an “acqui-hire,” which means its primary goal is to bring in the talent of Drive.ai — with presumably special focus on the engineering talent of the self-driving tech company.
 
 7. [Somebody's watching you: The surveillance of self-driving cars](https://www.sciencedaily.com/releases/2019/06/190607140431.htm)
+
+8. [Waymo doesn't want its self-driving cars to annoy the hell out of you](https://mashable.com/article/waymo-self-driving-car-user-experience-pings-screens/)
+
+9. [Uber unveils next-generation Volvo self-driving car](https://www.cnbc.com/2019/06/12/uber-unveils-next-generation-volvo-self-driving-car.html)
