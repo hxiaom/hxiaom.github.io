@@ -29,3 +29,5 @@ categories: Mobility
 8. [Waymo doesn't want its self-driving cars to annoy the hell out of you](https://mashable.com/article/waymo-self-driving-car-user-experience-pings-screens/)
 
 9. [Uber unveils next-generation Volvo self-driving car](https://www.cnbc.com/2019/06/12/uber-unveils-next-generation-volvo-self-driving-car.html)
+
+10. [Tesla 2019 股东大会：这就是特斯拉的明天](https://36kr.com/p/5215413)

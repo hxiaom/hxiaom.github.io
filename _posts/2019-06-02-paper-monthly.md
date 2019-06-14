@@ -15,3 +15,4 @@ categories: Mobility
     - [On Access Control in -Based Transport Systems](https://ieeexplore.ieee.org/document/8454857)
     - [Cooperation-Aware Task Assignment in Spatial Crowdsourcing](https://ieeexplore.ieee.org/abstract/document/8731402)
     - [Automatic Pavement Crack Detection by Multi-Scale Image Fusion](https://ieeexplore.ieee.org/document/8428669)
+    - [Introducing autonomous buses and taxis: Quantifying the potential benefits in Japanese transportation systems](https://www.sciencedirect.com/science/article/pii/S0965856418312795)
