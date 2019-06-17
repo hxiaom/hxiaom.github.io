@@ -19,4 +19,3 @@ categories: Mobility
 7. [Waymo’s self-driving Jaguar I-Pace vehicles are now testing on public roads](https://techcrunch.com/2019/06/17/waymos-self-driving-jaguar-i-pace-vehicles-are-now-testing-on-public-roads/)
 
     > The deal between Waymo and JLR is for up to 20,000 modified I-Pace vehicles to join the robotaxi service in the first two years of operation. 
-

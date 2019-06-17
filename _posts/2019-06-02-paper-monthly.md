@@ -18,3 +18,4 @@ categories: Mobility
     - [Introducing autonomous buses and taxis: Quantifying the potential benefits in Japanese transportation systems](https://www.sciencedirect.com/science/article/pii/S0965856418312795)
     - [Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets](https://www.sciencedirect.com/science/article/pii/S0191261518311330)
     - [Forecasting transportation demand for the U.S. market](https://www.sciencedirect.com/science/article/pii/S0965856417313551)
+    - [Risk preference and adoption of autonomous vehicles](https://www.sciencedirect.com/science/article/pii/S0965856417310315)
