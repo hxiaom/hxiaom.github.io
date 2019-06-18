@@ -19,3 +19,12 @@ categories: Mobility
 7. [Waymo’s self-driving Jaguar I-Pace vehicles are now testing on public roads](https://techcrunch.com/2019/06/17/waymos-self-driving-jaguar-i-pace-vehicles-are-now-testing-on-public-roads/)
 
     > The deal between Waymo and JLR is for up to 20,000 modified I-Pace vehicles to join the robotaxi service in the first two years of operation. 
+
+8. [四维图新摘下T3牌照，图商们“吃定”了自动驾驶](https://36kr.com/p/5216933)
+
+9. [Cruise is sharing its data visualization tool with robotics geeks everywhere](https://techcrunch.com/2019/06/18/cruise-is-sharing-its-data-visualization-tool-with-robotics-geeks-everywhere/)
+
+10. [Startup Says Self-Driving Trucks Will Require New Labor Force](https://cheddar.com/media/startup-says-self-driving-trucks-will-require-new-labor-force)
+
+    > The program, which will begin its first classes this fall, is meant for those who are already certified commercial truck drivers and will instruct its students in remote truck navigation and how to serve as a test driver for training autonomous trucks’ artificial intelligence.
+

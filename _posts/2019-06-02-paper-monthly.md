@@ -19,3 +19,4 @@ categories: Mobility
     - [Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets](https://www.sciencedirect.com/science/article/pii/S0191261518311330)
     - [Forecasting transportation demand for the U.S. market](https://www.sciencedirect.com/science/article/pii/S0965856417313551)
     - [Risk preference and adoption of autonomous vehicles](https://www.sciencedirect.com/science/article/pii/S0965856417310315)
+    - [Data monitoring for the assessment of on-street parking demand in CBD areas of developing countries](https://www.sciencedirect.com/science/article/pii/S0965856418300946)
