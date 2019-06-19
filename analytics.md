@@ -112,6 +112,8 @@ permalink: /analytics/
 - [知识图谱（五）实体识别](http://hxiaom.github.io/analytics/2019/06/08/kg-5.html)
 - [知识图谱（六）细粒度实体识别](http://hxiaom.github.io/analytics/2019/06/10/kg-6.html)
 - [知识图谱（七）实体扩展](http://hxiaom.github.io/analytics/2019/06/12/kg-7.html)
+- [知识图谱（八）实体消歧](http://hxiaom.github.io/analytics/2019/06/13/kg-8.html)
+- [知识图谱（九）关系抽取](http://hxiaom.github.io/analytics/2019/06/19/kg-9.html)
 - [Knowledge Graph Embedding](http://hxiaom.github.io/analytics/2018/12/29/Knowledge-graph-embedding.html)
 
 ## 应用领域方法
