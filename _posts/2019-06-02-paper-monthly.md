@@ -20,3 +20,4 @@ categories: Mobility
     - [Forecasting transportation demand for the U.S. market](https://www.sciencedirect.com/science/article/pii/S0965856417313551)
     - [Risk preference and adoption of autonomous vehicles](https://www.sciencedirect.com/science/article/pii/S0965856417310315)
     - [Data monitoring for the assessment of on-street parking demand in CBD areas of developing countries](https://www.sciencedirect.com/science/article/pii/S0965856418300946)
+    - [A mixture-amount stated preference study on the mobility budget](https://www.sciencedirect.com/science/article/pii/S0965856418305822)

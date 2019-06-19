@@ -28,3 +28,10 @@ categories: Mobility
 
     > The program, which will begin its first classes this fall, is meant for those who are already certified commercial truck drivers and will instruct its students in remote truck navigation and how to serve as a test driver for training autonomous trucks’ artificial intelligence.
 
+11. [小马智行和AutoX获加州自动驾驶服务许可](https://36kr.com/p/5217375)
+
+12. [Humanising Autonomy pulls in $5M to help self-driving cars keep an eye on pedestrians](https://techcrunch.com/2019/06/19/humanising-autonomy-pulls-in-5m-to-help-self-driving-cars-keep-an-eye-on-pedestrians/)
+
+13. [NVIDIA Stock Jumps 5.4% on Volvo Self-Driving Truck Partnership](https://finance.yahoo.com/news/nvidia-stock-jumps-5-4-131500626.html)
+
+14. [Facebook's Libra Blockchain Could Become The Cryptocurrency For Self-Driving Cars](https://www.forbes.com/sites/lanceeliot/2019/06/19/facebooks-libra-blockchain-could-become-the-cryptocurrency-for-self-driving-cars/#130428ef4469)
