@@ -10,63 +10,58 @@ permalink: /analytics/
 - [Gamma函数](http://hxiaom.github.io/analytics/2019/04/21/gamma.html)
 - [统计中的分布](http://hxiaom.github.io/analytics/2019/04/30/distribution.html)
 
-## 数据与处理
+## 数据处理与特征提取
 
 - [数据标准化/归一化](http://hxiaom.github.io/analytics/2019/04/10/normalization.html)
 - [Tidy Data](http://hxiaom.github.io/analytics/2019/01/01/tidy-data.html)
+- [傅里叶变换、小波变换](http://hxiaom.github.io/analytics/2019/04/10/wavelet.html)
+- [奇异值分解](http://hxiaom.github.io/analytics/2019/04/17/SVD.html)
 
 ## 计量经济学
 
 - [Logarithmic scale](http://hxiaom.github.io/analytics/2019/03/27/log.html)
 
-## 机器学习算法
+## 传统机器学习
 
-### 特征提取
-
-- [傅里叶变换、小波变换](http://hxiaom.github.io/analytics/2019/04/10/wavelet.html)
-- [奇异值分解](http://hxiaom.github.io/analytics/2019/04/17/SVD.html)
-
-### 传统机器学习
-
-- 概念辨析
+- 监督学习
     - [统计学习基础](http://hxiaom.github.io/analytics/2019/04/29/ml-basic.html)
+    - [感知机](http://hxiaom.github.io/analytics/2019/04/21/perceptron.html)
+    - [k近邻法](http://hxiaom.github.io/analytics/2019/04/23/knn.html)
+    - [朴素贝叶斯](http://hxiaom.github.io/analytics/2019/04/12/naive-bayes.html)
+    - Decision Tree
+        - [决策树（一）决策树模型与学习](http://hxiaom.github.io/analytics/2019/04/14/decision-tree-1.html)
+        - [决策树（二）特征选择&决策树生成](http://hxiaom.github.io/analytics/2019/04/14/decision-tree-2.html)
+        - [决策树（三）决策树剪枝&CART算法](http://hxiaom.github.io/analytics/2019/04/15/decision-tree-3.html)
+    - [Logistic regression](http://hxiaom.github.io/2019/04/28/logistic-regression.html)
+    - [最大熵模型](http://hxiaom.github.io/analytics/2019/04/29/maxi-entropy.html)
+    - SVM
+        - [SVM (一) 线性可分支持向量机](http://hxiaom.github.io/analytics/2019/03/28/svm-1.html)
+        - [SVM (二) 线性支持向量机](http://hxiaom.github.io/analytics/2019/03/29/SVM-2.html)
+        - [SVM (三) 非线性支持向量机与核技巧](http://hxiaom.github.io/analytics/2019/03/30/svm-3.html)
+        - [SVM（四）支持向量机的对偶算法](http://hxiaom.github.io/analytics/2019/04/02/svm-4.html)
+        - [SVM (五) SMO算法](http://hxiaom.github.io/analytics/2019/04/07/smv-5.html)
+        - [SVM (六) 调参及优缺点](http://hxiaom.github.io/analytics/2019/04/10/svm-6.html)
+    - Ensemble
+        - [Boosting（一）AdaBoost](http://hxiaom.github.io/analytics/2019/04/11/boosting.html)
+        - [Boosting（二）GBDT](http://hxiaom.github.io/analytics/2019/04/12/boosting-tree.html)
+        - [Boosting（三）XGBoost](http://hxiaom.github.io/analytics/2019/04/12/xgboost.html)
+    - EM算法
+        - [EM算法（一）](http://hxiaom.github.io/analytics/2019/04/18/em.html)
+        - [EM算法（二）EM算法推导及收敛性](http://hxiaom.github.io/analytics/2019/04/25/em-2.html)
+    - 隐马尔科夫模型
+        - [HMM（一）基本概念](http://hxiaom.github.io/analytics/2019/05/06/hmm.html)
+        - [HMM（二）概率计算问题](http://hxiaom.github.io/analytics/2019/05/06/hmm-2.html)
+    - 条件随机场
+        - [CRF（一）概率无向图模型](http://hxiaom.github.io/analytics/2019/05/06/crf.html)
+        - [CRF（二）条件随机场的定义与形式](http://hxiaom.github.io/analytics/2019/05/07/crf-2.html)
+- 无监督学习
+    - [MCMC](http://hxiaom.github.io/analytics/2019/04/23/mcmc.html)
+    - [聚类算法](http://hxiaom.github.io/analytics/2019/04/30/clustering.html)
+- 概念辨析
     - [分类与回归](http://hxiaom.github.io/analytics/2019/04/23/regression-classification.html)
     - [ML Evaluation](http://hxiaom.github.io/analytics/2018/12/25/evaluation-of-machine-learning-model.html)
-- [聚类算法](http://hxiaom.github.io/analytics/2019/04/30/clustering.html)
-- [感知机](http://hxiaom.github.io/analytics/2019/04/21/perceptron.html)
-- [朴素贝叶斯](http://hxiaom.github.io/analytics/2019/04/12/naive-bayes.html)
-- [k近邻法](http://hxiaom.github.io/analytics/2019/04/23/knn.html)
-- [Logistic regression](http://hxiaom.github.io/2019/04/28/logistic-regression.html)
-- [最大熵模型](http://hxiaom.github.io/analytics/2019/04/29/maxi-entropy.html)
-- [MCMC](http://hxiaom.github.io/analytics/2019/04/23/mcmc.html)
-- Decision Tree
-    - [决策树（一）决策树模型与学习](http://hxiaom.github.io/analytics/2019/04/14/decision-tree-1.html)
-    - [决策树（二）特征选择&决策树生成](http://hxiaom.github.io/analytics/2019/04/14/decision-tree-2.html)
-    - [决策树（三）决策树剪枝&CART算法](http://hxiaom.github.io/analytics/2019/04/15/decision-tree-3.html)
-- SVM
-    - [SVM (一) 线性可分支持向量机](http://hxiaom.github.io/analytics/2019/03/28/svm-1.html)
-    - [SVM (二) 线性支持向量机](http://hxiaom.github.io/analytics/2019/03/29/SVM-2.html)
-    - [SVM (三) 非线性支持向量机与核技巧](http://hxiaom.github.io/analytics/2019/03/30/svm-3.html)
-    - [SVM（四）支持向量机的对偶算法](http://hxiaom.github.io/analytics/2019/04/02/svm-4.html)
-    - [SVM (五) SMO算法](http://hxiaom.github.io/analytics/2019/04/07/smv-5.html)
-    - [SVM (六) 调参及优缺点](http://hxiaom.github.io/analytics/2019/04/10/svm-6.html)
-- Ensemble
-    - [Boosting（一）AdaBoost](http://hxiaom.github.io/analytics/2019/04/11/boosting.html)
-    - [Boosting（二）GBDT](http://hxiaom.github.io/analytics/2019/04/12/boosting-tree.html)
-    - [Boosting（三）XGBoost](http://hxiaom.github.io/analytics/2019/04/12/xgboost.html)
-- EM算法
-    - [EM算法（一）](http://hxiaom.github.io/analytics/2019/04/18/em.html)
-    - [EM算法（二）EM算法推导及收敛性](http://hxiaom.github.io/analytics/2019/04/25/em-2.html)
-- 隐马尔科夫模型
-    - [HMM（一）基本概念](http://hxiaom.github.io/analytics/2019/05/06/hmm.html)
-    - [HMM（二）概率计算问题](http://hxiaom.github.io/analytics/2019/05/06/hmm-2.html)
-- 条件随机场
-    - [CRF（一）概率无向图模型](http://hxiaom.github.io/analytics/2019/05/06/crf.html)
-    - [CRF（二）条件随机场的定义与形式](http://hxiaom.github.io/analytics/2019/05/07/crf-2.html)
 
-
-
-### 深度学习
+## 深度学习
 
 - 基础
     - [深度学习（一）深度前馈网络](http://hxiaom.github.io/analytics/2019/04/01/dl-1.html)
@@ -99,10 +94,7 @@ permalink: /analytics/
 - [AutoML](http://hxiaom.github.io/analytics/2019/05/06/automl.html)
 - [Keras](http://hxiaom.github.io/analytics/2018/12/25/Keras.html)
 
-
-## 数据可视化
-
-### 知识图谱
+## 知识图谱
 
 - [KG（一）知识表示与知识建模](http://hxiaom.github.io/analytics/2019/05/05/knowledge-representation.html)
 - [知识图谱（一）概述](http://hxiaom.github.io/analytics/2019/06/02/kg-1.html)
@@ -116,9 +108,7 @@ permalink: /analytics/
 - [知识图谱（九）关系抽取](http://hxiaom.github.io/analytics/2019/06/19/kg-9.html)
 - [Knowledge Graph Embedding](http://hxiaom.github.io/analytics/2018/12/29/Knowledge-graph-embedding.html)
 
-## 应用领域方法
-
-### 自然语言处理(NLP)
+## 自然语言处理(NLP)
 
 - [NLTK](http://hxiaom.github.io/analytics/2018/09/18/NLP.html)
 - [信息熵](http://hxiaom.github.io/analytics/2019/04/29/information-entropy.html)
@@ -136,6 +126,6 @@ permalink: /analytics/
 - Named Entity Recognition
     - [Stanford CRF](http://hxiaom.github.io/analytics/2019/01/08/NER.html)
 
-### 时间序列分析
+## 时间序列分析
 
 - [Time Series Data Analyze](http://hxiaom.github.io/analytics/2018/11/19/time-series-data.html)
