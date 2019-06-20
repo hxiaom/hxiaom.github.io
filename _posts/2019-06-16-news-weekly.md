@@ -35,3 +35,11 @@ categories: Mobility
 13. [NVIDIA Stock Jumps 5.4% on Volvo Self-Driving Truck Partnership](https://finance.yahoo.com/news/nvidia-stock-jumps-5-4-131500626.html)
 
 14. [Facebook's Libra Blockchain Could Become The Cryptocurrency For Self-Driving Cars](https://www.forbes.com/sites/lanceeliot/2019/06/19/facebooks-libra-blockchain-could-become-the-cryptocurrency-for-self-driving-cars/#130428ef4469)
+
+15. [广州发放24张自动驾驶路测牌照，文远知行、广汽、AutoX获准](https://36kr.com/p/5217616)
+
+16. [蔚来汽车李斌：蔚来比特斯拉更懂本土市场](https://36kr.com/p/5217408)
+
+17. [Baidu unveils its camera-based Apollo Lite self-driving suite](https://www.cnet.com/roadshow/news/baidu-apollo-lite-camera-based-self-driving/)
+
+18. [Waymo Partners With Renault And Nissan To Take Its Self-Driving Tech Global](https://www.forbes.com/sites/alanohnsman/2019/06/19/waymo-partners-with-renault-and-nissan-to-take-its-self-driving-tech-global/#489586e58d21)
