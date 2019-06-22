@@ -164,7 +164,7 @@ $$D_{pq} = \frac{1}{n_p n_q} \sum_{x_i \in G_p} \sum_{x_j \in G_q} d_{ij}$$
 
 ## 层次聚类
 
-
+层次聚类假设类别之间存在层次结构，将样本聚到层次化的类中。层次聚类又有聚合（agglomerative）或自下而上（bottom-up）聚类、分类（divisive）
 
 基于共现的相似度
 
