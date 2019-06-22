@@ -22,3 +22,4 @@ categories: Mobility
     - [Data monitoring for the assessment of on-street parking demand in CBD areas of developing countries](https://www.sciencedirect.com/science/article/pii/S0965856418300946)
     - [A mixture-amount stated preference study on the mobility budget](https://www.sciencedirect.com/science/article/pii/S0965856418305822)
     - [Public transit cost efficiency studies: The impact of non-contracting regulations](https://www.sciencedirect.com/science/article/pii/S0965856417310078)
+    - [Connotative meanings of sustainable mobility: A segmentation approach using cultural sentiments](https://www.sciencedirect.com/science/article/pii/S0965856418312503)
