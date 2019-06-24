@@ -21,3 +21,13 @@ categories: Mobility
 5. [Driverless delivery vans coming as production begins in China](https://www.denverpost.com/2019/06/23/china-driverless-delivery-vans/)
 
     > A Chinese startup called Neolix kicked off mass production of its self-driving delivery vehicles in May — saying it’s the first company globally to do so — and has lined up giants such as JD.Com Inc. and Huawei Technologies Co. as customers. Neolix expects to deliver a thousand of the vehicles, which resemble tiny vans, within the first year as it broadens out.
+
+6. [高德复出，哈罗、钉钉入场，用户能否迎来“真”顺风车？](https://36kr.com/p/5218780)
+
+7. [Argo AI is investing $15 million into a self-driving car research center at CMU](https://techcrunch.com/2019/06/24/argo-ai-is-investing-15-million-into-a-self-driving-car-research-center-at-cmu/)
+
+    > Argo AI  will invest $15 million over five years to create a center for autonomous vehicle research at Carnegie Mellon University,  one of the latest efforts by the Ford-backed company to accelerate the development of self-driving cars.
+
+    > The center, Carnegie Mellon University Argo AI Center for Autonomous Vehicle Research, will focus on advanced perception and decision-making algorithms for autonomous vehicles, the company said Monday.
+
+8. [Self-Driving Cars Will Be An Economic Revival For Brick-And-Mortar Retailers](https://www.retailtouchpoints.com/features/executive-viewpoints/self-driving-cars-will-be-an-economic-revival-for-brick-and-mortar-retailers)

@@ -24,3 +24,4 @@ categories: Mobility
     - [Public transit cost efficiency studies: The impact of non-contracting regulations](https://www.sciencedirect.com/science/article/pii/S0965856417310078)
     - [Connotative meanings of sustainable mobility: A segmentation approach using cultural sentiments](https://www.sciencedirect.com/science/article/pii/S0965856418312503)
     - [Rolling stock scheduling with maintenance requirements at the Chinese High-Speed Railway](https://www.sciencedirect.com/science/article/pii/S0191261518309330)
+    - [Bus transit network design with uncertainties on the basis of a metro network: A two-step model framework](https://www.sciencedirect.com/science/article/pii/S0191261518306969)
