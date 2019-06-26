@@ -31,3 +31,12 @@ categories: Mobility
     > The center, Carnegie Mellon University Argo AI Center for Autonomous Vehicle Research, will focus on advanced perception and decision-making algorithms for autonomous vehicles, the company said Monday.
 
 8. [Self-Driving Cars Will Be An Economic Revival For Brick-And-Mortar Retailers](https://www.retailtouchpoints.com/features/executive-viewpoints/self-driving-cars-will-be-an-economic-revival-for-brick-and-mortar-retailers)
+
+9. [瞧，地铁来了](https://www.huxiu.com/article/305737.html)
+
+10. [Self-driving startup Drive.ai is closing down](https://techcrunch.com/2019/06/25/self-driving-startup-drive-ai-is-closing-down/)
+
+    > Drive.ai,  the autonomous vehicle tech startup once valued at $200 million, is shutting down after four years, according to a state regulatory filing.
+
+    > Rumors have been swirling for weeks that Apple  was looking to snap up the startup. Earlier this month, The Information reported that Apple was pursuing an acqui-hire, a term that typically means a smaller, targeted acquisition aimed at bringing on specific talent.
+

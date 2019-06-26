@@ -311,4 +311,5 @@ SKlearn包括了主流的聚类方法
 
 - Xu D, Tian Y. A comprehensive survey of clustering algorithms[J]. Annals of Data Science, 2015, 2(2): 165-193.
 - Saxena A, Prasad M, Gupta A, et al. A review of clustering techniques and developments[J]. Neurocomputing, 2017, 267: 664-681.
+- Aggarwal C C, Zhai C X. A survey of text clustering algorithms[M]//Mining text data. Springer, Boston, MA, 2012: 77-128.
 - 统计学习方法 第2版 李航

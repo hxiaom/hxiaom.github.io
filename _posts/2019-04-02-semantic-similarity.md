@@ -1,49 +1,20 @@
 ---
 layout: post
-title: 【Method】Semantic Similarity
+title: 【Method】Text Similarity
 categories: Analytics
 ---
 
-## 目标
+文本之间的语义相似性在自然语言处理中起到重要作用，广泛应用于检索、文本聚类、文本摘要等场景中，并对最终应用效果起到决定性影响。
 
-词语或语句之间的语义相似性
+文本相似度主要可以分为以下三类：基于字符串的相似度（String-based similarity）、基于词汇的相似度（Corpus-based similarity）和基于知识的相似度（Knowledge-based similarity）。以下分别介绍这三类相似度计算方法。
 
-- String-based
-- Corpus-based
-- Knowledge-based
+## String-based Similarity
 
-## 原理
+缺点：在很多情况下，相近的语义往往用不同的词汇表示，例如，”开心“与”高兴“。此时基于字符串的比较方法是失效的。在采用此类方法之前，我们应该粗略统计词语出现的频率。如果大多数词语出现频率很低，则大部分情况下基于字符串的比较无法起到作用。
 
-### Topological similarity
+## Corpus-based Similarity
 
-- Edge-based
-
-- Node-based
-
-- Ontology-based
-
-    - Pairwise
-
-    - Groupwise
-
-### Statistical similarity
-
-- LSA
-- ESA
-
-### Semantics-based similarity
-
-## 应用Semantic Similarity的文章
-
-
-
-基于共现的相似度
-
-基于网络的相似度
-
-基于词向量的相似度
-
-基于知识图谱的相似度
+## Knowledge-based Similarity
 
 ## 参考文献
 
