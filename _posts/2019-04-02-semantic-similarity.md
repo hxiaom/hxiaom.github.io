@@ -6,15 +6,49 @@ categories: Analytics
 
 文本之间的语义相似性在自然语言处理中起到重要作用，广泛应用于检索、文本聚类、文本摘要等场景中，并对最终应用效果起到决定性影响。
 
-文本相似度主要可以分为以下三类：基于字符串的相似度（String-based similarity）、基于词汇的相似度（Corpus-based similarity）和基于知识的相似度（Knowledge-based similarity）。以下分别介绍这三类相似度计算方法。
+文本相似度主要可以分为以下两类：词汇级相似度(Lexical similarity)，语义级相似度(Semantic similarity)
 
-## String-based Similarity
+## Lexical Similarity
+
+### Character-based similarity measures
+
+顾名思义，此类方法将文本看作最简单的字符串。而文本之间的相似度通过字符串之间的编辑距离进行衡量。多种衡量方法被提出：
+
+- Longest Common SubString（LSC）：最大公有子串。
+- Damerau-Levenshtein：包括插入、删除、替换距离。
+- Jaro
+- Jaro-Winkler
+- Needleman-Wunsch
+- Smith-Waterman
+- N-gram
+
+### Term-based similarity measures
+
+此类方法将文本看作一系列单词的组合，即为词袋模型。基于该文本表示形式，有如下几种相似度衡量方法：
+
+- Block Distance
+- Cosine Similarity
+- Dice's coefficient
+- Euclidean distance
+- Jaccard similarity
+- Matching coefficient
+- Overlap coefficient
 
 缺点：在很多情况下，相近的语义往往用不同的词汇表示，例如，”开心“与”高兴“。此时基于字符串的比较方法是失效的。在采用此类方法之前，我们应该粗略统计词语出现的频率。如果大多数词语出现频率很低，则大部分情况下基于字符串的比较无法起到作用。
 
-## Corpus-based Similarity
+## Semantic Similarity
 
-## Knowledge-based Similarity
+### Corpus-based similarity measures
+
+- Normalized Google Distance (NGD)
+- Normalized Information Distance (NID)
+- Normalized Compression Distance (NCD)
+- Latent Semantic similarity (LSA)
+
+### Knowledge-based similarity
+
+- Resnik similarity
+- Vector similarity
 
 ## 参考文献
 
