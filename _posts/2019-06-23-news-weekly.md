@@ -40,3 +40,12 @@ categories: Mobility
 
     > Rumors have been swirling for weeks that Apple  was looking to snap up the startup. Earlier this month, The Information reported that Apple was pursuing an acqui-hire, a term that typically means a smaller, targeted acquisition aimed at bringing on specific talent.
 
+11. [如果有一天ofo死了，请把它埋在缅甸](https://www.huxiu.com/article/305792.html)
+
+12. [苹果接盘吴恩达旗下的无人车公司，它怎么就倒了呢？](https://www.huxiu.com/article/305815.html)
+
+13. [今天起补贴下滑50%，新能源车要迎来末日了？](https://www.huxiu.com/article/305837.html)
+
+    > 今天（2019年6月26日）是新能源车2019年补贴新政正式开始实施的日子。取消地补，国补下降超过50%的断崖式下滑，将会导致一些列的“蝴蝶效应”。
+
+14. [被收购、倒闭、内讧，无人驾驶进入“混沌时代”](https://www.huxiu.com/article/305847.html)
