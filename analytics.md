@@ -109,6 +109,7 @@ permalink: /analytics/
 - [知识图谱（十）事件抽取](http://hxiaom.github.io/analytics/2019/06/21/kg-10.html)
 - [知识图谱（十一）知识存储和检索](http://hxiaom.github.io/analytics/2019/06/24/kg-11.html)
 - [知识图谱（十二）知识推理](http://hxiaom.github.io/analytics/2019/06/25/kg-12.html)
+- [知识图谱（十三）知识问答与对话](http://hxiaom.github.io/analytics/2019/06/27/kg-13.html)
 - [Knowledge Graph Embedding](http://hxiaom.github.io/analytics/2018/12/29/Knowledge-graph-embedding.html)
 
 ## 自然语言处理(NLP)
