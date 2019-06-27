@@ -49,3 +49,15 @@ categories: Mobility
     > 今天（2019年6月26日）是新能源车2019年补贴新政正式开始实施的日子。取消地补，国补下降超过50%的断崖式下滑，将会导致一些列的“蝴蝶效应”。
 
 14. [被收购、倒闭、内讧，无人驾驶进入“混沌时代”](https://www.huxiu.com/article/305847.html)
+
+15. [电池存起火隐患，蔚来宣布召回ES8](https://www.huxiu.com/article/306052.html)
+
+16. [网约车平台「如祺出行」在广州上线，背后的广汽和腾讯都在打什么主意？](https://36kr.com/p/5219684)
+
+    > 如祺出行最关键的技术解决方案都是由腾讯来提供。而如祺并不是腾讯最近在共享出行领域的唯一动作。
+
+17. [Waymo starts self-driving pick-ups for Lyft riders](https://techcrunch.com/2019/06/27/waymo-starts-self-driving-pick-ups-for-lyft-riders/)
+
+    > The number of cars on the road is less than 10, since Waymo  plans to eventually expand to 10 total for this trial but isn’t there yet.
+
+18. [Toyota-SoftBank self-driving venture adds 5 Japanese automakers](https://asia.nikkei.com/Business/Automobile/Toyota-SoftBank-self-driving-venture-adds-5-Japanese-automakers)

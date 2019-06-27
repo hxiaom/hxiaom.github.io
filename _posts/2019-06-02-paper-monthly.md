@@ -27,3 +27,4 @@ categories: Mobility
     - [Bus transit network design with uncertainties on the basis of a metro network: A two-step model framework](https://www.sciencedirect.com/science/article/pii/S0191261518306969)
     - [Tradable credit scheme for control of evolutionary traffic flows to system optimum: model and its convergence](https://link.springer.com/article/10.1007/s11067-018-9432-z)
     - [Help or hindrance? The travel, energy and carbon impacts of highly automated vehicles](https://www.sciencedirect.com/science/article/pii/S0965856415002694)
+    - [Statistical Characteristic-Based Road Structure Recognition in Automotive FMCW Radar Systems](https://ieeexplore.ieee.org/document/8454859/authors#authors)
