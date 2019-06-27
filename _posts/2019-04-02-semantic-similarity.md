@@ -40,15 +40,30 @@ categories: Analytics
 
 ### Corpus-based similarity measures
 
+此类方法将文本看作单词的组合，但是单词与单词之间的相似度不仅仅依靠字符串的比较。而是进一步依赖单词的上下文来计算单词内涵的语义。使得”开心“与”快乐“两词，虽然在字符串上不相似，但是在语义上相似。
+
 - Normalized Google Distance (NGD)
 - Normalized Information Distance (NID)
 - Normalized Compression Distance (NCD)
+- Hyperspace Analogue to Language (HAL)
 - Latent Semantic similarity (LSA)
+- Explicit Semantic Analysis (ESA)
+- Pointwise Mutual Information - Information Retrieval (PMI-IR)
+- Second-order Co-occurrence Pointwise Mutual Information (SCO-PMI)
+
+### Embedding similarity measures
+
+此方法特指使用深度学习的Embedding方法
+
+- Word2Vec
+- Glove
 
 ### Knowledge-based similarity
 
-- Resnik similarity
-- Vector similarity
+此类方法借助外部的知识库例如WordNet进行语义计算。
+
+- Resnik similarity: Information Content (IC) of the most informative subsume
+- Vector similarity: A vector is create for each word used in the Word Net glosses from a given corpus and then represents each concept with a vector that is the average of this co-occurrence vector.
 
 ## 参考文献
 
@@ -56,3 +71,4 @@ categories: Analytics
 - [徐健,张智雄,肖卓,邓昭俊.科技术语语义相似度计算方法研究综述[J].现代图书情报技术,2010(Z1):51-57.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=XDTQ2010Z1012&v=MDkyMThNMUZyQ1VSTE9mWStac0Z5RG5VNy9NUFNuZmY3RzRIOUdtcm85RVpvUjhlWDFMdXhZUzdEaDFUM3FUclc=)
 - Pradhan N, Gyanchandani M, Wadhvani R. A Review on Text Similarity Technique used in IR and its Application[J]. International Journal of Computer Applications, 2015, 120(9).
 - Gomaa W H, Fahmy A A. A survey of text similarity approaches[J]. International Journal of Computer Applications, 2013, 68(13): 13-18.
+- Alvarez J E, Bast H. A review of word embedding and document similarity algorithms applied to academic text[D]. University OF Freiburg, 2017.
