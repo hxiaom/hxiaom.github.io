@@ -57,6 +57,8 @@ categories: Analytics
 
 - Word2Vec
 - Glove
+- BERT
+- XLNet
 
 ### Knowledge-based similarity
 
