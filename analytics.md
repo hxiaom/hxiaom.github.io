@@ -19,7 +19,8 @@ permalink: /analytics/
 
 ## 计量经济学
 
-- [计量导论（一）经济问题和数据](http://hxiaom.github.io/analytics/2019/06/27/eco.html)
+- [计量导论（一）经济问题和数据](http://hxiaom.github.io/analytics/2019/06/27/eco-1.html)
+- [计量导论（二）概率论知识回顾](http://hxiaom.github.io/analytics/2019/06/28/eco-2.html)
 - [Logarithmic scale](http://hxiaom.github.io/analytics/2019/03/27/log.html)
 
 ## 传统机器学习
