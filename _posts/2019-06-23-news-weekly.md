@@ -61,3 +61,9 @@ categories: Mobility
     > The number of cars on the road is less than 10, since Waymo  plans to eventually expand to 10 total for this trial but isn’t there yet.
 
 18. [Toyota-SoftBank self-driving venture adds 5 Japanese automakers](https://asia.nikkei.com/Business/Automobile/Toyota-SoftBank-self-driving-venture-adds-5-Japanese-automakers)
+
+19. [恐怖的自动驾驶新法](https://36kr.com/p/5220307)
+
+20. [Waymo hires 13 Anki robot experts to work on its self-driving trucks](https://www.pocket-lint.com/cars/news/148492-waymo-hires-13-anki-robot-experts-to-work-on-its-self-driving-trucks)
+
+21. [Think your car insurance is too high? Self-driving cars could make you pay less](https://www.abacusnews.com/future-tech/think-your-car-insurance-too-high-self-driving-cars-could-make-you-pay-less/article/3014795)
