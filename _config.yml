@@ -11,7 +11,7 @@ header_pages:
   - analytics.md
   - categories.md
   - archives.md
-  - biography.md
+  # - biography.md
   - search.md
 
 # social links

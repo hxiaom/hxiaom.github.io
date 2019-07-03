@@ -43,3 +43,16 @@ categories: Mobility
 13. [Self-driving cars face two important challenges, says World Economic Forum executive](https://www.cnbc.com/2019/07/01/autonomous-vehicles-face-two-challenges-technology-and-business-model.html)
 
 14. [Chandler employees to use Waymo autonomous vehicles on the job](https://www.azcentral.com/story/news/local/chandler/2019/07/01/waymo-chandler-partner-autonomous-vehicle-ride-share-program/1555482001/)
+
+15. [特斯拉第二季度交付量创新高，盘后股价一度大涨近9%](https://36kr.com/p/5221814)
+
+16. [“国字头”互联互通平台推出，充电桩困局能否得解？](https://36kr.com/p/5221621)
+
+    > 6月30日，由国家电网、南方电网等联合创建的河北雄安联行网络科技股份有限公司（以下简称“联行科技”），公开发布了其首个新能源充电互联互通基础平台及其充电桩搜索APP——联行逸充。
+
+    > 深圳车电网络有限公司副总经理李璞曾在中国能源报的采访中坦言，“充电桩互联互通这件事必须要靠政府来协调，目前大家都觉得数据很有价值，不想无偿共享。”
+
+17. [Waymo is now allowed to transport passengers in its self-driving vehicles on California roads](https://techcrunch.com/2019/07/02/waymo-is-now-allowed-to-transport-passengers-in-its-self-driving-vehicles-on-california-roads/)
+
+18. [How safe are robotaxis? BMW, Intel, Aptiv (and 8 others) just laid out a safety blueprint](https://techcrunch.com/2019/07/02/how-safe-are-robotaxis-bmw-intel-aptiv-and-8-others-just-laid-out-a-safety-blueprint/)
+
