@@ -38,3 +38,13 @@ categories: Mobility
         - economy
         - public safety and security
         - presenting representative scenarios in each category
+
+3. [Wang X, Liu W, Yang H, et al. Customer behavioural modelling of order cancellation in coupled ride-sourcing and taxi markets[J]. Transportation Research Part B: Methodological, 2019.](https://www.sciencedirect.com/science/article/pii/S0191261518311330)
+
+    - Motivation: understand customer order cancellation behavior
+    - Methods:
+        - Data analysis
+        - Modeling
+    - Results:
+        - The mean ride distance and pick-up distance of cancelled orders are observed to be obviously longer than those of completed orders of the same time period, reflecting an obvious impact of travel cost on customer decisions of order cancellation. 
+        - The correlation between the mean customer confirmed-order cancellation rate (COCR) and the mean customer waiting time for pick-up of cancelled orders is significantly negative. an outcome of the lower (higher) chance of meeting vacant taxis while waiting for pick-up during peak (non-peak) hours.
