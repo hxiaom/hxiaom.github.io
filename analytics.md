@@ -15,12 +15,13 @@ permalink: /analytics/
 - [数据标准化/归一化](http://hxiaom.github.io/analytics/2019/04/10/normalization.html)
 - [Tidy Data](http://hxiaom.github.io/analytics/2019/01/01/tidy-data.html)
 - [傅里叶变换、小波变换](http://hxiaom.github.io/analytics/2019/04/10/wavelet.html)
-- [奇异值分解](http://hxiaom.github.io/analytics/2019/04/17/SVD.html)
+- [可视化](http://hxiaom.github.io/analytics/2019/07/04/visualization.html)
 
 ## 计量经济学
 
 - [计量导论（一）经济问题和数据](http://hxiaom.github.io/analytics/2019/06/27/eco-1.html)
 - [计量导论（二）概率论知识回顾](http://hxiaom.github.io/analytics/2019/06/28/eco-2.html)
+- [计量导论（三）统计学知识回顾](http://hxiaom.github.io/analytics/2019/07/04/eco-3.html)
 - [Logarithmic scale](http://hxiaom.github.io/analytics/2019/03/27/log.html)
 
 ## 传统机器学习
@@ -59,6 +60,7 @@ permalink: /analytics/
 - 无监督学习
     - [MCMC](http://hxiaom.github.io/analytics/2019/04/23/mcmc.html)
     - [聚类算法](http://hxiaom.github.io/analytics/2019/04/30/clustering.html)
+    - [奇异值分解](http://hxiaom.github.io/analytics/2019/04/17/SVD.html)
 - 概念辨析
     - [分类与回归](http://hxiaom.github.io/analytics/2019/04/23/regression-classification.html)
     - [ML Evaluation](http://hxiaom.github.io/analytics/2018/12/25/evaluation-of-machine-learning-model.html)
@@ -116,6 +118,7 @@ permalink: /analytics/
 
 ## 自然语言处理(NLP)
 
+- [自然语言处理（一）基础知识](http://hxiaom.github.io/method/2019/07/01/nlp.html)
 - [NLTK](http://hxiaom.github.io/analytics/2018/09/18/NLP.html)
 - [信息熵](http://hxiaom.github.io/analytics/2019/04/29/information-entropy.html)
 - [互信息](http://hxiaom.github.io/analytics/2019/04/25/mi.html)
