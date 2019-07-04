@@ -40,7 +40,7 @@ categories: Analytics
 
 ### Corpus-based similarity measures
 
-此类方法将文本看作单词的组合，但是单词与单词之间的相似度不仅仅依靠字符串的比较。而是进一步依赖单词的上下文来计算单词内涵的语义。使得”开心“与”快乐“两词，虽然在字符串上不相似，但是在语义上相似。
+此类方法将文本看作单词的组合，但是单词与单词之间的相似度不仅仅依靠字符串的比较。而是进一步依赖单词的共现信息计算单词内涵的语义。使得”开心“与”快乐“两词，虽然在字符串上不相似，但是在语义上相似。
 
 - Normalized Google Distance (NGD)
 - Normalized Information Distance (NID)
@@ -53,7 +53,7 @@ categories: Analytics
 
 ### Embedding similarity measures
 
-此方法特指使用深度学习的Embedding方法
+此方法特指使用深度学习的Embedding方法，此类方法与Corpus-based similarity的区别在于，不再基于词袋集合（利用共现信息），加入了单个词的上下文信息。认为上下文相似的词，意思相近。
 
 - Word2Vec
 - Glove
@@ -62,7 +62,7 @@ categories: Analytics
 
 ### Knowledge-based similarity
 
-此类方法借助外部的知识库例如WordNet进行语义计算。
+此类方法借助外部的知识库例如WordNet进行语义计算。而外部的知识库往往由专家编撰，不仅仅有同义词、上下位词这样简单的语义关系，还包含更复杂的语义关系。
 
 - Resnik similarity: Information Content (IC) of the most informative subsume
 - Vector similarity: A vector is create for each word used in the Word Net glosses from a given corpus and then represents each concept with a vector that is the average of this co-occurrence vector.
