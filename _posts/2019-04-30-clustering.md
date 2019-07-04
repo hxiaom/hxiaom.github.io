@@ -298,7 +298,7 @@ k均值聚类中的类别数k值需要预先制定，而在实际应用中最优
 #### Partition-based Clustering
 
 - 思想：将点的中心作为聚类的中心，对空间进行分割。
-- 代表算法：K-means；K-medoids；PAM；CLARA；CLARANS。(affinity propagation算法也可以看作Partitioin-based clustering)
+- 代表算法：K-means；K-medoids；PAM；CLARA；CLARANS。(affinity propagation算法也可以看作这类方法的一种)
 - 优点：相对低的时间复杂度；相对高的计算效率。
 - 缺点：不适合非凸的数据集；对于异常值敏感；容易陷入局部最优；聚类数量需要预先设定；聚类结果对设定的聚类数量敏感。
 
@@ -325,8 +325,35 @@ k均值聚类中的类别数k值需要预先制定，而在实际应用中最优
 
 #### Density-based Clustering
 
-- 思想：
+- 思想：在空间中处于高密度的一系列点属于同一类
+- 代表算法：DBSCAN；OPTICS；Mean-Shift。(DENCLUE也可以看作这类方法的一种)
+- 优点：高效；适合任意形状的数据；
+- 缺点：当空间中密度不均衡时聚类结果差；空间复杂度高；基于核函数的Mean-Shift时间复杂度高；聚类结果对参数敏感；
 
+#### Graph Theory-based Clustering
+
+- 思想：数据点被看作图中的点，数据点之间的关系被看作图中的边。
+- 代表算法：CLICK；MST-based clustering。(SM算法，NJW算法也是这类方法中的一种)
+- 优点：高效；聚类结果准确性高；
+- 缺点：时间复杂度随图复杂度高速增长。
+
+#### Grid-based Clustering
+
+- 思想：将原始的数据空间切割为有限的小方块。
+- 代表算法：STING；CLIQUE。(Wavecluster也是这类方法中的一种)
+- 优点：低时间复杂度；高度可扩展性；适合并行与增量计算；CLIQUE算法拥有Grid-based和Density-based的优点。
+- 缺点：聚类结果对于Gird粒度敏感；高效建立在减少聚类质量和聚类准确度的基础上。
+
+#### Fractal Theory-based Clustering
+
+- 思想：基于分形理论
+- 代表算法：FC
+- 优点：高效；时间复杂度O(n)；高度可扩展性；对异常值不敏感；适合高维数据；适合任意形状数据；
+- 缺点：前提假设并不完全正确；聚类结果对参数敏感。
+
+#### Model-based Clustering
+
+- 思想：
 
 ## 参考文献
 
