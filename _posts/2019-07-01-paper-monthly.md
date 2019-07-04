@@ -48,3 +48,14 @@ categories: Mobility
     - Results:
         - The mean ride distance and pick-up distance of cancelled orders are observed to be obviously longer than those of completed orders of the same time period, reflecting an obvious impact of travel cost on customer decisions of order cancellation. 
         - The correlation between the mean customer confirmed-order cancellation rate (COCR) and the mean customer waiting time for pick-up of cancelled orders is significantly negative. an outcome of the lower (higher) chance of meeting vacant taxis while waiting for pick-up during peak (non-peak) hours.
+
+4. [Wang S, Meng Q, Yang H. Global optimization methods for the discrete network design problem[J]. Transportation Research Part B: Methodological, 2013, 50: 42-60.](https://www-sciencedirect-com.ezproxy.cityu.edu.hk/science/article/pii/S0191261513000179)
+
+    - Motivation: multi-capacity discrete network design problem
+    - Proposed Method: 
+        - bi-level programming model
+            - the upper level aims to minimize the total travel time via adding new lanes to candidate links
+            - the lower level is a traditional Wardrop user equilibrium (UE) problem
+        -  two global optimization methods by taking advantage of the relationship between UE and system optimal (SO)
+            - SO-relaxation, exploits the property that an optimal network design solution under SO principle can be a good approximate solution under UE principle, and successively sorts the solutions in the order of increasing total travel time under SO principle
+            - UE-reduction, adds the objective function of the Beckmann-McGuire-Winsten transformation of UE traffic assignment to the constraints of the SO-relaxation formulation of the multi-capacity DNDP.

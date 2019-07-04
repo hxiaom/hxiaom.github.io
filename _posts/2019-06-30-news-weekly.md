@@ -56,3 +56,12 @@ categories: Mobility
 
 18. [How safe are robotaxis? BMW, Intel, Aptiv (and 8 others) just laid out a safety blueprint](https://techcrunch.com/2019/07/02/how-safe-are-robotaxis-bmw-intel-aptiv-and-8-others-just-laid-out-a-safety-blueprint/)
 
+19. [11家厂商联合发布白皮书，自动驾驶走向安全联盟时代](https://www.huxiu.com/article/307011.html)
+
+    > 自动驾驶的安全规范问题正在从“技术安全”走入“程序安全”——在适用性相对较强、落地性相对较高的L3和L4级别自动驾驶中，构成安全问题的不仅仅是技术，反而是人类安全员对于自动驾驶系统的了解程度以及双方的配合度。
+
+    > 自动驾驶安全白皮书将自动驾驶汽车的安全规范问题分为研发、测试和运营三个部分。提出了具有通用性的“自动驾驶十二项原则”，其中包括安全操作、操作设计领域、自动驾驶系统/安全员主动切换、安全性、用户责任、车辆主动切换、安全员与自动驾驶系统之间的相互依赖性、安全评估、数据记录、被动安全、交通行为和安全层。
+
+20. [百度和吉利达成战略合作，5G推动车联网快速发展](https://36kr.com/p/5221967)
+
+21. [Baidu’s autonomous cars have driven more than 1 million miles across 13 cities in China](https://venturebeat.com/2019/07/02/baidus-autonomous-cars-have-driven-more-than-1-million-miles-across-13-cities-in-china/)
