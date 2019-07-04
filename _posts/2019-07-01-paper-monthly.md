@@ -44,7 +44,7 @@ categories: Mobility
     - Motivation: understand customer order cancellation behavior
     - Methods:
         - Data analysis
-        - Modeling
+        - Modelling
     - Results:
         - The mean ride distance and pick-up distance of cancelled orders are observed to be obviously longer than those of completed orders of the same time period, reflecting an obvious impact of travel cost on customer decisions of order cancellation. 
         - The correlation between the mean customer confirmed-order cancellation rate (COCR) and the mean customer waiting time for pick-up of cancelled orders is significantly negative. an outcome of the lower (higher) chance of meeting vacant taxis while waiting for pick-up during peak (non-peak) hours.
@@ -59,3 +59,14 @@ categories: Mobility
         -  two global optimization methods by taking advantage of the relationship between UE and system optimal (SO)
             - SO-relaxation, exploits the property that an optimal network design solution under SO principle can be a good approximate solution under UE principle, and successively sorts the solutions in the order of increasing total travel time under SO principle
             - UE-reduction, adds the objective function of the Beckmann-McGuire-Winsten transformation of UE traffic assignment to the constraints of the SO-relaxation formulation of the multi-capacity DNDP.
+
+5. [Ke J, Zheng H, Yang H, et al. Short-term forecasting of passenger demand under on-demand ride services: A spatio-temporal deep learning approach[J]. Transportation Research Part C: Emerging Technologies, 2017, 85: 591-608.](https://www.sciencedirect.com/science/article/pii/S0968090X17302899)
+
+    - Motivation: Short-term passenger demand forecasting
+    - Method: 
+        - fusion convolutional long short-term memory network (FCL-Net). 
+        - Fusion of convolutional LSTM layers, standard LSTM layers and convolutional layers. 
+        - Better capture spatio-temporal correlations of explanatory variables.
+        - A tailored spatially aggregated random forest is used to rank feature importance.
+        - Applied to real-world on-demand ride service data provided by DiDi.
+    

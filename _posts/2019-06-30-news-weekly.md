@@ -65,3 +65,5 @@ categories: Mobility
 20. [百度和吉利达成战略合作，5G推动车联网快速发展](https://36kr.com/p/5221967)
 
 21. [Baidu’s autonomous cars have driven more than 1 million miles across 13 cities in China](https://venturebeat.com/2019/07/02/baidus-autonomous-cars-have-driven-more-than-1-million-miles-across-13-cities-in-china/)
+
+22. [瑞士的公共交通究竟有多发达？](https://www.huxiu.com/article/307125.html)
