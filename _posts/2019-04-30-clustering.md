@@ -304,7 +304,7 @@ k均值聚类中的类别数k值需要预先制定，而在实际应用中最优
 
 #### Hierarchy-based Clustering
 
-- 思想：构建数据间的层次关系
+- 思想：构建数据间的层次关系。分为single-link，comple-link，average-link
 - 代表算法：BIRCH；CURE；ROCK；Chameleon
 - 优点：适合任意形状的数据；适合任意类型属性的数据；聚类结果具有层次结构；相对较好的可扩展性。
 - 缺点：相对高的时间复杂度；聚类数量需要预先设定。
@@ -366,4 +366,5 @@ k均值聚类中的类别数k值需要预先制定，而在实际应用中最优
 - Xu D, Tian Y. A comprehensive survey of clustering algorithms[J]. Annals of Data Science, 2015, 2(2): 165-193.
 - Saxena A, Prasad M, Gupta A, et al. A review of clustering techniques and developments[J]. Neurocomputing, 2017, 267: 664-681.
 - Aggarwal C C, Zhai C X. A survey of text clustering algorithms[M]//Mining text data. Springer, Boston, MA, 2012: 77-128.
+- Ben-David S. Clustering-what both theoreticians and practitioners are doing wrong[C]//Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 - 统计学习方法 第2版 李航
