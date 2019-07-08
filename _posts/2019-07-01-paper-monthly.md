@@ -69,4 +69,8 @@ categories: Mobility
         - Better capture spatio-temporal correlations of explanatory variables.
         - A tailored spatially aggregated random forest is used to rank feature importance.
         - Applied to real-world on-demand ride service data provided by DiDi.
-    
+
+6. [A general model of demand-responsive transportation services: From taxi to ridesharing to dial-a-ride](https://www.sciencedirect.com/science/article/pii/S0191261518307793)
+
+    - Motivation: a general analytic framework to model transit systems that provide door-to-door service.
+    - Method: the framework yields approximate closed form formulas for many cases of interest.
