@@ -74,3 +74,10 @@ categories: Mobility
 
     - Motivation: a general analytic framework to model transit systems that provide door-to-door service.
     - Method: the framework yields approximate closed form formulas for many cases of interest.
+
+7. [Modelling car-following behaviour of connected vehicles with a focus on driver compliance](https://www.sciencedirect.com/science/article/pii/S0191261518306362)
+
+    - Motivation: connected vehicle driving, driver compliance
+    - Method:
+        - A novel connected vehicle driving strategy (CVDS) is developed.
+        - Driver compliance is modelled using the prospect theory.
