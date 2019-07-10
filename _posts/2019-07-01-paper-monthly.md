@@ -81,3 +81,8 @@ categories: Mobility
     - Method:
         - A novel connected vehicle driving strategy (CVDS) is developed.
         - Driver compliance is modelled using the prospect theory.
+
+8. [Profit-oriented fixed-charge network design with elastic demand](https://www.sciencedirect.com/science/article/pii/S0191261518310130)
+
+    - Motivation: elastic demand, fixed-charge multicommodity network
+    - Method: Modelling
