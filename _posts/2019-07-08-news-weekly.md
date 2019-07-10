@@ -31,3 +31,11 @@ categories: Mobility
     > The intention of the “Safety First Automated Driving” paper is to establish a framework of universal safety principles that all self-driving cars need to abide by. 
 
 8. [Elon Musk says free self-driving chip upgrade could come to older Teslas this year](https://www.theverge.com/2019/7/8/20685873/tesla-fsd-chip-upgrade-2019-install-hw2-full-self-driving)
+
+9. [宝马无人车体验：把司机彻底干掉，有必要吗？](https://www.huxiu.com/article/307629.html)
+
+10. [按马斯克的说法，我们马上就买不到特斯拉了？](https://www.huxiu.com/article/307792.html)
+
+11. [打开汽车“自动辅助驾驶”的配置表，我一脸懵 X](https://www.huxiu.com/article/307885.html)
+
+12. [吉利节节败退，降低年销量目标，上半年净利同比减少40%](https://36kr.com/p/5223833)
