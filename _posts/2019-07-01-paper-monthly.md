@@ -86,3 +86,9 @@ categories: Mobility
 
     - Motivation: elastic demand, fixed-charge multicommodity network
     - Method: Modelling
+
+9. [Is Travel Demand Actually Deep? An Application in Event Areas Using Semantic Information](https://ieeexplore.ieee.org/abstract/document/8643585)
+
+    - Motivation: Event, travel demand
+    - Method: Deep Learning
+    
