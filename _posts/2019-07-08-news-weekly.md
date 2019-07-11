@@ -39,3 +39,13 @@ categories: Mobility
 11. [打开汽车“自动辅助驾驶”的配置表，我一脸懵 X](https://www.huxiu.com/article/307885.html)
 
 12. [吉利节节败退，降低年销量目标，上半年净利同比减少40%](https://36kr.com/p/5223833)
+
+13. [日系vs德美，自动驾驶进入“站队”时刻](https://www.huxiu.com/article/308034.html)
+
+14. [May Mobility reveals prototype of a wheelchair-accessible autonomous vehicle](https://techcrunch.com/2019/07/10/may-mobility-reveals-prototype-of-a-wheelchair-accessible-autonomous-vehicle/)
+
+15. [Zoox’s self-driving car will provide a smooth ride via independent active suspension](https://techcrunch.com/2019/07/10/zooxs-self-driving-car-will-provide-a-smooth-ride-via-independent-active-suspension/)
+
+16. [8 Questions With James Peng of Pony.ai, One of China's Most Valuable Autonomous Vehicle Startups](https://time.com/5602852/pony-ai-james-peng-autonomous-vehicle-startup/)
+
+17. [H-E-B to Test Self-Driving Delivery This Year](https://therivardreport.com/h-e-b-to-test-self-driving-delivery-this-year/)
