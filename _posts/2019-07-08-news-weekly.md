@@ -49,3 +49,7 @@ categories: Mobility
 16. [8 Questions With James Peng of Pony.ai, One of China's Most Valuable Autonomous Vehicle Startups](https://time.com/5602852/pony-ai-james-peng-autonomous-vehicle-startup/)
 
 17. [H-E-B to Test Self-Driving Delivery This Year](https://therivardreport.com/h-e-b-to-test-self-driving-delivery-this-year/)
+
+18. [THIS LIDAR IS SO CHEAP IT COULD MAKE SELF-DRIVING A REALITY](https://www.wired.com/story/lidar-cheap-make-self-driving-reality/)
+
+    
