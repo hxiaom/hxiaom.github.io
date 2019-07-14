@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 交通规划原理
-categories: Mobility
+title: 【Method】交通规划原理
+categories: Analytics
 ---
 
 第一章 绪论

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 交通管理与控制
-categories: Mobility
+title: 【Method】交通管理与控制
+categories: Analytics
 ---
 
 绪论
