@@ -65,3 +65,6 @@ categories: Anlaytics
                 - Humans capacity as function of factors, Set of factors that carries over well to application.
 
 ## Knowledge Graph
+
+- 语义关系
+- 自动构建
