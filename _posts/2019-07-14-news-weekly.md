@@ -33,3 +33,11 @@ categories: Mobility
     > 其中一位知情人士表示，整合的方案包括，阿里剥离AliOS汽车团队，合并进入斑马，斑马为此支付一笔费用，目前外部有不少机构愿意出钱（投资），甚至包括广汽集团旗下的广汽资本。同时，随着外部资本进入，上汽或出让部分股权，阿里由此控股，操盘斑马。
 
 9. [苹果申请新专利，为自动驾驶汽车无线充电](https://36kr.com/p/5226079)
+
+10. [卡车司机年跑10万公里，走过的都是危险与无奈](https://www.huxiu.com/article/308972.html)
+
+11. [18城，202块牌照，自动驾驶路测争夺战升温](https://www.huxiu.com/article/309000.html)
+
+    > 自动驾驶正在加速上路，六月一个月里，中国四个城市发出了八十二张路测牌照。﻿6月14日，广州发出首批路测牌照；15日，浙江德清县也向8家企业颁发了路测牌照；中旬，北京市向地图厂商四维图新发放T3级别路测牌照；21日，长沙第二批49张牌照发出。
+
+12. [Elon Musk is raising the price of Tesla’s ‘full self-driving’ feature by another $1,000](https://techcrunch.com/2019/07/16/elon-musk-is-raising-the-price-of-teslas-full-self-driving-feature-by-another-1000/)
