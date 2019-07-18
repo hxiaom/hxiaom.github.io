@@ -41,3 +41,11 @@ categories: Mobility
     > 自动驾驶正在加速上路，六月一个月里，中国四个城市发出了八十二张路测牌照。﻿6月14日，广州发出首批路测牌照；15日，浙江德清县也向8家企业颁发了路测牌照；中旬，北京市向地图厂商四维图新发放T3级别路测牌照；21日，长沙第二批49张牌照发出。
 
 12. [Elon Musk is raising the price of Tesla’s ‘full self-driving’ feature by another $1,000](https://techcrunch.com/2019/07/16/elon-musk-is-raising-the-price-of-teslas-full-self-driving-feature-by-another-1000/)
+
+13. [蔚来的困局：从粉丝效应到围城效应](https://www.huxiu.com/article/309185.html)
+
+14. [小康股份梦碎美利坚：“借”零件造概念车](https://www.huxiu.com/article/309074.html)
+
+15. [国人购车新趋势：预算紧缩、对新能源车顾虑加重](https://36kr.com/p/5226565)
+
+16. [Peloton’s new automated vehicle system gives one driver control of two trucks](https://techcrunch.com/2019/07/17/pelotons-new-automated-vehicle-system-gives-one-driver-control-of-two-trucks/)
