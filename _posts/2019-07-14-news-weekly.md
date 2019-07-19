@@ -49,3 +49,12 @@ categories: Mobility
 15. [国人购车新趋势：预算紧缩、对新能源车顾虑加重](https://36kr.com/p/5226565)
 
 16. [Peloton’s new automated vehicle system gives one driver control of two trucks](https://techcrunch.com/2019/07/17/pelotons-new-automated-vehicle-system-gives-one-driver-control-of-two-trucks/)
+
+17. [青岛地铁举报事件还没完](https://www.huxiu.com/article/309409.html)
+
+18. [特斯拉Q2事故报告：自动驾驶下每370万英里一起事故](https://36kr.com/p/5226924)
+
+19. [特斯拉招聘，约500人竞争28个职位，激烈程度堪比公务员考试](https://36kr.com/p/5226779)
+
+20. [This is one way Toyota plans to shuttle people around during the 2020 Olympics](https://techcrunch.com/2019/07/18/this-is-one-way-toyota-plans-to-shuttle-people-around-during-the-2020-olympics/)
+
