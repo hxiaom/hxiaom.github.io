@@ -58,3 +58,14 @@ categories: Mobility
 
 20. [This is one way Toyota plans to shuttle people around during the 2020 Olympics](https://techcrunch.com/2019/07/18/this-is-one-way-toyota-plans-to-shuttle-people-around-during-the-2020-olympics/)
 
+21. [专攻高精定位解决方案，「千寻位置」要解决自动驾驶车辆“我在哪儿”的问题](https://36kr.com/p/5227241)
+
+    > 千寻位置成立于2015年8月，由中国兵器工业集团和阿里巴巴共同创立。该公司基于北斗卫星系统（兼容GPS、GLONASS、Galileo）基础定位数据，利用遍布全国的地基增强站和自主研发的定位算法，通过互联网技术进行大数据运算，为全国用户提供高达动态厘米级和静态毫米级的定位和延展服务。该公司的产品主要有5类应用领域，包括智能驾驶、消费电子、农业、公共服务（比如房屋检测、电力巡检等）和智慧城市，主要客户是高精地图厂商和主机厂。
+
+    > 对千寻位置来说，眼下在低速无人车上的落地应用，能帮助它沉淀时空数据，从而为今后自动驾驶的更大规模应用提供更好的感知依据。
+
+    > 千寻位置智能驾驶事业部总经理年劲飞告诉36氪，高精定位服务的市场非常广阔，因为在物联网时代，“万物皆需要被定位”。目前，他们在智能驾驶方面的主要业务可以概述为“车路场”。“车”指的是乘用车、商用车和智能机器（低速无人车）；“路”指的是道路地图采集的轨迹纠偏服务、面向智能驾驶的大规模路测验证、车路协同中路端设备的时空同步和定位服务；“场”指的是智能驾驶测试场和示范区。
+
+22. [After Baidu tie-up, BMW taps Tencent for autonomous driving in China](https://techcrunch.com/2019/07/19/baidu-bmw-partnership-autonomous-driving/)
+
+23. [Self-driving startup AutoX expands beyond deliveries and sets its sights on Europe](https://techcrunch.com/2019/07/19/self-driving-startup-autox-expands-beyond-deliveries-and-sets-its-sights-on-europe/)
