@@ -16,6 +16,7 @@ permalink: /analytics/
 - [Tidy Data](http://hxiaom.github.io/analytics/2019/01/01/tidy-data.html)
 - [傅里叶变换、小波变换](http://hxiaom.github.io/analytics/2019/04/10/wavelet.html)
 - [可视化](http://hxiaom.github.io/analytics/2019/07/04/visualization.html)
+- [图数据库](http://hxiaom.github.io/2019/07/08/graph-databases.html)
 
 ## 计量经济学
 
@@ -24,6 +25,7 @@ permalink: /analytics/
 - [计量导论（三）统计学知识回顾](http://hxiaom.github.io/analytics/2019/07/04/eco-3.html)
 - [回归分析基础（一）一元线性回归](http://hxiaom.github.io/analytics/2019/07/19/eco-4.html)
 - [Logarithmic scale](http://hxiaom.github.io/analytics/2019/03/27/log.html)
+- [Time Series Data Analyze](http://hxiaom.github.io/analytics/2018/11/19/time-series-data.html)
 
 ## 传统机器学习
 
@@ -65,6 +67,7 @@ permalink: /analytics/
 - 概念辨析
     - [分类与回归](http://hxiaom.github.io/analytics/2019/04/23/regression-classification.html)
     - [ML Evaluation](http://hxiaom.github.io/analytics/2018/12/25/evaluation-of-machine-learning-model.html)
+- [Google机器学习最佳实践](http://hxiaom.github.io/analytics/2019/07/10/ml-best-practice.html)
 
 ## 深度学习
 
@@ -95,6 +98,7 @@ permalink: /analytics/
     - [循环网络（一）基本概念](http://hxiaom.github.io/analytics/2019/05/21/dl-21.html)
     - [循环网络（二）计算图](http://hxiaom.github.io/analytics/2019/05/22/dl-22.html)
     - [循环网络（三）循环神经网络](http://hxiaom.github.io/analytics/2019/05/28/dl-23.html)
+- [实践方法论](http://hxiaom.github.io/analytics/2019/07/05/dl-24.html)
 - [Batch Size in Deep Learning](http://hxiaom.github.io/analytics/2018/12/26/batch-size.html)
 - [AutoML](http://hxiaom.github.io/analytics/2019/05/06/automl.html)
 - [Keras](http://hxiaom.github.io/analytics/2018/12/25/Keras.html)
@@ -135,7 +139,11 @@ permalink: /analytics/
 - [N-gram Language Models](http://hxiaom.github.io/analytics/2019/04/15/n-gram.html)
 - Named Entity Recognition
     - [Stanford CRF](http://hxiaom.github.io/analytics/2019/01/08/NER.html)
+- [NLP前沿](http://hxiaom.github.io/anlaytics/2019/07/14/nlp-advanced.html)
 
-## 时间序列分析
 
-- [Time Series Data Analyze](http://hxiaom.github.io/analytics/2018/11/19/time-series-data.html)
+## Mobility
+
+- [交通工程学](http://hxiaom.github.io/2019/07/08/transportation-engineering.html)
+- [交通规划原理](http://hxiaom.github.io/analytics/2019/07/13/traffic-planning.html)
+- [交通管理与控制](http://hxiaom.github.io/analytics/2019/07/13/transportation-management.html)

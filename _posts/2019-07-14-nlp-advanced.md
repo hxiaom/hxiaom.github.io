@@ -68,3 +68,5 @@ categories: Anlaytics
 
 - 语义关系
 - 自动构建
+
+## Attention model
