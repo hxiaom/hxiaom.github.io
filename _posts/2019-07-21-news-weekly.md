@@ -11,3 +11,15 @@ categories: Mobility
 3. [假如特斯拉倒掉会发生什么？](https://36kr.com/p/5227817)
 
 4. [51VR initiated China's first autonomous driving simulation bluebook](https://www.prnewswire.com/news-releases/51vr-initiated-chinas-first-autonomous-driving-simulation-bluebook-300888584.html)
+
+5. [成熟的车辆应该自己找停车位](https://www.huxiu.com/article/309984.html)
+
+6. [T3出行下线南京，拟年底在六城投放2万辆自营网约车](https://36kr.com/p/5228326)
+
+7. [Lyft opens to the public autonomous driving data set from its Level 5 self-driving fleet](https://techcrunch.com/2019/07/23/lyft-opens-autonomous-driving-dataset-from-its-level-5-self-driving-fleet-to-the-public/)
+
+    > Lyft  is offering to the public a set of autonomous driving data that it calls the “largest public data set of its kind,” containing over 55,000 3D frames of captured footage hand-labeled by human reviewers, data collected by seven cameras and as many as three lidars depending on the car used, plus a drivable surface map and HD spatial semantic data that corresponds to the captured info to provide context to researchers.
+
+8. [China's self-driving car prowess is greatly exaggerated](https://asia.nikkei.com/Opinion/China-s-self-driving-car-prowess-is-greatly-exaggerated)
+
+9. [百度智能汽车事业部变更业务方向？官方回应：消息不实](http://baijiahao.baidu.com/s?id=1639838842801940562&wfr=spider&for=pc)
