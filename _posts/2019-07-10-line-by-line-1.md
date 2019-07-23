@@ -22,4 +22,6 @@ This guide, of course, addresses writers far more sophisticated than the student
 
 To look at a sentence analytically, you have to recognize (1) the units that fit together to compose the whole and (2) the types of words, called parts of speech, that make up the various units. Let's look first at the larger elements, the building blocks of the sentence.
 
-A sentence is a group of words-or, occasionally, a single word-that readers recognize as a complete statement. The conventional type says that someone or somethign acts, experiences, or exists in a stated way (or did do so or will do so). Its two basic components are the subject, the someone or something, and the predicate, the statement about the subject's action, experience, or state of being.
+A sentence is a group of words-or, occasionally, a single word-that readers recognize as a complete statement. The conventional type says that someone or something acts, experiences, or exists in a stated way (or did do so or will do so). Its two basic components are the subject, the someone or something, and the predicate, the statement about the subject's action, experience, or state of being.
+
+The heart of the predicate, and sometimes the entire predicate, is the verb, a word that denotes mental or physical action or asserts existence as past, present, or future.
