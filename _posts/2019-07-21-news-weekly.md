@@ -23,3 +23,13 @@ categories: Mobility
 8. [China's self-driving car prowess is greatly exaggerated](https://asia.nikkei.com/Opinion/China-s-self-driving-car-prowess-is-greatly-exaggerated)
 
 9. [百度智能汽车事业部变更业务方向？官方回应：消息不实](http://baijiahao.baidu.com/s?id=1639838842801940562&wfr=spider&for=pc)
+
+10. [戴姆勒二季度亏损超百亿人民币，九年来首次](https://36kr.com/p/5229064)
+
+11. [Tesla reports larger-than-expected losses of $408 million in second quarter](https://techcrunch.com/2019/07/24/tesla-reports-larger-than-expected-losses-of-408-million-in-second-quarter/)
+
+12. [GM’s Cruise will miss 2019 target for robotaxi service launch](https://techcrunch.com/2019/07/24/cruise-will-launch-a-commercial-robotaxi-service-in-san-francisco-but-not-in-2019/)
+
+13. [Police say car in fatal crash was not partially self-driving](https://wqow.com/news/national-news-from-the-associated-press/2019/07/24/police-say-car-in-fatal-crash-was-not-partially-self-driving/)
+
+    > San Francisco police say preliminary information shows a rented Tesla that was speeding when it ran a red light and struck a couple, killing a man and critically injuring his wife, was not on semi-autonomous Autopilot mode.
