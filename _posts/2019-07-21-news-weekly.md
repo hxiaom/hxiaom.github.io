@@ -33,3 +33,7 @@ categories: Mobility
 13. [Police say car in fatal crash was not partially self-driving](https://wqow.com/news/national-news-from-the-associated-press/2019/07/24/police-say-car-in-fatal-crash-was-not-partially-self-driving/)
 
     > San Francisco police say preliminary information shows a rented Tesla that was speeding when it ran a red light and struck a couple, killing a man and critically injuring his wife, was not on semi-autonomous Autopilot mode.
+
+14. [团车网闻伟：特斯拉式直营店在中国行不通](https://36kr.com/p/5229379)
+
+15. [DeepMind is helping Waymo evolve better self-driving AI algorithms](https://www.technologyreview.com/s/614004/deepmind-is-helping-waymo-evolve-better-self-driving-ai-algorithms/)
