@@ -10,6 +10,7 @@ categories: Analytics
         - stop words
         - Stemming
         - Lemmatization
+    3. n-gram (optional)
 2. Parsing
     - POS tagging
     - Syntactical analysis
