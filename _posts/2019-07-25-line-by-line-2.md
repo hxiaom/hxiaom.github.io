@@ -54,4 +54,66 @@ The revisioin collapses two sentences into one. In the original the passive subj
 
 The next example comes from a letter that the head of a college English department sends prospective major:
 
-The English Department is unusually strong for a college of this size. It consists of twelve faculty members, whose fields of special interest cover the range of English and American literature. 
+The English Department is unusually strong for a college of this size. It consists of twelve faculty members, whose fields of special interest cover the range of English and American literature. The diversity and educational background of this department is suggested by the fact that important work published by its members includes such subjects as Shakespeare, Milton, Jane Austen, Tennyson, Wordsworth, Pope, Melville, and Southern "agrarian" writers, T. S. Eliot and Katherine Anne Porter.
+
+This excerpt has several problems, but notice particularly that the weak main verbs in the three sentences attract needless words, that the second sentence subordinates its primary information (the faculty members' range of interests), and that the third sentence repeats information given in the second. You might revise this way:
+
+The twelve faculty members who compose the English Department make it an unusually strong one for a college of this size. Their diverse special interests and educational backgrounds cover the range of English and American literature, and their publications include important works on Shakespeare, Milton, Jane Austen, Tennyson, Wordsworth, Pope, Melville, and Southern "agrarian" writers, T. S. Eliot and Katherine Anne Porter.
+
+As you check your sentences for weak verbs, always consider eliminating leisurely sentence openers like There is and It is important to note that. You can usually cut them easily, and most sentences work better if you go right to the point instead of sidling up to it. But apparently not all experts agree. A composition manual probides this example:
+
+There is a hasty way of writing which is counterpart to the hasty way of reading. It is becoming more common every year and raises less and less protest.
+
+Removing the weak verbs leaves:
+
+A hasty way of writing, counterpart to the hasty way of reading, grows more common every year and raises less and less protest.
+
+But you can condense even more:
+
+Hasty writing, like hasty reading, grows ...
+
+A financial columnist wrote the next example:
+
+To make the most of your investments, it is essential that you understand what your goals are and what your financial temperament is.
+
+As always, you can reduce it is esential that to must or have to and eliminate the what clauses. Revised, the sentence reads:
+
+To make the most of your inventments, you have to understand your goals and financial temperament.
+
+The last two examples, unlike the earlier ones, may not strike you as especially wordy, and perhaps the revised versions do sacrifice emphasis to brevity and directness. If you want that emphasis, if you want to draw particular attention to a statement, you can justify slowing the pace.
+
+No one recommends that you banish the verb to be and all passive forms from your wirtting. I wouldn't tamper, certainly, with "To be or not to be, that is the question" or even with "She is more to be pitied than censured." You may coose the passive, for example, because you want to put its subject first in the sentence or because you do not know, or do not want to reveal, who is performing the action. But when you use extra words, make sure that you are doing so purposefully, that you are not just surrendering to laziness and poor craftsmanship. As you edit what you've written, always consider replacing static verbs. While you should keep those that provide the tone or emphasis or variety you want, you'll find that most sentences beneift when you shift to active verbs.
+
+### Ponderous Nouns
+
+Wordy writing not only droops from weak verbs but sags under bulky nouns-especially ong Latinate ones with endings like tion and ment and ence. The two characteristics complement each other. Consider this sentence from a letter to the New York Times:
+
+The inference that because high school graduates are more likely to be employed than dropouts, the differences may be attributed to the possession of a diploma is suspect since dropouts and graduates may differ in a variety of ways relevant to both graduation prospects and employment status.
+
+Lifeless and noun-burdened, the sentence makes dull and difficult reading. You have to grope for the meaning. If you proceed mechanically, looking for verbs to replace and nouns to eliminate, you can eventually pare the sentence down:
+
+It is not necessarily the diploma that makes high school graduates more employable than dropouts; other differences may affect both their education and their job prospects.
+
+Isn't the shorter version easier to understand? Does the original tell you anything more? Compare the number of nouns and the number of static verbs in the two sentences, and notice the economies achieved in the revision, despite that opening It is. Although the sentence could begin The diploma does not necessarity make ..., the more emphatic lead, which adds only two words, stresses the statement as a counterargument.
+
+The next example comes from an article on interdisciplinary college courses. After pointign out that the instructors in such courses teach material in subject areas other thatn their own, the author goes on to say:
+
+One of the effects of this purposeful disengagement from expertise is that students are disabused of the notion that engagement in disciplinary material on a fairly elementary level requires mastery of that discipline.
+
+If your ear doesn't tell you that this sentence needs work, the ratio of nouns to active verbs should (not to mention that string of prepositional phrases, the symptom of wordiness discussed in the next section). To revise, first choose an active verb for the main clause. Ask yourself what takes place in the sentence, and you'll find the event confined in a passive verb and tucked away in a subordinate clause-student are disabused. To make that idea active, you can either say that instructors, by teaching outside their disciplines, disabuse students of a false notion or that nonspecialist teachers enable students to discover somethign. Either way you automatically eliminate the limp opening-One of the effects of. A sentence can make clear that something is an effect without using the label, and there's no apparent need to specify that the effect is one of several. (If that information is pertinent, you can include it elsewhere; here it gets in the way.) You might then consider these alternatives:
+
+> By venturning ouside their specialties, teachers disabuse students of the notion that only those who have mastered a discipline can deal with its subject matter.
+
+> When teachers venture outside their specialties, students discover that one need not have mastered a discipline to deal with its subject matter.
+
+These versions do omit on a fairly elementary level, but why would students think that "engagement ... on a fairly elementary level requires mastery"? Surely they wouldn't expect first-year French students to do without the translations in a Truffaut film. Nevertheless, the omission leaves something to be desired. The revisions almost imply the advisability of having know-nothings pontificate on a subject-an unlikely suggestion in an article favoring interdisciplinary courses. Presumably, then, the original sentence does not mean what it says. After explaining that instructors teach material outside their areas of expertise, the author probably intented to make this point:
+
+> By venturing into another field, teachers demonstrate that nonspecialists can deal with the subject matter to some extent, thus disabusing students of the notion that any engagement in the discipline requires mastery.
+
+Though not much shorter than the original, this version makes its words count.
+
+Here's one more nonn-heavy excerpt, this one from a manufacturer's annual report:
+
+> The stability and quality of our financial performance will be developed through the profitable execution of our exsiting business, as well as the acquistion or development of new businesses.
+
+Before you look at the revision below, try one yourself, following the steps used in earlier examples. The verbiage should yield easily,
