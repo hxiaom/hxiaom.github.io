@@ -19,3 +19,12 @@ categories: Mobility
 6. [Breaking! Tesla Soon Adding YouTube & Netflix To All Cars](https://cleantechnica.com/2019/07/27/breaking-tesla-soon-adding-youtube-netflix-to-all-cars/)
 
 7. [Here's Why Kids May Ride Bikes More Because Of Self-Driving Cars](https://www.forbes.com/sites/lanceeliot/2019/07/28/heres-why-kids-may-ride-bikes-more-because-of-self-driving-cars/#370b465957f8)
+
+8. [滴滴有意分拆自动驾驶业务，顺为资本孟醒将任负责人](https://36kr.com/p/5230368)
+
+    > 滴滴有意分拆自动驾驶业务，原顺为资本执行董事孟醒将加入新公司任负责人，孟醒也将负责新公司的融资业务。在顺为时，孟醒曾投资小鹏汽车。此次分拆或是为IPO做打算，组建新公司去融资，也可以给业务更多的发展空间和时间。Uber在上市前也剥离了自动驾驶板块，并获得软银、丰田等10亿美元投资，新公司投后估值达72.5亿美元。剥离自动驾驶板块的一个月后，Uber上市，目前市值754.86亿美金。
+
+9. [Uber lays off 400 as cost-cutting efforts ramp up](https://techcrunch.com/2019/07/29/uber-lays-off-400-employees-as-part-of-marketing-team-restructuring/)
+
+    > Uber  is laying off about 25% of its 1,200-person strong marketing department in an effort to slash costs and make operations more efficient following its public debut and first quarter losses of $1 billion.
+
