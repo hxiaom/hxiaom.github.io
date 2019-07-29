@@ -116,4 +116,52 @@ Here's one more nonn-heavy excerpt, this one from a manufacturer's annual report
 
 > The stability and quality of our financial performance will be developed through the profitable execution of our exsiting business, as well as the acquistion or development of new businesses.
 
-Before you look at the revision below, try one yourself, following the steps used in earlier examples. The verbiage should yield easily,
+Before you look at the revision below, try one yourself, following the steps used in earlier examples. The verbiage should yield easily, but the muddy original-perhaps an example of intentional corporate obfuscation-makes more than one interpretation possible. You may prefer your condensation to this one:
+
+> We will improve our financial performance not only by executing our existing business more profitably but by acquiring or developing new businesses.
+
+Do you object to the omission of stability and quality? Would restoring these terms make the revision mean more? You would have a hard time justifying quality, but stability may be another matter. Although the idea of improved financial performance should encompass the idea of greater stability, readers don't necessarily think about stability when they see improve our financial performance, and they're not likely to stop to analyze the phrase. Undoubtedly the sentence concerns a company in which instability has been a problem, and the revision carries no such implication. If the idea is important, you might choose this wording:
+
+> We will work toward a more stable and profitable financial performance not only by executing our existing business more efficiently but by acquiring or developing new businesses.
+
+### Strings of Prepositional Phrases
+
+As you might expect, strings of prepositional phrases often keep company with weak verbs and ponderous nouns. Look closely at any sentence that depends heavily on prepositions, and if you count more than three phrases in a row, consider revising. The following examples exhibit all the symptoms of wordiness we have been discussing; again, even if you can't hear the problem, you can detect it mechanically. The first comes from a doctoral dissertation:
+
+> The more resoned analysis made by the Saint-Simonians of the nature of the new power situation in France and of the reasons the present government could not satisfy the needs of the people was confirmed by these developments.
+
+This sentence features a passive main verb and seven prepositional phrases, four of them consecutive and all with nouns as objects. Changing to the active voice eliminates one phrase and gives you These develpments confirmed ... (It also has the advatage, incidentally, of bringing subject and verb closer together, thus making the sentence easier to read.) As you look for expendable phrases, you should see that of the nature of the new power situation means no more than of the new  power situation and that of the reasons can be left implicit; a reasoned analysis of the government's inability to satisfy would obviously give the underlying reasons. You can cut another phrase by using the Saint-Simponians' instead of made by the Saint-Simonians. (When an of or by phrase simply denotes possession or authorship, you can often substitute the possessive form of the noun. But be careful: not all of phrases translate into possessives. If, for example, you change the assassination of the dictator to the dictator's assassination, you risk turning the victim into a murderer.) With four phrases eliminated, the sentence reads:
+
+> These developments confirmed the Sain-Simonians' more reasoned analysis of the new power situation in France and of the present government's inability to satisfy the people's needs.
+
+In the next example, from a letter notifying stockholders of an annual meeting, only the first sentence has an objectionable string of prepositions, but the second plays a part in the revision:
+
+At the meeting there will be a report to the stockholders on the progress of the Company during the past year. A discussion period will also take place, during which the stockholders will have an opportunity to discuss matters of Company interst.
+
+The two sentences convey information that, properly arranged, would fit in one. You don't need a knapsack and a briefcase to carry a book and a memo pad, and you don't need both will be and will take place to tell readers that two things will happen at the meeting. Then, too, the second sentence, in announcing that stockholders will discuss in a discussion period, gives readers the same information twice. Such repetition reflects sloppy sentence structure, and it should disappear when you tighten the wording. Finally, the phrase matters of Company interest tells readers something that can go without saying. Two or three short sentences in a row should trigger a check for wordiness just as a long rambling one does. Sentence-combining drills in rhetoric handbooks teach students how to subordinate some elements to others as a means of varying structure. The same technique often eliminates needless words. Doesn't this sentence say as much as the original two?
+
+> At the meeting the president [or whoever] will report to stockholders on the Company's progress during the year and then invite questions and comments.
+
+Now let's look at a literary example:
+
+> How greatly Goethe was under the spell of the concept of the single ideal of beauty in his classicistic period is illustrated by the fact that he was pleased when readers could not distinguish between his and Schiller's anonymous publications.
+
+Here five consecutive prepositional phrases limp up to the weak and wordy predicate is illustrated by the fact that. Structuring sentence in this way relegates the dynamic content to a subordinate clause with another weak predicate-How greatly Goethe was under the spell. To avoid the passive voice, you might decide not to make Goethe the subject, since he is acted on, not acting. The action belongs to the concept that held Goethe under its spell-or that captivated him, a substitution that gets rid of one phase. You're now down from three of phrases in a row to two. Can you do better? Probably not. You might be tempted to drop concept of, but the sentence would then suggest that Goethe endorsed a particular ideal beauty rather than the notion of a single ideal. And ,of cource, a single ideal of beauty differs from a single ideal beauty. Still, going from five consecutive phrases to two represents a considerable improvement:
+
+> The concept of a single ideal of beauty so captivated Goethe in his classicistic period that he was pleased when ...
+
+If you wanted more emphasis on Goethe, you might prefer to settle for the passive:
+
+> In his classicistic period Goethe was so taken with the concept of a single ideal of beauty that ...
+
+You might even think of a way to have your cake and eat it too:
+
+> In his classicistic period Goethe believed so strongly in a single ideal of beauty that ...
+
+The verb believe enables you to use a single ideal of beauty without a preceding concept of, but it lacks the force of the alterantives. You would have to decide whether you lose more than you gain. Each of these versions eliminates the prolixity of the original, and they do not exhaust the possibilities. In revising you usually have the leeway to do it your way.
+
+When it comes to consecutive prepositional phrases, our final example, an obligatory statement in some financial reports, sets a record: it boasts a string of seven, not packed into the subject as in the Goethe sentence, but dragged along behind, like so many tin cans tied to the newlyweds' car:
+
+> The financial statements and related data presented elsewhere in this report have been prepared in accordance with generally accepted accounting principles, which require the measurement of financial position and operating results in terms of historical dollars without regard to changes in the relative purchasing power of money over time.
+
+If you look for the gist of this message, the sentence seems to be saying only that the report accords with generally accepted accounting principles in stating data in historical dollars.
