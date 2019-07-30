@@ -26,6 +26,7 @@ permalink: /analytics/
 - [回归分析基础（一）一元线性回归](http://hxiaom.github.io/analytics/2019/07/19/eco-4.html)
 - [回归分析基础（二）一元线性回归：假设检验和置信区间](http://hxiaom.github.io/analytics/2019/07/24/eco-5.html)
 - [回归分析基础（三）多元线性回归](http://hxiaom.github.io/analytics/2019/07/28/econ-6.html)
+- [回归分析基础（四）多元线性回归：假设检验和置信区间](http://hxiaom.github.io/analytics/2019/07/30/econ-7.html)
 - [Logarithmic scale](http://hxiaom.github.io/analytics/2019/03/27/log.html)
 - [Time Series Data Analyze](http://hxiaom.github.io/analytics/2018/11/19/time-series-data.html)
 
