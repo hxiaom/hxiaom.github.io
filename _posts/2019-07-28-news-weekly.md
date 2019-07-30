@@ -28,3 +28,18 @@ categories: Mobility
 
     > Uber  is laying off about 25% of its 1,200-person strong marketing department in an effort to slash costs and make operations more efficient following its public debut and first quarter losses of $1 billion.
 
+10. [薛定谔的“自动驾驶”](https://www.huxiu.com/article/310987.html)
+
+    > 7月28日，小鹏汽车宣布从即日起，通过OTA功能分批向2019款G3车型推送Xmart OS 1.5版本，升级后车辆将具备L2.5级别的“自动驾驶”功能。
+
+    > 无独有偶，7月29日，蔚来汽车也开始推送NIO OS 2.1.0版本，升级后ES6用户能够享受到部分“自动驾驶”功能（6月份推送给ES8车型版本），而ES8用户则在此基础上收货了几个新功能。
+
+11. [上半年在中国赚15亿，上海工厂成特斯拉生命线](https://36kr.com/p/5230747)
+
+12. [Ford acquires mobile robotics company Quantum Signal to help with self-driving](https://techcrunch.com/2019/07/30/ford-acquires-mobile-robotics-company-quantum-signal-to-help-with-self-driving/)
+
+13. [Ford acquires software company Journey Holding](https://techcrunch.com/2019/07/30/ford-acquires-software-company-journey-holding/)
+
+14. [Consumer Confidence In Self-Driving And Electric Vehicles Needs Some Work](https://www.forbes.com/sites/sebastianblanco/2019/07/30/study-consumers-not-exactly-confident-about-autonomous-electric-vehicles/#1ae0cec45b1c)
+
+    > A new survey by J.D. Power and SurveyMonkey found that consumer confidence in both electronic vehicles (EVs) and autonomous vehicles (AVs) is not where proponents would like it to be. Specifically, the general population has a "low level of confidence" for AVs and a "neutral level of confidence" for EVs, according to the survey results.
