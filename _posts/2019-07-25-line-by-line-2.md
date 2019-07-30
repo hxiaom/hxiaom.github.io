@@ -164,4 +164,14 @@ When it comes to consecutive prepositional phrases, our final example, an obliga
 
 > The financial statements and related data presented elsewhere in this report have been prepared in accordance with generally accepted accounting principles, which require the measurement of financial position and operating results in terms of historical dollars without regard to changes in the relative purchasing power of money over time.
 
-If you look for the gist of this message, the sentence seems to be saying only that the report accords with generally accepted accounting principles in stating data in historical dollars.
+If you look for the gist of this message, the sentence seems to be saying only that the report accords with generally accepted accounting principles in stating data in historical dollars. The long subject, The finnancial statements and related data presented elsewhere in this report, includes information too obvious to mention; the predicate, have been prepared in accordance with, says no more than accord or follow; and measuring financial data in terms of historical dollars makes no more sense than measuring a room in terms of square feet. Thus the statement boils down to:
+
+> Following generally accepted accounting principles, this report states the Company's financial position, operating results, and related data in historical dollars, disregarding changes in purchasing power.
+
+In fact, the last part, disregarding changes in purchasing power, translates into "diregarding inflationary chagnes" - since purchasing power has only declined in recent decades. But accountants accustomed to the original formula would probably agree to these revisions reluctantly if at all. Although a financial writer I consulted confirms that the condensed version neither alters the sense of the original nor omits anything that is not implicit, he also explains that historical dollars is a sacrosanct technical term designating sums not adjusted for current equivalents. But if historical dollars means "dollars unadjusted for changes in purchasing power," isn't that last phrase superfluous? "Not really," says my adviser. "It tells you that such changes have occurred." To the initiated, jargon apparently has its own clarity, and would-be reformers have an uphill battle.
+
+## Shortcuts
+
+### Routine Condensing
+
+In addition to checking your writing for lifeless verbs, excessive nouns, and chains of prepositions, you should watch for specific constructions, stylistic mannerisms, and even words that almost always contribute only verbiage.
