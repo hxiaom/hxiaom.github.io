@@ -174,4 +174,47 @@ In fact, the last part, disregarding changes in purchasing power, translates int
 
 ### Routine Condensing
 
-In addition to checking your writing for lifeless verbs, excessive nouns, and chains of prepositions, you should watch for specific constructions, stylistic mannerisms, and even words that almost always contribute only verbiage.
+In addition to checking your writing for lifeless verbs, excessive nouns, and chains of prepositions, you should watch for specific constructions, stylistic mannerisms, and even words that almost always contribute only verbiage. With practice, you'll develop a conditioned response to these faults and learn to edit them out as soon as you spot them-and, eventually, even before you put them down.
+
+Perhaps, as you've studied the examples and revisions, you've noticed that an active verb often replaces a noun or an adjective sandwiched between a weak verb and a preposition. Such a change eliminates two or three words: for example, is indicative of becomesindicates; have an influence on becomes influence; gives considerations to , considers; make an assessment of, assess; is capable of, can; make use of, use; is of interest to, interests; and is a benefit to, benefits. If you check your sentences for weak verbs and expendable prepositional phrases, you can't fail to notice such constructions; converting to an active verb is always easy and usually desirable. Similarly, when an of phrase follows a noun ending in tion, you can often economize by changing the noun to a gerund, the ing form of the verb used as a noun; thus, by the implementation of the plan becomes by implementing the plan; in the creation of becomes in creating; in the discussion of, in discussing; through the examination of, through examining; and by the addition of, by adding.
+
+You should also always look critically at a relative clause-an adjective clause generally introduced by who, which, or that (understood or expressed). Sometimes you can simply delete the subject and verb. These sentences show the expendable words in brackets:
+
+> There are at least two larger opportunities [that exist] in this area. (Or, At least two larger opportunities exist in this area.)
+
+> The result is an organization [that is] uniquely tailored to its customer base.
+
+> Those [who are] invited to participate on the panel pay their own travel expenses.
+
+> Montaque, [which is located] in the far northwest corner of the state, is the best place for sighting blue herons.
+
+Sometiems you have to substitute a word or two for the three or four you eliminate. For example:
+
+> Poor households pay more for [the -> their]  food [that they buy] because local merchants exploit them.
+
+> This is a development [the -> with indeterminate] social consequences [of which are indeterminate]. (Or: This development has indeterminate social consequences.)
+
+> Fundamental to our operation [is the varitey of -> are our many community] services [that our company has to offer to the community].
+
+Be alert, too, to the possibility of converting a prepositional phrase to an adjective or an adverb. Of great complexity can become complex; at this point in tiime, now; of extreme importance, extremely important; and on many occasions, often. Obviously you won't want to sacrifice every phrase that has a single-word equivalent. The phrases may provide the rhythm, variety, or emphasis you need. I would not say, for example, that the biblical merchant should have sold all that he had for an expensive pearl instead of a pearl of great price or that Macbeth should have referred to an idiot's noisy and furious tale instead of to a tale told by an idiot, full of sound and fury. (Writers like God and Shakespeare know when to break the rules.) I do suggest that you see what you gain-or lose-by substituting a word for a phrase. Sometimes tightening provides a way out of stylistic infelicities other than wordiness, and knowing the tricks of the trade gives you an advantage. Had you written We will produce evidence at a later time that will prove us right, your readers wouldn't know whether the evidence or the time would prove you right. Changing at a later time to later would remove the ambiguity.
+
+Also watch for common prepostional compounds that take two to five words to say what you could say in one word or could even leave unsaid. Here are some of the most common offenders:
+
+> He believes that [in order] to study efficiently you need ...
+
+> Research undertaken [fro the purpose of exploring -> to explore] the possibilities ...
+
+> The response [on the part] of top management to the proposal ...
+
+> She wanted to see me [in connection with -> about] the new campaign.
+
+> The question [as to] whether it is safe to proceed needs an answer.
+
+> [In the eventuality that -> If] the company goes bankrupt, its creditors ...
+
+> [In view of the fact that -> Since] you are in the 50 per cent tax bracket, you should ...
+
+> In [the process of actually] doing the job, you learn ...
+
+Finally, train yourself to recognize and remove empty prose additives like case, character, degree, the fact that, factor, instance, level, nature, and quality. Almost always expendable, any of these terms should set off a reflex action like a flashing light at a railrod crossing. "Whenever .... your pen betrays you to one or another of them," wrote Sir Arthur Quiller-Couch in his celebreated essay "On Jargon," "pull yourslef up and take though." Of course no one objects to these words in the senses in which they have content, such as case referring to an argument or to an event like a fire or an emergency, character as a figure in a novel, and nature as the Great Outdoors; but you should have no trouble distinguishing legitimate uses from the periphrastic expressions that clutter virtually all writing. For example:
+
