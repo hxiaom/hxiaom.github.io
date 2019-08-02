@@ -67,3 +67,31 @@ Or:
 Sometimes, you may choose to stress an adjective by putting it first in the sentence and setting it off by a comma. Despondent, the boy left the room has a force you don't get with The despondent boy left the room. An adjective in this position ordinarily modifies the subject of the sentence. Readers will almost always make that connection whether or not you intend it, so be sure to match logic and syntax. Carelessness on this score can produce some bizarre results:
 
 > Lightweight and packable, Mom will find this comfortable, flattering robe indispensable for traveling.
+
+If the adjectives in the example must retain their initial emphatic position, the sentence could read:
+
+> Lightweight and packable, this comfortable, flattering robe will delight Mom and prove indispensable for traveling.
+
+But some might prefer a less frenetic approach:
+
+> Mom will find this lightweight, packable robe comfortable, flattering, and indispensable for traveling.
+
+Occasionally an introductory adjective modifies not the subject of the sentence but the sentence as a whole. In More important, she finished ahead of schedule, for example, the meaning is "What is more important is that she finished ..." The opening adjective phrase might be considered an aside, tacked onto the sentence rather like an abolute expression (a noun and a modifying participle having no grammatical connection with any other part of the sentence-e.g., God willing, all things being equal, weather permitting). You can use a self-contained sentence modifier of this sort if there's no ambiguity, but be careful that it doesn't seem to describe the subject. This sentence, from an article on the exploitation of part-time faculty memebers, permits misreading:
+
+> More subtle but exqually important, part-time teachers are stripped of their professional identities.
+
+To avoid implying that the part-time teachers are more subtle than their full-time colleagues, you could give the adjectives a specific noun to modify:
+
+> This practice has another effect, more subtle but equally important: part-time teachers are ...
+
+Perhaps you have been thinking that a sentence modifier like More important should be More importantly. Many writers do use the adverbial form, and in some apparently analogous sentences an opening adjective would jar. No one would write, for example, Significant, she finished ahead of schedule instead of Significantly, she finished ahead of schedule. Here, in fact, we seem to be dealing more with idiom than with logic or grammar. Idiom, the normal pattern of the language, sometimes runs counter to both grammar and logic, but it must prevail. A construction that sounds wrong to the educated ear works against you, even though it's arguably|correct. Either an adjective or an adverb can modify a sentence as a whole, and if the particular form that comes naturally causes no confusion, let it be-unless you want to consider leaving it out. Writers on style have little to say about this adjective-versus-adverb question, perhaps because there is no hard-and-fast rule, perhaps also because such sentence modifiers are often expendable. If what you write seems important or interesting, you don't have to say that it is. And if it doesn't seem important or interesting, saying that it is won't help. "Being told that something is interesting," William Zinsser says, "[tempts] the reader to find it dull."
+
+### Adverbs
+
+Out-of-order adverbs are as common as out-of-order adjectives are rare. A little learning, they say, is a dangerous thing, and a vague malaise about splitting infinitives, the to forms of verbs, apparently accounts for a great many oddly placed adverbs. The rule, first of all, only proscribes an adverb after the to in a two-word infinitive (to be, to do, to think); in a passive or past infinitive-as well as in any other verb phrase that ends with a past participle-the ed form of a regular verb, the adverb usually belongs before the participle (to have sorely needed, to be wholly satisfied, to have been poorly represented; has always wanted, had been justly accused). And, second, the rule is not sacrosanct. Most accomplished writers respect the integrity of an infinitive-but not at any cost.
+
+The following sentence includes a split infinitive that careful stylists would avoid and another that they would accept, at least if the only alternative were to transpose the adverb:
+
+> To properly assess the situation, you have to carefully weigh planned improvements against anticipated results.
+
+Putting properly after situation improves the sentence, but if you take carefully out of the infinitive, where can you put it? It modifies weight. Place after the infinitive, it would seem to modify planned; before the to, it would sound unnatural; after improvemtns, it would separate word groups that belong together, and at the end of the sentence, it would be too remote from the verb it modifies.
