@@ -8,3 +8,4 @@ categories: Mobility
 
 2. [Didi Chuxing and oil giant BP team up to build electric vehicle charging infrastructure in China](https://techcrunch.com/2019/07/31/didi-chuxing-and-oil-giant-bp-team-up-to-build-electric-vehicle-charging-infrastructure-in-china/)
 
+3. [汽车消费因何下滑？](https://36kr.com/p/5231994)
