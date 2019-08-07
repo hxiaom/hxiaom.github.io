@@ -158,3 +158,4 @@ Do you give the same answer when you read that sentence as the second of a pair?
 
 These examples should demonstrate that also in the normal adverbial position can sometimes seem to modify one sentence element and sometimes another, the interpretation varying with the context.
 
+Strictly 
