@@ -18,12 +18,17 @@ Dimensions of interpretability:
 - Time limitation
 - Nature of user expertise
 
+an interpretable model can be required either to reveal findings in data that explain the decision, or to explain hwo the black box itself works.
+
+A more applicative nature aimed at explainiing why a certain decision have been returned for a paticular input, or a more theoretical nature aimed at explaining the logic behind the whole obscure model.
 
 ## Environment
 
 - General Data Protection Regulation (GDPR)
 
 ## Why interpretable?
+
+The need for interpretability stems from an incompleteness in the problem formalization, creating a fundamental barrier to optimization and evaluation.
 
 esspecially for downstream task.
 
@@ -39,3 +44,21 @@ esspecially for downstream task.
     - data contain human biases and prejudices
 
 ## How to evaluate?
+
+- Application-grounded Evaluation: Real humans, real tasks
+- Human-grounded Metrics: Real humans, simplified tasks
+- Functionally-grounded Evaluation: No humans, proxy tasks
+
+## Recognized Interpretable Models
+
+- decision tree
+- rules
+- linear models
+
+## Open the black box problems
+
+- Black box explanation
+   - Model explanation
+   - Outcome explanation
+   - Model inspection
+- Transparent box design
