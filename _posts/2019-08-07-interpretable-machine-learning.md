@@ -49,11 +49,20 @@ esspecially for downstream task.
 - Human-grounded Metrics: Real humans, simplified tasks
 - Functionally-grounded Evaluation: No humans, proxy tasks
 
-## Recognized Interpretable Models
+## Explanator
 
-- decision tree
-- rules
-- linear models
+- Decision Tree or Single Tree
+- Decision Rules or Rule Based Explanator
+- Linear Models or Features Importance
+- Saliency Mask
+- Sensitivity Analysis
+- Partial Dependence Plot
+- Prototype Selection
+- Activation Maximization
+
+## Interpretable Data for Interpretable Models
+
+
 
 ## Open the black box problems
 
