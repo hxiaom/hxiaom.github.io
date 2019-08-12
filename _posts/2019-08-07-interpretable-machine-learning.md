@@ -22,7 +22,7 @@ an interpretable model can be required either to reveal findings in data that ex
 
 A more applicative nature aimed at explainiing why a certain decision have been returned for a paticular input, or a more theoretical nature aimed at explaining the logic behind the whole obscure model.
 
-## Environment
+## Background
 
 - General Data Protection Regulation (GDPR)
 
@@ -43,7 +43,7 @@ esspecially for downstream task.
     - open and transparent
     - data contain human biases and prejudices
 
-## How to evaluate?
+## Evaluation
 
 - Application-grounded Evaluation: Real humans, real tasks
 - Human-grounded Metrics: Real humans, simplified tasks
@@ -55,10 +55,13 @@ esspecially for downstream task.
 - Decision Rules or Rule Based Explanator
 - Linear Models or Features Importance
 - Saliency Mask
+    - layer-wise relevance propagation
 - Sensitivity Analysis
 - Partial Dependence Plot
 - Prototype Selection
 - Activation Maximization
+
+
 
 ## Interpretable Data for Interpretable Models
 
@@ -71,3 +74,11 @@ esspecially for downstream task.
    - Outcome explanation
    - Model inspection
 - Transparent box design
+
+
+## Reference
+
+- Guidotti, Riccardo, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, and Dino Pedreschi. “A Survey of Methods for Explaining Black Box Models.” ACM Computing Surveys 51, no. 5 (2018): 1–42. https://doi.org/10.1145/3236009.
+- Doshi-Velez, Finale, and Been Kim. “Towards A Rigorous Science of Interpretable Machine Learning,” no. Ml (2017): 1–13. http://arxiv.org/abs/1702.08608.
+- Lipton, Zachary C. “The Mythos of Model Interpretability.” Communications of the ACM 61, no. 10 (2018): 36–43. https://doi.org/10.1145/3233231.
+- 
