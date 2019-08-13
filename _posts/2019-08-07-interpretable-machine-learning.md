@@ -53,7 +53,11 @@ esspecially for downstream task.
 
 - Decision Tree or Single Tree
 - Decision Rules or Rule Based Explanator
-- Linear Models or Features Importance
+- Linear Regression
+- Logistic Regression
+- GLM, GAM and more
+- Rule Fit
+- Features Importance
 - Saliency Mask
     - layer-wise relevance propagation
 - Sensitivity Analysis
