@@ -11,3 +11,5 @@ categories: Mobility
 3. [Apple increases the size of its team responsible for testing self-driving cars in California](https://9to5mac.com/2019/08/08/apple-self-driving-car-test-team/)
 
 4. [Walmart testing self-driving vehicles](https://www.wmcactionnews5.com/2019/08/12/walmart-testing-self-driving-vehicles/)
+
+5. [Report: Roads not ready for self-driving cars, says people don't fully understand automated vehicles](https://www.turnto23.com/news/national/report-roads-not-ready-for-self-driving-cars-says-people-dont-fully-understand-automated-vehicles)
