@@ -13,3 +13,11 @@ categories: Mobility
 4. [Walmart testing self-driving vehicles](https://www.wmcactionnews5.com/2019/08/12/walmart-testing-self-driving-vehicles/)
 
 5. [Report: Roads not ready for self-driving cars, says people don't fully understand automated vehicles](https://www.turnto23.com/news/national/report-roads-not-ready-for-self-driving-cars-says-people-dont-fully-understand-automated-vehicles)
+
+6. [恒大3000亿造车迷雾](https://www.huxiu.com/article/313251.html)
+
+7. [智加科技CEO刘万千：自动驾驶有5个阶段，我们刚进入第2阶段](https://36kr.com/p/5234481)
+
+    > 自动驾驶行业最后会压缩成三个环节：运营商、车辆制造商、自动驾驶技术提供者，而智加科技的定位是技术提供者。
+
+8. [Chinese AI start-up DeepBlue takes self-driving buses global](https://www.ft.com/content/72bf3046-bca0-11e9-b350-db00d509634e)
