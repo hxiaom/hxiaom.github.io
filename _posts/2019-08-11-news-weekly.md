@@ -21,3 +21,9 @@ categories: Mobility
     > 自动驾驶行业最后会压缩成三个环节：运营商、车辆制造商、自动驾驶技术提供者，而智加科技的定位是技术提供者。
 
 8. [Chinese AI start-up DeepBlue takes self-driving buses global](https://www.ft.com/content/72bf3046-bca0-11e9-b350-db00d509634e)
+
+9. [上汽集团最大“数据基地”落户郑州，总投资20亿元](https://36kr.com/p/5235908)
+
+10. [UPS buys stake in TuSimple, testing self-driving trucks in Arizona](https://www.reuters.com/article/us-ups-tusimple-investment/ups-buys-stake-in-tusimple-testing-self-driving-trucks-in-arizona-idUSKCN1V51EU)
+
+11. [The world’s leader in self-driving lidar technology is suing two Chinese companies over IP](https://qz.com/1687898/lidar-company-velodyne-is-suing-two-chinese-suppliers-over-ip/)
