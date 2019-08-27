@@ -11,3 +11,7 @@ categories: Mobility
 3. [Audi to join Daimler, BMW self-driving tech alliance, report says](https://europe.autonews.com/automakers/audi-join-daimler-bmw-self-driving-tech-alliance-report-says)
 
 4. [A self-driving Toyota will escort the 2020 Olympic flame in Tokyo](https://finance.yahoo.com/news/toyota-deploy-fleet-zero-emission-161451598.html)
+
+5. [Pony.ai and Toyota partner to build self-driving cars and services](https://venturebeat.com/2019/08/25/pony-ai-toyota-partnership/)
+
+6. [Ford executive says Full Self-Driving cars will last only 4 years on the road](https://www.teslarati.com/tesla-ford-full-self-driving-cars-last-4-years-crushed/)
