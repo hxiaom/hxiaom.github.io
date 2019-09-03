@@ -16,3 +16,6 @@ categories: Mobility
 
     > 目前腾讯只提供 3 个驾驶环境中最常用的功能： 查看未读消息、发送消息、以及语音通话。刷朋友圈、发红包、发表情包这些非必要功能，微信通通做了减法。
 
+3. [TEST RIDERS IN WAYMO’S SELF-DRIVING CARS WON’T STOP COMPLAINING](https://futurism.com/the-byte/riders-waymo-self-driving-cars-complaining)
+
+4. [Didi Chuxing to launch self-driving rides in Shanghai and expand them beyond China by 2021](https://techcrunch.com/2019/08/30/didi-chuxing-to-launch-self-driving-rides-in-shanghai-and-expand-them-beyond-china-by-2021/)
