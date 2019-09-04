@@ -6,7 +6,10 @@ categories: Anlaytics
 
 ## AutoML
 
-## BERT, XLNet
+## Pre-trained Model
+
+- BERT
+- XLNet
 
 ## Interpretable Machine Learning
 
