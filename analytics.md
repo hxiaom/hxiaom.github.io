@@ -105,10 +105,13 @@ permalink: /analytics/
     - [循环网络（一）基本概念](http://hxiaom.github.io/analytics/2019/05/21/dl-21.html)
     - [循环网络（二）计算图](http://hxiaom.github.io/analytics/2019/05/22/dl-22.html)
     - [循环网络（三）循环神经网络](http://hxiaom.github.io/analytics/2019/05/28/dl-23.html)
-- [实践方法论](http://hxiaom.github.io/analytics/2019/07/05/dl-24.html)
-- [Batch Size in Deep Learning](http://hxiaom.github.io/analytics/2018/12/26/batch-size.html)
-- [AutoML](http://hxiaom.github.io/analytics/2019/05/06/automl.html)
-- [Keras](http://hxiaom.github.io/analytics/2018/12/25/Keras.html)
+- 前沿
+    - [AutoML](http://hxiaom.github.io/analytics/2019/05/06/automl.html)
+    - [Interpretable Machine Learning](http://hxiaom.github.io/analytics/2019/08/07/interpretable-machine-learning.html)
+- 实践
+    - [实践方法论](http://hxiaom.github.io/analytics/2019/07/05/dl-24.html)
+    - [Batch Size in Deep Learning](http://hxiaom.github.io/analytics/2018/12/26/batch-size.html)
+    - [Keras](http://hxiaom.github.io/analytics/2018/12/25/Keras.html)
 
 ## 知识图谱
 
