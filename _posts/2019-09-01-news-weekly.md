@@ -19,3 +19,11 @@ categories: Mobility
 3. [TEST RIDERS IN WAYMO’S SELF-DRIVING CARS WON’T STOP COMPLAINING](https://futurism.com/the-byte/riders-waymo-self-driving-cars-complaining)
 
 4. [Didi Chuxing to launch self-driving rides in Shanghai and expand them beyond China by 2021](https://techcrunch.com/2019/08/30/didi-chuxing-to-launch-self-driving-rides-in-shanghai-and-expand-them-beyond-china-by-2021/)
+
+5. [贾跃亭辞任法拉第未来CEO](https://www.huxiu.com/article/316475.html)
+
+6. [数据公司特斯拉](https://www.huxiu.com/article/316450.html)
+
+7. [AutoX CEO肖健雄：我们把xUrban当做底层通用平台，让自动驾驶既“送人”也“送物”](https://36kr.com/p/5234615)
+
+8. [Will Self-Driving Cars Really Only Last Four Years?](https://www.forbes.com/sites/lanceeliot/2019/09/03/will-self-driving-cars-really-only-last-four-years/#457664204cce)
