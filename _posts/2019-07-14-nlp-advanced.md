@@ -6,10 +6,14 @@ categories: Anlaytics
 
 ## AutoML
 
-## Pre-trained Model
+## Pre-trained Model (Transfer learning)
 
 - BERT
 - XLNet
+
+## Continual Learning
+
+
 
 ## Interpretable Machine Learning
 
