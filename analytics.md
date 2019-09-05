@@ -108,6 +108,7 @@ permalink: /analytics/
 - 前沿
     - [AutoML](http://hxiaom.github.io/analytics/2019/05/06/automl.html)
     - [Interpretable Machine Learning](http://hxiaom.github.io/analytics/2019/08/07/interpretable-machine-learning.html)
+    - [Transfer Learning](http://hxiaom.github.io/analytics/2019/09/05/transfer-learning.html)
 - 实践
     - [实践方法论](http://hxiaom.github.io/analytics/2019/07/05/dl-24.html)
     - [Batch Size in Deep Learning](http://hxiaom.github.io/analytics/2018/12/26/batch-size.html)
