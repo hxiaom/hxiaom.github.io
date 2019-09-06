@@ -27,3 +27,5 @@ categories: Mobility
 7. [AutoX CEO肖健雄：我们把xUrban当做底层通用平台，让自动驾驶既“送人”也“送物”](https://36kr.com/p/5234615)
 
 8. [Will Self-Driving Cars Really Only Last Four Years?](https://www.forbes.com/sites/lanceeliot/2019/09/03/will-self-driving-cars-really-only-last-four-years/#457664204cce)
+
+9. [千亿造车，“恒驰”出世，恒大汽车产业链盘点](https://36kr.com/p/5243580)
