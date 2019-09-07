@@ -29,3 +29,7 @@ categories: Mobility
 8. [Will Self-Driving Cars Really Only Last Four Years?](https://www.forbes.com/sites/lanceeliot/2019/09/03/will-self-driving-cars-really-only-last-four-years/#457664204cce)
 
 9. [千亿造车，“恒驰”出世，恒大汽车产业链盘点](https://36kr.com/p/5243580)
+
+10. [Apple’s self-driving car sports sleek new sensor array](https://www.cultofmac.com/650034/apples-self-driving-car-sports-sleek-new-sensor-array/)
+
+11. [Japan will let up to 100 self-driving cars roam freely ahead of Olympics](https://www.japantimes.co.jp/news/2019/09/05/national/japan-will-let-100-driverless-cars-roam-freely-ahead-olympics/#.XXNyWpMzbOQ)
