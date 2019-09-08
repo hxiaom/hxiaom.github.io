@@ -38,7 +38,11 @@ esspecially for downstream task.
         - human understanding
     - accountability
     - safety. unknown mistake. treat cat as dog.
+        - deep neural networks have been shown tobe easily fooled into misclassifying input.
     - industrial liability
+    - causality
+    - transferability
+    - informativeness
 - ethical value. 
     - open and transparent
     - data contain human biases and prejudices
@@ -46,6 +50,7 @@ esspecially for downstream task.
 ## Evaluation
 
 - Application-grounded Evaluation: Real humans, real tasks
+    - Herman notes that we should be wary of evaluateing interpretable systems using merely human evaluations of interpretability, because human evaluations imply a strong and specific bias towards simpler descriptions. He cautions that reliance on human evaluations can lead researchers to create persuasive systems rather than transparent systems.
 - Human-grounded Metrics: Real humans, simplified tasks
 - Functionally-grounded Evaluation: No humans, proxy tasks
 
@@ -66,7 +71,6 @@ esspecially for downstream task.
 - Activation Maximization
 
 
-
 ## Interpretable Data for Interpretable Models
 
 
@@ -74,10 +78,24 @@ esspecially for downstream task.
 ## Open the black box problems
 
 - Black box explanation
-   - Model explanation
-   - Outcome explanation
-   - Model inspection
+    - Model explanation
+        - Activation maximization
+        - Role of Layers
+        - Role of Individual Units
+        - Role of Representation Vectors
+    - Outcome explanation
+        - Linear Proxy Models
+        - Decision Trees
+        - Automatic-Rule Extraction
+        - Salience Mapping
+    - Model inspection
 - Transparent box design
+    - Attention Networks
+    - Disentabgled Representations
+    - Generated Explanations
+
+Explanations of the operation of deep networks have focused on either explaining the processing of the data by a network, or explaining the representation of data inside a network. An explanation fo processing answers "Why does this particular input lead to that particular output?" and is analogous to explaining the execution trace of a program. An explanation about representation answers "What information does the network contain?" and can be compared to explaining the internal data structures of a program.
+
 
 
 ## Reference
