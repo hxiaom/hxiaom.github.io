@@ -87,6 +87,7 @@ permalink: /analytics/
     - [深度学习（五）隐藏单元](http://hxiaom.github.io/analytics/2019/05/09/dl-5.html)
     - [深度学习（六）架构设计](http://hxiaom.github.io/analytics/2019/05/09/dl-6.html)
     - [深度学习（七）反向传播](http://hxiaom.github.io/analytics/2019/05/10/dl-7.html)
+    - [深度学习（八）深度模型中的优化](http://hxiaom.github.io/analytics/2019/09/10/dl-25.html)
 - 正则化
     - [深度学习正则化（一）参数范数惩罚](http://hxiaom.github.io/analytics/2019/05/12/dl-8.html)
     - [深度学习正则化（二）数据增强&噪声鲁棒性](http://hxiaom.github.io/analytics/2019/05/13/dl-9.html)
