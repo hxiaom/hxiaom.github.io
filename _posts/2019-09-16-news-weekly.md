@@ -39,3 +39,10 @@ categories: Mobility
 16. [许家印的造车梦](https://36kr.com/p/5246886)
 
 17. [图森无人车官宣D轮2.15亿美元融资，成卡车货运估值No.1](https://www.weibo.com/ttarticle/p/show?id=2309404417570827534574#_0)
+
+18. [深圳加速推进网约车纯电动化，燃油车退出已成趋势](https://www.huxiu.com/article/318536.html)
+
+19. [智能汽车最新上险数公布，谁击败了Model 3？](https://www.huxiu.com/article/318437.html)
+
+20. [时隔12年，通用全美员工再罢工](https://36kr.com/p/5247708)
+
