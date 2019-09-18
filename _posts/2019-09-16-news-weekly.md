@@ -30,3 +30,12 @@ categories: Mobility
 
 12. [什么时候才能实现真正的自动驾驶？10年内？](https://www.huxiu.com/article/317471.html)
 
+13. [滴滴活着](https://www.huxiu.com/article/318144.html)
+
+14. [城市交通复杂系统背后的简单线性模型](https://www.huxiu.com/article/318283.html)
+
+15. [Uber的崛起与堕落](https://www.weibo.com/ttarticle/p/show?id=2309404417638703956041#_0)
+
+16. [许家印的造车梦](https://36kr.com/p/5246886)
+
+17. [图森无人车官宣D轮2.15亿美元融资，成卡车货运估值No.1](https://www.weibo.com/ttarticle/p/show?id=2309404417570827534574#_0)
