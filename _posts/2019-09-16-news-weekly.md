@@ -46,3 +46,4 @@ categories: Mobility
 
 20. [时隔12年，通用全美员工再罢工](https://36kr.com/p/5247708)
 
+21. [起底激光雷达专利黑幕](https://www.huxiu.com/article/318646.html)
