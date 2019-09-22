@@ -33,6 +33,7 @@ permalink: /analytics/
 - [回归分析专题（二）二元被解释变量回归](http://hxiaom.github.io/analytics/2019/09/03/econ-11.html)
 - [回归分析专题（三）工具变量回归](http://hxiaom.github.io/analytics/2019/09/05/econ-12.html)
 - [回归分析专题（四）实验和准实验](http://hxiaom.github.io/analytics/2019/09/12/econ-13.html)
+- [时间序列回归（一）导论](http://hxiaom.github.io/analytics/2019/09/22/econ-14.html)
 - [Logarithmic scale](http://hxiaom.github.io/analytics/2019/03/27/log.html)
 - [Time Series Data Analyze](http://hxiaom.github.io/analytics/2018/11/19/time-series-data.html)
 
