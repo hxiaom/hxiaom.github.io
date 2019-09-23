@@ -17,3 +17,5 @@ categories: Mobility
 6. [Uber起诉纽约市：“武断”治堵、限制网约车空驶时间](https://36kr.com/p/5249055)
 
 7. [Baidu Among First to Get China Self-Driving Permit: Global Times](https://www.bloomberg.com/news/articles/2019-09-22/baidu-among-first-to-get-china-self-driving-permit-global-times)
+
+8. [Gartner Identifies Five Emerging Technology Trends That Will Blur the Lines Between Human and Machine](https://www.gartner.com/en/newsroom/press-releases/2018-08-20-gartner-identifies-five-emerging-technology-trends-that-will-blur-the-lines-between-human-and-machine)
