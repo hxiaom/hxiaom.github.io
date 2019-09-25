@@ -27,3 +27,5 @@ categories: Mobility
 11. [千亿商用车后市场，「共轨之家」用技术支持和数据服务聚拢维保人员](https://36kr.com/p/5249457)
 
 12. [Hyundai teams with Aptiv to put self-driving cars on the road by 2022](https://www.engadget.com/2019/09/23/hyundai-and-aptiv-self-driving-venture/)
+
+13. [Ford self-driving cars to launch in Austin in 2021](https://www.cnbc.com/2019/09/25/reuters-america-ford-self-driving-cars-to-launch-in-austin-in-2021.html)
