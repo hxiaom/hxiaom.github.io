@@ -29,3 +29,5 @@ categories: Mobility
 12. [Hyundai teams with Aptiv to put self-driving cars on the road by 2022](https://www.engadget.com/2019/09/23/hyundai-and-aptiv-self-driving-venture/)
 
 13. [Ford self-driving cars to launch in Austin in 2021](https://www.cnbc.com/2019/09/25/reuters-america-ford-self-driving-cars-to-launch-in-austin-in-2021.html)
+
+14. [实地探访：国内首批自动驾驶商业牌照落地，不仅能路测还能载客运营](https://www.jiqizhixin.com/articles/2019-09-26-3)
