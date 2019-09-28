@@ -35,6 +35,7 @@ permalink: /analytics/
 - [回归分析专题（四）实验和准实验](http://hxiaom.github.io/analytics/2019/09/12/econ-13.html)
 - [时间序列回归（一）导论](http://hxiaom.github.io/analytics/2019/09/22/econ-14.html)
 - [时间序列回归（二）动态因果效应估计](http://hxiaom.github.io/analytics/2019/09/26/econ-15.html)
+- [时间序列回归（三）其他专题](http://hxiaom.github.io/analytics/2019/09/28/econ-16.html)
 - [Logarithmic scale](http://hxiaom.github.io/analytics/2019/03/27/log.html)
 
 ## 传统机器学习
