@@ -37,6 +37,7 @@ permalink: /analytics/
 - [时间序列回归（二）动态因果效应估计](http://hxiaom.github.io/analytics/2019/09/26/econ-15.html)
 - [时间序列回归（三）其他专题](http://hxiaom.github.io/analytics/2019/09/28/econ-16.html)
 - [计量理论（一）一元线性回归理论](http://hxiaom.github.io/analytics/2019/09/28/econ-17.html)
+- [计量理论（二）多元线性回归理论](http://hxiaom.github.io/analytics/2019/09/28/econ-18.html)
 - [Logarithmic scale](http://hxiaom.github.io/analytics/2019/03/27/log.html)
 
 ## 传统机器学习
