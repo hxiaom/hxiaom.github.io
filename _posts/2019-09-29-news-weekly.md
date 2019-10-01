@@ -21,3 +21,8 @@ categories: Mobility
 7. [Lawmakers try to pave way for self-driving vehicles](https://www.wtvy.com/content/news/Lawmakers-try-to-pave-way-for-self-driving-vehicles-561772141.html)
 
 8. [Waymo and AAA are trying to ease anxiety about self-driving vehicles](https://www.businessinsider.com/waymo-aaa-self-driving-vehicles-school-curriculum-2019-9)
+
+9. [交付量强劲增长 特斯拉营收却将出现7年来首次下滑](http://www.techweb.com.cn/smarttraveling/2019-09-30/2756944.shtml)
+
+    > 交付量虽然强劲增长，但是因廉价车型Model 3占比过高的原因，可能会导致特斯拉的季度营收出现自2012年第三季度以来的首次同比下滑。
+
