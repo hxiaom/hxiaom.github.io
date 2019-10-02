@@ -26,3 +26,6 @@ categories: Mobility
 
     > 交付量虽然强劲增长，但是因廉价车型Model 3占比过高的原因，可能会导致特斯拉的季度营收出现自2012年第三季度以来的首次同比下滑。
 
+10. [自然语言处理中的深度学习：评析与展望](https://dl.ccf.org.cn/institude/institudeDetail?id=4583110291769344&_ack=1)
+
+11. [张五常最新演讲：天下大势的关键何在？](https://mp.weixin.qq.com/s/m8Ijdq6XffBtXaHflwsT9g)
