@@ -29,3 +29,7 @@ categories: Mobility
 10. [自然语言处理中的深度学习：评析与展望](https://dl.ccf.org.cn/institude/institudeDetail?id=4583110291769344&_ack=1)
 
 11. [张五常最新演讲：天下大势的关键何在？](https://mp.weixin.qq.com/s/m8Ijdq6XffBtXaHflwsT9g)
+
+12. [The Cost of Self-Driving Cars Will Be the Biggest Barrier to Their Adoption](https://hbr.org/2019/01/the-cost-of-self-driving-cars-will-be-the-biggest-barrier-to-their-adoption)
+
+13. [吴恩达：关于机器学习职业生涯以及阅读论文的一些建议](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247486268&idx=1&sn=363040205a2b691868b452ad5c077bf7&chksm=e870da71df075367c6da0738e9657a43ee0e80c498d61d807f79a9554b2f479bc2b9846cde18&mpshare=1&srcid=&sharer_sharetime=1570108061954&sharer_shareid=8724c7983f20914ec3c0c086bba89335&from=groupmessage&scene=1&subscene=10000&clicktime=1570109366&enterid=1570109366&ascene=1&devicetype=android-28&version=27000735&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABAAjlx4AVpkeAL2ZHgD1mR4AAAA%3D&lang=zh_CN&pass_ticket=xphKq8oP8OmGq9M57BNPLcdlIFwQ18YkNq8jD21Arjk%3D&wx_header=1)
