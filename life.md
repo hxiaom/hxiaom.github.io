@@ -10,7 +10,7 @@ title: Life
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% if category_name != 'Book' %}
+    {% if category_name != 'Mobility' and category_name != 'Analytics' %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
