@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Analytics
-permalink: /analytics/
+title: Methodologies
+permalink: /methodologies/
 ---
 
 ## 数学基础

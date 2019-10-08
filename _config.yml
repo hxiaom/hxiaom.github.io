@@ -8,9 +8,9 @@ description: > # this means to ignore newlines until "header_pages:"
 
 header_pages:
 #  - about.md
-  - analytics.md
+  - methodologies.md
   - categories.md
-  - archives.md
+  # - archives.md
   # - biography.md
   - search.md
 
