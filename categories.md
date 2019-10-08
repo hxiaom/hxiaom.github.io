@@ -10,6 +10,7 @@ title: Categories
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% if category_name == 'Mobility' %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
@@ -20,6 +21,7 @@ title: Categories
       <h4><a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a></h4>
     </article>
     {% endfor %}
+    {% endif%}
   </div>
 {% endfor %}
 </div>
