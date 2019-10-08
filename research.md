@@ -32,8 +32,8 @@ title: Research
         <article class="archive-item">
           <a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a>
         </article>
-        {% endif %} -->
-      {% endfor %}
+        {% endif %}
+      {% endfor %} -->
 
     {% endif %}
   </div>
