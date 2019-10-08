@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /life/
+title: Life
 ---
 
 
@@ -10,7 +10,7 @@ title: Research
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% if category_name == 'Mobility' %}
+    {% if category_name != 'Book' %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
