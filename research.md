@@ -18,7 +18,7 @@ title: Research
       <h3 class="category-head">News</h3>
       <a name="{{ category_name | slugize }}"></a>
       {% for post in site.categories[category_name] %}
-        {% if post.title.startswith('20') %}
+        {% if str(post.title).startswith('20') %}
         <article class="archive-item">
           <!-- <h4><a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a></h4> -->
           <a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a>
@@ -29,7 +29,7 @@ title: Research
       <h3 class="category-head">Others</h3>
       <a name="{{ category_name | slugize }}"></a>
       {% for post in site.categories[category_name] %}
-        {% if !post.title.startswith('20') %}
+        {% if !str(post.title).startswith('20') %}
         <article class="archive-item">
           <!-- <h4><a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a></h4> -->
           <a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a>
