@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Method】NLP前沿
-categories: Anlaytics
+categories: Analytics
 ---
 
 ## AutoML
