@@ -17,7 +17,7 @@ header_pages:
 
 # social links
 github_username: hxiaom
-rss: rss
+# rss: rss
 
 plugins:
  - jekyll-feed
