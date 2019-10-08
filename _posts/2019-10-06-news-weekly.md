@@ -11,3 +11,5 @@ categories: Mobility
 3. [又在引用谷歌学术第一页的论文？让我们来谈谈「文献引用」这件小事](https://www.jiqizhixin.com/articles/2019-10-03-3)
 
 4. [王川: 重要的东西, 往往是看不见的](https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=2672247299&idx=1&sn=b13a2b07c878b8abecd2d307c5d5df05)
+
+5. [TED演讲：学会“毫不在意”为何能改变你的人生？](https://www.weibo.com/at/weibo?topnav=1&wvr=6&mod=message&need_filter=1)
