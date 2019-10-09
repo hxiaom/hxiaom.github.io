@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Book】创新者的窘境
-categories: Mobility
+categories: Management
 ---
 
 ## 引言
