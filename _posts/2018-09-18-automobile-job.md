@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 自动驾驶岗位思考
+title: 自动驾驶人才
 categories: Mobility
 ---
 

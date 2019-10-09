@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智慧城市学习资料"
+title: 智慧城市
 categories: Mobility
 ---
 
