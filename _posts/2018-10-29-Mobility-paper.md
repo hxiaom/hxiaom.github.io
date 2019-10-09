@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP50 Mobility Paper
+title: Mobility Scholar
 categories: Mobility
 ---
 
