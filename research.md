@@ -18,10 +18,12 @@ title: Research
       <a name="{{ category_name | slugize }}"></a>
       {% for post in site.categories[category_name] %}
         
-        <article class="archive-item">
-          <a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a>
-        </article>
-
+        {% assign post_title = post.title %}
+        {% if post_title.startswith('20') %}
+          <article class="archive-item">
+            <a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a>
+          </article>
+        {% endif %}
       {% endfor %}
 
     {% endif %}
