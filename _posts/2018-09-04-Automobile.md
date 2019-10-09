@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【分析】自动驾驶"
+title: 自动驾驶
 categories: Mobility
 ---
 

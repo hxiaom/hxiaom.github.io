@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【分析】共享出行"
+title: 共享出行
 categories: Mobility
 ---
 
