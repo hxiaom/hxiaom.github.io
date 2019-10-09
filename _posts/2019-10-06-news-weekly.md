@@ -21,3 +21,5 @@ categories: Mobility
 8. [Deepfake恶搞政客遭加州立法禁止，首份全球调查结果出炉](https://www.jiqizhixin.com/articles/2019-10-08-8)
 
 9. [突发：美国实体名单新增28家中国机构，海康、大华在列，股票停牌](https://www.jiqizhixin.com/articles/2019-10-08-5)
+
+10. [中国人口大迁移：2019](https://www.weibo.com/ttarticle/p/show?id=2309404410299548565540#_0)

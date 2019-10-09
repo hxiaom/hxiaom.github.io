@@ -4,17 +4,21 @@ title: Research Topics
 categories: Mobility
 ---
 
-## Innovation Knowledge Graph
+## Science of Science (SciSci)
 
-- Knowledge Representation
-- IKG Schema
-- Profile
-- IKG Application
-    - Academic Recommendation
-    - Reviewer assignment
-    - Big data analysis
-        - Management perspective
-        - 3P (Patent, Paper, Project)
+- Project
+- Paper
+- Patent
+
+- Knowledge Graph
+    - Knowledge Representation
+    - IKG Schema
+    - Profile
+    - IKG Application
+        - Academic Recommendation
+        - Reviewer assignment
+        - Big data analysis
+
 
 #### Target Journal
 
@@ -29,7 +33,7 @@ categories: Mobility
 ## Mobility
 
 - Smart Mobility Systems
-    - smart tansportation systems
+    - smart mobility systems
     - geo-related systems
 - Mobility Economics
     - human mobility (Mobile age)
@@ -37,3 +41,6 @@ categories: Mobility
 
 #### Target Journal
 
+- IEEE TITS
+- Transportation Research Part A: Policy and Practice
+- Transportation Research Part F: Traffic Psychology and Behaviour
