@@ -23,3 +23,7 @@ categories: Mobility
 9. [突发：美国实体名单新增28家中国机构，海康、大华在列，股票停牌](https://www.jiqizhixin.com/articles/2019-10-08-5)
 
 10. [中国人口大迁移：2019](https://www.weibo.com/ttarticle/p/show?id=2309404410299548565540#_0)
+
+11. [博士生的deadline血泪史，这是一份来自Nature的避坑指南](https://www.jiqizhixin.com/articles/2019-10-09-8)
+
+12. [Toyota, GM, Nvidia, Bosch and others form new autonomous driving tech consortium](https://techcrunch.com/2019/10/09/toyota-gm-nvidia-bosch-and-others-form-new-autonomous-driving-tech-consortium/)
