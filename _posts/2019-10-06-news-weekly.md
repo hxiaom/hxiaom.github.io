@@ -27,3 +27,5 @@ categories: Mobility
 11. [博士生的deadline血泪史，这是一份来自Nature的避坑指南](https://www.jiqizhixin.com/articles/2019-10-09-8)
 
 12. [Toyota, GM, Nvidia, Bosch and others form new autonomous driving tech consortium](https://techcrunch.com/2019/10/09/toyota-gm-nvidia-bosch-and-others-form-new-autonomous-driving-tech-consortium/)
+
+13. [攻克论文写作系列之10 PHD，请坚持每天15分钟写作](https://mp.weixin.qq.com/s/tZE8-1mP1zqM72DTh3gdfA)
