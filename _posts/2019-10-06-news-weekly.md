@@ -29,3 +29,5 @@ categories: Mobility
 12. [Toyota, GM, Nvidia, Bosch and others form new autonomous driving tech consortium](https://techcrunch.com/2019/10/09/toyota-gm-nvidia-bosch-and-others-form-new-autonomous-driving-tech-consortium/)
 
 13. [攻克论文写作系列之10 PHD，请坚持每天15分钟写作](https://mp.weixin.qq.com/s/tZE8-1mP1zqM72DTh3gdfA)
+
+14. [BOOK REVIEW: TWO NEW GUIDES TO ACADEMIC LIFE](https://thesiswhisperer.com/2019/10/09/book-reviews-two-new-guides-to-academic-life/)
