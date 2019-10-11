@@ -31,3 +31,13 @@ categories: Mobility
 13. [攻克论文写作系列之10 PHD，请坚持每天15分钟写作](https://mp.weixin.qq.com/s/tZE8-1mP1zqM72DTh3gdfA)
 
 14. [BOOK REVIEW: TWO NEW GUIDES TO ACADEMIC LIFE](https://thesiswhisperer.com/2019/10/09/book-reviews-two-new-guides-to-academic-life/)
+
+15. [蔚来最后的疯狂](https://www.huxiu.com/article/321087.html)
+
+16. [Waymo to customers: ‘Completely driverless Waymo cars are on the way’](https://techcrunch.com/2019/10/09/waymo-to-customers-completely-driverless-waymo-cars-are-on-the-way/)
+
+    > Waymo,  the autonomous vehicle business under Alphabet, sent an email to customers of its ride-hailing app that their next trip might not have a human safety driver behind the wheel, according to a copy of the email that was posted on the subreddit r/SelfDrivingCars.
+
+17. [2019中国汽车产业蓝皮书：移动出行平台或走上金字塔尖](https://36kr.com/p/5253971)
+
+    > 《2019中国汽车产业发展报告》认为，未来，由汽车制造商占据塔尖地位的产业金字塔将发生变化，掌握消费者出行意愿、出行习惯等数据的大型移动出行平台公司具备未来汽车定义和产品开发设计的潜力，有可能成为汽车产业金字塔的塔尖。
