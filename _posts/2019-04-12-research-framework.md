@@ -4,24 +4,13 @@ title: Research Topics
 categories: Mobility
 ---
 
-## Science of Science (SciSci)
+## explainable AI (XAI) in Decision Support Systems 
 
-- Project
-- Paper
-- Patent
-
-- Knowledge Graph
-    - Knowledge Representation
-    - IKG Schema
-    - Profile
-    - IKG Application
-        - Academic Recommendation
-        - Reviewer assignment
-        - Big data analysis
-
+- Theory
+- Methodologies
+- Application System build
 
 #### Target Journal
-
 
 - Management Information Systems Quarterly (MISQ)
 - Information Systems Research (ISR)
