@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Research】Destination Prediction / Recommendation
+title: Destination Prediction / Recommendation
 categories: Mobility
 ---
 
