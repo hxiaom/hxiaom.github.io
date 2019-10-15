@@ -46,6 +46,8 @@ title: Research
 {% endfor %}
 </div>
 
+[Research Skill](http://hxiaom.github.io/mobility/2019/10/15/research-skill.html)
+
 [Research Topics](http://hxiaom.github.io/mobility/2019/04/12/research-framework.html)
 
 XAI

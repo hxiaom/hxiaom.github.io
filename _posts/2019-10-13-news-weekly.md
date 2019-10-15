@@ -15,3 +15,5 @@ categories: Mobility
 5. [从百度、微软出走的AI大牛都去哪了？世界华人AI精英流向图的背后……](https://www.jiqizhixin.com/articles/2019-10-14-6)
 
 6. [美国数据隐私保护法案来临，明年1月生效，现仅2%企业合规](https://www.jiqizhixin.com/articles/2019-10-14)
+
+7. [斯坦福大学研究表明：慈悲和善良，是幸福和成功的首要因素](http://blog.sina.com.cn/s/blog_4a78b4ee0102z7fe.html)
