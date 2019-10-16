@@ -17,3 +17,7 @@ categories: Mobility
 6. [美国数据隐私保护法案来临，明年1月生效，现仅2%企业合规](https://www.jiqizhixin.com/articles/2019-10-14)
 
 7. [斯坦福大学研究表明：慈悲和善良，是幸福和成功的首要因素](http://blog.sina.com.cn/s/blog_4a78b4ee0102z7fe.html)
+
+8. [假如每天看茅台股票，你会怎么样？](https://mp.weixin.qq.com/s/PzVFfMddScQA_Jkyk7aeEw)
+
+9. [谷歌无人车驶入巴黎，将充当机场大巴](https://www.huxiu.com/article/321916.html)
