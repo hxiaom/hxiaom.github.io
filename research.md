@@ -47,7 +47,7 @@ title: Research
 </div>
 
 Research Skill
-- [Writing](http://hxiaom.github.io/mind/2019/06/12/writing.html)
+- [Writing](http://hxiaom.github.io/mobility/2019/06/12/writing.html)
 - [Pipeline]()
 
 [Research Topics](http://hxiaom.github.io/mobility/2019/04/12/research-framework.html)
