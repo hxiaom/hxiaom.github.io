@@ -4,11 +4,11 @@ title: Research Topics
 categories: Mobility
 ---
 
-## explainable AI (XAI) in Decision Support Systems 
+### Human-centered AI
 
-- Theory
-- Methodologies
-- Application System build
+- Human Impact
+- Augmented Intelligence
+    - Explainable AI
 
 #### Target Journal
 
@@ -18,8 +18,7 @@ categories: Mobility
 - DSS
 - ACM SIGKDD
 
-
-## Mobility
+### Mobility
 
 - Smart Mobility Systems
     - smart mobility systems
