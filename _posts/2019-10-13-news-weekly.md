@@ -21,3 +21,7 @@ categories: Mobility
 8. [假如每天看茅台股票，你会怎么样？](https://mp.weixin.qq.com/s/PzVFfMddScQA_Jkyk7aeEw)
 
 9. [谷歌无人车驶入巴黎，将充当机场大巴](https://www.huxiu.com/article/321916.html)
+
+10. [Sutton老爷子经典之作，《强化学习》中文第2版](https://www.jiqizhixin.com/articles/2019-10-17-9)
+
+11. [让机器更好地理解数字，微信AI登顶数字离散推理榜单](https://www.jiqizhixin.com/articles/2019-10-17-6)
