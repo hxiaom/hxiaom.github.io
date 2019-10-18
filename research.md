@@ -52,9 +52,9 @@ Research Skill
 
 [Research Topics](http://hxiaom.github.io/mobility/2019/04/12/research-framework.html)
 
-XAI
+HAI
 - [TOP10 AI Paper](http://hxiaom.github.io/mobility/2019/10/09/ai-paper.html)
-- [XAI Material](http://hxiaom.github.io/mobility/2019/10/14/xai-material.html)
+- [HAI Material](http://hxiaom.github.io/mobility/2019/10/14/xai-material.html)
 
 Mobility
 - [TOP10 Mobility Paper](http://hxiaom.github.io/mobility/2019/10/09/mobility-paper.html)
