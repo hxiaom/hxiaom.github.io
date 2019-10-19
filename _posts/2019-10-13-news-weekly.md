@@ -25,3 +25,7 @@ categories: Mobility
 10. [Sutton老爷子经典之作，《强化学习》中文第2版](https://www.jiqizhixin.com/articles/2019-10-17-9)
 
 11. [让机器更好地理解数字，微信AI登顶数字离散推理榜单](https://www.jiqizhixin.com/articles/2019-10-17-6)
+
+12. [深耕农机市场15年，他为拖拉机车队装上自动驾驶，年营收过亿](https://www.jiqizhixin.com/articles/2019-10-18-10)
+
+13. [一文看懂，加泰罗尼亚为什么要独立？](https://mp.weixin.qq.com/s/AGav59WXyjFHv5R8uenIoA)
