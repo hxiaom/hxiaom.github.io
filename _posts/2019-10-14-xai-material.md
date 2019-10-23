@@ -6,7 +6,10 @@ categories: Mobility
 
 ### Scholar
 
-- Tim Miller
+- [Tim Miller](https://people.eng.unimelb.edu.au/tmiller/)
+- [Been Kim](https://beenkim.github.io/)
+- [Finale Doshi-Velez](https://finale.seas.harvard.edu/)
+- [Tathagata Chakraborti](http://tchakra2.com/)
 
 
 ### Institutes
