@@ -13,3 +13,6 @@ categories: Mobility
 4. [美团vs滴滴终局，“聚合生态”的对抗 深度](https://www.weibo.com/ttarticle/p/show?id=2309404429839716188163#_0)
 
 5. [日本医疗领域中人工智能技术的应用现状及展望](https://www.jiqizhixin.com/documents/8305891b-4bd3-48d9-b467-1e2e64b87992)
+
+6. [Smart mobility](https://www.researchgate.net/profile/Fatime_Hegyi/publication/336529607_Urban_mobility_in_transformation_demands_on_education_to_close_the_predicted_knowledge_gap/links/5da47bf892851c6b4bd40ee1/Urban-mobility-in-transformation-demands-on-education-to-close-the-predicted-knowledge-gap.pdf#page=26)
+
