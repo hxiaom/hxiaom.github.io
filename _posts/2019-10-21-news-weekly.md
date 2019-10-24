@@ -16,3 +16,4 @@ categories: Mobility
 
 6. [Smart mobility](https://www.researchgate.net/profile/Fatime_Hegyi/publication/336529607_Urban_mobility_in_transformation_demands_on_education_to_close_the_predicted_knowledge_gap/links/5da47bf892851c6b4bd40ee1/Urban-mobility-in-transformation-demands-on-education-to-close-the-predicted-knowledge-gap.pdf#page=26)
 
+7. [盘后暴涨20%，特斯拉的中国速度成致胜法宝](https://36kr.com/p/5259009)
