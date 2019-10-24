@@ -8,25 +8,40 @@ categories: Mobility
 
 ### 1.1 Technology Field
 
-- **Lex Fridman** [[Homepage](https://lexfridman.com/)] : MIT research scientist; Human-centered AI; Autonomous vehicles
-
-- **Sebastian Thrun** [[Homepage](http://robots.stanford.edu/index.html)] : founded Google X and Google’s self-driving car team; Stanford University Professor; AI for healthcare; AI for people-prediction; Smart homes.
-
-- **Emilio Frazzoli** [[Homepage](https://ares.lids.mit.edu/)] : CTO of nuTonomy; MIT Professor; Planning and control for mobile cyber-physical systems.
-
-- **J. Christian Gerdes** [[Homepage](https://ddl.stanford.edu/content/j-christian-gerdes)] : Professor at Stanford University; Director of the Center for Automotive Research at Stanford (CARS)
-
-- **Sertac Karaman** [[Homepage](http://karaman.mit.edu/)] : Associate Professor at MIT; Robotics; Control theory
-
-- **Yu Guizhen(余贵珍)** : 踏歌智行创始人；北京航空航天大学教授；车辆智能感知与控制
+- Francisco C. Pereira
+- Filipe Rodrigues
+- Lex Fridman [[Homepage](https://lexfridman.com/)] : MIT research scientist; Human-centered AI; Autonomous vehicles
+- Sebastian Thrun [[Homepage](http://robots.stanford.edu/index.html)] : founded Google X and Google’s self-driving car team; Stanford University Professor; AI for healthcare; AI for people-prediction; Smart homes.
+- Emilio Frazzoli [[Homepage](https://ares.lids.mit.edu/)] : CTO of nuTonomy; MIT Professor; Planning and control for mobile cyber-physical systems.
+- J. Christian Gerdes [[Homepage](https://ddl.stanford.edu/content/j-christian-gerdes)] : Professor at Stanford University; Director of the Center for Automotive Research at Stanford (CARS)
+- Sertac Karaman [[Homepage](http://karaman.mit.edu/)] : Associate Professor at MIT; Robotics; Control theory
+- Yu Guizhen(余贵珍) : 踏歌智行创始人；北京航空航天大学教授；车辆智能感知与控制
+- Jean-François Bonnefon
+- Debbie Hopkins: Research Lecturer, University of Oxford
 
 ### 1.2 Business Field
 
-- **YANG Hai(杨海)** [[Homepage](http://cehyang.people.ust.hk/)] : Editor-in-Chief of Transportation Research Part B: Methodological from 2013 to 2018; Professor at HKUST; Smart Mobility (Ride-sharing, Ride-sourcing, Taxi Industry); Traffic and Transport Dynamics; Road Pricing and Tradable Travel Credit Schemes; Public Transportation; Transportation Economics; Transportation Network Modeling and Optimization
+- YANG Hai(杨海) [[Homepage](http://cehyang.people.ust.hk/)] : Editor-in-Chief of Transportation Research Part B: Methodological from 2013 to 2018; Professor at HKUST; Smart Mobility (Ride-sharing, Ride-sourcing, Taxi Industry); Traffic and Transport Dynamics; Road Pricing and Tradable Travel Credit Schemes; Public Transportation; Transportation Economics; Transportation Network Modeling and Optimization
+- Ashley Nunes [[Homepage](http://www.ashley-nunes.com/about)] : Research Scientist in MIT; Transportation safety; Regulatory policy; Behavioral economics.
+- YE Jieping(叶杰平) [[Homepage](https://medicine.umich.edu/dept/dcmb/jieping-ye-phd#websites)] : VP of Didi Research; University of Michigan Associate Professor; Machine learning; Data mining.
+- Gansha Wu (吴甘沙): CEO of Uisee
+- Tony Seba: Author of "Clean Disruption of Energy and Transportation"
+- John Krafcik: Waymo CEO
+- Sacha Arnoud: Director of Engineering of Waymo
+- Brad Stertz: Director of Government Affairs, Audi
+- Danny Shapiro: Senior Director of Automotive, NVIDIA
+- Chris Urmson: CEO & Co-Founder, Aurora
+- Robbie Diamond: CEO & President, SAFE
+- Oliver Cameron: Co-Founder & CEO, Voyage
+- Kelly Nantel, Vice President, Communications & Advocacy, National Safety Council
+- Mark Rosekind: Chief Safety Innovation Officer, ZOOX
+- Avery Ash: Head of Autonomous Mobility, INRIX
+- Carlos A. Gimenez: Mayor, Miami-Dade County
+- Robert Grant: Vice President, Global Government Relations, Cruise Automation
+- Deborah Hersman: CEO, National Safety Council
+- Alice N. Bravo, P.E.: Director, Transportation & Public Works Dept. Miami-Dade County
+- David Schutt: CEO, SAE International
 
-- **Ashley Nunes** [[Homepage](http://www.ashley-nunes.com/about)] : Research Scientist in MIT; Transportation safety; Regulatory policy; Behavioral economics.
-
-- **YE Jieping(叶杰平)** [[Homepage](https://medicine.umich.edu/dept/dcmb/jieping-ye-phd#websites)] : VP of Didi Research; University of Michigan Associate Professor; Machine learning; Data mining.
 
 ## 2 Journal
 
@@ -54,26 +69,7 @@ categories: Mobility
 
 - **Intelligent Transportation Systems (ITS) Laboratory, HKUST** [[Homepage](https://sites.google.com/view/hkustits/home)] : 交通行为、交通均衡分析，网络设计与优化; 交通需求管理（拥堵收费，可交易电子路票系统等）; 智慧城市交通系统（交通控制，电动车管理，网约车出行，共享出行等）; 公共交通系统（经济分析，建模，规划和运营，高峰出行需求管理等）
 
-
-## Paper in IS Journal
-
-### Top IS Journal： 
-- Information Systems Research (ISR)
-- Management Information Systems Quartly (MISQ)
-- Journal of Management Information Systems (JMIS)
-- Decision Support Systems (DSS)
-- management science (MS)
-
-Geo-related
-### Keywords
-
-- vehicle
-- automobile
-- autonomous vehicle
-- rideshariing / ride sharing
-
-
-### Papers
+## 4 Papers
 
 - Ryder B, Gahr B, Egolf P, et al. Preventing traffic accidents with in-vehicle decision support systems-The impact of accident hotspot warnings on driver behaviour[J]. Decision support systems, 2017, 99: 64-74.
 - Abrahams A S, Jiao J, Wang G A, et al. Vehicle defect discovery from social media[J]. Decision Support Systems, 2012, 54(1): 87-97.
@@ -104,19 +100,6 @@ Geo-related
 
 - Provost F, Martens D, Murray A. Finding similar mobile consumers with a privacy-friendly geosocial design[J]. Information Systems Research, 2015, 26(2): 243-265.
 
-## Paper in Transportation
-
-### Journals
-- Transportation Research Part A: Policy and Practice
-- Transportation Research Part B: Methodological
-- Transportation Research Part C: Emerging Technologies
-- Transportation Research Part D: Transport and Environment
-- Transportation Research Part E: Logistics and Transportation
-- IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
-- Transportation Policy
-
-### Papers
-
 - Fagnant D J, Kockelman K. Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations[J]. Transportation Research Part A: Policy and Practice, 2015, 77: 167-181.
 - Yang W H, Wong R C P, Szeto W Y. Modeling the acceptance of taxi owners and drivers to operate premium electric taxis: Policy insights into improving taxi service quality and reducing air pollution[J]. Transportation Research Part A: Policy and Practice, 2018, 118: 581-593.
 - Atiyeh Vaezipour, Andry Rakotonirainy, Narelle Haworth, Patricia Delhomme, A simulator evaluation of in-vehicle human machine interfaces for eco-safe driving [J]. Transportation Research Part A: Policy and Practice, 2018.
@@ -125,25 +108,9 @@ Geo-related
 - Ma L, Zhang X, Ding X, et al. Bike sharing and users’ subjective well-being: An empirical study in China[J]. Transportation Research Part A: Policy and Practice, 2018, 118: 14-24.
 
 
-## Researchers
 
-- Jean-François Bonnefon
-- Ahmed El-Geneidy, Dea van Lierop, & Rania Wasfi 
-
-
-- Jieping Ye (叶杰平): VP of Didi research; Professor at Arizona State University
-- Sebastian Thrun: Professor of Computer Science at Stanford University; he founded Google X and Google's self-driving car team
-- Emilio Frazzoli: Professor at MIT; CTO of nuTonomy
-- Gansha Wu (吴甘沙): CEO of Uisee
-- Tony Seba: Author of "Clean Disruption of Energy and Transportation"
-- J. Christian Gerdes: Professor of Mechanical Engineering at Stanford University, Director of the Center for Automotive Research at Stanford (CARS) 
-- Sacha Arnoud: Director of Engineering of Waymo
-- Sertac Karaman: Associate Professor at MIT
-- Lex Fridman: Research Scientist at MIT; Instructor of MIT Self-driving course;
-- Debbie Hopkins: Research Lecturer, University of Oxford
-
-### 1. 公司信息
-#### 1.1 自动驾驶技术提供商
+## 5 公司信息
+#### 5.1 自动驾驶技术提供商
 
 <font color='red'>国内：</font>
 * [pony.ai](https://www.pony.ai/zh/news/)
@@ -191,7 +158,7 @@ Geo-related
 * [Nuro](https://nuro.ai/):人工智能机器人
 * [Carnegie Robotics](http://carnegierobotics.com/):人工智能机器人
 
-#### 1.2 地图提供商
+#### 5.2 地图提供商
 
 * [高德地图](http://www.autonavi.com/#/)
 * [百度地图](http://lbsyun.baidu.com/)
@@ -207,7 +174,7 @@ Geo-related
 * [Swift Navigation](https://www.swiftnav.com/):自动驾驶导航
 * [EXO Technologies](https://www.exactorbit.com/):高精导航
 
-#### 1.3 智能汽车制造产商
+#### 5.3 智能汽车制造产商
 
 * [小鹏汽车](https://www.xiaopeng.com/news.html)
 * [蔚来汽车](https://www.nio.com/news)
@@ -224,26 +191,26 @@ Geo-related
 * [Ford]
 * [Subaru]
 
-#### 1.4 出行服务
+#### 5.4 出行服务
 
 * [滴滴](https://www.didiglobal.com/news/newsCenter)
 * [Lyft](https://www.lyft.com/)
 * [优步UBER](https://www.uber.com/)
 * 神州租车
 
-#### 1.5 导航
+#### 5.5 导航
 
 * [Waze](https://www.waze.com/)
 * [Moovit](https://www.moovitapp.com/)
 * [Commutemaster](http://commutemaster.com/)
 
-#### 1.6 停车
+#### 5.6 停车
 * [Cloud Parc](http://cloudparc.com/a/)
 * [Parko](http://parko.com/)
 * [Luxe](http://luxe.com/)
 * [SpotHero](https://spothero.com/)
 
-#### 1.7 驾驶安全
+#### 5.7 驾驶安全
 
 * [Waypals](https://waypals.com/):事故保障APP
 * [Splitsecnd](https://splitsecnd.com/):事故报警APP
@@ -259,7 +226,7 @@ Geo-related
 * [Smart Wheel](https://smartwheelusa.com/):分心驾驶探测
 * [Phrame](http://www.phrame.com/):智能车牌照
 
-#### 1.8 驾驶习惯
+#### 5.8 驾驶习惯
 
 * [DriveBetter](https://www.drivebetter.com/):驾驶习惯记录仪
 * [CarVi](https://getcarvi.com/):驾驶习惯记录仪
@@ -272,7 +239,7 @@ Geo-related
 * [Cortex Labs](http://www.cortexlabs.com.au):疲劳驾驶探测
 * [Carma](https://www.gocarma.com/):乘客数量探测APP
 
-#### 1.9 网络安全
+#### 5.9 网络安全
 
 * [Cymotive](http://www.cymotive.com/):汽车防系统攻击
 * [Arilou](https://www.nng.com/arilou-cyber-security/):汽车防系统攻击
@@ -281,7 +248,7 @@ Geo-related
 * [Argus](https://argus-sec.com/):自动驾驶安全
 * [Braiq](https://braiq.ai/):自动驾驶乘客行为探测
 
-#### 1.10 车内电脑
+#### 5.10 车内电脑
 
 * [Link Motion](http://www.link-motion.com/cn/home-cn):自动驾驶车内电脑
 * [Swedspot](http://www.swedspot.com/):网联车信息交互
@@ -294,7 +261,7 @@ Geo-related
 * [Radiomize](https://www.radiomize.net/):智能方向盘
 * [Navideck](http://navideck.com/):智能车内音乐播放APP
 
-#### 1.11 感应器
+#### 5.11 感应器
 
 * [TriLumina](https://www.trilumina.com/):自动驾驶感应器
 * [Mobileye](https://www.mobileye.com/zh-cn/):视觉辅助驾驶
@@ -309,7 +276,7 @@ Geo-related
 * [Velodyne](https://velodynelidar.com/):激光雷达
 * [Strobe](https://www.strobeinc.com/):激光雷达
 
-#### 1.12 新汽车材料
+#### 5.12 新汽车材料
 
 * [NaWa Technologies](http://www.nawatechnologies.com/zh-hans):纳米材料
 * [Nanosteel](https://nanosteelco.com/):3D纳米打印
@@ -329,31 +296,6 @@ Geo-related
 * [Sidewalk Labs](https://sidewalklabs.com/)
 * [北京城市实验室BCL](https://www.beijingcitylab.com/)
 
-### 人
-- Jieping Ye (叶杰平): VP of Didi research; Professor at Arizona State University
-- Sebastian Thrun: Professor of Computer Science at Stanford University; he founded Google X and Google's self-driving car team
-- Emilio Frazzoli: Professor at MIT; CTO of nuTonomy
-- Gansha Wu (吴甘沙): CEO of Uisee
-- Tony Seba: Author of "Clean Disruption of Energy and Transportation"
-- J. Christian Gerdes: Professor of Mechanical Engineering at Stanford University, Director of the Center for Automotive Research at Stanford (CARS) 
-- Sacha Arnoud: Director of Engineering of Waymo
-- Sertac Karaman: Associate Professor at MIT
-- Lex Fridman: Research Scientist at MIT; Instructor of MIT Self-driving course;
-- John Krafcik: Waymo CEO
-- Brad Stertz: Director of Government Affairs, Audi
-- Danny Shapiro: Senior Director of Automotive, NVIDIA
-- Chris Urmson: CEO & Co-Founder, Aurora
-- Robbie Diamond: CEO & President, SAFE
-- Oliver Cameron: Co-Founder & CEO, Voyage
-- Kelly Nantel, Vice President, Communications & Advocacy, National Safety Council
-- Mark Rosekind: Chief Safety Innovation Officer, ZOOX
-- Avery Ash: Head of Autonomous Mobility, INRIX
-- Carlos A. Gimenez: Mayor, Miami-Dade County
-- Robert Grant: Vice President, Global Government Relations, Cruise Automation
-- Deborah Hersman: CEO, National Safety Council
-- Alice N. Bravo, P.E.: Director, Transportation & Public Works Dept. Miami-Dade County
-- David Schutt: CEO, SAE International
-- PHAN Tuan Quang: Assistant Professor at NUS in the Department of Information Systems and Analytics
 
 ### 比赛
 DAPPRA
@@ -361,10 +303,6 @@ DAPPRA
 ### 课程
 * [Udacity 自动驾驶网课](https://www.udacity.com/self-driving-car)
 * [MIT 6.S094: Deep Learning for Self-Driving Car](https://selfdrivingcars.mit.edu/)
-
-### 论文关键词
-
-* autonomous vehicles
 
 参考：
 1. [你想要的108家自动驾驶领域公司盘点](https://zhuanlan.zhihu.com/p/28908700)
