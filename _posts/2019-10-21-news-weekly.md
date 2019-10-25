@@ -21,3 +21,5 @@ categories: Mobility
 8. [Tesla’s ‘Full Self-Driving’ feature may get early-access release by the end of 2019](https://www.theverge.com/2019/10/23/20929529/tesla-full-self-driving-release-2019-beta)
 
 9. [龙瀛：面向智慧城市的人本尺度城市形态：理论、方法与实践](https://www.jiqizhixin.com/articles/2019-10-24-4)
+
+10. [手把手教你写好论文里最关键的开头(Introduction)？](https://zhuanlan.zhihu.com/p/29155607)
