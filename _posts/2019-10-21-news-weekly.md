@@ -30,3 +30,10 @@ categories: Mobility
 
     > 主要是有人走对了方向，要是走到一个强弩之末的方向上，那就没有办法的，而且越走越不容易走出来，要换一个方向不容易，继续做那就走成了最不幸的一个人。这点我希望在座的每一个研究生都理解到这几句话的意思。
 
+12. Lage, Isaac, et al. "An evaluation of the human-interpretability of explanation." arXiv preprint arXiv:1902.00006 (2019).
+
+    - Motivation: The evaluation of interpretable machine learning systems is challenging, as explanation is almost always a means toward some downstream task.
+    - Research question: Evaluation of the Human-Interpretability of Explanation
+    - Methods: 
+
+13. [滴滴获运筹学领域顶级奖项瓦格纳杰出实践奖](https://www.jiqizhixin.com/articles/2019-10-25-2)
