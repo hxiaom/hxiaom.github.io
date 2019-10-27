@@ -33,7 +33,22 @@ categories: Mobility
 12. Lage, Isaac, et al. "An evaluation of the human-interpretability of explanation." arXiv preprint arXiv:1902.00006 (2019).
 
     - Motivation: The evaluation of interpretable machine learning systems is challenging, as explanation is almost always a means toward some downstream task.
-    - Research question: Evaluation of the Human-Interpretability of Explanation
+    - Research question: how increasing different types of complexity affects the usability of explanations for three tasks.
+        - Explanation Size
+        - Creating New Types of Cognitive Chunks
+        - Repeated Terms in an Explanation
     - Methods: 
+        - Tasks
+            - simulating the system’s response
+            - verification of a suggested response
+            - counterfactual reasoning because they are general enough to be relevant across a variety of domains
+        - Metrics
+            - response time
+            - accuracy
+            - subjective satisfaction
+    - Results
+        - The magnitude of performance effect varies by the type of complexity.
+        - Surprisingly, implicit cognitive chunks were faster for people to process than explicit cognitive chunks. Participants
+        - The type of question significantly impacted response time.
 
 13. [滴滴获运筹学领域顶级奖项瓦格纳杰出实践奖](https://www.jiqizhixin.com/articles/2019-10-25-2)
