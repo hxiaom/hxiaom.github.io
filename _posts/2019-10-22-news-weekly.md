@@ -13,3 +13,9 @@ categories: Mobility
     - Methods:
         - To give contrastive explanation is to reason about what would happen in the counterfactual cases.
         - The authors approach this problem by generating plans for counterfactual cases via compilations, which they call the hypothetical model, or HModel.
+
+3. [读博一时爽，不听这些建议会一直爽……](https://www.jiqizhixin.com/articles/2019-10-28-10)
+
+4. [联合利华、高盛等 100 多家公司都在用 AI 面试官，靠谱吗？](https://www.jiqizhixin.com/)
+
+5. [当博弈论遇上机器学习：一文读懂相关理论](https://www.jiqizhixin.com/articles/2019-10-28-9)
