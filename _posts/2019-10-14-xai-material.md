@@ -16,6 +16,7 @@ categories: Mobility
 
 - [The Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/)
 - [Human-Centered AI at MIT](https://hcai.mit.edu/)
+- [Humane AI](https://www.humane-ai.eu/)
 - [explain-ai.org](http://www.explain-ai.org/)
 
 ### Book
