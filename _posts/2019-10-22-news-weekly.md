@@ -31,3 +31,20 @@ categories: Mobility
         - 2) a goal-conditioned policy with an attention-based graph encoding, forcing it to focus on the relevant components of the causal graph at each step.
         
 8. [MIT 6.S093: Introduction to Human-Centered Artificial Intelligence (AI)](https://www.youtube.com/watch?v=bmjamLZ3v8A)
+
+9. [给中央领导讲课陈纯的演讲全文：链上、链下数据协同技术是联盟链发展重要方向](https://mp.weixin.qq.com/s/U5rg1T2uBOEpJCDMklqTww)
+
+10. Cai, Carrie J., et al. "Human-centered tools for coping with imperfect algorithms during medical decision-making." Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM, 2019.
+
+    - Motivation: algrithmically decision is different with doctor's decision on retrieve visually similar medical images from past patients.
+    - Methods: 
+        - identified the needs of pathologists when searching for similar images retrieved using a deep learning algorithm
+        - developed tools that empower users to cope with the search algorithm on-the-fly, communicating what types of similarity are most important at different moments in time.
+            - refine-by-region
+            - refine-by-example
+            - refine-by-concept
+    - contribution:
+        - enumerate key needs of pathologists when searching for similar images during medical decision-making.
+        - present the design and implementation of interactive refinement tools, including a novel technique, refine-by-concept, that leverages key affordances of deep neural network models for similarity search.
+        - report results from two studies demonstrating that these refinement tools can increase the utility of clinical information found and increase user trust in the algorithm, without a loss in diagnostic accuracy. Overall, experts perferred SMILY over a traditional interface, and indicated they would be more likely to use it in clinical practice.
+        - identify ways that experts used refinement tools for purposes beyond refining their searches, including testing and understanding the underlying search algorithm; investigating the likelihood a decision hypothesis; and disambiguating ML errors from their own errors.
