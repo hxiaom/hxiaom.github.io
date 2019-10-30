@@ -30,3 +30,4 @@ categories: Mobility
         - 1) an iterative causal induction model with attention, which learns to incrementally update the predicted causal graph for each observed interaction in the environment,
         - 2) a goal-conditioned policy with an attention-based graph encoding, forcing it to focus on the relevant components of the causal graph at each step.
         
+8. [MIT 6.S093: Introduction to Human-Centered Artificial Intelligence (AI)](https://www.youtube.com/watch?v=bmjamLZ3v8A)
