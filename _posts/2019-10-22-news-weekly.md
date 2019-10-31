@@ -58,10 +58,13 @@ categories: Mobility
 13. Madumal, Prashan, et al. "A Grounded Interaction Protocol for Explainable Artificial Intelligence." Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems. International Foundation for Autonomous Agents and Multiagent Systems, 2019.
 
     - Motivation: XAI needs interation.
-    - Research question: the challenges of meaningful interaction between an explainer and an explainee -
+    - Research question: the challenges of meaningful interaction between an explainer and an explainee
+        - key components that makeup an explanation interaction protocol (locutions)
+        - relationships within those components (termination rules)
+        - component sequences and cycles (combination rules)
     - Method:
         - grounded thoery
         - formalize the model using the agent dialogue framework (ADF) as a new dialogue type and then evaluate it in a human-agent interaction study.
-        - investigate the structural aspects of an interactive explanation to propose an interaction protocol.
+        - propose a interaction protocol for the socio-cognitive process of explanation that is derived from different types of natural conversations between humans as well as humans and agents.
 
-
+14. [机器学习模型可解释性的详尽介绍](https://www.jiqizhixin.com/articles/2019-10-30-9)
