@@ -68,3 +68,12 @@ categories: Mobility
         - propose a interaction protocol for the socio-cognitive process of explanation that is derived from different types of natural conversations between humans as well as humans and agents.
 
 14. [机器学习模型可解释性的详尽介绍](https://www.jiqizhixin.com/articles/2019-10-30-9)
+
+15. Neverova, Natalia, et al. "Learning human identity from motion patterns." IEEE Access 4 (2016): 1810-1820.
+
+    - Motivation: learning human identity from motion patterns
+    - challenges:
+        - efficiently learning task-relevant representations of noisy inertial data;
+        - incorporating them into a biometrics setting, characterized by limited resources. Limitations include how computational power for model adaptation on a new user and for real-time inference, as well as the absence (or very limited amount) of "negative" samples.
+    - Method:
+        - introduce the first method for active biometric authentication with mobile inertial sensors.
