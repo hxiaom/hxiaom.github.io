@@ -18,6 +18,8 @@ categories: Mobility
 
 4. [联合利华、高盛等 100 多家公司都在用 AI 面试官，靠谱吗？](https://www.jiqizhixin.com/)
 
+5. [哈工大张伟男：人机对话关键技术及挑战](https://www.jiqizhixin.com/articles/2019-10-30-8)
+
 5. [当博弈论遇上机器学习：一文读懂相关理论](https://www.jiqizhixin.com/articles/2019-10-28-9)
 
 6. [黄奇帆：中国央行很可能在全球第一个推出数字货币](https://ishare.ifeng.com/c/s/v002IfL91DiW8h5JhPhinUuMb248Vs-_xLXcaV9FzhbxlLTA__)
@@ -48,3 +50,18 @@ categories: Mobility
         - present the design and implementation of interactive refinement tools, including a novel technique, refine-by-concept, that leverages key affordances of deep neural network models for similarity search.
         - report results from two studies demonstrating that these refinement tools can increase the utility of clinical information found and increase user trust in the algorithm, without a loss in diagnostic accuracy. Overall, experts perferred SMILY over a traditional interface, and indicated they would be more likely to use it in clinical practice.
         - identify ways that experts used refinement tools for purposes beyond refining their searches, including testing and understanding the underlying search algorithm; investigating the likelihood a decision hypothesis; and disambiguating ML errors from their own errors.
+
+11. [Waymo expands self-driving services to include B2B car parts delivery trial](https://techcrunch.com/2019/10/29/waymo-expands-self-driving-services-to-include-b2b-car-parts-delivery-trial/)
+
+12. [数字货币，通俗易懂](https://www.weibo.com/tv/v/IdZBXgbTK?fid=1034:4433350782325389)
+
+13. Madumal, Prashan, et al. "A Grounded Interaction Protocol for Explainable Artificial Intelligence." Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems. International Foundation for Autonomous Agents and Multiagent Systems, 2019.
+
+    - Motivation: XAI needs interation.
+    - Research question: the challenges of meaningful interaction between an explainer and an explainee -
+    - Method:
+        - grounded thoery
+        - formalize the model using the agent dialogue framework (ADF) as a new dialogue type and then evaluate it in a human-agent interaction study.
+        - investigate the structural aspects of an interactive explanation to propose an interaction protocol.
+
+
