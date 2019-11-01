@@ -77,3 +77,17 @@ categories: Mobility
         - incorporating them into a biometrics setting, characterized by limited resources. Limitations include how computational power for model adaptation on a new user and for real-time inference, as well as the absence (or very limited amount) of "negative" samples.
     - Method:
         - introduce the first method for active biometric authentication with mobile inertial sensors.
+
+16. Samek, Wojciech, et al. "Interpretable LSTMs For Whole-Brain Neuroimaging Analyses."
+
+    - Motivation: the analysis of neuroimaging data poses several strong challenges, in particular, due to its high dimensionality, its strong spatio-temporal correlation and the comparable small sample sizes of the respective datasets.
+    - Methods:
+        - introduce DLight framework, which overcomes these challenges by utilizing a long short-term memory unit (LSTM) based deep neural network architecture to analyze the spatial dependency structure of whole-brain fMRI data
+        - in order to maintain interpretability of the neuroimaging data, we adapt the layer-wise relevance propagation (LRP) method.
+
+17. Guangyu Li, Max, et al. "DBUS: Human Driving Behavior Understanding System." Proceedings of the IEEE International Conference on Computer Vision Workshops. 2019.
+
+    - Motivation: Human driving behavior understanding is a key ingredient for intelligent transportation systems. We need to understand how humans drive and interact with environments.
+    - Methods:
+        - DBUS, a real-time driving behavior understanding system which works with front-view videos, GPS/IMU signals collected from daily driving scenarios.
+        - DBUS focuses on not only the recognition of basic driving actions but also the identification of driver's intentions and attentions.
