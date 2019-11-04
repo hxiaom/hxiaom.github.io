@@ -12,3 +12,15 @@ categories: Mobility
     - Methods: 
         - propose the challenge of creating Intelligent Agents (IAs) to assist medical service providers (MSPs) and consumers in establishing a more personalized human-to-human dialogue. 
         - propose a four-part conceptual framework for personalized social interactions, expand on which techniques are available within current AI research and discuss what has yet to be achieved.
+
+3. Dastjerdi, Aliasghar Mehdizadeh, et al. "Use intention of mobility-management travel apps: The role of users goals, technophile attitude and community trust." Transportation Research Part A: Policy and Practice 126 (2019): 114-135.
+
+    - Motivation: persuasive interventions delivered through mobility-management tools have received attention as a means to motivate change for sustainable urban mobility.
+    - Research question: pinpoint and understand the driver that influence individuals' travel decisions when using travel apps including both travel information and persuasive features.
+    - Methods: questions 822 Danish travelers by distributing a technology-use preference survey. structural equation models
+    - Results:
+        - trip efficiency improvement, enjoyment, social interaction and environmentally-friendly travel promotion are important motives for using the new app; 
+        - individuals have different intentions according to the perceived value of the new information system as well as travel purposes;
+        - technophile attitude exerts a positive influence on both user motives and use intention
+        - social and institutional trust in addition to an affective bond to the city influence the use intention of the travel app.
+
