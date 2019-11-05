@@ -59,7 +59,6 @@ HAI
 Mobility
 - [TOP10 Mobility Paper](http://hxiaom.github.io/mobility/2019/10/09/mobility-paper.html)
 - [Mobility Material](http://hxiaom.github.io/mobility/2019/03/12/AV-in-academic.html)
-- [Mobility Research Questions](http://hxiaom.github.io/mobility/2018/10/23/Mobility-Question.html)
 - [Mobility Data](http://hxiaom.github.io/mobility/2018/10/23/Mobility-Data.html)
 
 - [自动驾驶](http://hxiaom.github.io/mobility/2018/09/04/Automobile.html)

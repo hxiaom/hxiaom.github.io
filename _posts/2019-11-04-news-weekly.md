@@ -24,3 +24,6 @@ categories: Mobility
         - technophile attitude exerts a positive influence on both user motives and use intention
         - social and institutional trust in addition to an affective bond to the city influence the use intention of the travel app.
 
+4. [华为曲线“造”车](https://www.huxiu.com/article/324486.html)
+
+5. [搜狗公布2019年Q3财报：净利润2.83亿 同比增长47% 创历史新高](https://www.jiqizhixin.com/articles/2019-11-04-19)
