@@ -27,3 +27,10 @@ categories: Mobility
 4. [华为曲线“造”车](https://www.huxiu.com/article/324486.html)
 
 5. [搜狗公布2019年Q3财报：净利润2.83亿 同比增长47% 创历史新高](https://www.jiqizhixin.com/articles/2019-11-04-19)
+
+6. 王琼. 高铁乘客候车时间利用类型及其影响因素研究[D].南京大学,2018.
+
+    - Motivation: 高铁候车时间
+    - Results:
+        - 76%休闲活动，57%工作活动，35%消费活动，30%生活活动
+        - 92%使用手机，66%不使用手机
