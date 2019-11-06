@@ -34,3 +34,17 @@ categories: Mobility
     - Results:
         - 76%休闲活动，57%工作活动，35%消费活动，30%生活活动
         - 92%使用手机，66%不使用手机
+
+7. Pfleging, Bastian, Maurice Rang, and Nora Broy. "Investigating user needs for non-driving-related activities during automated driving." Proceedings of the 15th international conference on mobile and ubiquitous multimedia. ACM, 2016.
+
+    - Research question: investigate which non-driving-related ac- tivities drivers want to perform while driving highly or fully automated.
+        - which activities the drivers want to perform once they do not have to steer or monitor their car any more
+        - which of those will be feasible
+    - Results:
+        - besides traditional activities (talking to passengers, listening to music), 
+        - daydreaming, 
+        - writing text messages, 
+        - eating and drinking, 
+        - browsing the Internet, 
+        - calling are most wanted for highly automated driving. 
+        - This shows the potential for mobile and ubiquitous multimedia applications in the car.
