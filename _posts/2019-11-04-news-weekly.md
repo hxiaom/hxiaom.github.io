@@ -54,3 +54,6 @@ categories: Mobility
 9. [河北沧州开放中国首个区级全域测试路网，正式开启自动驾驶载人测试](https://www.jiqizhixin.com/dailies/3ba96bf4-6ac7-4b89-824a-d34ad60c9d3f)
 
 10. [依图科技与公安部交通管理科学研究所达成战略合作](https://www.jiqizhixin.com/)
+
+11. [我们在上海工厂，开了国产特斯拉](https://www.huxiu.com/article/325060.html)
+
