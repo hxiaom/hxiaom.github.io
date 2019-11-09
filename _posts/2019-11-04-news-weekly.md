@@ -57,3 +57,4 @@ categories: Mobility
 
 11. [我们在上海工厂，开了国产特斯拉](https://www.huxiu.com/article/325060.html)
 
+12. [京沪高铁披露巨额资管规模，证监会质疑公司定位](https://www.huxiu.com/article/325311.html)
