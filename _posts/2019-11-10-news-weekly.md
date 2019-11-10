@@ -23,3 +23,5 @@ categories: Mobility
     - Methods:
         - propose principles and desiderata for concept based explanation, which goes beyond per-sample features to identify heigher level human-undersantable concepts that apply across the entire dataset.
         - develop a new algorithm, ACE, to automatically extract visual concepts.
+
+4. [科学家心忧：电动车电池未来将引发电子垃圾危机](https://36kr.com/p/5264200)
