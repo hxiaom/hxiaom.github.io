@@ -25,3 +25,24 @@ categories: Mobility
         - develop a new algorithm, ACE, to automatically extract visual concepts.
 
 4. [科学家心忧：电动车电池未来将引发电子垃圾危机](https://36kr.com/p/5264200)
+
+5. Strale, Mathieu. "Sustainable urban logistics: What are we talking about?." Transportation Research Part A: Policy and Practice 130 (2019): 745-751.
+
+    - Motivation: sustainable urban logistics is a trendy research theme that addresses societal, environmental and industrial challenges.
+    - Research goal: to examine how the academic literature investigates sustainable urban logistics by using a survey.
+    - Results:
+        - Technical problems, the search for optimization and solutions and the dissemination of good practices dominate the topics and methods mobilized.
+        - the literature pays scant attention to environmental and social issues, which are an important part of sustainable development.
+    - sustainable urban logistics
+        – Reducing transport-related impacts 
+        – Reducing nuisances linked to logistics buildings 
+        – Reducing energy and material consumption 
+        – Developing logistics activities as a tool for economic growth.
+
+6. Kindermans, Pieter-Jan, et al. "The (un) reliability of saliency methods." Explainable AI: Interpreting, Explaining and Visualizing Deep Learning. Springer, Cham, 2019. 267-280.
+
+    - Motivation: Saliency methods aim to explain the predictions of deep neural networks.
+    - Results:
+        - These methods lack reliability when the explanation is sensitive to factors that do not contribute to the model prediction.
+        - we use a simple and common pre-processing step - adding a constant shift to the input data - to show that a transformation with no effect on the model can cause numerous methods to incorrectly attribute.
+        - In order to guarantee reliability, we posit that methods should fulfill input invariance, the requirement that a saliency method mirror the sensitivity of the model with respect to transformations of the input.
