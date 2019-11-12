@@ -46,3 +46,7 @@ categories: Mobility
         - These methods lack reliability when the explanation is sensitive to factors that do not contribute to the model prediction.
         - we use a simple and common pre-processing step - adding a constant shift to the input data - to show that a transformation with no effect on the model can cause numerous methods to incorrectly attribute.
         - In order to guarantee reliability, we posit that methods should fulfill input invariance, the requirement that a saliency method mirror the sensitivity of the model with respect to transformations of the input.
+
+7. [Waymo重组在美业务，加速无人驾驶出租车落地](https://36kr.com/p/5264806)
+
+8. [清华大学苏州汽车研究院院长成波：智能网联汽车六大趋势及中国方案](https://www.jiqizhixin.com/articles/2019-11-12-2)
