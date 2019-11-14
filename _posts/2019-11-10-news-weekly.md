@@ -52,3 +52,5 @@ categories: Mobility
 8. [清华大学苏州汽车研究院院长成波：智能网联汽车六大趋势及中国方案](https://www.jiqizhixin.com/articles/2019-11-12-2)
 
 9. [Cruise 每周两次更新自动驾驶汽车的 AI 大脑](https://www.jiqizhixin.com/dailies/634af0e0-124c-4aba-8893-782c44ddd85a)
+
+10. [Elon Musk: Tesla Autopilot | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=dEv99vxKjVI)
