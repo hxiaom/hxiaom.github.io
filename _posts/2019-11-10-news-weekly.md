@@ -54,3 +54,5 @@ categories: Mobility
 9. [Cruise 每周两次更新自动驾驶汽车的 AI 大脑](https://www.jiqizhixin.com/dailies/634af0e0-124c-4aba-8893-782c44ddd85a)
 
 10. [Elon Musk: Tesla Autopilot | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=dEv99vxKjVI)
+
+11. [京沪高铁现在能“躺赚”，那以后呢？](https://www.huxiu.com/article/326300.html)
