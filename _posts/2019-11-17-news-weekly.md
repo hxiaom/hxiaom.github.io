@@ -14,4 +14,4 @@ categories: Mobility
 
 4. Editorial: “Psychophysiological Contributions to Traffic Safety”
 
-    -  how mental states can be optimally tracked in simulated as well as naturalistic contexts; now and when technology progresses further towards autonomous driving.
+    - how mental states can be optimally tracked in simulated as well as naturalistic contexts; now and when technology progresses further towards autonomous driving.
