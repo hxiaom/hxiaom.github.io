@@ -11,3 +11,7 @@ categories: Mobility
 3. [谷歌母公司计划开发多伦多智慧城市](https://www.jiqizhixin.com/dailies/7329f31c-d5f5-449e-8610-50ce7061f82e)
 
     > 人行道实验室发布了 483 页的文件，以回应政府授权机构在该项目初始时对其开发提出的「过于抽象」的批评。
+
+4. Editorial: “Psychophysiological Contributions to Traffic Safety”
+
+    -  how mental states can be optimally tracked in simulated as well as naturalistic contexts; now and when technology progresses further towards autonomous driving.
