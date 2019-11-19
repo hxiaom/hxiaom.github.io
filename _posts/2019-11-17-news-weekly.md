@@ -15,3 +15,7 @@ categories: Mobility
 4. Editorial: “Psychophysiological Contributions to Traffic Safety”
 
     - how mental states can be optimally tracked in simulated as well as naturalistic contexts; now and when technology progresses further towards autonomous driving.
+
+5. [福特刚发布一款马车，和特斯拉一样能跑](https://www.huxiu.com/article/326696.html)
+
+6. [Fully autonomous cars could be on open roads within 5 years, says self-driving start-up Pony.ai CEO](https://www.cnbc.com/2019/11/18/fully-autonomous-cars-could-be-on-roads-in-5-years-says-ponyai-ceo.html)
