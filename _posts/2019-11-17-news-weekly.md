@@ -33,3 +33,9 @@ categories: Mobility
 9. [中国制造Model 3即将全面到店，周五见！](https://weibo.com/ttarticle/p/show?id=2309404440407147675756#_0)
 
 10. [How Selfish Are You? It Matters for MIT’s New Self-Driving Algorithm](https://singularityhub.com/2019/11/19/how-selfish-are-you-it-matters-for-mits-new-self-driving-algorithm/)
+
+11. Liu, Yang, et al. "Building Effective Large-Scale Traffic State Prediction System: Traffic4cast Challenge Solution." arXiv preprint arXiv:1911.05699 (2019).
+
+    - Motivation: How to build an effective large-scale traffic state prediction system is a challenging but highly valuable problem
+    - Research goal: This study focuses on the construction of an effective solution designed for spatio-temporal data to predict large- scale traffic state.
+    - Methods: We adopt a structure similar to U-net and use a mask instead of spatial attention to address the data sparsity. Then, combined with the experience of time series prediction problem, we design a number of features, which are input into the model as different channels. Region cropping is used to decrease the difference between the size of the receptive field and the study area, and the models can be specially optimized for each sub-region. The fusion of interdisciplinary knowledge and experience is an emerging demand in classical traffic research
