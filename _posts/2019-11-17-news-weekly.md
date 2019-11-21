@@ -39,3 +39,23 @@ categories: Mobility
     - Motivation: How to build an effective large-scale traffic state prediction system is a challenging but highly valuable problem
     - Research goal: This study focuses on the construction of an effective solution designed for spatio-temporal data to predict large- scale traffic state.
     - Methods: We adopt a structure similar to U-net and use a mask instead of spatial attention to address the data sparsity. Then, combined with the experience of time series prediction problem, we design a number of features, which are input into the model as different channels. Region cropping is used to decrease the difference between the size of the receptive field and the study area, and the models can be specially optimized for each sub-region. The fusion of interdisciplinary knowledge and experience is an emerging demand in classical traffic research
+
+12. Pereira, Francisco C., Ana LC Bazzan, and Moshe Ben-Akiva. "The role of context in transport prediction." IEEE Intelligent Systems 29.1 (2014): 76-80.
+
+    - transport prediction combine context information from internet. 
+        - information retrieval
+        - information extraction
+        - transportation prediction with context 
+
+13. Rodrigues, Filipe, et al. "A Bayesian additive model for understanding public transport usage in special events." IEEE transactions on pattern analysis and machine intelligence 39.11 (2016): 2113-2126.
+
+    - Motivation: Public special events, like sports games, concerts and festivals are well known to create disruptions in transportation systems, often catching the operators by surprise
+    - Problem: Although these are usually planned well in advance, their impact is difficult to predict, even when organisers and transportation operators coordinate. The problem highly increases when several events happen concurrently.
+    - Methods:
+        - This paper presents a Bayesian additive model with Gaussian process components that combines smart card records from public transport with context information about events that is continuously mined from the Web.
+        - We develop an efficient approximate inference algorithm using expectation propagation, which allows us to predict the total number of public transportation trips to the special event areas, thereby contributing to a more adaptive transportation system.
+        - Furthermore, for multiple concurrent event scenarios, the proposed algorithm is able to disaggregate gross trip counts into their most likely components related to specific events and routine behavior.
+
+14. Markou, Ioulia. Detection, analysis and prediction of traffic anomalies due to special events. Diss. Technical University of Denmark, 2019.
+
+15. [Uber自动驾驶车祸判决：人没监督车？车没监督人？](https://www.huxiu.com/article/327121.html)
