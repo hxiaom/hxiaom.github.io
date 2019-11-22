@@ -65,3 +65,16 @@ categories: Mobility
 17. [日烧100万美元，这家第四大网约车平台倒闭了](https://36kr.com/p/5268192)
 
 18. [Didi will soon roll out a self-driving taxi service in Shanghai](https://www.scmp.com/tech/article/3038595/didi-will-soon-roll-out-self-driving-taxi-service-shanghai)
+
+19. Ye, Runing, Jonas De Vos, and Liang Ma. "Analysing the association of dissonance between actual and ideal commute time and commute satisfaction." Transportation Research Part A: Policy and Practice 132 (2020): 47-60.
+
+    - Dissonance between actual and ideal commute time negatively affects commute satisfaction.
+    - Active travellers have higher level of consistency between actual and ideal commute duration than motorised travellers.
+    - Commute time dissonance partly mediated the effect of actual commute time on travel satisfaction.
+
+20. Molin, Eric, et al. "Does conducting activities while traveling reduce the value of time? Evidence from a within-subjects choice experiment." Transportation Research Part A: Policy and Practice 132 (2020): 18-29.
+
+    - Evidence found for hypothesis that conducting onboard activities decreases VoT.
+    - Conducting activities while traveling reduces VoT of commuters by 30%.
+    - VoT reductions can be regarded as the monetary Value of Activities.
+    - Within-subjects experiments are essential to study impact activity context on VoT.
