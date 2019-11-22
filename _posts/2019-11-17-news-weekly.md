@@ -58,6 +58,9 @@ categories: Mobility
 
 14. Markou, Ioulia. Detection, analysis and prediction of traffic anomalies due to special events. Diss. Technical University of Denmark, 2019.
 
+    - Demand pattern analysis of taxi trip data for anomalies detection and explanation
+    - 
+
 15. [Uber自动驾驶车祸判决：人没监督车？车没监督人？](https://www.huxiu.com/article/327121.html)
 
 16. [蔚来李斌：个人购车需求强烈，电动汽车的春天已经不远](https://36kr.com/p/5268075)
