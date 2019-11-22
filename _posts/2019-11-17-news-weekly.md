@@ -59,3 +59,9 @@ categories: Mobility
 14. Markou, Ioulia. Detection, analysis and prediction of traffic anomalies due to special events. Diss. Technical University of Denmark, 2019.
 
 15. [Uber自动驾驶车祸判决：人没监督车？车没监督人？](https://www.huxiu.com/article/327121.html)
+
+16. [蔚来李斌：个人购车需求强烈，电动汽车的春天已经不远](https://36kr.com/p/5268075)
+
+17. [日烧100万美元，这家第四大网约车平台倒闭了](https://36kr.com/p/5268192)
+
+18. [Didi will soon roll out a self-driving taxi service in Shanghai](https://www.scmp.com/tech/article/3038595/didi-will-soon-roll-out-self-driving-taxi-service-shanghai)
