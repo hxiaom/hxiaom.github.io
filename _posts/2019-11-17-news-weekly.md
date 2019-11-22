@@ -59,7 +59,7 @@ categories: Mobility
 14. Markou, Ioulia. Detection, analysis and prediction of traffic anomalies due to special events. Diss. Technical University of Denmark, 2019.
 
     - Demand pattern analysis of taxi trip data for anomalies detection and explanation
-    - 
+    - Predicting taxi demand hotspots using automated Internet Search Queries
 
 15. [Uber自动驾驶车祸判决：人没监督车？车没监督人？](https://www.huxiu.com/article/327121.html)
 
@@ -81,3 +81,7 @@ categories: Mobility
     - Conducting activities while traveling reduces VoT of commuters by 30%.
     - VoT reductions can be regarded as the monetary Value of Activities.
     - Within-subjects experiments are essential to study impact activity context on VoT.
+
+21. [普快列车票为什么20年来从未涨过价？](https://www.huxiu.com/article/327680.html)
+
+22. [赛博朋克皮卡，马斯克式疯狂](https://www.huxiu.com/article/327557.html)
