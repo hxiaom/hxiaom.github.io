@@ -85,3 +85,5 @@ categories: Mobility
 21. [普快列车票为什么20年来从未涨过价？](https://www.huxiu.com/article/327680.html)
 
 22. [赛博朋克皮卡，马斯克式疯狂](https://www.huxiu.com/article/327557.html)
+
+23. [Edge Cases and Autonomous Vehicle Safety](https://users.ece.cmu.edu/~koopman/lectures/Koopman19_SSS_slides.pdf)
