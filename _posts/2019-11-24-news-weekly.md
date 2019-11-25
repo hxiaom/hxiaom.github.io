@@ -17,3 +17,7 @@ categories: Mobility
 6. [与王坚院士有关的日子](https://mp.weixin.qq.com/s/4c69pHYhCG9W6igsCYnimA)
 
 7. [对话李嘉诚：不疾而速](https://xueqiu.com/3191943504/20610942)
+
+8. [上汽大通：“生不逢时”逼出的“独一无二”](https://www.huxiu.com/article/327837.html)
+
+9. [Tesla’s plan to leave the auto industry behind on in-car infotainment](https://www.cnbc.com/2019/11/23/teslas-plan-to-leave-auto-industry-behind-on-in-car-entertainment.html)
