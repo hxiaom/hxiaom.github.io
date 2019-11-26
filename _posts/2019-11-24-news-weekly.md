@@ -28,3 +28,6 @@ categories: Mobility
 
 12. [安全隐患不断，Uber 被吊销伦敦运营资格](https://36kr.com/p/5269388)
 
+13. [前蚂蚁金服工程师自述：如何开始无人驾驶学习](https://mp.weixin.qq.com/s/Y0dvT5gCZroLlYTaUXjnqA)
+
+14. [大时代——2020年宏观展望](https://mp.weixin.qq.com/s/52uUVs4mQ_Ci2m2TlWQuhA)
