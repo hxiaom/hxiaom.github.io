@@ -21,3 +21,10 @@ categories: Mobility
 8. [上汽大通：“生不逢时”逼出的“独一无二”](https://www.huxiu.com/article/327837.html)
 
 9. [Tesla’s plan to leave the auto industry behind on in-car infotainment](https://www.cnbc.com/2019/11/23/teslas-plan-to-leave-auto-industry-behind-on-in-car-entertainment.html)
+
+10. [顺风车回归5天：叫10单接2单，老司机不敢开车了？](https://www.huxiu.com/article/328027.html)
+
+11. [物流赛道降温，存活企业接下来拼什么？](https://www.huxiu.com/article/327039.html)
+
+12. [安全隐患不断，Uber 被吊销伦敦运营资格](https://36kr.com/p/5269388)
+
