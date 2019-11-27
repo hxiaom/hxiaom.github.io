@@ -31,3 +31,9 @@ categories: Mobility
 13. [前蚂蚁金服工程师自述：如何开始无人驾驶学习](https://mp.weixin.qq.com/s/Y0dvT5gCZroLlYTaUXjnqA)
 
 14. [大时代——2020年宏观展望](https://mp.weixin.qq.com/s/52uUVs4mQ_Ci2m2TlWQuhA)
+
+15. [一日千星的「机器学习系统设计指南」，这个英伟达小姐姐的项目火了](https://www.jiqizhixin.com/articles/2019-11-26-5)
+
+16. [郑刚确认加入华为，他的任务是什么？](https://t.cj.sina.com.cn/articles/view/1237074602/49bc42aa00101g8y8)
+
+17. [任正非签发文件：华为成立智能汽车BU](https://36kr.com/p/5211675)
