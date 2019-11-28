@@ -50,3 +50,4 @@ categories: Mobility
 
 22. [CNBC - Why Don’t We Have Self-Driving Cars Yet?](https://www.reddit.com/r/SelfDrivingCars/comments/e2ofl0/cnbc_why_dont_we_have_selfdriving_cars_yet/)
 
+23. [丰田只能排第三！2018年销量最高的五大车企究竟是谁？](http://mini.eastday.com/mobile/191103225434804.html#)
