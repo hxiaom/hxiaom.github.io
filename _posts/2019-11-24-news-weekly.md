@@ -37,3 +37,16 @@ categories: Mobility
 16. [郑刚确认加入华为，他的任务是什么？](https://t.cj.sina.com.cn/articles/view/1237074602/49bc42aa00101g8y8)
 
 17. [任正非签发文件：华为成立智能汽车BU](https://36kr.com/p/5211675)
+
+18. [对自动驾驶的定义，还是得谨慎些](https://www.huxiu.com/article/328329.html)
+
+    > 大众中国研发负责人穆拓睿博士:首先我们要看如何定义自动驾驶。其实自动驾驶是有很多不同场景的，如没有红绿灯的高速公路上，没有很多车，也没有很多行人，甚至没有很多堵车的情况，因此在高速公路上测试自动驾驶要比城市中心容易得多，这是一种场景。第二种场景就是城市中心，如有自动驾驶出租车行驶在城市中的预留或专门的车道上，它和城市的基础设施架构之间是有连接的，这也是一种场景。无论是哪种场景，我觉得到下一个十年的中期，即2025年左右，市场上可能会出现一些自动驾驶汽车。这些当中有可能是私家车，也有可能是出租车，我们认为到下一个十年，一定是自动驾驶技术快速发展的十年。
+
+19. [奥迪将在6年内裁员9500人，节约60亿欧元以转型电动化](https://36kr.com/p/5269970)
+
+20. [郑刚正式加盟，华为汽车超级供应商之“野心”再进一步](https://36kr.com/p/5269962)
+
+21. [How airports can prepare for the rise of autonomous vehicles](https://www.internationalairportreview.com/article/107722/automation-av-aci-world-aviation/)
+
+22. [CNBC - Why Don’t We Have Self-Driving Cars Yet?](https://www.reddit.com/r/SelfDrivingCars/comments/e2ofl0/cnbc_why_dont_we_have_selfdriving_cars_yet/)
+
