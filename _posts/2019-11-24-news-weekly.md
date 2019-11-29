@@ -51,3 +51,23 @@ categories: Mobility
 22. [CNBC - Why Don’t We Have Self-Driving Cars Yet?](https://www.reddit.com/r/SelfDrivingCars/comments/e2ofl0/cnbc_why_dont_we_have_selfdriving_cars_yet/)
 
 23. [丰田只能排第三！2018年销量最高的五大车企究竟是谁？](http://mini.eastday.com/mobile/191103225434804.html#)
+
+24. [社会我郑刚，点多路子广](https://www.huxiu.com/article/328517.html)
+
+25. [造车四年没有成果？苹果又有新动作：更新两项汽车设计专利](https://36kr.com/p/5270461)
+
+26. [通用总裁：电动车的推广仍面临三大障碍](https://www.autohome.com.cn/news/201911/953020.html#pvareaid=102624)
+
+27. [Uber开招2020 年 Uber AI Residency](https://www.jiqizhixin.com/dailies/d4a8b5f7-4d83-4f6b-b14a-ffe46969e610)
+
+28. [四维图新：与华为的合作主要在自动驾驶地图等领域](https://www.jiqizhixin.com/dailies/34a04ba1-4406-4841-b4fa-a4e393184db5)
+
+29. [任正非《经济学人》刊文：定位华为未来战略](https://www.jiqizhixin.com/articles/2019-11-28-3)
+
+30. [Self-Driving taxis hit roads in south China city](http://www.xinhuanet.com/english/2019-11/28/c_138590302.htm)
+
+31. [Who's Regulating Self-Driving Cars? Often, No One](https://www.wired.com/story/regulating-self-driving-cars-no-one/)
+
+32. [Driverless vehicles and pedestrians don’t mix. So how do we re-arrange our cities?](https://theconversation.com/driverless-vehicles-and-pedestrians-dont-mix-so-how-do-we-re-arrange-our-cities-126111)
+
+33. [李剑：多思考能改变命运的操作](https://xueqiu.com/3191943504/21402850)
