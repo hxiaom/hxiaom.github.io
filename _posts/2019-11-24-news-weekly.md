@@ -71,3 +71,15 @@ categories: Mobility
 32. [Driverless vehicles and pedestrians don’t mix. So how do we re-arrange our cities?](https://theconversation.com/driverless-vehicles-and-pedestrians-dont-mix-so-how-do-we-re-arrange-our-cities-126111)
 
 33. [李剑：多思考能改变命运的操作](https://xueqiu.com/3191943504/21402850)
+
+34. [豪华车企赢者通吃，从性价比开始](https://www.huxiu.com/article/328800.html)
+
+35. [电动车还需要补贴吗？](https://www.huxiu.com/article/328704.html)
+
+36. [采用“车电分离、里程计费”，「伯坦科技」给电动汽车提供“换电”服务](https://36kr.com/p/5270935)
+
+37. [Virtual reality teaches Tencent’s self-driving cars](https://www.scmp.com/tech/article/3039926/virtual-reality-teaches-tencents-self-driving-cars)
+
+38. 戴姆勒全球裁员1万人 计划加大电动车投资
+
+39. [Are self-driving cars the future?](https://www.youtube.com/watch?v=5gyxjWERSU8)
