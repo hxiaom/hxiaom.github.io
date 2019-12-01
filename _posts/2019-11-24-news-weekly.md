@@ -83,3 +83,5 @@ categories: Mobility
 38. 戴姆勒全球裁员1万人 计划加大电动车投资
 
 39. [Are self-driving cars the future?](https://www.youtube.com/watch?v=5gyxjWERSU8)
+
+40. [以运力平台的方式切入自动驾驶会是一条捷径吗？](https://36kr.com/p/5271231)
