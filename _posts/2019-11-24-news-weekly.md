@@ -84,4 +84,3 @@ categories: Mobility
 
 39. [Are self-driving cars the future?](https://www.youtube.com/watch?v=5gyxjWERSU8)
 
-40. [以运力平台的方式切入自动驾驶会是一条捷径吗？](https://36kr.com/p/5271231)
