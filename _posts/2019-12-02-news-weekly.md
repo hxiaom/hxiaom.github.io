@@ -23,3 +23,5 @@ categories: Mobility
 9. [Mapping autonomously: The cost of helping a self-driving car get around the city](https://www.post-gazette.com/business/tech-news/2019/12/02/self-driving-cars-high-definition-mapping-Uber-Aptiv-Argo-Aurora/stories/201912010009)
 
 10. [Vehicle to vehicle communication can prevent about 615,000 motor vehicle crashes](https://www.zimlon.com/b/vehicle-to-vehicle-communication-can-prevent-about-615000-motor-vehicle-crashes-cm541/)
+
+11. [国外高精地图公司来分中国的蛋糕了？](http://www.sohu.com/a/241855176_475389)
