@@ -34,3 +34,9 @@ categories: Mobility
 
 15. [未来，汽车营销的主阵地在哪？](https://36kr.com/p/5272100)
 
+16. [10月智能汽车排行榜：特斯拉遭遇滑铁卢，蔚来ES6超2000台](https://36kr.com/p/5272274)
+
+17. [对话携程副总裁王玉琛：OTA平台是怎么尝试出行服务的？](https://36kr.com/p/5262725)
+
+18. [longest contiguous self-driving video, from each company?](reddit.com/r/SelfDrivingCars/comments/e61eor/longest_contiguous_selfdriving_video_from_each/)
+
