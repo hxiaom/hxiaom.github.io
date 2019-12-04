@@ -25,3 +25,12 @@ categories: Mobility
 10. [Vehicle to vehicle communication can prevent about 615,000 motor vehicle crashes](https://www.zimlon.com/b/vehicle-to-vehicle-communication-can-prevent-about-615000-motor-vehicle-crashes-cm541/)
 
 11. [国外高精地图公司来分中国的蛋糕了？](http://www.sohu.com/a/241855176_475389)
+
+12. [你看，这就是无人车公司Roadstar的结局](https://www.huxiu.com/article/329199.html)
+
+13. [BAT的电动汽车“寒冬”：裁员、诉讼、行业清算](https://www.huxiu.com/article/329190.html)
+
+14. [工信部发布新规划，2025年新能源汽车销量占比达到25%](https://36kr.com/p/5272153)
+
+15. [未来，汽车营销的主阵地在哪？](https://36kr.com/p/5272100)
+
