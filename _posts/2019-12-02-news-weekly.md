@@ -40,3 +40,12 @@ categories: Mobility
 
 18. [longest contiguous self-driving video, from each company?](reddit.com/r/SelfDrivingCars/comments/e61eor/longest_contiguous_selfdriving_video_from_each/)
 
+19. [现在，美团收购滴滴的最佳时机](https://36kr.com/p/5271984?from=weibo)
+
+20. [被别人远程操控的车，你敢坐吗？](https://www.zhihu.com/people/zidongjiashi/posts?page=2)
+
+21. [开辟自动驾驶车专用高速路？恐怕为时尚早](https://zhuanlan.zhihu.com/p/30424125)
+
+22. [自动驾驶测试场景大全，欢迎同行补充](https://zhuanlan.zhihu.com/p/33812415)
+
+23. [终极问题：如何证明自动驾驶比人类安全](https://zhuanlan.zhihu.com/p/33991490)
