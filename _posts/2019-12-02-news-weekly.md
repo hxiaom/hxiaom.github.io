@@ -1,4 +1,4 @@
----
+a---
 layout: post
 title: 2019.12 News Weekly 1
 categories: Mobility
@@ -49,3 +49,12 @@ categories: Mobility
 22. [自动驾驶测试场景大全，欢迎同行补充](https://zhuanlan.zhihu.com/p/33812415)
 
 23. [终极问题：如何证明自动驾驶比人类安全](https://zhuanlan.zhihu.com/p/33991490)
+
+24. [Waymo App正式上架苹果App Store，加速无人驾驶汽车大规模商用步伐](https://36kr.com/p/5272965)
+
+25. [蔚来的第三款新车，谍照首次曝光后的猜想](https://36kr.com/p/5272968)
+
+26. [50亿元难以造车](https://36kr.com/p/5272805)
+
+27. [Waymo One: A year of firsts](https://blog.waymo.com/2019/12/waymo-one-year-of-firsts.html)
+
