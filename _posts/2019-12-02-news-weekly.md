@@ -58,3 +58,8 @@ categories: Mobility
 
 27. [Waymo One: A year of firsts](https://blog.waymo.com/2019/12/waymo-one-year-of-firsts.html)
 
+28. [蔚来李斌：我们没那么惨，创始人对公司的活力非常重要](https://www.huxiu.com/article/329943.html)
+
+29. [百度Apollo组织架构升级，推进自动驾驶产品商业化](https://36kr.com/p/5273231)
+
+30. [丰田“豪赌”中国市场，在华业务将独立运营](https://36kr.com/p/5272983)
