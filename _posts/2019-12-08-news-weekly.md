@@ -13,3 +13,5 @@ categories: Mobility
 4. [Tesla nears Elon Musk’s ‘feature-complete’ Full Self-Driving suite in recent update](https://www.teslarati.com/tesla-nears-elon-musks-feature-complete-full-self-driving-suite-in-recent-update/)
 
 5. [How waymo in-car screens play a role](https://twitter.com/Waymo/status/1203101018503942145?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1203101018503942145&ref_url=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2Fe78w51%3Fresponsive%3Dtrue%26is_nightmode%3Dfalse)
+
+6. [Self-driving Tesla slams into a cop car — and the driver blames his dog](https://www.marketwatch.com/story/self-driving-tesla-slams-into-a-cop-car-and-the-driver-blames-his-dog-2019-12-08)
