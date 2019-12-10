@@ -15,3 +15,9 @@ categories: Mobility
 5. [How waymo in-car screens play a role](https://twitter.com/Waymo/status/1203101018503942145?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1203101018503942145&ref_url=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2Fe78w51%3Fresponsive%3Dtrue%26is_nightmode%3Dfalse)
 
 6. [Self-driving Tesla slams into a cop car — and the driver blames his dog](https://www.marketwatch.com/story/self-driving-tesla-slams-into-a-cop-car-and-the-driver-blames-his-dog-2019-12-08)
+
+7. [百度投资的自动驾驶巨头黯然退出中国](https://www.huxiu.com/article/330256.html)
+
+8. [吉利耀出行杭州试运营，出行服务比造车更有想象空间](https://36kr.com/p/5273863)
+
+9. [Waymo explains what 'Remote Operators' do](https://www.reddit.com/r/SelfDrivingCars/comments/e8bfse/waymo_explains_what_remote_operators_do/)
