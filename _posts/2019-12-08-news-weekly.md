@@ -21,3 +21,16 @@ categories: Mobility
 8. [吉利耀出行杭州试运营，出行服务比造车更有想象空间](https://36kr.com/p/5273863)
 
 9. [Waymo explains what 'Remote Operators' do](https://www.reddit.com/r/SelfDrivingCars/comments/e8bfse/waymo_explains_what_remote_operators_do/)
+
+10. [二手车市场不欢迎“新能源”](https://www.huxiu.com/article/330405.html)
+
+11. [福特中国预计2019年亏损减半，本土化布局初见成效](https://36kr.com/p/5274051)
+
+12. [中汽协：新能源汽车销量“五连跌”，全年或呈现负增长](https://36kr.com/p/5274112)
+
+13. [从“死路一条”到重焕生机，换电是不是一门好生意？](https://36kr.com/p/5274142)
+
+14. [百度CTO王海峰：百度地图已成为AI时代刻画真实世界的重要基础设施](https://www.jiqizhixin.com/articles/2019-12-10-10)
+
+15. [Why Nuro and Walmart Have Teamed Up: Bringing Autonomous Grocery Delivery Into 2020](https://medium.com/nuro/why-nuro-and-walmart-have-teamed-up-bringing-autonomous-grocery-delivery-into-2020-8e1ae8b3b9f6)
+
