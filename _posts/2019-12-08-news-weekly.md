@@ -34,3 +34,10 @@ categories: Mobility
 
 15. [Why Nuro and Walmart Have Teamed Up: Bringing Autonomous Grocery Delivery Into 2020](https://medium.com/nuro/why-nuro-and-walmart-have-teamed-up-bringing-autonomous-grocery-delivery-into-2020-8e1ae8b3b9f6)
 
+16. [进口版Model3明年1月将涨价，国产版降价减配前途未卜](https://36kr.com/p/5274626)
+
+17. [无人车行业应用发展盘点](https://36kr.com/p/5272159)
+
+18. [小鹏蔚来罕见抱团：双方宣布打通自有充电站合作](https://36kr.com/p/5274458)
+
+19. [NTSB final report on Uber crash](https://www.reddit.com/r/SelfDrivingCars/comments/e98nmz/ntsb_final_report_on_uber_crash_pdf/)
