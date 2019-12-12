@@ -51,3 +51,7 @@ categories: Mobility
 23. [关于网约车的未来发展，我是这样看的](https://www.huxiu.com/article/330699.html)
 
 24. [Latent Logic becomes part of Waymo](https://www.reddit.com/r/SelfDrivingCars/comments/e9o2cw/latent_logic_becomes_part_of_waymo/)
+
+25. [通用旗下自动驾驶公司CEO暗示将提供低成本的共享乘车服务](https://www.jiqizhixin.com/dailies/165aba2d-89dd-4265-ab1b-b58692e20a7a)
+
+26. [交通运输部：推进5G等在交通运输各领域研发应用](https://www.jiqizhixin.com/dailies/b08e622e-b235-4342-9a4f-51cbf95417f1)
