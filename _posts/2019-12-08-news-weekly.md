@@ -41,3 +41,13 @@ categories: Mobility
 18. [小鹏蔚来罕见抱团：双方宣布打通自有充电站合作](https://36kr.com/p/5274458)
 
 19. [NTSB final report on Uber crash](https://www.reddit.com/r/SelfDrivingCars/comments/e98nmz/ntsb_final_report_on_uber_crash_pdf/)
+
+20. [吉利集团与自动驾驶公司Quanergy合作，部署智慧城市和自动驾驶系统](https://www.jiqizhixin.com/dailies/5ff6a473-b506-4345-8d0f-37f627ae3062)
+
+21. [东风汽车：成首家获得欧洲自动驾驶路测许可的中国车企](https://www.jiqizhixin.com/dailies/32a3b5de-b4a0-44cd-a4e4-70913f472d03)
+
+22. [驾驶行为报告 柏林高速也会堵成「停车场」，北京司机可能更谨慎](https://www.jiqizhixin.com/articles/2019-12-11-15)
+
+23. [关于网约车的未来发展，我是这样看的](https://www.huxiu.com/article/330699.html)
+
+24. [Latent Logic becomes part of Waymo](https://www.reddit.com/r/SelfDrivingCars/comments/e9o2cw/latent_logic_becomes_part_of_waymo/)
