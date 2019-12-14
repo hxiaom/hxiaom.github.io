@@ -55,3 +55,11 @@ categories: Mobility
 25. [通用旗下自动驾驶公司CEO暗示将提供低成本的共享乘车服务](https://www.jiqizhixin.com/dailies/165aba2d-89dd-4265-ab1b-b58692e20a7a)
 
 26. [交通运输部：推进5G等在交通运输各领域研发应用](https://www.jiqizhixin.com/dailies/b08e622e-b235-4342-9a4f-51cbf95417f1)
+
+27. [中汽协：2019年汽车销量将下降8%，2022年或回暖](https://36kr.com/p/5275190)
+
+28. [入局重卡领域，「希迪智驾」实现“冷链物流”的智能驾驶](https://36kr.com/p/5275311)
+
+29. [Honda preparing to release self-driving car in Japan. Here's how much it costs](https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs)
+
+30. [美国机构调查第十二起或与特斯拉自动驾驶 Autopilot 功能相关事故](https://www.jiqizhixin.com/dailies/7a46a893-56d4-4217-87a2-a8c8b2fc39f6)
