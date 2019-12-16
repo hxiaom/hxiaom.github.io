@@ -15,3 +15,9 @@ categories: Mobility
 5. [Resolving Edge Cases in ADAS & Autonomous Driving](https://www.aeye.ai/use_case/false-positive/)
 
 6. [City of Toronto's Automated Vehicles Tactical Plan](https://www.toronto.ca/wp-content/uploads/2019/12/8c25-TS_AV-Tactical-Plan_Technical-Report.pdf)
+
+7. [求职特斯拉：去“暴君”马斯克那受虐？](https://www.huxiu.com/article/331204.html)
+
+8. [特斯拉欧洲工厂最早2020年1月份开工建设，优先生产Model Y](https://36kr.com/p/5275679)
+
+9. [何小鹏造车闯“钱”关](https://36kr.com/p/5275719)
