@@ -33,3 +33,5 @@ categories: Mobility
 14. [AV / Self-Driving Car Datasets](https://www.reddit.com/r/SelfDrivingCars/comments/ebniki/av_selfdriving_car_datasets/)
 
 15. [让自动驾驶变成「老司机」，看腾讯如何幕后发力](https://www.jiqizhixin.com/articles/2019-12-13-10)
+
+16. [特斯拉自动驾驶团队：五年，一个疯子，五个离开的天才](https://zhuanlan.zhihu.com/p/92267603)
