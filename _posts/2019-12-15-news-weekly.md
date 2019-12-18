@@ -35,3 +35,15 @@ categories: Mobility
 15. [让自动驾驶变成「老司机」，看腾讯如何幕后发力](https://www.jiqizhixin.com/articles/2019-12-13-10)
 
 16. [特斯拉自动驾驶团队：五年，一个疯子，五个离开的天才](https://zhuanlan.zhihu.com/p/92267603)
+
+17. [不能再亏了：Uber“退出”印度外卖市场的动作似曾相识](https://www.huxiu.com/article/331390.html)
+
+18. [特斯拉的2020](https://www.huxiu.com/article/331453.html)
+
+19. [哪些车企还在画自建充电网络的“大饼”？](https://www.huxiu.com/article/331592.html)
+
+20. [当谷歌统治汽车界](https://36kr.com/p/5276424)
+
+21. [特斯拉在美国或将失去电动车补贴，还会卖的好吗？](https://36kr.com/p/5276397)
+
+22. [People who regularly use driver-assistance tech are more likely to be distracted, research shows](https://www.reddit.com/r/SelfDrivingCars/comments/ebxjx7/aaa_research_people_who_regularly_use_autopilot/)
