@@ -81,3 +81,5 @@ categories: Mobility
 38. [特斯拉或推Model 3付费升级包](https://electrek.co/2019/12/18/tesla-acceleration-boost-upgrade-leaks-model-3/)
 
 39. [深度学习该往何处走？Yoshua Bengio这么认为](https://www.jiqizhixin.com/articles/2019-12-19-20)
+
+40. [Tesla holiday software update will preview full-self driving mode, add Stardew Valley](https://www.cnet.com/roadshow/news/tesla-software-update-full-self-drive-mode-stardew-valley/)
