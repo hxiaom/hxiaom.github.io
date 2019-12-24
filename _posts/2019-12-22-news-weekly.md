@@ -21,3 +21,11 @@ categories: Mobility
 8. [文远知行自动驾驶出租车已在广州黄埔区和开发区试运营，路测超过100万公里](https://36kr.com/p/5278382)
 
 9. [华人运通丁磊：我已经造了一辈子车，创业目标是构建未来智慧城市](https://36kr.com/p/5278092)
+
+10. [特斯拉再获100亿贷款支持，马斯克在中国市场“不差钱”](https://36kr.com/p/5278627)
+
+11. [比亚迪没有奇迹：一个奶不大的孩子，一个走向平凡的车企](https://36kr.com/p/5278754)
+
+12. [特斯拉完全自动驾驶进步：新系统能识别交通信号标志](https://www.jiqizhixin.com/dailies/1a6eaa0b-2358-447e-93cb-0f2cfca2f291)
+
+13. [GM wants to remove the steering wheel from its autonomous cars](https://www.theburnin.com/technology/gm-remove-steering-wheel-from-self-driving-cars-2019-12/)
