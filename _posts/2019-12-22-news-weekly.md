@@ -35,3 +35,19 @@ categories: Mobility
 15. [“没ETC不让出城”背后，百亿市场的催肥隐忧](https://www.huxiu.com/article/332821.html)
 
 16. [一年融资200亿的Rivian：拥有5年内击败特斯拉的唯一机会？](https://36kr.com/p/5279284)
+
+17. [2019年终考之“团灭”的造车新势力](https://www.huxiu.com/article/333090.html)
+
+18. [搞清楚这些，你才敢买车](https://www.huxiu.com/article/332985.html)
+
+19. [动力电池产业七年兴衰](https://www.huxiu.com/article/333026.html)
+
+20. [为了拉好感，风暴中的滴滴做了一档综艺节目](https://36kr.com/p/5279328)
+
+21. [传滴滴网约车副总裁孙枢离职创业，曾与美团隔空互怼](https://36kr.com/p/5279460)
+
+22. [与阿里AliOS重组后，斑马网络设双CEO，正以140亿元估值融资](https://36kr.com/p/5279269)
+
+23. [Tesla starts activating HW3’s Autopilot Dual Redundancy in latest update](https://www.teslarati.com/tesla-hw3-autopilot-dual-redundancy-activated/)
+
+24. [GM requests green light to ditch steering wheel in its self-driving cars](https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/)
