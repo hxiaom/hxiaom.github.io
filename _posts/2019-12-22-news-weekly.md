@@ -29,3 +29,9 @@ categories: Mobility
 12. [特斯拉完全自动驾驶进步：新系统能识别交通信号标志](https://www.jiqizhixin.com/dailies/1a6eaa0b-2358-447e-93cb-0f2cfca2f291)
 
 13. [GM wants to remove the steering wheel from its autonomous cars](https://www.theburnin.com/technology/gm-remove-steering-wheel-from-self-driving-cars-2019-12/)
+
+14. [宁德时代、比亚迪们的下一个十年](https://www.huxiu.com/article/332818.html)
+
+15. [“没ETC不让出城”背后，百亿市场的催肥隐忧](https://www.huxiu.com/article/332821.html)
+
+16. [一年融资200亿的Rivian：拥有5年内击败特斯拉的唯一机会？](https://36kr.com/p/5279284)
