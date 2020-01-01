@@ -21,3 +21,13 @@ categories: Mobility
 8. [特斯拉国产Model 3 今日交付，该来的还是来了](https://36kr.com/p/5280427)
 
 9. [2019 AI HYPE COUNTDOWN #1: TESLA’S ROBOTAXIS—TALES OF A PHANTOM FLEET](https://mindmatters.ai/2019/12/2019-ai-hype-countdown-1-teslas-robotaxis-tales-of-a-phantom-fleet/)
+
+10. [豪华品牌中，国产特斯拉最先踩到谁的脚？](https://www.huxiu.com/article/333777.html)
+
+11. [Baidu testing self-driving cars in Beijing](https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing)
+
+12. [Telsa Rear-Ends Fire Truck in Indiana, Killing Arizona Woman](https://www.usnews.com/news/best-states/iowa/articles/2019-12-30/telsa-rear-ends-fire-truck-in-indiana-killing-arizona-woman)
+
+13. [Self-Driving Fundamentals: Featuring Apollo](https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419)
+
+14. [2019盘点：机器学习更亲民，AI系统更精巧](https://www.jiqizhixin.com/articles/2019-12-31-13)
