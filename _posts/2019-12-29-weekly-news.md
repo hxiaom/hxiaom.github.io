@@ -31,3 +31,7 @@ categories: Mobility
 13. [Self-Driving Fundamentals: Featuring Apollo](https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419)
 
 14. [2019盘点：机器学习更亲民，AI系统更精巧](https://www.jiqizhixin.com/articles/2019-12-31-13)
+
+15. [日产前CEO身藏提琴盒，瞒天过海潜逃海外](https://www.huxiu.com/article/334075.html)
+
+16. [Tesla may have been on Autopilot in California crash which killed two](https://www.theguardian.com/technology/2020/jan/01/tesla-autopilot-california-crash-two-deaths)
