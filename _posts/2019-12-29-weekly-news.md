@@ -35,3 +35,13 @@ categories: Mobility
 15. [日产前CEO身藏提琴盒，瞒天过海潜逃海外](https://www.huxiu.com/article/334075.html)
 
 16. [Tesla may have been on Autopilot in California crash which killed two](https://www.theguardian.com/technology/2020/jan/01/tesla-autopilot-california-crash-two-deaths)
+
+17. [特斯拉将推“打盹模式”，汽车越来越像移动客厅](https://36kr.com/p/5281481)
+
+18. [11月动力电池市场：比亚迪退居第二梯队，“二八”局面宣告结束](https://36kr.com/p/5281482)
+
+19. [Lidar-based SLAM vs. vSLAM for robot vacuums – which one is best?](https://www.reddit.com/r/SelfDrivingCars/comments/eitigc/lidarbased_slam_vs_vslam_for_robot_vacuums_which/)
+
+20. [德国博世将为自动驾驶汽车提供低成本传感器](https://www.jiqizhixin.com/dailies/4296b287-8025-4d78-b153-9ccee5a2e2c4)
+
+21. [自动驾驶技术的发展现状及展望](https://www.jiqizhixin.com/documents/c02c1bd1-d4a4-4818-9c50-ac7d071d0ec9)
