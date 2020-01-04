@@ -45,3 +45,11 @@ categories: Mobility
 20. [德国博世将为自动驾驶汽车提供低成本传感器](https://www.jiqizhixin.com/dailies/4296b287-8025-4d78-b153-9ccee5a2e2c4)
 
 21. [自动驾驶技术的发展现状及展望](https://www.jiqizhixin.com/documents/c02c1bd1-d4a4-4818-9c50-ac7d071d0ec9)
+
+22. [比亚迪怎么了？](https://www.huxiu.com/article/334302.html)
+
+23. [30 万以下的国产特斯拉，来了](https://www.huxiu.com/article/334337.html)
+
+24. [Uber 可视化亮点：通过 SpeedsUp 显示城市街道速度集群](https://eng.uber.com/visualization-city-speeds-machine-learning-speedsup/)
+
+25. [RoboSense 125-Laser Beam Solid-State LiDAR: RS-LiDAR-M1 Is Officially on Sales Priced At $1,898](https://www.businesswire.com/news/home/20200103005139/en/RoboSense-125-Laser-Beam-Solid-State-LiDAR-RS-LiDAR-M1-Officially)
