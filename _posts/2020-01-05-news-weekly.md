@@ -43,3 +43,5 @@ categories: Mobility
 19. [CES 2020: An Hour with Amnon - Autonomous Vehicles Powered by Mobileye](https://www.youtube.com/watch?v=HPWGFzqd7pI)
 
 20. [Toyota Building City With No Human-Driven Cars and Live Human Test Subjects](https://www.automobilemag.com/news/toyota-woven-city-future-tech-testing-grounds/)
+
+21. [美国在 CES 上表示对将大力支持自动驾驶汽车](https://www.jiqizhixin.com/dailies/24862622-c546-4c80-b095-e11b5176abf9)
