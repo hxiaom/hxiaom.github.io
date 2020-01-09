@@ -31,3 +31,15 @@ categories: Mobility
 13. [Velodyne announces compact, $100 Velabit lidar sensor with 100m range](https://www.reddit.com/r/SelfDrivingCars/comments/elgt92/velodyne_announces_compact_100_velabit_lidar/)
 
 14. [comma.ai Releases comma two](https://comma.ai/shop/products/comma-two-devkit)
+
+15. [自动驾驶的2019：泡沫破裂之后](https://www.huxiu.com/article/334983.html)
+
+16. [高德宣布出海，和百度地图战火复燃](https://36kr.com/p/5283324)
+
+17. [驭势科技CEO吴甘沙：创业公司证明自己能活过10年真的很难](https://36kr.com/p/5283358)
+
+18. [Waymo Is Still an Expensive Science Project in Search of a Business](https://fortune.com/2020/01/07/waymo-is-still-an-expensive-science-project-in-search-of-a-business/)
+
+19. [CES 2020: An Hour with Amnon - Autonomous Vehicles Powered by Mobileye](https://www.youtube.com/watch?v=HPWGFzqd7pI)
+
+20. [Toyota Building City With No Human-Driven Cars and Live Human Test Subjects](https://www.automobilemag.com/news/toyota-woven-city-future-tech-testing-grounds/)
