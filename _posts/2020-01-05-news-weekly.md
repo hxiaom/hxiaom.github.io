@@ -45,3 +45,11 @@ categories: Mobility
 20. [Toyota Building City With No Human-Driven Cars and Live Human Test Subjects](https://www.automobilemag.com/news/toyota-woven-city-future-tech-testing-grounds/)
 
 21. [美国在 CES 上表示对将大力支持自动驾驶汽车](https://www.jiqizhixin.com/dailies/24862622-c546-4c80-b095-e11b5176abf9)
+
+22. [特斯拉股票评级遭多家投行下调，进入2020年股价出现首跌](https://36kr.com/p/5283984)
+
+23. [CES 2020激光雷达开启惨烈价格战：从10万美元降到100美元](https://36kr.com/p/5283930)
+
+24. [首个手机AR实景驾驶导航上线，未来计划扩展至室内和车载](https://36kr.com/p/5283885)
+
+25. [Autonomous Vehicle Technologies – A CES2020 Gallery](https://thelastdriverlicenseholder.com/2020/01/09/autonomous-vehicle-technologies-a-ces2020-gallery/)
