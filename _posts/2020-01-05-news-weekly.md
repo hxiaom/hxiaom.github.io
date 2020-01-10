@@ -53,3 +53,7 @@ categories: Mobility
 24. [首个手机AR实景驾驶导航上线，未来计划扩展至室内和车载](https://36kr.com/p/5283885)
 
 25. [Autonomous Vehicle Technologies – A CES2020 Gallery](https://thelastdriverlicenseholder.com/2020/01/09/autonomous-vehicle-technologies-a-ces2020-gallery/)
+
+26. [Pony.ai彭军：自动驾驶公司和车厂的合作将成为主题](https://www.jiqizhixin.com/dailies/444c305a-054d-4bdc-b51c-4db4f2f1752c)
+
+27. [Comma 2 CES Demo](https://www.reddit.com/r/SelfDrivingCars/comments/emkcxr/comma_2_ces_demo/)
