@@ -27,3 +27,7 @@ categories: Mobility
 11. [BMW, Daimler’s self-driving venture may attract Fiat Chrysler](https://www.detroitnews.com/story/business/autos/mobility/2020/01/14/bmw-daimlers-self-driving-venture-may-attract-fiat-chrysler/40997423/)
 
 12. [Lidars announced at CES 2020](https://www.reddit.com/r/SelfDrivingCars/comments/eof1og/lidars_announced_at_ces_2020/)
+
+13. [“空军”轰炸特斯拉](https://www.huxiu.com/article/336103.html)
+
+14. [特来电于德翔：充电窗口期2021年关闭，简单弄一个充电桩是死路一条](https://36kr.com/p/5285070)
