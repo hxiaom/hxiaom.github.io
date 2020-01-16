@@ -31,3 +31,9 @@ categories: Mobility
 13. [“空军”轰炸特斯拉](https://www.huxiu.com/article/336103.html)
 
 14. [特来电于德翔：充电窗口期2021年关闭，简单弄一个充电桩是死路一条](https://36kr.com/p/5285070)
+
+15. [宝马袖珍套房体验：8 平米双人间](https://www.huxiu.com/article/336450.html)
+
+16. [吉利、广汽、上汽正在竞购蔚来](https://36kr.com/p/5285854)
+
+17. [特斯拉将设立中国研发中心，“中国风”特斯拉就要来了](https://36kr.com/p/5285778)
