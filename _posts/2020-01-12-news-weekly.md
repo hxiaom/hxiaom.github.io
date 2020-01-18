@@ -37,3 +37,13 @@ categories: Mobility
 16. [吉利、广汽、上汽正在竞购蔚来](https://36kr.com/p/5285854)
 
 17. [特斯拉将设立中国研发中心，“中国风”特斯拉就要来了](https://36kr.com/p/5285778)
+
+18. [慢跑一整年，滴滴着急吗](https://www.huxiu.com/article/336499.html)
+
+19. [特斯拉中国快跑：不赚钱也要先圈地，不排除日后涨价](https://www.huxiu.com/article/336569.html)
+
+20. [蔚来如何经营好用户体验这道“护城河”？](https://36kr.com/p/5286280)
+
+21. [comma ai is moving all openpilot development to a public repository](https://medium.com/@comma_ai/a-2020-theme-externalization-13b33326d8b3)
+
+22. [特斯拉安全报告：特斯拉每2.8亿公里发生一次燃烧事故，比其他车更安全](https://36kr.com/p/5286143)
