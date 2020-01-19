@@ -48,4 +48,5 @@ categories: Mobility
 
 22. [特斯拉安全报告：特斯拉每2.8亿公里发生一次燃烧事故，比其他车更安全](https://36kr.com/p/5286143)
 
-23. [Cruise 呼吁采用新方法来确定自动驾驶汽车的商业就绪程度](https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/)
+23. [Cruise 呼吁采用新方法来确定自动驾驶汽车的商业就绪程度](https://techcrunch.com/2020/01/17/cruise-calls-for-a-new-way-to-determine-commercial-readiness-of-self-driving-cars/
+)
