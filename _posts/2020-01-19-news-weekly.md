@@ -25,3 +25,9 @@ categories: Mobility
 10. [就算马斯克再看不上，富士康也要造电动车](https://36kr.com/p/5286896)
 
 11. [Tesla Autopilot accelerates towards a car carrier trailer](https://www.reddit.com/r/SelfDrivingCars/comments/er3ne4/tesla_autopilot_accelerates_towards_a_car_carrier/)
+
+12. [特斯拉否认存在意外加速隐患，请愿书来自卖空者](https://36kr.com/p/5287174)
+
+13. [关于比亚迪的“刀片电池”，这是我们所知道的一切](https://36kr.com/p/5287142)
+
+14. [亚马逊「最后一公里」配送机器人专利获批](https://www.jiqizhixin.com/dailies/1b7036e5-ba11-4211-980e-e396f251bae9)
