@@ -41,3 +41,11 @@ categories: Mobility
 18. [华为的汽车芯片布局](https://36kr.com/p/5287461)
 
 19. [OpenPilot 0.7.1: Self Driving In Heavy Rain](https://www.youtube.com/watch?v=KBQxZRUMCg4)
+
+20. [提供城际客运和市内出行服务,「​巴士管家」累计服务人次超过1.28亿](https://36kr.com/p/5285261)
+
+21. [通用汽车：2020现金流大涨的逻辑](https://36kr.com/p/5287718)
+
+22. [Waymo 自动驾驶卡车和小型货车开始绘制新墨西哥州和德州地图](https://www.jiqizhixin.com/dailies/f7e810da-4aa1-4292-a7ed-d382f4e7111e)
+
+23. [优步开始为自动驾驶汽车绘制华盛顿特区地图](https://www.jiqizhixin.com/dailies/3ae97d67-d059-4fb9-84b0-5c62322edc7d)
