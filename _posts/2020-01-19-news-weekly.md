@@ -31,3 +31,13 @@ categories: Mobility
 13. [关于比亚迪的“刀片电池”，这是我们所知道的一切](https://36kr.com/p/5287142)
 
 14. [亚马逊「最后一公里」配送机器人专利获批](https://www.jiqizhixin.com/dailies/1b7036e5-ba11-4211-980e-e396f251bae9)
+
+15. [Cruise首款无人驾驶汽车落地，通用的转型焦虑有救了吗？](https://36kr.com/p/5287580)
+
+16. [富士康造车的AB面](https://36kr.com/p/5287581)
+
+17. [Uber妥协：网约车司机可自行定价、拒单也不受罚](https://36kr.com/p/5287470)
+
+18. [华为的汽车芯片布局](https://36kr.com/p/5287461)
+
+19. [OpenPilot 0.7.1: Self Driving In Heavy Rain](https://www.youtube.com/watch?v=KBQxZRUMCg4)
