@@ -49,3 +49,11 @@ categories: Mobility
 22. [Waymo 自动驾驶卡车和小型货车开始绘制新墨西哥州和德州地图](https://www.jiqizhixin.com/dailies/f7e810da-4aa1-4292-a7ed-d382f4e7111e)
 
 23. [优步开始为自动驾驶汽车绘制华盛顿特区地图](https://www.jiqizhixin.com/dailies/3ae97d67-d059-4fb9-84b0-5c62322edc7d)
+
+24. [“期货”特斯拉良心发现？Model Y 下月提前交车](https://www.huxiu.com/article/337131.html)
+
+25. [美国参议员抨击特斯拉 Autopilot 驾驶员辅助系统的误导性名称](https://www.jiqizhixin.com/dailies/e56ca4ab-3764-4034-880a-731bc398df59)
+
+26. [Aurora 敦促自动驾驶汽车行业采用更好的安全指标](https://www.jiqizhixin.com/dailies/19ca7cc5-92eb-4a1d-ace0-d3f4ffb01c0f)
+
+27. [Aurora is finally ready to show the world what it’s been up to](https://www.theverge.com/2020/1/24/21080298/aurora-self-driving-car-announcement-2020-plan-waymo-ford-general-motors)
