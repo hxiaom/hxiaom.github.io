@@ -57,3 +57,5 @@ categories: Mobility
 26. [Aurora 敦促自动驾驶汽车行业采用更好的安全指标](https://www.jiqizhixin.com/dailies/19ca7cc5-92eb-4a1d-ace0-d3f4ffb01c0f)
 
 27. [Aurora is finally ready to show the world what it’s been up to](https://www.theverge.com/2020/1/24/21080298/aurora-self-driving-car-announcement-2020-plan-waymo-ford-general-motors)
+
+28. [John Krafcik: "We're now using the 4th-gen Waymo Driver on our expanded southern US trucking routes (AZ↔️TX). 5th-gen Waymo Driver comes to our trucks later this year, with new Waymo lidar, radar, cameras, compute. 🤖🚚"](https://www.reddit.com/r/SelfDrivingCars/comments/etmgkr/john_krafcik_were_now_using_the_4thgen_waymo/)
