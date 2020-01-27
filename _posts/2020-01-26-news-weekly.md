@@ -9,3 +9,5 @@ categories: Mobility
 2. [重大疫情面前，机器人能够做什么？](https://www.jiqizhixin.com/dailies/2843f8c4-c537-4f7d-9781-d0a18d066a65)
 
 3. [BBC Report on Self Driving Cars](https://www.youtube.com/watch?v=gq6xMd7seOI&feature=youtu.be)
+
+4. [GM will spend $2.2 billion to build electric and autonomous vehicles at Detroit plant](https://www.reddit.com/r/SelfDrivingCars/comments/euokb7/gm_will_spend_22_billion_to_build_electric_and/)
