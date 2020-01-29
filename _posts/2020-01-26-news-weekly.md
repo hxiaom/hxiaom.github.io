@@ -11,3 +11,9 @@ categories: Mobility
 3. [BBC Report on Self Driving Cars](https://www.youtube.com/watch?v=gq6xMd7seOI&feature=youtu.be)
 
 4. [GM will spend $2.2 billion to build electric and autonomous vehicles at Detroit plant](https://www.reddit.com/r/SelfDrivingCars/comments/euokb7/gm_will_spend_22_billion_to_build_electric_and/)
+
+5. [阿联酋智能救护车可将信号转绿，并与医院建立电子链接](https://www.jiqizhixin.com/dailies/786a8e7e-231c-4c47-8e70-a7499188b99e)
+
+6. [Uber’s self-driving cars are a key to its path to profitability](https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html)
+
+7. [How a $300 projector can fool Tesla’s Autopilot](https://arstechnica.com/cars/2020/01/how-a-300-projector-can-fool-teslas-autopilot/)
