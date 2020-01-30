@@ -17,3 +17,13 @@ categories: Mobility
 6. [Uber’s self-driving cars are a key to its path to profitability](https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html)
 
 7. [How a $300 projector can fool Tesla’s Autopilot](https://arstechnica.com/cars/2020/01/how-a-300-projector-can-fool-teslas-autopilot/)
+
+8. [博格华纳并购德尔福，零部件巨头抱团过冬](https://36kr.com/p/5288501)
+
+9. [World’s Biggest-Ever Self-Driving Experiment To Coincide With Tokyo Olympics](https://www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/#40dbbe301797)
+
+10. [Waypoint - The official Waymo blog: Partnering with UPS to deliver on our mission](https://blog.waymo.com/2020/01/partnering-with-ups-to-deliver-on-our.html)
+
+11. [Aurora can now give the public rides in its self-driving cars](https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/)
+
+12. [Cruise’s autonomous Origin hints at a “McDonald’s of mobility”](https://arstechnica.com/cars/2020/01/cruises-autonomous-origin-hints-at-a-mcdonalds-of-mobility/)
