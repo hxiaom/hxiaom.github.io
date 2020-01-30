@@ -27,3 +27,5 @@ categories: Mobility
 11. [Aurora can now give the public rides in its self-driving cars](https://techcrunch.com/2020/01/29/aurora-can-now-give-the-public-rides-in-its-self-driving-cars/)
 
 12. [Cruise’s autonomous Origin hints at a “McDonald’s of mobility”](https://arstechnica.com/cars/2020/01/cruises-autonomous-origin-hints-at-a-mcdonalds-of-mobility/)
+
+13. [The hunt for security flaws in self-driving cars steps up a gear](https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/)
