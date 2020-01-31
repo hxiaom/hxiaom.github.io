@@ -29,3 +29,9 @@ categories: Mobility
 12. [Cruise’s autonomous Origin hints at a “McDonald’s of mobility”](https://arstechnica.com/cars/2020/01/cruises-autonomous-origin-hints-at-a-mcdonalds-of-mobility/)
 
 13. [The hunt for security flaws in self-driving cars steps up a gear](https://www.zdnet.com/article/the-hunt-for-security-flaws-in-self-driving-cars-steps-up-a-gear/)
+
+14. [特斯拉财报凶猛：没想到这么牛](https://www.huxiu.com/article/337437.html)
+
+15. [Self-Driving Room by Honda](https://www.reddit.com/r/SelfDrivingCars/comments/ew6cmy/selfdriving_room_by_honda/)
+
+16. [Elon Musk contradicted a bold claim he made last year about Autopilot](https://www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1?utm_source=reddit.com)
