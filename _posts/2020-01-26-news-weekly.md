@@ -35,3 +35,13 @@ categories: Mobility
 15. [Self-Driving Room by Honda](https://www.reddit.com/r/SelfDrivingCars/comments/ew6cmy/selfdriving_room_by_honda/)
 
 16. [Elon Musk contradicted a bold claim he made last year about Autopilot](https://www.businessinsider.com/elon-musk-contradicts-2019-prediction-about-tesla-autopilot-2020-1?utm_source=reddit.com)
+
+17. [特斯拉终于不差钱了，马斯克为何还不满足](https://www.huxiu.com/article/337455.html)
+
+18. [李书福的吉利，可能在酝酿一盘大棋](https://www.huxiu.com/article/337559.html)
+
+19. [BAT推迟开工，这几天春节返程的都是哪里人？](https://www.huxiu.com/article/337562.html)
+
+20. [Waymo says driver slammed the brakes in front of company's vehicle, causing Tempe crash](https://www.azcentral.com/story/news/local/tempe-traffic/2020/01/31/waymo-self-driving-vehicle-involved-tempe-crash/4621847002/)
+
+21. [Why ADAS Cars Go People-Blind](https://www.eetimes.com/why-adas-cars-go-people-blind/#)
