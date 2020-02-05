@@ -21,3 +21,17 @@ categories: Mobility
 8. [Snow and Ice Pose a Vexing Obstacle for Self-Driving Cars](https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/amp)
 
 9. [Self-driving supplier Mobileye on timeline, costs and regulations for autonomous vehicles roll out](https://www.youtube.com/watch?v=aPPP0NlNnfo&feature=youtu.be)
+
+10. [当数百万张“取消”订单砸向携程](https://www.huxiu.com/article/337944.html)
+
+11. [特斯拉市值凭啥五天涨了500亿美元](https://www.huxiu.com/article/338102.html)
+
+12. [联想展示数据智能战略布局，全新工业AI平台即将上线](https://www.jiqizhixin.com/articles/2020-02-04-13)
+
+13. [智慧城市2020：趋势与转变](https://www.jiqizhixin.com/articles/2020-02-04-2)
+
+14. [Lyft Self-Driving Employee Rides Testing](https://vimeo.com/389096888)
+
+15. [Tesla will launch ride-sharing app with its own driver insurance](https://electrek.co/2020/02/04/tesla-ride-sharing-app-driver-insurance/)
+
+16. [Zoox: Merging into fast-moving freeway traffic often requires predicting the intent of surrounding vehicles, identifying space to merge into, and accelerating or decelerating to enter the freeway safely](https://twitter.com/zoox/status/1224730398346756096?s=21)
