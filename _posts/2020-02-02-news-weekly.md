@@ -35,3 +35,7 @@ categories: Mobility
 15. [Tesla will launch ride-sharing app with its own driver insurance](https://electrek.co/2020/02/04/tesla-ride-sharing-app-driver-insurance/)
 
 16. [Zoox: Merging into fast-moving freeway traffic often requires predicting the intent of surrounding vehicles, identifying space to merge into, and accelerating or decelerating to enter the freeway safely](https://twitter.com/zoox/status/1224730398346756096?s=21)
+
+17. [Uber self-driving cars can be tested in California](https://www.foxbusiness.com/markets/california-uber-permit-autonomous)
+
+18. [Autonocast - Jesse Levinson of Zoox](http://www.autonocast.com/blog/2020/2/5/172-jesse-levinson-of-zoox)
