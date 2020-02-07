@@ -39,3 +39,15 @@ categories: Mobility
 17. [Uber self-driving cars can be tested in California](https://www.foxbusiness.com/markets/california-uber-permit-autonomous)
 
 18. [Autonocast - Jesse Levinson of Zoox](http://www.autonocast.com/blog/2020/2/5/172-jesse-levinson-of-zoox)
+
+19. [网约车在东南亚有多火？印尼政府已将车费价格纳入CPI 指标](https://www.huxiu.com/article/338099.html)
+
+20. [4万家旅行社：撑过去，3个月后就是阳春](https://www.huxiu.com/article/338354.html)
+
+21. [大众集团力压丰田夺2019年全球销冠，中国市场成决胜关键](https://36kr.com/p/5290340)
+
+22. [美国联邦政府批准首个无人驾驶汽车豁免给 Nuro R2](https://www.jiqizhixin.com/dailies/1506a6c5-0994-4a4b-8eff-4426fc95afc6)
+
+23. [Waymo 的 AI 内容搜索工具能够在行车记录中快速查找对象](https://www.jiqizhixin.com/dailies/683f5755-11dc-453c-af01-eafa46b7d246)
+
+24. [How to Build a Morally Ethical Self-Driving Car](https://www.bloomberg.com/opinion/articles/2020-02-06/morally-ethical-self-driving-cars-are-the-next-real-challenge)
