@@ -51,3 +51,5 @@ categories: Mobility
 23. [Waymo 的 AI 内容搜索工具能够在行车记录中快速查找对象](https://www.jiqizhixin.com/dailies/683f5755-11dc-453c-af01-eafa46b7d246)
 
 24. [How to Build a Morally Ethical Self-Driving Car](https://www.bloomberg.com/opinion/articles/2020-02-06/morally-ethical-self-driving-cars-are-the-next-real-challenge)
+
+25. [The Push For Shared Ride Self-Driving Vehicles May Get It Backwards](https://www.forbes.com/sites/bradtempleton/2020/02/03/the-push-for-shared-ride-self-driving-vehicles-may-get-it-backwards/?utm_source=dlvr.it&utm_medium=twitter#493e6db83961)
