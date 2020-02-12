@@ -23,3 +23,11 @@ categories: Mobility
 9. [Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app](https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/)
 
 10. [A popular self-driving car dataset is missing labels for hundreds of pedestrians](https://blog.roboflow.ai/self-driving-car-dataset-missing-pedestrians/)
+
+11. [2020年干掉大众，丰田只差一个斯巴鲁](https://www.huxiu.com/article/339147.html)
+
+12. [吉利与沃尔沃合并整合，“买”出一个全球化](https://36kr.com/p/5291763)
+
+13. [财报解读：Uber、Lyft亏损持续，网约车距离扭亏还要多久？](https://36kr.com/p/5291663)
+
+14. [Lexus prepares to introduce Level 2 autonomy](https://europe.autonews.com/automakers/lexus-prepares-introduce-level-2-autonomy)
