@@ -31,3 +31,7 @@ categories: Mobility
 13. [财报解读：Uber、Lyft亏损持续，网约车距离扭亏还要多久？](https://36kr.com/p/5291663)
 
 14. [Lexus prepares to introduce Level 2 autonomy](https://europe.autonews.com/automakers/lexus-prepares-introduce-level-2-autonomy)
+
+15. [Police say man deliberately caused self-driving Waymo van to rear-end him in Tempe](https://www.azfamily.com/news/police-say-man-deliberately-caused-self-driving-waymo-van-to/article_24b2a7ec-4e8c-11ea-b4c9-57a24face06b.html)
+
+16. [Beware of low trailers when using Autopilot](https://twitter.com/greentheonly/status/1228067903666348045)
