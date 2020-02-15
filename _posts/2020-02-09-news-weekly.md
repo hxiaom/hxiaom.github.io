@@ -35,3 +35,13 @@ categories: Mobility
 15. [Police say man deliberately caused self-driving Waymo van to rear-end him in Tempe](https://www.azfamily.com/news/police-say-man-deliberately-caused-self-driving-waymo-van-to/article_24b2a7ec-4e8c-11ea-b4c9-57a24face06b.html)
 
 16. [Beware of low trailers when using Autopilot](https://twitter.com/greentheonly/status/1228067903666348045)
+
+17. [急吼吼的印度政府，快不起来的印度电动车](https://www.huxiu.com/article/339647.html)
+
+18. [「文远知行」发布自动驾驶出租车Robo-Taxi试运营报告，去年12月完成8396个出行订单](https://36kr.com/p/5292244)
+
+19. [无人车投入“战疫”](https://36kr.com/p/5292292)
+
+20. [Yandex 宣称拥有 200 万自动驾驶里程 - 在 4 个月内翻了一番](https://www.jiqizhixin.com/dailies/4f850cae-5acf-44de-a061-11ca66901d7c)
+
+21. [Uber Pays Google $9.7 Million To Settle Legal Beef In Tangled Self-Driving Car Fight](https://www.forbes.com/sites/alanohnsman/2020/02/13/uber-pays-google-97-million-to-settle-legal-beef-in-tangled-self-driving-car-fight/#45bfa3ec154d)
