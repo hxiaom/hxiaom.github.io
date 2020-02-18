@@ -25,3 +25,9 @@ categories: Mobility
 10. [Tesla teardown finds electronics 6 years ahead of Toyota and VW](https://asia.nikkei.com/Business/Automobiles/Tesla-teardown-finds-electronics-6-years-ahead-of-Toyota-and-VW2?utm_campaign=RN%20Subscriber%20newsletter&utm_medium=daily%20newsletter&utm_source=NAR%20Newsletter&utm_content=article%20link&del_type=1&pub_date=20200217190000&seq_num=10&si=%%user_id%%)
 
 11. [Data shows Tesla owner experienced repeated glitch days before deadly 2018 crash](https://www.reddit.com/r/SelfDrivingCars/comments/f5gutl/data_shows_tesla_owner_experienced_repeated/)
+
+12. [特斯拉或采用宁德时代磷酸铁锂电池，为了降成本也是拼了](https://36kr.com/p/5293121)
+
+13. [埃隆・马斯克所有先进的 AI 开发都应受到监管，包括特斯拉](https://www.jiqizhixin.com/dailies/0d22bf0e-2df5-48b2-856e-c38413a786bc)
+
+14. [Jaguar Land Rover unveils ‘autonomy ready’ electric shuttle concept](https://www.theverge.com/2020/2/18/21142427/jaguar-land-rover-electric-shuttle-mobility-concept)
