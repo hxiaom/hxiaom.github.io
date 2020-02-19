@@ -31,3 +31,19 @@ categories: Mobility
 13. [埃隆・马斯克所有先进的 AI 开发都应受到监管，包括特斯拉](https://www.jiqizhixin.com/dailies/0d22bf0e-2df5-48b2-856e-c38413a786bc)
 
 14. [Jaguar Land Rover unveils ‘autonomy ready’ electric shuttle concept](https://www.theverge.com/2020/2/18/21142427/jaguar-land-rover-electric-shuttle-mobility-concept)
+
+15. [上海补助特斯拉：8500万美元背后的盘算](https://www.huxiu.com/article/340273.html)
+
+16. [海马汽车1月产量为零，已卖出94.25%的闲置房产](https://36kr.com/p/5293320)
+
+17. [韩国现代面临部分停产，损失或超1万亿韩元](https://www.jiqizhixin.com/dailies/c628f092-4513-46c3-a1a0-9d0928a452cc)
+
+18. [捷豹路虎英国工厂面临停产，空运中国零部件救急](https://www.jiqizhixin.com/dailies/ed42dfba-8ca9-4a0d-aa94-ee71ced529b3)
+
+19. [The Next Leap in Self-Driving: Prediction](https://olivercameron.substack.com/p/the-next-leap-in-self-driving-prediction)
+
+20. [Bill would outlaw ‘driverless’ trucks on Missouri roads](https://cdllife.com/2020/bill-would-outlaw-on-driverless-trucks-on-missouri-roads/)
+
+21. [May Mobility's "Little Roady" fiasco: "Safety attendants control the cars about 30% of the time"](https://www.reddit.com/r/SelfDrivingCars/comments/f65bd8/may_mobilitys_little_roady_fiasco_safety/)
+
+22. [Model Hacking ADAS to Pave Safer Roads for Autonomous Vehicles](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/model-hacking-adas-to-pave-safer-roads-for-autonomous-vehicles/)
