@@ -47,3 +47,9 @@ categories: Mobility
 21. [May Mobility's "Little Roady" fiasco: "Safety attendants control the cars about 30% of the time"](https://www.reddit.com/r/SelfDrivingCars/comments/f65bd8/may_mobilitys_little_roady_fiasco_safety/)
 
 22. [Model Hacking ADAS to Pave Safer Roads for Autonomous Vehicles](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/model-hacking-adas-to-pave-safer-roads-for-autonomous-vehicles/)
+
+23. [至少13家大型车企缺席，2020年日内瓦车展或被取消](https://36kr.com/p/5293613)
+
+24. [受疫情影响，汽车零部件巨头「安波福」Q1营收或损失14亿](https://www.jiqizhixin.com/dailies/30829caa-d06d-4455-97d9-7494cd0e0221)
+
+25. [Lidar vs. Camera: Driving in the Rain](https://ouster.com/blog/lidar-vs-camera-comparison-in-the-rain/)
