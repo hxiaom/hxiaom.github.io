@@ -53,3 +53,13 @@ categories: Mobility
 24. [受疫情影响，汽车零部件巨头「安波福」Q1营收或损失14亿](https://www.jiqizhixin.com/dailies/30829caa-d06d-4455-97d9-7494cd0e0221)
 
 25. [Lidar vs. Camera: Driving in the Rain](https://ouster.com/blog/lidar-vs-camera-comparison-in-the-rain/)
+
+26. [充电桩：一个悄无声息的隐形杀手](https://www.huxiu.com/article/340774.html)
+
+27. [动力电池产业剧变前夜](https://www.huxiu.com/article/340784.html)
+
+28. [造车寒冬，暗自转移的资本势力](https://36kr.com/p/5294007)
+
+29. [乘联会：2月上半月乘用车销量大跌92%，全国日均卖车2249辆](https://36kr.com/p/5294045)
+
+30. [特斯拉这款默默无闻的产品，比电动皮卡更重要](https://36kr.com/p/5291393)
