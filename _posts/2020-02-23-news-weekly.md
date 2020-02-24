@@ -15,3 +15,5 @@ categories: Mobility
 5. [方舱医院内，无人车能做什么？](https://36kr.com/p/5294546)
 
 6. [Aurora Innovation may match size of west coast presence with new Pittsburgh office](https://www.reddit.com/r/SelfDrivingCars/comments/f8y0k9/aurora_innovation_may_match_size_of_west_coast/)
+
+7. [广州将建国家级自动驾驶示范区](https://autobit.xyz/archives/2574?from=timeline&isappinstalled=0)
