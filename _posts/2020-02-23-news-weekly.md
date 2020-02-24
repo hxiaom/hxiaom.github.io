@@ -12,3 +12,6 @@ categories: Mobility
 
 4. [被疫情唤醒的共享单车，2020年能翻身吗？](https://www.huxiu.com/article/341005.html)
 
+5. [方舱医院内，无人车能做什么？](https://36kr.com/p/5294546)
+
+6. [Aurora Innovation may match size of west coast presence with new Pittsburgh office](https://www.reddit.com/r/SelfDrivingCars/comments/f8y0k9/aurora_innovation_may_match_size_of_west_coast/)
