@@ -17,3 +17,15 @@ categories: Mobility
 6. [Aurora Innovation may match size of west coast presence with new Pittsburgh office](https://www.reddit.com/r/SelfDrivingCars/comments/f8y0k9/aurora_innovation_may_match_size_of_west_coast/)
 
 7. [广州将建国家级自动驾驶示范区](https://autobit.xyz/archives/2574?from=timeline&isappinstalled=0)
+
+8. [独家专访李斌：解密蔚来与合肥政府的“百亿联姻”](https://36kr.com/p/5294897)
+
+9. [百度Apollo获车规级认证，自动驾驶加速量产？](https://36kr.com/p/5294742)
+
+10. [湘江智能迎来复工后首测，自动驾驶战“疫”归来更自信](https://www.jiqizhixin.com/articles/2020-02-21-9)
+
+11. [Cruise can now transport passengers in self-driving cars in CA](https://techcrunch.com/2020/02/24/cruise-can-now-transport-passengers-in-self-driving-cars-in-ca/)
+
+12. [George Hotz: Fully Self-Driving Cars Are a 'Scam' and Silicon Valley 'Needs To Die'](https://reason.com/video/george-hotz-fully-self-driving-cars-are-a-scam-and-silicon-valley-needs-to-die/)
+
+13. [Alphabet-owned Waymo’s first chief commercial officer quietly departed](https://www.reddit.com/r/SelfDrivingCars/comments/f9erw7/alphabetowned_waymos_first_chief_commercial/)
