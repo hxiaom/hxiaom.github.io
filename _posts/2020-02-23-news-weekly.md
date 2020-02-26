@@ -29,3 +29,13 @@ categories: Mobility
 12. [George Hotz: Fully Self-Driving Cars Are a 'Scam' and Silicon Valley 'Needs To Die'](https://reason.com/video/george-hotz-fully-self-driving-cars-are-a-scam-and-silicon-valley-needs-to-die/)
 
 13. [Alphabet-owned Waymo’s first chief commercial officer quietly departed](https://www.reddit.com/r/SelfDrivingCars/comments/f9erw7/alphabetowned_waymos_first_chief_commercial/)
+
+14. [Grab又融8.5亿美金，东南亚两大独角兽要合并](https://www.huxiu.com/article/341584.html)
+
+15. [自动驾驶公司「小马智行」获4.62亿美元 B 轮融资，丰田领投4亿美元](https://36kr.com/p/5295058)
+
+16. [Argo AI’s CEO explains why its fleet of self-driving taxis won’t be all-electric (at first)](https://www.theverge.com/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview)
+
+17. [2019 CA DMV Autonomous Vehicle Disengagement Reports](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/disengagement_report_2019)
+
+18. [Inside Waymo’s Hiring Binge — The Information](https://www.reddit.com/r/SelfDrivingCars/comments/f9s5n3/inside_waymos_hiring_binge_the_information/)
