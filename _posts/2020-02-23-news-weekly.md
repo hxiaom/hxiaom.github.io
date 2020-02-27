@@ -39,3 +39,9 @@ categories: Mobility
 17. [2019 CA DMV Autonomous Vehicle Disengagement Reports](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/disengagement_report_2019)
 
 18. [Inside Waymo’s Hiring Binge — The Information](https://www.reddit.com/r/SelfDrivingCars/comments/f9s5n3/inside_waymos_hiring_binge_the_information/)
+
+19. [加州DMV发布2019年自动驾驶路测报告，百度每1000英里人工接管次数少于Waymo](https://36kr.com/p/5295559)
+
+20. [GoFun出行谭奕：分时租赁是学习过程，终极是出行模式](https://36kr.com/p/5294986)
+
+21. [Apple's cars logged far fewer autonomous miles in 2019 than 2018](https://www.imore.com/apples-cars-logged-far-fewer-autonomous-miles-2019-2018)
