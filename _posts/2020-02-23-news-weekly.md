@@ -45,3 +45,5 @@ categories: Mobility
 20. [GoFun出行谭奕：分时租赁是学习过程，终极是出行模式](https://36kr.com/p/5294986)
 
 21. [Apple's cars logged far fewer autonomous miles in 2019 than 2018](https://www.imore.com/apples-cars-logged-far-fewer-autonomous-miles-2019-2018)
+
+22. [专访「99」创始人Paulo Veras：如何在巴西复制 Uber 的成功？](https://36kr.com/p/5295869)
