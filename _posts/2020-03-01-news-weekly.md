@@ -9,3 +9,4 @@ categories: Mobility
 2. [“中国无人驾驶第一案”结束，百度撤诉；王劲回应：清者自清浊者浊](https://36kr.com/p/5296406)
 
 3. [Zoox scouts for funding ahead of self-driving taxi debut](https://www.axios.com/zoox-funding-self-driving-taxi-dfdd9124-6354-40ee-9db8-fa7bf5ca3366.html)
+
