@@ -17,3 +17,5 @@ categories: Mobility
 6. [NASA’s next Sigma lecturer explores adventures in self-driving car safety](https://www.dailypress.com/news/dp-nw-hampton-nasa-sigma-series-self-driving-car-safety-20200302-73ewfwm53ngurpxhl2hkpx5mj4-story.html)
 
 7. [Waymo rakes in $2.25 billion in self-driving unit’s first external fundraising](https://www.theverge.com/2020/3/2/21162061/waymo-outside-investment-amount-autonation-magna-silver-lake)
+
+8. ['Waymo Via' is the company's autonomous goods transportation service/brand](https://www.reddit.com/r/SelfDrivingCars/comments/fcwmci/waymo_via_is_the_companys_autonomous_goods/)
