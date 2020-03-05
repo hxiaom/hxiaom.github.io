@@ -19,3 +19,13 @@ categories: Mobility
 7. [Waymo rakes in $2.25 billion in self-driving unit’s first external fundraising](https://www.theverge.com/2020/3/2/21162061/waymo-outside-investment-amount-autonation-magna-silver-lake)
 
 8. ['Waymo Via' is the company's autonomous goods transportation service/brand](https://www.reddit.com/r/SelfDrivingCars/comments/fcwmci/waymo_via_is_the_companys_autonomous_goods/)
+
+9. [国产特斯拉Model 3的“抽奖式”购买须知](https://www.huxiu.com/article/342713.html)
+
+10. [「慧拓」获凯辉基金领投过亿人民币A2轮融资，推进无人矿山全球化布局](https://36kr.com/p/5296981)
+
+11. [Waymo融资22.5亿美金背后的逻辑与历史](https://36kr.com/p/5297891)
+
+12. [Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments](https://blog.waymo.com/2020/03/introducing-5th-generation-waymo-driver.html)
+
+13. [Autonomous bus stops abruptly, injures passenger](https://www.youtube.com/watch?v=P7neBYD6Fxo&feature=youtu.be)
