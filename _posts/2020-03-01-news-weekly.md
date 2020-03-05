@@ -29,3 +29,15 @@ categories: Mobility
 12. [Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments](https://blog.waymo.com/2020/03/introducing-5th-generation-waymo-driver.html)
 
 13. [Autonomous bus stops abruptly, injures passenger](https://www.youtube.com/watch?v=P7neBYD6Fxo&feature=youtu.be)
+
+14. [威马汽车取消全员年终奖，13薪延后至6月发放](https://36kr.com/p/5298329)
+
+15. [「特来电」完成13.5亿人民币 A 轮融资，在国内新能源汽车充电市场占有率约40%](https://36kr.com/p/5298253)
+
+16. [自动驾驶副总裁离职，小鹏汽车自研道路又遭打击](https://36kr.com/p/5298216)
+
+17. [对Waymo的期待提高：未来估值将超Google](https://36kr.com/p/5298187)
+
+18. [低速无人驾驶的第一次「大考」](https://36kr.com/p/5298075)
+
+19. [Anthony Levandowski ordered to pay $179 million to Google](https://techcrunch.com/2020/03/04/anthony-levandowski-ordered-to-pay-179-million-to-google/)
