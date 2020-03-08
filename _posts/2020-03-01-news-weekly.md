@@ -43,3 +43,4 @@ categories: Mobility
 19. [Anthony Levandowski ordered to pay $179 million to Google](https://techcrunch.com/2020/03/04/anthony-levandowski-ordered-to-pay-179-million-to-google/)
 
 20. [comma ai - George Hotz - Path to Level 5 Autonomy - TechCon Southern California](https://www.reddit.com/r/SelfDrivingCars/comments/fejxge/comma_ai_george_hotz_path_to_level_5_autonomy/)
+
