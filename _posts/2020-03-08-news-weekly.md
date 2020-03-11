@@ -17,3 +17,9 @@ categories: Mobility
 6. [USDOT releases report on automated vehicles and adverse weather](https://www.greencarcongress.com/2020/03/20200309-usdot.html)
 
 7. [No Parking Podcast](https://noparkingpodcast.com/)
+
+8. [中国自动驾驶分级标准来了，为量产铺路？](https://www.huxiu.com/article/343817.html)
+
+9. [威马出行事业部总经理离职，技术和产品部大减员](https://36kr.com/p/5300006)
+
+10. [工信部就“换芯”事件约谈特斯拉，责令其立即整改](https://36kr.com/p/5299908)
