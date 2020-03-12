@@ -23,3 +23,9 @@ categories: Mobility
 9. [威马出行事业部总经理离职，技术和产品部大减员](https://36kr.com/p/5300006)
 
 10. [工信部就“换芯”事件约谈特斯拉，责令其立即整改](https://36kr.com/p/5299908)
+
+11. [无人车初创公司「新石器」获近2亿人民币A+轮融资，理想汽车成为第二大股东](https://36kr.com/p/5300287)
+
+12. [创业团队迷惑行为大赏：6名工程师有4名可能「不存在」，疑似用GAN生成](https://www.jiqizhixin.com/articles/2020-03-11-5)
+
+13. [Uber has resumed testing its self-driving cars in San Francisco](https://www.theverge.com/2020/3/10/21172213/uber-self-driving-car-resume-testing-san-francisco-crash)
