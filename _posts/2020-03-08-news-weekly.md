@@ -29,3 +29,11 @@ categories: Mobility
 12. [创业团队迷惑行为大赏：6名工程师有4名可能「不存在」，疑似用GAN生成](https://www.jiqizhixin.com/articles/2020-03-11-5)
 
 13. [Uber has resumed testing its self-driving cars in San Francisco](https://www.theverge.com/2020/3/10/21172213/uber-self-driving-car-resume-testing-san-francisco-crash)
+
+14. [蔚来资本管理合伙人余宁：资本春天快来了，核心还是现金流](https://36kr.com/p/5300886)
+
+15. [Waymo Steps Up Cleaning, Adds Sanitizer To Keep Coronavirus Out Of Robotic Ride Service](https://www.forbes.com/sites/alanohnsman/2020/03/12/waymo-steps-up-cleaning-adds-sanitizer-to-keep-coronavirus-out-of-robotic-ride-service/?utm_source=TWITTER&utm_medium=social&utm_content=3194895525&utm_campaign=sprinklrForbesTechTwitter)
+
+16. [Russia's Yandex has ambitions for global 'robotaxi' fleet](https://www.reuters.com/article/russia-yandex-driverless/russias-yandex-has-ambitions-for-global-robotaxi-fleet-idUSL8N2B46HO?utm_source=reddit.com)
+
+17. [理想汽车为什么二度投资无人配送机器人公司新石器？](https://zhuanlan.zhihu.com/p/112804415)
