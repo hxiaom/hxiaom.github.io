@@ -37,3 +37,9 @@ categories: Mobility
 16. [Russia's Yandex has ambitions for global 'robotaxi' fleet](https://www.reuters.com/article/russia-yandex-driverless/russias-yandex-has-ambitions-for-global-robotaxi-fleet-idUSL8N2B46HO?utm_source=reddit.com)
 
 17. [理想汽车为什么二度投资无人配送机器人公司新石器？](https://zhuanlan.zhihu.com/p/112804415)
+
+18. [苹果造车之心不死？](https://www.huxiu.com/article/344496.html)
+
+19. [新石器CEO：拿下理想汽车领投的2亿融资，今年将实现自我造血](https://36kr.com/p/5301158)
+
+20. [Phantom Auto Readies Autonomous Vehicles For Delivery Center Work](https://www.forbes.com/sites/sebastianblanco/2020/03/13/phantom-auto-readies-autonomous-vehicles-for-delivery-center-work/#13852b04f102)
