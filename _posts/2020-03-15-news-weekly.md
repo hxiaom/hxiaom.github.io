@@ -11,3 +11,11 @@ categories: Mobility
 3. [投入十亿欧元千人团队，奥迪L3自动驾驶项目最终流产](https://36kr.com/p/5301985)
 
 4. [美团无人车上路送菜首秀：从服务站到家门口的冒险之旅](https://www.jiqizhixin.com/articles/2020-03-16-6)
+
+5. [比亚迪比特斯拉差哪了？](https://36kr.com/p/5302611)
+
+6. [丰田汽车与中国自动驾驶创业公司Momenta合作推进地图业务](https://www.jiqizhixin.com/dailies/d7dd4c8b-8e9a-43b0-b0e3-a4f4e53aa81a)
+
+7. [U.S. Agency Rewrite of Rules Will Speed Up Arrival of Self-Driving Cars](https://www.insurancejournal.com/news/national/2020/03/17/561371.htm)
+
+8. [Waymo taking all safety drivers off the roads, will only run fully driverless operations (COVID-19)](https://www.reddit.com/r/SelfDrivingCars/comments/fk9wy0/waymo_taking_all_safety_drivers_off_the_roads/)
