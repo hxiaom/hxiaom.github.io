@@ -19,3 +19,9 @@ categories: Mobility
 7. [U.S. Agency Rewrite of Rules Will Speed Up Arrival of Self-Driving Cars](https://www.insurancejournal.com/news/national/2020/03/17/561371.htm)
 
 8. [Waymo taking all safety drivers off the roads, will only run fully driverless operations (COVID-19)](https://www.reddit.com/r/SelfDrivingCars/comments/fk9wy0/waymo_taking_all_safety_drivers_off_the_roads/)
+
+9. [蔚来四季度营收同比下滑17.1%，开盘10分钟暴跌6.25%](https://36kr.com/p/5302813)
+
+10. [NHTSA proposes revising auto safety rules to speed AV development](https://www.autonews.com/regulation-safety/nhtsa-proposes-revising-auto-safety-rules-speed-av-development)
+
+11. [How to Build a Self-driving RC Car](https://www.reddit.com/r/SelfDrivingCars/comments/fkpz7t/how_to_build_a_selfdriving_rc_car/)
