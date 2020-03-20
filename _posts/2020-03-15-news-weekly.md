@@ -25,3 +25,5 @@ categories: Mobility
 10. [NHTSA proposes revising auto safety rules to speed AV development](https://www.autonews.com/regulation-safety/nhtsa-proposes-revising-auto-safety-rules-speed-av-development)
 
 11. [How to Build a Self-driving RC Car](https://www.reddit.com/r/SelfDrivingCars/comments/fkpz7t/how_to_build_a_selfdriving_rc_car/)
+
+12. [Waymo, Cruise, Argo, Pony.ai suspend self-driving tests on virus fears](https://business.financialpost.com/pmn/business-pmn/waymo-cruise-argo-pony-ai-suspend-self-driving-tests-on-virus-fears)
