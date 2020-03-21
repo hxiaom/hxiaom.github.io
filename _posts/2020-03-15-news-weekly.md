@@ -27,3 +27,7 @@ categories: Mobility
 11. [How to Build a Self-driving RC Car](https://www.reddit.com/r/SelfDrivingCars/comments/fkpz7t/how_to_build_a_selfdriving_rc_car/)
 
 12. [Waymo, Cruise, Argo, Pony.ai suspend self-driving tests on virus fears](https://business.financialpost.com/pmn/business-pmn/waymo-cruise-argo-pony-ai-suspend-self-driving-tests-on-virus-fears)
+
+13. [一家“远程”自动驾驶创业公司的末路](https://www.huxiu.com/article/345762.html)
+
+14. [Anca Dragan: Human-Robot Interaction and Reward Engineering](https://www.youtube.com/watch?v=iOCfIFBBpVY)
