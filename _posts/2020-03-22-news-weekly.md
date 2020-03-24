@@ -15,3 +15,11 @@ categories: Mobility
 5. [自动驾驶与智能座舱体验观察](https://36kr.com/p/5304225)
 
 6. [传软银3亿美元投资滴滴自动驾驶部门，滴滴称不予置评](https://36kr.com/p/5304557)
+
+7. [车载“iPad”爽翻了？比酒驾、毒驾还凶险](https://www.huxiu.com/article/346254.html)
+
+8. [滴滴有了新烦恼](https://www.huxiu.com/article/346507.html)
+
+9. [Baidu sets up self-driving test ground in China’s Chongqing](https://techwireasia.com/2020/03/baidu-sets-up-self-driving-test-ground-in-chinas-chongqing/)
+
+10. [Ford Autonomous Vehicle Dataset](https://www.reddit.com/r/SelfDrivingCars/comments/focxmy/ford_autonomous_vehicle_dataset/)
