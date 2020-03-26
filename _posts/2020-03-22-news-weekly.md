@@ -23,3 +23,7 @@ categories: Mobility
 9. [Baidu sets up self-driving test ground in China’s Chongqing](https://techwireasia.com/2020/03/baidu-sets-up-self-driving-test-ground-in-chinas-chongqing/)
 
 10. [Ford Autonomous Vehicle Dataset](https://www.reddit.com/r/SelfDrivingCars/comments/focxmy/ford_autonomous_vehicle_dataset/)
+
+11. [连续中标新基建，百度Apollo为自动驾驶“铺路”](https://36kr.com/p/5305320)
+
+12. [Designing the Waymo Driver](https://www.reddit.com/r/SelfDrivingCars/comments/fp0l24/designing_the_waymo_driver/)
