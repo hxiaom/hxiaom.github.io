@@ -27,3 +27,7 @@ categories: Mobility
 11. [连续中标新基建，百度Apollo为自动驾驶“铺路”](https://36kr.com/p/5305320)
 
 12. [Designing the Waymo Driver](https://www.reddit.com/r/SelfDrivingCars/comments/fp0l24/designing_the_waymo_driver/)
+
+13. [顺丰集团子公司「丰行智图」完成过亿人民币A轮融资，已获导航电子地图甲级测绘资质](https://36kr.com/p/5305740)
+
+14. [Helm.ai raises $13M on its unsupervised learning approach to driverless car AI](https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/)
