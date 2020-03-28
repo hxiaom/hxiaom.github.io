@@ -31,3 +31,11 @@ categories: Mobility
 13. [顺丰集团子公司「丰行智图」完成过亿人民币A轮融资，已获导航电子地图甲级测绘资质](https://36kr.com/p/5305740)
 
 14. [Helm.ai raises $13M on its unsupervised learning approach to driverless car AI](https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/)
+
+15. [杨浩涌：离开58集团后，被偷走的那五年](https://www.huxiu.com/article/347090.html)
+
+16. [特斯拉“减配门”不只中国有，加拿大用户也中招](https://www.huxiu.com/article/347074.html)
+
+17. [蔚来副总裁沈斐：车主安装私桩率达70%，今年将扩建换电站网络](https://36kr.com/p/5306113)
+
+18. [特斯拉的自动驾驶仪很快可以识别交通信号灯](https://www.jiqizhixin.com/dailies/edb2118f-6e42-4be5-a1a4-39d7fca938a3)
