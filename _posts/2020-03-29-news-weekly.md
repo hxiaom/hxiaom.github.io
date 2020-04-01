@@ -23,3 +23,5 @@ categories: Mobility
 9. [特斯拉最新自动驾驶手册被黑客曝光，可识别红绿灯信号](https://www.36kr.com/p/5307121)
 
 10. [Huawei steps up ambitions in self-driving vehicles race](https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race)
+
+11. [Seegrid 为自动驾驶仓库货车筹集 2500 万美元](https://www.jiqizhixin.com/dailies/efc86bee-e59f-487a-89a0-8a2181831cce)
