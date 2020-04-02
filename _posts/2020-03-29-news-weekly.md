@@ -25,3 +25,5 @@ categories: Mobility
 10. [Huawei steps up ambitions in self-driving vehicles race](https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race)
 
 11. [Seegrid 为自动驾驶仓库货车筹集 2500 万美元](https://www.jiqizhixin.com/dailies/efc86bee-e59f-487a-89a0-8a2181831cce)
+
+12. [Underwriters Laboratories publishes autonomous vehicle Standard](https://finance.yahoo.com/news/underwriters-laboratories-publishes-autonomous-vehicle-133000732.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEH11ADg7rLLbivYc-J6AjtUi9PxWJxcqzywHCfZUnJ6foWzdHi9gHj_bAwFyPe-Nr-JhJ2Dy_Q1p6xtvIDJ0b3ZXdsAoqKk8NVDwp69-c5BlmaD5dR6z_iqu3GOHS5kUfMnUMViTd7G81PD9PT2_d2JjLylNm_jZCdp6ooh8O6d)
