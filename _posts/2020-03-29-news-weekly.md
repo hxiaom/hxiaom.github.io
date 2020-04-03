@@ -27,3 +27,13 @@ categories: Mobility
 11. [Seegrid 为自动驾驶仓库货车筹集 2500 万美元](https://www.jiqizhixin.com/dailies/efc86bee-e59f-487a-89a0-8a2181831cce)
 
 12. [Underwriters Laboratories publishes autonomous vehicle Standard](https://finance.yahoo.com/news/underwriters-laboratories-publishes-autonomous-vehicle-133000732.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEH11ADg7rLLbivYc-J6AjtUi9PxWJxcqzywHCfZUnJ6foWzdHi9gHj_bAwFyPe-Nr-JhJ2Dy_Q1p6xtvIDJ0b3ZXdsAoqKk8NVDwp69-c5BlmaD5dR6z_iqu3GOHS5kUfMnUMViTd7G81PD9PT2_d2JjLylNm_jZCdp6ooh8O6d)
+
+13. [“减配门”风波未平，特斯拉中国车友俱乐部来了](https://36kr.com/p/5308226)
+
+14. [Waymo AI 技术实现节省成本，同时提高自动驾驶汽车性能](https://www.jiqizhixin.com/dailies/47ab37ac-a60a-4984-9a64-1133ecd981e8)
+
+15. [达观数据：怎样评价推荐系统的结果质量？](https://www.jiqizhixin.com/articles/2020-04-01-12)
+
+16. [万字长文综述：给你的数据加上杠杆——文本增强技术的研究进展及应用实践](https://www.jiqizhixin.com/articles/2020-04-01-11)
+
+17. [美国佛罗里达州 Mayo Clinic 开始使用自动驾驶车辆搜集新冠病毒测试以及运送医疗用品](https://www.jiqizhixin.com/dailies/1da16884-c052-49cc-863c-7d75edaa7484)
