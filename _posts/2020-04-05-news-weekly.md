@@ -13,3 +13,5 @@ categories: Mobility
 4. [轻舟智航获数千万美元种子轮，以独特高效路径实现无人驾驶](https://www.jiqizhixin.com/articles/2020-04-03-8)
 
 5. ['It's truly contactless': In a new world, Nuro's delivery pods gain new virtue](https://www.reddit.com/r/SelfDrivingCars/comments/fujwsh/its_truly_contactless_in_a_new_world_nuros/)
+
+6. [LED Lights Could Pose Problem For Self-Driving Cars](https://insideevs.com/news/408036/led-light-flicker-autonomous-car-problem/)
