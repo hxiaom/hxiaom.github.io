@@ -15,3 +15,5 @@ categories: Mobility
 5. ['It's truly contactless': In a new world, Nuro's delivery pods gain new virtue](https://www.reddit.com/r/SelfDrivingCars/comments/fujwsh/its_truly_contactless_in_a_new_world_nuros/)
 
 6. [LED Lights Could Pose Problem For Self-Driving Cars](https://insideevs.com/news/408036/led-light-flicker-autonomous-car-problem/)
+
+7. [哈啰的“奇袭”，阿里的“助攻”？](https://www.huxiu.com/article/348563.html)
