@@ -17,3 +17,11 @@ categories: Mobility
 6. [LED Lights Could Pose Problem For Self-Driving Cars](https://insideevs.com/news/408036/led-light-flicker-autonomous-car-problem/)
 
 7. [哈啰的“奇袭”，阿里的“助攻”？](https://www.huxiu.com/article/348563.html)
+
+8. [ZENUITY一分为二：有人割韭菜，有人拆公司](https://36kr.com/p/5309122)
+
+9. [特斯拉Cybertruck订单突破62万，产能能否跟得上？](https://36kr.com/p/5308725)
+
+10. [滴滴自动驾驶发生股东变更，程维个人持股90%](https://www.jiqizhixin.com/dailies/9fdd9622-634f-4195-ab4d-44cf2d57dc34)
+
+11. [CVPR'20 Workshop Call for Papers + Competitions](https://www.reddit.com/r/SelfDrivingCars/comments/fvp92c/cvpr20_workshop_call_for_papers_competitions/)
