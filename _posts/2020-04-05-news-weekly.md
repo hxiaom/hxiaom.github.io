@@ -25,3 +25,5 @@ categories: Mobility
 10. [滴滴自动驾驶发生股东变更，程维个人持股90%](https://www.jiqizhixin.com/dailies/9fdd9622-634f-4195-ab4d-44cf2d57dc34)
 
 11. [CVPR'20 Workshop Call for Papers + Competitions](https://www.reddit.com/r/SelfDrivingCars/comments/fvp92c/cvpr20_workshop_call_for_papers_competitions/)
+
+12. [“哈啰换电”获中恒电气2亿元投资，将推进构建两轮市政基础设施](https://36kr.com/p/5309703)
