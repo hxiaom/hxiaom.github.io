@@ -27,3 +27,5 @@ categories: Mobility
 11. [CVPR'20 Workshop Call for Papers + Competitions](https://www.reddit.com/r/SelfDrivingCars/comments/fvp92c/cvpr20_workshop_call_for_papers_competitions/)
 
 12. [“哈啰换电”获中恒电气2亿元投资，将推进构建两轮市政基础设施](https://36kr.com/p/5309703)
+
+13. [Extreme Tesla Full Self Drive Preview Visualization Testing](https://www.youtube.com/watch?time_continue=118&v=NtYp31spwmA&feature=emb_title)
