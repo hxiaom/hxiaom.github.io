@@ -31,3 +31,5 @@ categories: Mobility
 13. [Extreme Tesla Full Self Drive Preview Visualization Testing](https://www.youtube.com/watch?time_continue=118&v=NtYp31spwmA&feature=emb_title)
 
 14. [Self-driving vehicles set to become common](http://global.chinadaily.com.cn/a/202004/08/WS5e8d24a9a310aeaeeed50a6a.html)
+
+15. [General Motors Applies For Decentralized Blockchain Map Patent](https://www.reddit.com/r/SelfDrivingCars/comments/fxy2om/general_motors_applies_for_decentralized/)
