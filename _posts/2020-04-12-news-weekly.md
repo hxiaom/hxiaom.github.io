@@ -15,3 +15,5 @@ categories: Mobility
 5. [Elon Musk (Tesla) on first robotaxi release/deployment : "Functionality still looking good for this year. Regulatory approval is the big unknown."](https://www.reddit.com/r/SelfDrivingCars/comments/fzxgbu/elon_musk_tesla_on_first_robotaxi/)
 
 6. [Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Full Self-Driving](https://www.reddit.com/r/SelfDrivingCars/comments/fzr1kv/tesla_model_y_is_equipped_with_a_radar_heater_to/)
+
+7. [Tesla is adding remarkable detail in its Full Self-Driving Visualizations](https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/)
