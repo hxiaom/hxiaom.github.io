@@ -25,3 +25,14 @@ categories: Mobility
 10. [自动驾驶创企 Zoox 就商业秘密盗窃一案与特斯拉达成和解](https://www.jiqizhixin.com/dailies/14ec1791-430b-42ec-9bbb-2d39720c3b28)
 
 11. [Uber 称其 AI 使无人驾驶汽车能高精度预测交通量](https://www.jiqizhixin.com/dailies/bbbde7e3-ef8a-4b15-a855-d76a88453825)
+
+12. [滴滴，要开始拉货？](https://www.huxiu.com/article/350901.html)
+
+13. [马斯克要让特斯拉车主跑“滴滴”，保证年赚一台Model 3](https://www.huxiu.com/article/350786.html)
+
+14. [工信部发布智能网联汽车标准制定规划，2020重点推进无人物流等领域](https://36kr.com/p/668759547631872)
+
+15. [驭势科技CEO吴甘沙：明年年底前实现1000台“去安全员”无人物流车常态化运营](https://36kr.com/p/1725210394625)
+
+16. [小马智行自动驾驶车队为加州居民运送生活必需品](https://www.jiqizhixin.com/dailies/9be23813-ec23-47b3-b282-0d5578c935bc)
+
