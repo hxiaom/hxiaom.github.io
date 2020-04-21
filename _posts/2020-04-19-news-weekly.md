@@ -11,3 +11,7 @@ categories: Mobility
 3. [Lyft Stock Is Plunging – It’s Only a Matter of Time Until Google Gobbles It Up](https://www.ccn.com/lyft-stock-is-plunging-its-only-a-matter-of-time-until-google-gobbles-it-up/)
 
 4. [Zoox full 1-hour autonomous drive in San Francisco, with comments](https://www.reddit.com/r/SelfDrivingCars/comments/g3a35t/zoox_full_1hour_autonomous_drive_in_san_francisco/)
+
+5. [李斌硬战特斯拉：一不降价、二不推单电机廉价车](https://36kr.com/p/673430766498821)
+
+6. [威马CEO沈晖：毛利率很重要，别想着羊毛出在猪身上](https://36kr.com/p/672916580456457)
