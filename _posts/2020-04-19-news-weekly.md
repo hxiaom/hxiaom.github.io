@@ -19,3 +19,7 @@ categories: Mobility
 7. [Voyage 获准将其 Robotaxi 服务引入加州公路](https://www.jiqizhixin.com/dailies/c7d530c6-ac13-4b73-81cf-2cd9a508ca51)
 
 8. [神州租车易主美国私募巨头幕后：陆正耀涉险过关](https://www.huxiu.com/article/352069.html)
+
+9. [“英特尔牌”汽车超5000万辆，全球汽车芯片战争已经打响](https://36kr.com/p/676289679242496)
+
+10. [专利显示苹果正研发汽车电动机，或效仿特斯拉的技术路线](https://36kr.com/p/675885542880257)
