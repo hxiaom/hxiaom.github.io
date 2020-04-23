@@ -17,3 +17,5 @@ categories: Mobility
 6. [威马CEO沈晖：毛利率很重要，别想着羊毛出在猪身上](https://36kr.com/p/67291658045645)
 
 7. [Voyage 获准将其 Robotaxi 服务引入加州公路](https://www.jiqizhixin.com/dailies/c7d530c6-ac13-4b73-81cf-2cd9a508ca51)
+
+8. [神州租车易主美国私募巨头幕后：陆正耀涉险过关](https://www.huxiu.com/article/352069.html)
