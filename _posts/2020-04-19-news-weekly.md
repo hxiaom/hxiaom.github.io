@@ -23,3 +23,13 @@ categories: Mobility
 9. [“英特尔牌”汽车超5000万辆，全球汽车芯片战争已经打响](https://36kr.com/p/676289679242496)
 
 10. [专利显示苹果正研发汽车电动机，或效仿特斯拉的技术路线](https://36kr.com/p/675885542880257)
+
+11. [Cruise 成为首家使用 100％可再生能源为车辆提供动力的自动驾驶公司](https://www.jiqizhixin.com/dailies/b33c9cd2-304e-4950-9c10-dfa2bfcbf338)
+
+12. [Nuro 无人驾驶汽车为加州新冠医疗中心运送物资](https://www.jiqizhixin.com/dailies/17fca9ed-5a35-40f6-9f51-2e1d39b09ae3)
+
+13. [阿里发布全球首个自动驾驶混合式仿真路测平台，一天可测800万公里](https://www.jiqizhixin.com/articles/2020-04-22-2)
+
+14. [Waymo: Our 1,000+ mile challenge: Driving autonomously in 2009](https://www.reddit.com/r/SelfDrivingCars/comments/g69skk/waymo_our_1000_mile_challenge_driving/)
+
+15. [Andrej Karpathy - AI for Full-Self Driving](https://www.reddit.com/r/SelfDrivingCars/comments/g5guxn/andrej_karpathy_ai_for_fullself_driving/)
