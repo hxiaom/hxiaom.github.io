@@ -33,3 +33,7 @@ categories: Mobility
 14. [Waymo: Our 1,000+ mile challenge: Driving autonomously in 2009](https://www.reddit.com/r/SelfDrivingCars/comments/g69skk/waymo_our_1000_mile_challenge_driving/)
 
 15. [Andrej Karpathy - AI for Full-Self Driving](https://www.reddit.com/r/SelfDrivingCars/comments/g5guxn/andrej_karpathy_ai_for_fullself_driving/)
+
+16. [阿里达摩院祭出“秘籍”，解决自动驾驶核心难点](https://www.huxiu.com/article/352187.html)
+
+17. [Nuro Driverless Vehicles Become Robot Pack Mules For California COVID-19 Medical Centers](https://www.forbes.com/sites/alanohnsman/2020/04/22/nuro-driverless-vehicles-become-robot-pack-mules-for-california-covid-19-medical-centers/#75e225ec5ff8)
