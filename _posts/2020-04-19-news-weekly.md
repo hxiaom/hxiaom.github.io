@@ -37,3 +37,5 @@ categories: Mobility
 16. [阿里达摩院祭出“秘籍”，解决自动驾驶核心难点](https://www.huxiu.com/article/352187.html)
 
 17. [Nuro Driverless Vehicles Become Robot Pack Mules For California COVID-19 Medical Centers](https://www.forbes.com/sites/alanohnsman/2020/04/22/nuro-driverless-vehicles-become-robot-pack-mules-for-california-covid-19-medical-centers/#75e225ec5ff8)
+
+18. [Surprise! 2020 Is Not the Year for Self-Driving Cars](https://spectrum.ieee.org/transportation/self-driving/surprise-2020-is-not-the-year-for-selfdriving-cars)
