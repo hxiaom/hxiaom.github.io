@@ -11,3 +11,7 @@ categories: Mobility
 3. [庄莉离开蔚来后首度发声：我不会去做造车这件事](https://36kr.com/p/681859741417608)
 
 4. [Starting today Teslas in the US can automatically stop for traffic lights and stop signs](https://www.reddit.com/r/SelfDrivingCars/comments/g7h431/starting_today_teslas_in_the_us_can_automatically/)
+
+5. [高德联合AutoX上线无人驾驶出租车，体验活动结束后将对公众开放](https://36kr.com/p/683026875171208)
+
+6. [WeRide Robotaxi vs. Guangzhou Traffic](https://www.reddit.com/r/SelfDrivingCars/comments/g943us/weride_robotaxi_vs_guangzhou_traffic/)
