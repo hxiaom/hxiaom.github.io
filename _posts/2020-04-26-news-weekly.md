@@ -15,3 +15,11 @@ categories: Mobility
 5. [高德联合AutoX上线无人驾驶出租车，体验活动结束后将对公众开放](https://36kr.com/p/683026875171208)
 
 6. [WeRide Robotaxi vs. Guangzhou Traffic](https://www.reddit.com/r/SelfDrivingCars/comments/g943us/weride_robotaxi_vs_guangzhou_traffic/)
+
+7. [厚着脸皮上，梁建章说现在是旅游业的直播好时机](https://36kr.com/p/684586681108868)
+
+8. [薇娅和特斯拉做了一场直播，不卖车，1元卖马斯克同款T恤](https://36kr.com/p/684657557194883)
+
+9. [中国首个自动驾驶公路国标来了，数十万亿新基建市场开启](https://36kr.com/p/684332119558532)
+
+10. [Shanghai ride-hailers can now call for an AutoX self-driving taxi](https://newatlas.com/automotive/amap-autox-robotaxi-automonous-shanghai/)
