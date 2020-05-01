@@ -37,3 +37,5 @@ categories: Mobility
 16. [Ford Postpones Self-Driving Vehicle Service Until 2022](https://www.mediapost.com/publications/article/350712/ford-postpones-self-driving-vehicle-service-until.html)
 
 17. [Full Self Driving (FSD) “Pay As You Go” Feature Included In Tesla Source Code](https://cleantechnica.com/2020/04/29/fsd-payas-you-go-feature-included-in-tesla-source-code/)
+
+18. [Tesla Autopilot Stopping at Traffic Lights and Stop Signs - Strengths and Weaknesses](https://www.reddit.com/r/SelfDrivingCars/comments/gbqnzy/tesla_autopilot_stopping_at_traffic_lights_and/)
