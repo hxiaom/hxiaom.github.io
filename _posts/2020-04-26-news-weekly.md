@@ -39,3 +39,5 @@ categories: Mobility
 17. [Full Self Driving (FSD) “Pay As You Go” Feature Included In Tesla Source Code](https://cleantechnica.com/2020/04/29/fsd-payas-you-go-feature-included-in-tesla-source-code/)
 
 18. [Tesla Autopilot Stopping at Traffic Lights and Stop Signs - Strengths and Weaknesses](https://www.reddit.com/r/SelfDrivingCars/comments/gbqnzy/tesla_autopilot_stopping_at_traffic_lights_and/)
+
+19. [EPFL Presentation on LiDAR Fundamentals](https://www.reddit.com/r/SelfDrivingCars/comments/gco9us/epfl_presentation_on_lidar_fundamentals/)
