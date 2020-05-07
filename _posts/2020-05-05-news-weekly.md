@@ -19,3 +19,7 @@ categories: Mobility
 7. [Autotech Ventures 着眼于地面交通初创公司 筹集了超过 1.5 亿美元的资金](https://www.jiqizhixin.com/dailies/3042212f-b569-4790-8489-240307a976be)
 
 8. [史上最全GAN综述2020版：算法、理论及应用](https://www.jiqizhixin.com/articles/2020-03-03-12)
+
+9. [Zoox, Self-Driving Car Startup Valued at $2.7 Billion, Is for Sale](https://www.reddit.com/r/SelfDrivingCars/comments/gfbyqu/zoox_selfdriving_car_startup_valued_at_27_billion/)
+
+10. [Waymo Resuming our driving operations in Phoenix](https://www.reddit.com/r/SelfDrivingCars/comments/gffe0r/resuming_our_driving_operations_in_phoenix/)
