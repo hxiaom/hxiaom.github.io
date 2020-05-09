@@ -23,3 +23,7 @@ categories: Mobility
 9. [Zoox, Self-Driving Car Startup Valued at $2.7 Billion, Is for Sale](https://www.reddit.com/r/SelfDrivingCars/comments/gfbyqu/zoox_selfdriving_car_startup_valued_at_27_billion/)
 
 10. [Waymo Resuming our driving operations in Phoenix](https://www.reddit.com/r/SelfDrivingCars/comments/gffe0r/resuming_our_driving_operations_in_phoenix/)
+
+11. [共享电单车：两千亿市场的“新故事”](https://www.huxiu.com/article/355484.html)
+
+12. [苹果沉浸式VR技术获专利，将应用于自动驾驶汽车](https://36kr.com/p/700192581106304)
