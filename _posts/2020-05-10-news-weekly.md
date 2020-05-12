@@ -17,3 +17,7 @@ categories: Mobility
 6. [从典范走向幻灭：谷歌13亿元的智慧城市梦](https://www.jiqizhixin.com/articles/2020-05-11-2)
 
 7. [自动驾驶相机-激光雷达融合方法走到哪一步了？这里有一份滑铁卢大学的综述研究](https://www.jiqizhixin.com/articles/2020-05-11)
+
+8. [嬴彻科技CEO马喆人：中国至少容纳三家头部自动驾驶卡车运营公司，每家有百亿甚至千亿收入](https://36kr.com/p/702823938046600)
+
+9. [沃尔玛启用 AI 实现两小时快递服务](https://www.jiqizhixin.com/dailies/2eb8a0d9-7ede-4b18-a64b-36c9955282af)
