@@ -21,3 +21,13 @@ categories: Mobility
 8. [嬴彻科技CEO马喆人：中国至少容纳三家头部自动驾驶卡车运营公司，每家有百亿甚至千亿收入](https://36kr.com/p/702823938046600)
 
 9. [沃尔玛启用 AI 实现两小时快递服务](https://www.jiqizhixin.com/dailies/2eb8a0d9-7ede-4b18-a64b-36c9955282af)
+
+10. [Waymo共获213亿元投资，或将成新一代“融资王”？](https://36kr.com/p/705525168700809)
+
+11. [特斯拉自动驾驶靠自研芯片，国产智能汽车怎么办？](https://36kr.com/p/704373843852423)
+
+12. [文远知行：无人驾驶车队超100辆](https://www.jiqizhixin.com/dailies/ab5d226c-5f02-4029-a57d-5cc033a6ea34)
+
+13. [MIT经济学家戳破机器人真相：除了能取代你，价值微乎其微](https://www.jiqizhixin.com/articles/2020-05-12-4)
+
+14. [This Was Supposed to Be the Year Driverless Cars Went Mainstream](https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html)
