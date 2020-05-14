@@ -31,3 +31,5 @@ categories: Mobility
 13. [MIT经济学家戳破机器人真相：除了能取代你，价值微乎其微](https://www.jiqizhixin.com/articles/2020-05-12-4)
 
 14. [This Was Supposed to Be the Year Driverless Cars Went Mainstream](https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html)
+
+15. [Uber 3分钟视频裁员3500人，一季度净亏损206亿元](https://36kr.com/p/705716570930306)
