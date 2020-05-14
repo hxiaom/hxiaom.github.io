@@ -33,3 +33,9 @@ categories: Mobility
 14. [This Was Supposed to Be the Year Driverless Cars Went Mainstream](https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html)
 
 15. [Uber 3分钟视频裁员3500人，一季度净亏损206亿元](https://36kr.com/p/705716570930306)
+
+16. [借新基建东风，百度Apollo“铺”向大湾区](https://36kr.com/p/707439529646856)
+
+17. [18位股东退出、注册资本减少近3亿，理想汽车加速赴美上市？](https://36kr.com/p/707278732827401)
+
+18. [General Motors’ Cruise Automation Division Lays Off Nearly 8% of Staff](https://www.reddit.com/r/SelfDrivingCars/comments/gjruju/general_motors_cruise_automation_division_lays/)
