@@ -39,3 +39,5 @@ categories: Mobility
 17. [18位股东退出、注册资本减少近3亿，理想汽车加速赴美上市？](https://36kr.com/p/707278732827401)
 
 18. [General Motors’ Cruise Automation Division Lays Off Nearly 8% of Staff](https://www.reddit.com/r/SelfDrivingCars/comments/gjruju/general_motors_cruise_automation_division_lays/)
+
+19. [蔚来汽车2019年营收同比增58%，净亏损近113亿元](https://36kr.com/p/708932314880518)
