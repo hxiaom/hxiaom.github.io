@@ -20,7 +20,7 @@ title: Research
       {% for post in site.categories[category_name] %}
         
         {% assign post_title = post.title %}
-        {% if post_title contains '2018.' or post_title contains '2019.' %}
+        {% if post_title contains '2018.' or post_title contains '2019.' or post_title contains '2020.' %}
           <article class="archive-item">
             <a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{post.title}}</a>
           </article>
