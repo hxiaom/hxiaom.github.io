@@ -31,3 +31,9 @@ categories: Mobility
 13. [Mobileye 首席执行官认为自动驾驶汽车领域将实现「大整合」](https://www.jiqizhixin.com/dailies/3c844ea9-641c-4016-8627-a0ea0dcd14c3)
 
 14. [Elon Musk: Tesla raises cost of 'self-driving' cars](https://www.bbc.com/news/business-52703767)
+
+15. [无人车成本将减半，但商业变现没那么容易](https://36kr.com/p/715901735466499)
+
+16. [深圳出租车100%接入高德打车，滴滴遭遇最大对手？](https://36kr.com/p/715492742001153)
+
+17. [美团配送智能调度全面升级为全域柔性调度，万物到家新时代正在到来](https://www.jiqizhixin.com/articles/2020-05-20-12)
