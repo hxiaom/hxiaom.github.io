@@ -13,3 +13,19 @@ categories: Mobility
 4. [Top safety official at Waymo self-driving unit stepping down](https://www.reuters.com/article/us-waymo-safety/top-safety-official-at-waymo-self-driving-unit-stepping-down-idUSKBN22X2Q9)
 
 5. [First time ride in a Waymo driverless van](https://www.reddit.com/r/SelfDrivingCars/comments/goieb5/first_time_ride_in_a_waymo_driverless_van/)
+
+6. [抖音上车，字节探路](https://www.huxiu.com/article/358732.html)
+
+7. [中国城市“通勤半径”排名：买房的边界值都在这了](https://www.huxiu.com/article/358715.html)
+
+8. [苹果豪掷近190亿美元加码汽车研发，有意颠覆特斯拉](https://36kr.com/p/722532396533892)
+
+9. [特斯拉曝出安全Bug：旧零件在二手网站贱卖，上边全是用户隐私数据](https://36kr.com/p/721911373531009)
+
+10. [7年亏了500亿，滴滴怎么就突然盈利了？](https://36kr.com/p/721147327154312)
+
+11. [一份外卖账单的秘密：餐饮业正集体“去平台化”](https://www.huxiu.com/article/358646.html)
+
+12. [Friend rides in a Waymo One for the first time (25 mins ride)](https://www.reddit.com/r/SelfDrivingCars/comments/gpsnv8/friend_rides_in_a_waymo_one_for_the_first_time_25/)
+
+13. [Third Row Tesla - Episode 17 - George Hotz - Autonomous Driving](https://www.reddit.com/r/SelfDrivingCars/comments/gq1wok/third_row_tesla_episode_17_george_hotz_autonomous/)
