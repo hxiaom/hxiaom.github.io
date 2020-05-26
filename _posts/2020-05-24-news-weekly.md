@@ -29,3 +29,13 @@ categories: Mobility
 12. [Friend rides in a Waymo One for the first time (25 mins ride)](https://www.reddit.com/r/SelfDrivingCars/comments/gpsnv8/friend_rides_in_a_waymo_one_for_the_first_time_25/)
 
 13. [Third Row Tesla - Episode 17 - George Hotz - Autonomous Driving](https://www.reddit.com/r/SelfDrivingCars/comments/gq1wok/third_row_tesla_episode_17_george_hotz_autonomous/)
+
+14. [疯狂之后，“盔见”城市真问题](https://www.huxiu.com/article/358991.html)
+
+15. [广汽本田工厂数百辆新车被淹，官方回应：受损车不会流入消费市场](https://36kr.com/p/724060292614275)
+
+16. [曾投资神州租车，这家百年巨头轰然倒下](https://36kr.com/p/723095147546500)
+
+17. [理想ONE 4月销售新车2793辆，蝉联插电式混合动力车型销量冠军](https://36kr.com/p/722596628072578)
+
+18. [中国AI公司首批上市潮来袭：18家独角兽总值超2700亿,两年内将集中涌向科创板](https://www.jiqizhixin.com/articles/2020-05-25-9)
