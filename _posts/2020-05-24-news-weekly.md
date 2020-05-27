@@ -43,3 +43,5 @@ categories: Mobility
 19. [滴滴悄悄成立一家旅行社](https://www.huxiu.com/article/359119.html)
 
 20. [36氪首发 |「​智行者科技」获数千万美元C1轮融资，加速自动驾驶乘用车和特种车的商业化落地](https://36kr.com/p/724761836488583)
+
+21. [华尔街日报：Facebook 故意忽略其算法将用户划分的研究结果](https://www.jiqizhixin.com/dailies/bbc807e3-13fa-42a9-9372-9566e48a6c3d)
