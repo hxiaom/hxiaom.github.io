@@ -45,3 +45,11 @@ categories: Mobility
 20. [36氪首发 |「​智行者科技」获数千万美元C1轮融资，加速自动驾驶乘用车和特种车的商业化落地](https://36kr.com/p/724761836488583)
 
 21. [华尔街日报：Facebook 故意忽略其算法将用户划分的研究结果](https://www.jiqizhixin.com/dailies/bbc807e3-13fa-42a9-9372-9566e48a6c3d)
+
+22. [因为天气原因，SpaceX首次载人发射推迟至周日](https://36kr.com/p/726650758187139)
+
+23. [自动驾驶新并购潮：亚马逊买Zoox、沃尔玛买Nuro？](https://36kr.com/p/725661780772736)
+
+24. [无人驾驶汽车公司 Aurora 在普遍行业困境中增加招聘人数](https://www.jiqizhixin.com/dailies/c164fca0-34e7-4ca0-be99-37ef33f99100)
+
+25. [画图太丑拿不出手？有人做了套机器学习专用画图模板，还有暗黑模式](https://www.jiqizhixin.com/articles/2020-05-26-4)
