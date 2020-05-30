@@ -53,3 +53,23 @@ categories: Mobility
 24. [无人驾驶汽车公司 Aurora 在普遍行业困境中增加招聘人数](https://www.jiqizhixin.com/dailies/c164fca0-34e7-4ca0-be99-37ef33f99100)
 
 25. [画图太丑拿不出手？有人做了套机器学习专用画图模板，还有暗黑模式](https://www.jiqizhixin.com/articles/2020-05-26-4)
+
+26. [大佬出走，裁减新人：这家自动驾驶独角兽还能撑三年？](https://www.huxiu.com/article/359592.html)
+
+27. [没有了李一男光环的小牛电动，活得好吗？](https://www.huxiu.com/article/359716.html)
+
+28. [理想 ONE 是谁的理想？](https://www.huxiu.com/article/358476.html)
+
+29. [手握10亿美元现金，它却宣布破产了](https://www.huxiu.com/article/359954.html)
+
+30. [市值一夜消失27亿，蔚来考虑归国IPO](https://www.huxiu.com/article/359846.html)
+
+31. [滴滴自动驾驶获5亿多美元首轮融资，软银愿景基金2期领投](https://36kr.com/p/728535964960905)
+
+32. [人工智能在餐饮递送场景的应用](https://www.jiqizhixin.com/documents/1cbd3463-e1d3-4ee6-b975-33f4e54705df)
+
+33. [AWS专家论道：机器学习变革物流运输和交通出行](https://www.jiqizhixin.com/articles/2020-05-29-11)
+
+34. [China's Baidu Completes its ‘Apollo Park', the World's Largest Autonomous Driving & Intelligent Vehicle Testing Site](https://m.futurecar.com/3946/Chinas-Baidu-Completes-its-Apollo-Park-the-Worlds-Largest-Autonomous-Driving-&amp;-Intelligent-Vehicle-Testing-Site)
+
+35. [Nuro Partners with CVS on Autonomous Prescription Deliveries](https://medium.com/nuro/nuro-partners-with-cvs-on-autonomous-prescription-deliveries-75c4b013104b)
