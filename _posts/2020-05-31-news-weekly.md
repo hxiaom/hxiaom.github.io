@@ -16,6 +16,8 @@ categories: Mobility
 12. [自动驾驶初创公司 Argo 以 72.5 亿美元的估值完成了 26 亿美元的融资](https://www.jiqizhixin.com/dailies/86b45d33-4554-442c-bf72-1dbb3370aad5)
 
 13. [Yandex 使用自动驾驶的 2020 年现代 Sonata 来改善侧面可视性](https://www.jiqizhixin.com/dailies/18e676b0-df63-4c59-9bdf-0631a9b2a6ff)
+
+14. [特斯拉撞卡车问题有解吗？谈谈自动驾驶感知前融合架构的优势和难点](https://zhuanlan.zhihu.com/p/145461827)
 4. [SpaceX载人火箭发射成功，马斯克离火星又近一步](https://www.huxiu.com/article/359423.html)
 
 5. [2020年，是时候开放“禁限摩”，为摩托车正名了](https://www.huxiu.com/article/360031.html)
@@ -35,3 +37,5 @@ categories: Mobility
 12. [自动驾驶初创公司 Argo 以 72.5 亿美元的估值完成了 26 亿美元的融资](https://www.jiqizhixin.com/dailies/86b45d33-4554-442c-bf72-1dbb3370aad5)
 
 13. [Yandex 使用自动驾驶的 2020 年现代 Sonata 来改善侧面可视性](https://www.jiqizhixin.com/dailies/18e676b0-df63-4c59-9bdf-0631a9b2a6ff)
+
+14. [特斯拉撞卡车问题有解吗？谈谈自动驾驶感知前融合架构的优势和难点](https://zhuanlan.zhihu.com/p/145461827)
