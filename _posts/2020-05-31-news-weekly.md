@@ -52,6 +52,14 @@ categories: Mobility
 
 20. [Zoox's Mark Rosekind and Aurora's Chris Urmson join PAVE for a virtual panel to take on your biggest questions about AVs.](https://www.youtube.com/watch?v=UqE6VU8dj0k)
 
+21. [赛麟汽车资本迷局](https://www.huxiu.com/article/361315.html)
+
+22. [吉利汽车5月销量近11万，同比增长20%](https://36kr.com/p/739736688600198)
+
+23. [Cruise CTO’s Recruiting Email to Zoox Engineers: ‘You’ve Got Nothing to Lose’](https://www.reddit.com/r/SelfDrivingCars/comments/gxa3yb/briefing_cruise_ctos_recruiting_email_to_zoox/)
+
+24. [Autonomous Driving: Anticipating Human Behavior Is The Hardest Problem (Perceptive Automata)](https://www.reddit.com/r/SelfDrivingCars/comments/gxabx8/autonomous_driving_anticipating_human_behavior_is/)
+
 16. [百度副总裁李震宇：Apollo投入坚定，自动驾驶远未到终局](https://36kr.com/p/735683671541636)
 
 17. [Behind the Tech Podcast - Chris Urmson, Aurora CEO](https://www.reddit.com/r/SelfDrivingCars/comments/gvwz0f/behind_the_tech_podcast_chris_urmson_aurora_ceo/)
