@@ -39,3 +39,5 @@ categories: Mobility
 17. [赛麟汽车董事长：公司遭调查账户冻结，30亿融资被搁置](https://36kr.com/p/744244627534214)
 
 18. [台积电年度股东大会：如无法向华为出售芯片，将迅速填补缺口](https://www.jiqizhixin.com/articles/2020-06-09-5)
+
+19. [谷俊丽：一万字解答ADAS系统的今天和未来之三，四代架构进化阶梯](https://zhuanlan.zhihu.com/p/147225746)
