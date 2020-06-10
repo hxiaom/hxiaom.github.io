@@ -32,3 +32,10 @@ categories: Mobility
 
 14. [Yandex Fourth Generation Self-Driving Cars Operating in Moscow](https://insideunmannedsystems.com/yandex-fourth-generation-self-driving-cars-operating-in-moscow/)
 
+15. [国泰航空将获390亿港元注资，港府扮演“白骑士”](https://www.huxiu.com/article/361956.html)
+
+16. [何小鹏直播讲解肇庆工厂：除了芯片，已包揽Tier 1所有工作](https://36kr.com/p/744164263244418)
+
+17. [赛麟汽车董事长：公司遭调查账户冻结，30亿融资被搁置](https://36kr.com/p/744244627534214)
+
+18. [台积电年度股东大会：如无法向华为出售芯片，将迅速填补缺口](https://www.jiqizhixin.com/articles/2020-06-09-5)
