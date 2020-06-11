@@ -41,3 +41,21 @@ categories: Mobility
 18. [台积电年度股东大会：如无法向华为出售芯片，将迅速填补缺口](https://www.jiqizhixin.com/articles/2020-06-09-5)
 
 19. [谷俊丽：一万字解答ADAS系统的今天和未来之三，四代架构进化阶梯](https://zhuanlan.zhihu.com/p/147225746)
+
+20. [硅谷无人车五大家族，谁能C位出道？](https://www.huxiu.com/article/362082.html)
+
+21. [上海要“吞”南通，长三角能否再造一个世界级大港？](https://www.huxiu.com/article/362130.html)
+
+22. [车企用辅助驾驶赚钱，这事儿靠谱么？](https://www.huxiu.com/article/362062.html)
+
+23. [一辆车没造、收入为零，这家公司凭什么值300亿美元](https://www.huxiu.com/article/362033.html)
+
+24. [疫情倒逼大众福特加速联盟，“巨无霸”也要抱团取暖](https://36kr.com/p/746440351875842)
+
+25. [蔚来宣布发行6000万股ADS，腾讯有兴趣认购至多1000万美元](https://36kr.com/p/745046136814213)
+
+26. [疫情将致2020年全球车市下滑20%，未来3年销量锐减3600万辆](https://36kr.com/p/745173621111426)
+
+27. [ARM公司声明：吴雄昂的行为危害安谋中国发展，罢免他符合最大利益](https://www.jiqizhixin.com/articles/2020-06-10-12)
+
+28. [Tesla Now The World’s Most Valuable Car Company](https://www.reddit.com/r/SelfDrivingCars/comments/h0c9c7/tesla_now_the_worlds_most_valuable_car_company/)
