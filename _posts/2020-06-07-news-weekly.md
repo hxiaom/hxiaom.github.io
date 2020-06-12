@@ -59,3 +59,11 @@ categories: Mobility
 27. [ARM公司声明：吴雄昂的行为危害安谋中国发展，罢免他符合最大利益](https://www.jiqizhixin.com/articles/2020-06-10-12)
 
 28. [Tesla Now The World’s Most Valuable Car Company](https://www.reddit.com/r/SelfDrivingCars/comments/h0c9c7/tesla_now_the_worlds_most_valuable_car_company/)
+
+29. [来了，上海第三机场](https://www.huxiu.com/article/362371.html)
+
+30. [AI智能驾驶公司腾视科技获数千万元A轮融资，高通创投领投](https://36kr.com/p/746942286400264)
+
+31. [3年内铺设300公里智能网联道路，北京将成自动驾驶高地](https://36kr.com/p/746744585456385)
+
+32. [波音公司与 Varjo 合作为 Starliner 太空出租车进行虚拟现实培训](https://www.jiqizhixin.com/dailies/a435a027-c8cb-484c-8be7-6caa4de9fb9a)
