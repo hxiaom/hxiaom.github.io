@@ -67,3 +67,11 @@ categories: Mobility
 31. [3年内铺设300公里智能网联道路，北京将成自动驾驶高地](https://36kr.com/p/746744585456385)
 
 32. [波音公司与 Varjo 合作为 Starliner 太空出租车进行虚拟现实培训](https://www.jiqizhixin.com/dailies/a435a027-c8cb-484c-8be7-6caa4de9fb9a)
+
+33. [美国同行穷到要“卖身”，中国自动驾驶公司为什么不缺钱？](https://36kr.com/p/749592530095623)
+
+34. [上汽和大众计划未来5年出资1400亿，重点投入新能源和智能网联](https://36kr.com/p/748045492882178)
+
+35. [研究人员在 Uber 和 Lyft 的「动态定价」算法中发现了种族歧视](https://www.jiqizhixin.com/dailies/d4d7c99f-350e-429b-9e3b-61e4869009d7)
+
+36. [学术界开放获取矛盾又起，MIT、爱思唯尔谈判宣告破裂](https://www.jiqizhixin.com/articles/2020-06-12-6)
