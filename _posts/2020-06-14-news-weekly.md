@@ -25,3 +25,21 @@ categories: Mobility
 10. [如何画好一张架构图？](https://www.jiqizhixin.com/articles/2020-06-16-2)
 
 11. [Uber前无人驾驶工程师告诉你，国内无人驾驶之路还要走多久？](https://www.jiqizhixin.com/articles/2020-06-15-8)
+
+12. [如何从117万同业中杀入只有1006家的“必住榜”榜单？](https://www.huxiu.com/article/363470.html)
+
+13. [开放“第七航权”，对海南来说意味着什么](https://www.huxiu.com/article/363464.html)
+
+14. [私人飞机界也有“滴滴顺风车”？「Wingly」获 340 万美元融资](https://36kr.com/p/755240574802182)
+
+15. [特斯拉Model Y被曝存在大量质量问题，后座竟然未连接到底座上](https://36kr.com/p/755297499470081)
+
+16. [砸钱28载,波士顿动力开卖网红机器狗！一辆Model S的价格就能直接抱回家](https://www.jiqizhixin.com/articles/2020-06-17-11)
+
+17. [交通工程跨界思考：何为无人驾驶仿真中的交通流仿真以及可用平台有哪些？](https://www.jiqizhixin.com/articles/2020-06-16-15)
+
+18. [Toyota, MIT sharing self-driving car data](https://www.todaysmotorvehicles.com/article/toyota-mit-autonomous-drive-data-sharing-video/)
+
+19. [Tesla is looking to hire Autopilot test drivers in Austin](https://www.reddit.com/r/SelfDrivingCars/comments/harze2/tesla_is_looking_to_hire_autopilot_test_drivers/)
+
+20. [The Human Experience of Self-Driving Cars (Podcast with Ryan Powell of Waymo)](https://www.reddit.com/r/SelfDrivingCars/comments/haf9r3/the_human_experience_of_selfdriving_cars_podcast/)
