@@ -43,3 +43,22 @@ categories: Mobility
 19. [Tesla is looking to hire Autopilot test drivers in Austin](https://www.reddit.com/r/SelfDrivingCars/comments/harze2/tesla_is_looking_to_hire_autopilot_test_drivers/)
 
 20. [The Human Experience of Self-Driving Cars (Podcast with Ryan Powell of Waymo)](https://www.reddit.com/r/SelfDrivingCars/comments/haf9r3/the_human_experience_of_selfdriving_cars_podcast/)
+
+21. [买新能源车的人，变心了](https://www.huxiu.com/article/363651.html)
+
+22. [Nikola股价飙升背后：再造特斯拉，还是PPT造车？](https://www.huxiu.com/article/363626.html)
+
+23. [比亚迪「上天」，特斯拉「入地」](https://36kr.com/p/756989617776643)
+
+24. [专访腾讯自动驾驶苏奎峰：死磕软件，不造车，是腾讯的边界](https://36kr.com/p/756756753311495)
+
+25. [吉利计划回归A股，或成为科创板首家整车上市公司](https://36kr.com/p/756556686534148)
+
+26. [马斯克称“星舰”将在2年内试飞，纽约到上海只需39分钟](https://36kr.com/p/756493689710087)
+
+27. [北汽新能源拟发行30亿公司债券，总经理仍在选聘中](https://36kr.com/p/756525603251720)
+
+28. [百度大脑勇夺CVPR2020智能交通顶赛4项世界冠军，助攻Apollo更强大](https://www.jiqizhixin.com/articles/2020-06-18-12)
+
+29. [百度联合中国发展研究基金会发布智能经济白皮书：新基建 正当时](https://www.jiqizhixin.com/articles/2020-06-18-11)
+
