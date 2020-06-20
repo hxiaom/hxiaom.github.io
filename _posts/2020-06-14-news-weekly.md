@@ -62,3 +62,14 @@ categories: Mobility
 
 29. [百度联合中国发展研究基金会发布智能经济白皮书：新基建 正当时](https://www.jiqizhixin.com/articles/2020-06-18-11)
 
+30. [下单东航3322元「随心飞」之前，这几个「坑」你需要看清楚](https://36kr.com/p/759481016887814)
+
+31. [美国运输部向自动驾驶汽车运营商收集数据](https://www.jiqizhixin.com/dailies/f72cb31e-48c2-4db7-a418-32715624a3ed)
+
+32. [宝马和奔驰暂时停止长期自动驾驶联盟](https://www.jiqizhixin.com/dailies/3279ba04-7467-4a9b-a8e4-838129707668)
+
+33. [How Does China’s Nio Compare With Tesla?](https://www.trefis.com/stock/tsla/articles/490278/how-does-chinas-nio-compare-with-tesla/2020-06-17)
+
+34. [Tesla admits its approach to self-driving is harder but might be only way to scale](https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/)
+
+35. [Safety Innovation at Zoox. Ep. 1: The Zoox Safety Philosophy](https://www.reddit.com/r/SelfDrivingCars/comments/hbiqit/safety_innovation_at_zoox_ep_1_the_zoox_safety/)
