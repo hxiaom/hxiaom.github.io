@@ -37,3 +37,19 @@ categories: Mobility
 16. [Lyft 2020 Self-Driving Safety Report](https://self-driving.lyft.com/wp-content/uploads/2020/06/Safety_Report_2020.pdf)
 
 17. [Drago Anguelov - Machine Learning for Autonomous Driving at Scale](https://www.reddit.com/r/SelfDrivingCars/comments/hdr07l/drago_anguelov_machine_learning_for_autonomous/)
+
+18. [独家：头部新造车这场硬仗怎么打，我们和威马CEO沈晖聊了1小时](https://36kr.com/p/764103706061575)
+
+19. [腾讯斥资7000万增持蔚来，能否投出第二个特斯拉？](https://36kr.com/p/764036936673800)
+
+20. [滴滴出行：2030年将拥有100万辆自动驾驶网约车](https://tech.sina.com.cn/i/2020-06-23/doc-iircuyvk0094718.shtml)
+
+21. [CMU研究人员解锁大量自动驾驶数据方法](https://www.jiqizhixin.com/dailies/6381bfcf-d905-43f0-b5a8-00f8e1c632f7)
+
+22. [NVIDIA 与梅赛德斯合作创建下一代车载计算机](https://www.jiqizhixin.com/dailies/96003987-9782-413a-ada6-ecb3724bfa03)
+
+23. [Live NVIDIA Automotive Media Event By Jensen Huang](https://www.nvidia.com/en-us/events/automotive-press-conference/)
+
+24. [The Coming Dawn of Self-Driven Cars with Oliver Cameron](https://ark-invest.com/podcast/fyi-ep70-voyage/)
+
+25. [Accelerating Autonomous Driving with Lyft’s Ridesharing Data](https://medium.com/lyftlevel5/accelerating-autonomous-driving-with-lyfts-ridesharing-data-b547f960d027)
