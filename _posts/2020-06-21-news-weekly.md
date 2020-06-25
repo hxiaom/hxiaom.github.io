@@ -53,3 +53,17 @@ categories: Mobility
 24. [The Coming Dawn of Self-Driven Cars with Oliver Cameron](https://ark-invest.com/podcast/fyi-ep70-voyage/)
 
 25. [Accelerating Autonomous Driving with Lyft’s Ridesharing Data](https://medium.com/lyftlevel5/accelerating-autonomous-driving-with-lyfts-ridesharing-data-b547f960d027)
+
+26. [焦虑的滴滴，匆匆杀入拉货生意](https://www.huxiu.com/article/364920.html)
+
+27. [中保研到底有没有被充值？](https://www.huxiu.com/article/364869.html)
+
+28. [传理想汽车获美团领投D轮融资，回应称：不予置评](https://36kr.com/p/765483940721414)
+
+29. [2020世界智能驾驶挑战赛拉开帷幕](https://www.jiqizhixin.com/dailies/12e1b6fb-3700-49fd-9b2f-7567cda5d56a)
+
+30. [成都与百度Apollo签署战略合作，蓉城市民有望打上无人车](https://www.jiqizhixin.com/dailies/f5864be0-599b-43a1-9e0e-db9ee7965593)
+
+31. [高深智图与京东无人配送车达成合作，在苏州运营L4自动驾驶无人配送业务](https://www.jiqizhixin.com/dailies/f9b31861-176a-45ca-a71e-05bc22be5008)
+
+32. [陆奇：9页PPT，详解AI创业最活跃的领域](https://www.jiqizhixin.com/articles/2020-06-24-10)
