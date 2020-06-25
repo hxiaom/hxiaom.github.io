@@ -67,3 +67,7 @@ categories: Mobility
 31. [高深智图与京东无人配送车达成合作，在苏州运营L4自动驾驶无人配送业务](https://www.jiqizhixin.com/dailies/f9b31861-176a-45ca-a71e-05bc22be5008)
 
 32. [陆奇：9页PPT，详解AI创业最活跃的领域](https://www.jiqizhixin.com/articles/2020-06-24-10)
+
+33. [拜腾美国办公室将于6月30日前裁员，中国区员工被欠薪1亿元](https://36kr.com/p/766601585046792)
+
+34. [Volvo will use Waymo’s self-driving technology to power a fleet of electric robotaxis](https://www.theverge.com/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi)
