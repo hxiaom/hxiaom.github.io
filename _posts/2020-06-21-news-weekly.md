@@ -71,3 +71,15 @@ categories: Mobility
 33. [拜腾美国办公室将于6月30日前裁员，中国区员工被欠薪1亿元](https://36kr.com/p/766601585046792)
 
 34. [Volvo will use Waymo’s self-driving technology to power a fleet of electric robotaxis](https://www.theverge.com/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi)
+
+35. [滴滴顺风车为什么“难产”？](https://www.huxiu.com/article/365154.html)
+
+36. [共享电单车2020：烧钱烧不出新巨头，小城打响厮杀第一枪](https://36kr.com/p/769132463928840)
+
+37. [撤！撤！撤！2020，车企大收缩](https://36kr.com/p/769073481610504)
+
+38. [亚马逊收购自动驾驶初创公司 Zoox](https://www.jiqizhixin.com/dailies/f6254360-0080-4c7c-94ef-3a4483029ef8)
+
+39. [50 多个国家达成自动驾驶共同法规](https://www.jiqizhixin.com/dailies/3ce1a432-0ec6-4739-b27e-41617b77dbc0)
+
+40. [TuSimple seeking $250 million in new funding to scale self-driving trucks](https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/)
