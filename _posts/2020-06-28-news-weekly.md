@@ -35,3 +35,35 @@ categories: Mobility
 15. [IPO前，滴滴急需一场全面胜利](https://36kr.com/p/772005022266624)
 
 16. [滴滴自动驾驶网约车服务上线，上海用户可通过APP申请试乘](https://www.jiqizhixin.com/articles/2020-06-28-5)
+
+17. [仙途智能与瑞士博雄成立合资公司WIBOT，在欧美市场落地自动驾驶环卫清扫车](https://36kr.com/p/774195303857929)
+
+18. [Waymo 将在美国西南部扩展自动驾驶卡车测试](https://www.jiqizhixin.com/dailies/af719698-74b2-474b-928f-f01a336c80e8)
+
+19. [起底“花小猪”：滴滴新马甲，打车版“拼多多”](https://www.huxiu.com/article/366013.html)
+
+20. [吉利汽车已启动科创版上市辅导，科创板即将迎来整车第一股](https://36kr.com/p/776337123594629)
+
+21. [「图森未来」启动全球首个无人驾驶货运网络，计划2024年拓展至美国48个州](https://36kr.com/p/776291140714889)
+
+22. [5月全球电动车销量榜：特斯拉五连冠，蔚来首次冲进前二十](https://36kr.com/p/776327205618055)
+
+23. [550亿美元天价薪酬再惹争议，马斯克或将被“赶出”特斯拉董事会](https://36kr.com/p/776305347166599)
+
+24. [特斯拉为何值2000亿美金？](https://36kr.com/p/776186920386947)
+
+25. [史上最严国六标准落地，国内零部件企业有望弯道超车](https://36kr.com/p/775356452258434)
+
+26. [广汽蔚来首轮融资基本敲定，下半年将进入发力快车道？](https://36kr.com/p/774934835790464)
+
+27. [广州自动驾驶有望取消安全员，真正的无人车即将上路](https://36kr.com/p/774880381321600)
+
+28. [中关村52条自动驾驶测试路全开放](https://www.jiqizhixin.com/dailies/5397aaa2-e285-4f28-b2af-2339e29fc65f)
+
+29. [德勤：2030年中国自动驾驶车辆将达3000万辆](https://www.jiqizhixin.com/dailies/533050b0-04f0-429b-9534-0681df0d1f72)
+
+30. [普渡科技完成过亿级别B轮融资 由美团独家投资](https://www.jiqizhixin.com/articles/2020-07-01)
+
+31. [Self-driving cars will revolutionize Google Search](https://www.reddit.com/r/SelfDrivingCars/comments/hjhyjl/selfdriving_cars_will_revolutionize_google_search/)
+
+32. [Momenta Self-Driving (MSD) Demo](https://www.reddit.com/r/SelfDrivingCars/comments/hjae09/momenta_selfdriving_msd_demo/)
