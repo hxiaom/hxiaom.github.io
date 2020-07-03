@@ -67,3 +67,9 @@ categories: Mobility
 31. [Self-driving cars will revolutionize Google Search](https://www.reddit.com/r/SelfDrivingCars/comments/hjhyjl/selfdriving_cars_will_revolutionize_google_search/)
 
 32. [Momenta Self-Driving (MSD) Demo](https://www.reddit.com/r/SelfDrivingCars/comments/hjae09/momenta_selfdriving_msd_demo/)
+
+33. [贾跃亭“下周回国”前，要渡劫的5个关键问题](https://36kr.com/p/777548245621894)
+
+34. [理想汽车再“续血”，明年将赴港IPO？](https://36kr.com/p/775430567692678)
+
+35. [尽管面临新冠大流行和工厂停工 特斯拉仍交付了 9 万多辆汽车](https://www.jiqizhixin.com/dailies/30ed5ae3-8380-406f-8e83-a02e268bde08)
