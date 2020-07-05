@@ -73,3 +73,13 @@ categories: Mobility
 34. [理想汽车再“续血”，明年将赴港IPO？](https://36kr.com/p/775430567692678)
 
 35. [尽管面临新冠大流行和工厂停工 特斯拉仍交付了 9 万多辆汽车](https://www.jiqizhixin.com/dailies/30ed5ae3-8380-406f-8e83-a02e268bde08)
+
+36. [接连获得新投资：蔚来有了未来，理想也有了理想](https://36kr.com/p/778216704744323)
+
+37. [留给董小姐「拯救」中国汽车的时间不多了](https://36kr.com/p/779215268912009)
+
+38. [11家中国汽车零部件商入选全球百强榜，行业平均利润率不足6%](https://36kr.com/p/778245414558850)
+
+39. [激光雷达Velodyne宣布将「借壳」上市，预计市值约18亿美元](https://www.jiqizhixin.com/dailies/95e384f0-95f3-477f-8ed4-2c9436e33683)
+
+40. [First-time rider amazed by how WeRide Robotaxi dealt with complex traffic scenario](https://www.reddit.com/r/SelfDrivingCars/comments/hkmqf2/firsttime_rider_amazed_by_how_weride_robotaxi/)
