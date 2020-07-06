@@ -83,3 +83,4 @@ categories: Mobility
 39. [激光雷达Velodyne宣布将「借壳」上市，预计市值约18亿美元](https://www.jiqizhixin.com/dailies/95e384f0-95f3-477f-8ed4-2c9436e33683)
 
 40. [First-time rider amazed by how WeRide Robotaxi dealt with complex traffic scenario](https://www.reddit.com/r/SelfDrivingCars/comments/hkmqf2/firsttime_rider_amazed_by_how_weride_robotaxi/)
+
