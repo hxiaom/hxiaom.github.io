@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News Weekly (2020.06.28-2020.07.04) 
+title: News Weekly (2020.07.05-2020.07.11) 
 categories: Mobility
 ---
 
@@ -19,3 +19,11 @@ categories: Mobility
 7. [Aurora Innovation - Our Independent Path to Commercialization](https://medium.com/aurora-blog/our-independent-path-to-commercialization-c1d536852ac6)
 
 8. [Waymo's Lidar Plan: How's It Working out?](https://www.reddit.com/r/SelfDrivingCars/comments/hm883j/waymos_lidar_plan_hows_it_working_out/)
+
+9. [特斯拉将在亚洲新建工厂，可能落户日本或韩国](https://36kr.com/p/783461933904001)
+
+10. [Basemark 为其自动驾驶汽车图形软件筹集 790 万美元](https://www.jiqizhixin.com/dailies/f1cc61b2-ddf0-40a1-be61-fa43c79aec27)
+
+11. ["Mobileye could leave Israel in an instant"](https://en.globes.co.il/en/article-regulation-worries-amnon-shashua-we-could-move-operations-in-an-instant-1001334862)
+
+12. [Toyota presents new Lexus LS500 with 4 lidars](https://www.reddit.com/r/SelfDrivingCars/comments/hmrja0/toyota_presents_new_lexus_ls500_with_4_lidars/)
