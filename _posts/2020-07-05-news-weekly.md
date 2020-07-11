@@ -63,3 +63,19 @@ categories: Mobility
 29. [Coronavirus Scrambles Self-Driving Race, Pushing Nuro’s Delivery Bots To Front Of The Pack](https://www.forbes.com/sites/alanohnsman/2020/07/09/coronavirus-scrambles-self-driving-race-pushing-nuros-delivery-bots-to-front-of-the-pack/#7f7aa6794a15)
 
 30. [Webinar: Will the First Autonomous Vehicles Deliver Packages, Not People? ](https://www.reddit.com/r/SelfDrivingCars/comments/ho51qy/webinar_will_the_first_autonomous_vehicles/)
+
+31. [冲刺纳斯达克，理想汽车提交IPO招股书](https://www.huxiu.com/article/368303.html)
+
+32. [理想赴美上市，蔚来不再孤单](https://36kr.com/p/789152973129479)
+
+33. [理想汽车投资人黄明明：伟大的项目早期总是反共识，有一个算一个](https://36kr.com/p/785480230580872)
+
+34. [蔚来中国与6家银行展开战略合作，获104亿元综合授信](https://36kr.com/p/787716846744197)
+
+35. [文远知行WeRide获全国首个远程测试许可，开始全无人驾驶路测](https://36kr.com/p/787604848243074)
+
+36. [华人运通与微软开启战略合作，高合首款量产车将搭载HiPhiGo](https://36kr.com/p/787737561035399)
+
+37. [博郡梦碎造车：首款车停在PPT，亏8亿无人接盘，一盘好棋被谁下烂？](https://36kr.com/p/788181190755849)
+
+38. [陆奇对话Gary Marcus：面对技术缺陷、伦理争议和实践缺失的当下，如何构建可信AI？](https://www.jiqizhixin.com/articles/2020-07-11-7)
