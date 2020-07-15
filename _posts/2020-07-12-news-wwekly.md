@@ -50,3 +50,14 @@ categories: Mobility
 
 23. [Vladlen Koltun: Autonomous Driving - The Way Forward (ICML 2020)](https://www.reddit.com/r/SelfDrivingCars/comments/hqh1ci/vladlen_koltun_autonomous_driving_the_way_forward)
 
+24. [没搞笑，高德上线了“查岗功能”](https://www.huxiu.com/article/368929.html)
+
+25. [上半年汽车出口跌去两成，下半年还能逆风翻盘吗？](https://36kr.com/p/794762301902596)
+
+26. [腾讯增持蔚来，美团押注理想：新造车驶入资本厮杀2.0时代](https://36kr.com/p/793789300231684)
+
+27. [5年花了70亿，“抠门”的李想把钱花哪儿了？](https://36kr.com/p/793782161837827)
+
+28. [德国法院禁止特斯拉广告宣传「自动驾驶」：误导消费者](https://www.jiqizhixin.com/dailies/fb839508-de17-4104-99e6-ac15f6e4bdab)
+
+29. [亚马逊推出智能实体购物车](https://www.jiqizhixin.com/dailies/093eaa20-5848-448e-b372-43b8c43234ee)
