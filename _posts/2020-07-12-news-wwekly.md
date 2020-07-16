@@ -61,3 +61,15 @@ categories: Mobility
 28. [德国法院禁止特斯拉广告宣传「自动驾驶」：误导消费者](https://www.jiqizhixin.com/dailies/fb839508-de17-4104-99e6-ac15f6e4bdab)
 
 29. [亚马逊推出智能实体购物车](https://www.jiqizhixin.com/dailies/093eaa20-5848-448e-b372-43b8c43234ee)
+
+30. [到三四线去开店，蔚来、特斯拉们打响地面战](https://www.huxiu.com/article/369219.html)
+
+31. [我在长沙“造”车，没人开的那种](https://www.huxiu.com/article/369231.html)
+
+32. [梁建章：点赞跨省游放开， 希望“土政策”不再成壁垒](https://www.huxiu.com/article/369077.html)
+
+33. [「图森未来」获美国卡车制造商Navistar投资，将合作量产自动驾驶卡车](https://36kr.com/p/795504967329027)
+
+34. [恒大整车研究院院长离职，首款车型仍将在今年发布](https://36kr.com/p/795087753907977)
+
+35. [TensorFlow惊现大bug？网友：这是逼着我们用PyTorch啊！](https://www.jiqizhixin.com/articles/2020-07-15-12)
