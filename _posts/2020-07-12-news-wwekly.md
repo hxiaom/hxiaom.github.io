@@ -73,3 +73,15 @@ categories: Mobility
 34. [恒大整车研究院院长离职，首款车型仍将在今年发布](https://36kr.com/p/795087753907977)
 
 35. [TensorFlow惊现大bug？网友：这是逼着我们用PyTorch啊！](https://www.jiqizhixin.com/articles/2020-07-15-12)
+
+36. [揭开“皇帝的新衣”，理想汽车到底值多少钱？](https://www.huxiu.com/article/369495.html)
+
+37. [特斯拉又双叒撞了，这次是警车](https://www.huxiu.com/article/369344.html)
+
+38. [同比下降45.8%，PSA今年上半年销量103万辆，中国市场展开新能源攻势](https://36kr.com/p/797566015087877)
+
+39. [“别做特斯拉第一批小白鼠”？前质量副总裁曝安全内幕](https://36kr.com/p/796189310297344)
+
+40. [详解哈啰、滴滴、美团的电单车之战](https://36kr.com/p/796167630546177)
+
+41. [Mobileye Starts Testing Self-Driving Vehicles in Germany](https://www.reddit.com/r/SelfDrivingCars/comments/hsak7u/mobileye_starts_testing_selfdriving_vehicles_in/)
