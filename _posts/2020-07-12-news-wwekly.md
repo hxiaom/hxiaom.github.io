@@ -85,3 +85,17 @@ categories: Mobility
 40. [详解哈啰、滴滴、美团的电单车之战](https://36kr.com/p/796167630546177)
 
 41. [Mobileye Starts Testing Self-Driving Vehicles in Germany](https://www.reddit.com/r/SelfDrivingCars/comments/hsak7u/mobileye_starts_testing_selfdriving_vehicles_in/)
+
+42. [快充还是换电？哪个才是“电动爹”的最优解！](https://www.huxiu.com/article/369742.html)
+
+43. [AutoX获全球第二张、中国首个加州全无人驾驶载人牌照](https://36kr.com/p/799141045969924)
+
+44. [重庆衰落“徽军”崛起，谁是下一个中国底特律？](https://36kr.com/p/798957193307395)
+
+45. [年入1.4万亿也要抱团取暖，联盟会成为车企的救命稻草吗？](https://36kr.com/p/798047788197123)
+
+46. [专访禾多创始人倪凯：大批量「上车」至关重要](https://36kr.com/p/797986882315520)
+
+47. [大众汽车2020年上半年在华交付116.78万辆，同比下跌39%](https://36kr.com/p/797930270008581)
+
+48. [吴恩达教你读论文：持续而缓慢的学习，才是正道](https://www.jiqizhixin.com/articles/2020-07-17-6)
