@@ -11,3 +11,9 @@ categories: Mobility
 3. [Hesai makes 16-beam 905 nm spinning lidar with 500 m range](https://www.reddit.com/r/SelfDrivingCars/comments/htouhw/hesai_makes_16beam_905_nm_spinning_lidar_with_500/)
 
 4. [Self-driving cars need to learn how to do this](https://www.reddit.com/r/SelfDrivingCars/comments/hsr6ub/selfdriving_cars_need_to_learn_how_to_do_this/)
+
+5. [理想汽车赴美上市，国产新能源汽车的理想与现实](https://36kr.com/p/799282077052419)
+
+6. [进击的特斯拉：软件定义汽车之王](https://mp.weixin.qq.com/s/b4PoQKfG--76dyQdD5wbsg)
+
+7. [Special Report on TRI, Silicon Valley](https://www.reddit.com/r/SelfDrivingCars/comments/hu0uyf/special_report_on_tri_silicon_valley/)
