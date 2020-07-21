@@ -57,3 +57,13 @@ categories: Mobility
 26. [MIT警告深度学习正在逼近计算极限，网友：放缓不失为一件好事](https://www.jiqizhixin.com/articles/2020-07-20-13)
 
 27. [Read a paper: A Comprehensive Study of Autonomous Vehicle Bugs](https://www.youtube.com/watch?v=-SiEEntYv5U&feature=youtu.be)
+
+28. [2019年流入人口TOP10城市：第二你猜不到](https://www.huxiu.com/article/370381.html)
+
+29. [一年净赚近200亿，“代工巨头”富士康能否实现苹果与戴森的未竟理想？](https://36kr.com/p/803638865470468)
+
+30. [到嘴边的神州租车，上汽为什么不要了？](https://36kr.com/p/803144597827328)
+
+31. [中汽协预计全年车市降幅或在10%以内，下半年整体向好](https://36kr.com/p/803281622459651)
+
+32. [Velodyne and Hesai Cross licensing agreement](https://www.reddit.com/r/SelfDrivingCars/comments/hv7ux3/velodyne_and_hesai_cross_licensing_agreement/)
