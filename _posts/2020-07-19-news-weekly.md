@@ -67,3 +67,23 @@ categories: Mobility
 31. [中汽协预计全年车市降幅或在10%以内，下半年整体向好](https://36kr.com/p/803281622459651)
 
 32. [Velodyne and Hesai Cross licensing agreement](https://www.reddit.com/r/SelfDrivingCars/comments/hv7ux3/velodyne_and_hesai_cross_licensing_agreement/)
+
+33. [从蔚来到电动汽车新势力的深度思考（上）](https://www.huxiu.com/article/370198.html)
+
+34. [“平均通勤距离”排名，哪个城市的规划最好？](https://www.huxiu.com/article/370783.html)
+
+35. [外卖时代](https://www.huxiu.com/collection/125.html)
+
+36. [戴姆勒或在全球裁员3万人，目标削减人力成本近162亿元](https://36kr.com/p/806062504703495)
+
+37. [特斯拉值3000亿美元吗？](https://36kr.com/p/806044384638728)
+
+38. [蔚来将成立电池资产公司，宁德时代有望投资](https://36kr.com/p/805071619012357)
+
+39. [一辆车没造的Nikola市值凭什么超过福特？](https://36kr.com/p/805427780580864)
+
+40. [砸下100亿，现在又一个富豪迷上造车](https://36kr.com/p/805168069375745)
+
+41. [博世筹建智能驾驶与控制事业部，向电子与软件供应商转型](https://36kr.com/p/804719817843968)
+
+42. [Waymo, Fiat Chrysler expand autonomous vehicle partnership](https://blog.waymo.com/2020/07/waymo-and-fiat-chrysler-automobiles-fca.html)
