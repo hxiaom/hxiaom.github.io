@@ -87,3 +87,15 @@ categories: Mobility
 41. [博世筹建智能驾驶与控制事业部，向电子与软件供应商转型](https://36kr.com/p/804719817843968)
 
 42. [Waymo, Fiat Chrysler expand autonomous vehicle partnership](https://blog.waymo.com/2020/07/waymo-and-fiat-chrysler-automobiles-fca.html)
+
+43. [对蔚来汽车产品及技术的深度思考（中）](https://www.huxiu.com/article/370726.html)
+
+44. [对蔚来汽车的财务分析（中）](https://www.huxiu.com/article/370727.html)
+
+45. [丰田“皇长孙”之野望](https://www.huxiu.com/article/367910.html)
+
+46. [MIT最新报告：完全无人驾驶仍需10年，马斯克：特斯拉已经实现](https://36kr.com/p/806454690035206)
+
+47. [毫米波雷达智能感知企业「清雷科技」完成数千万元人民币天使轮融资](https://www.jiqizhixin.com/dailies/1dfe6bd9-cb02-4670-807c-3c27477cab83)
+
+48. [Elon Musk on Tesla Self-Driving: ‘I can almost go from my house to work with no intervention’](https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/?__twitter_impression=true)
