@@ -99,3 +99,5 @@ categories: Mobility
 47. [毫米波雷达智能感知企业「清雷科技」完成数千万元人民币天使轮融资](https://www.jiqizhixin.com/dailies/1dfe6bd9-cb02-4670-807c-3c27477cab83)
 
 48. [Elon Musk on Tesla Self-Driving: ‘I can almost go from my house to work with no intervention’](https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/?__twitter_impression=true)
+
+49. [滴滴驶入命运十字路口：融资上市，还是与美团合并？](https://zhuanlan.zhihu.com/p/163354739)
