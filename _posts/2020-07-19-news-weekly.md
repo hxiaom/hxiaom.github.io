@@ -101,3 +101,25 @@ categories: Mobility
 48. [Elon Musk on Tesla Self-Driving: ‘I can almost go from my house to work with no intervention’](https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/?__twitter_impression=true)
 
 49. [滴滴驶入命运十字路口：融资上市，还是与美团合并？](https://zhuanlan.zhihu.com/p/163354739)
+
+50. [特斯拉背后的上海交大理工男，“赌”出来的福建首富](https://www.huxiu.com/article/371195.html)
+
+51. [小蓝车反围剿：下沉、联姻、阿里味](https://www.huxiu.com/article/371209.html)
+
+52. [马斯克麾下SpaceX拟融资10亿美元，估值飙涨近百亿至440亿美元](https://36kr.com/p/807471188951430)
+
+53. [Car.Software 危机：大众汽车为什么栽在软件上？](https://36kr.com/p/807474198659465)
+
+54. [理想汽车预计将于下周一开簿，7月底正式登陆纳斯达克，主动承担补贴差价，理想ONE零售价保持不变](https://36kr.com/p/807543985029513)
+
+55. [传威马汽车最快今年在科创板IPO，估值超43亿美元](https://36kr.com/p/807581289103494)
+
+56. [专访比亚迪弗迪动力张楠：全新动力总成率先“上车”宋PLUS，将和外部品牌合作](https://36kr.com/p/807920026222983)
+
+57. [捷豹路虎推出人工智能驱动的汽车「无触摸触摸屏」](https://www.jiqizhixin.com/dailies/fccd6071-05f9-4d68-8e0f-014f61309c0a)
+
+58. [又开始「挤牙膏」？英特尔7纳米芯片发布时间推迟到2022年](https://www.jiqizhixin.com/articles/2020-07-24-4)
+
+59. [百度人工智能2020上半年总结：战“疫”情、兴基建、促产业智能化](https://www.jiqizhixin.com/articles/2020-07-23-13)
+
+60. [MIT forecast: autonomous vehicles won’t take truckers’ jobs](https://www.dcvelocity.com/articles/46644-mit-forecast-autonomous-vehicles-wont-take-truckers-jobs)
