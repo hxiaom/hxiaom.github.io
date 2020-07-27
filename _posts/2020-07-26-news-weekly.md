@@ -13,3 +13,9 @@ categories: Mobility
 4. [新能源汽车扎堆商圈背后的商业逻辑](https://36kr.com/p/808761541788036)
 
 5. [毕业陷入迷茫？吴恩达教你如何成为AI业界大佬](https://www.jiqizhixin.com/articles/2020-07-25-2)
+
+6. [和自动驾驶大佬聊聊：谷歌、特斯拉、滴滴自动驾驶哪家强？【下集DannyPal 03】](https://36kr.com/p/810317263634565)
+
+7. [Why Elon Musk’s autonomous driving ideas don’t worry insurers](https://www.cnbc.com/2020/07/25/why-elon-musks-autonomous-driving-ideas-dont-worry-insurers.html)
+
+8. [Why Tesla's Full Self-Driving Feature Is Taking So Long](https://www.youtube.com/watch?v=b5TZmefWNVM)
