@@ -39,3 +39,21 @@ categories: Mobility
 17. [二手车保值率达60%以上，蔚来瞄准商业模式“最后一环”](https://36kr.com/p/811723136827522)
 
 18. [Racing Robocars](https://www.youtube.com/watch?v=Qvb5n5XsDlU&feature=youtu.be&list=PLEx5khR4g7PL-JwckuOkkc5cR6X5hn6ug)
+
+19. [「易控智驾」获数千万人民币Pre-A轮融资，由紫金矿业控股股东“兴杭国投”独家投资](https://36kr.com/p/808129009123459)
+
+20. [CES 53年来首次改为线上直播，将在2022年回归拉斯维加斯](https://36kr.com/p/814564879666566)
+
+21. [北汽牵手国网建100座换电站，换电模式风口已至？](https://36kr.com/p/813120367166083)
+
+22. [财富中国500强榜单的隐藏信息：车企毛利率下滑，零部件两极分化](https://36kr.com/p/813577373615234)
+
+23. [7nm工艺延期致股价暴跌，英特尔组织架构重大调整，首席工程师下月离职](https://www.jiqizhixin.com/articles/2020-07-28-7)
+
+24. [巨头「暗战」白热化，腾讯拟全资收购搜狗，千亿搜索市场再遭分食](https://www.jiqizhixin.com/articles/2020-07-28-4)
+
+25. [拼多多还能更「接地气」：AI要和老农来一场种草莓大比拼](https://www.jiqizhixin.com/articles/2020-07-28-6)
+
+26. [RTI brings communications software to Baidu Apollo autonomous driving ecosystem](https://www.therobotreport.com/rti-communications-software-joins-baidu-apollo-self-driving/)
+
+27. [The Real-time 3D Sensing Results of RoboSense RS-Fusion-P5](https://www.reddit.com/r/SelfDrivingCars/comments/hzfojl/the_realtime_3d_sensing_results_of_robosense/)
