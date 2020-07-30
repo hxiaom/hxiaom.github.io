@@ -57,3 +57,19 @@ categories: Mobility
 26. [RTI brings communications software to Baidu Apollo autonomous driving ecosystem](https://www.therobotreport.com/rti-communications-software-joins-baidu-apollo-self-driving/)
 
 27. [The Real-time 3D Sensing Results of RoboSense RS-Fusion-P5](https://www.reddit.com/r/SelfDrivingCars/comments/hzfojl/the_realtime_3d_sensing_results_of_robosense/)
+
+28. [国产电动车的“错”，小鹏P7能不能躲过？](https://www.huxiu.com/article/372022.html)
+
+29. [日韩企业攻城掠地，但国产动力电池没有想象中悲观](https://www.huxiu.com/article/372193.html)
+
+30. [吉利沃尔沃的十年之痒](https://www.huxiu.com/article/372282.html)
+
+31. [复制特斯拉：氢燃料电池的能源革命](https://36kr.com/p/815842668350598)
+
+32. [高德：DD，你看我还有机会吗？](https://36kr.com/p/815376594270208)
+
+33. [BATH车联网探路，字节来搅局？](https://36kr.com/p/815793219571072)
+
+34. [重磅：马斯克称将开放自动驾驶技术授权，还要卖动力电池](https://36kr.com/p/814962423516547)
+
+35. [TuSimple, a global autonomous trucking technology company, has announced the launch of the world's first Autonomous Freight Network](https://www.youtube.com/watch?v=Nirmqw11N3c&feature=youtu.be)
