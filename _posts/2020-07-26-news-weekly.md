@@ -73,3 +73,19 @@ categories: Mobility
 34. [重磅：马斯克称将开放自动驾驶技术授权，还要卖动力电池](https://36kr.com/p/814962423516547)
 
 35. [TuSimple, a global autonomous trucking technology company, has announced the launch of the world's first Autonomous Freight Network](https://www.youtube.com/watch?v=Nirmqw11N3c&feature=youtu.be)
+
+36. [你猜，兰博基尼中国车主平均年龄多大？](https://www.huxiu.com/article/372568.html)
+
+37. [首日开盘即涨50%，还原投资人眼中的理想汽车](https://www.huxiu.com/article/372581.html)
+
+38. [松下计划将特斯拉电池能量密度提升20%，2-3年推出无钴电池](https://36kr.com/p/817368321037445)
+
+39. [百度Apollo全球首个量产自动驾驶计算平台下线，年内应用于威马汽车](https://36kr.com/p/817359760758147)
+
+40. [理想成功IPO，我们和它的投资人聊了聊李想与理想](https://36kr.com/p/817269526558722)
+
+41. [个人用户占比超七成，新造车聚焦C端市场初见成效](https://36kr.com/p/816237027579268)
+
+42. [“鹰翼门”关不上，“幽灵刹车”事件不断，特斯拉销量飙升背后藏隐患？](https://36kr.com/p/816055159639429)
+
+43. [特斯拉计划发行债券融资7.8亿美元，汽车租约成抵押品](https://36kr.com/p/816210702193793)
