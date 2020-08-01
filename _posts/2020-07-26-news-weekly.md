@@ -89,3 +89,25 @@ categories: Mobility
 42. [“鹰翼门”关不上，“幽灵刹车”事件不断，特斯拉销量飙升背后藏隐患？](https://36kr.com/p/816055159639429)
 
 43. [特斯拉计划发行债券融资7.8亿美元，汽车租约成抵押品](https://36kr.com/p/816210702193793)
+
+44. [国产汽车新十年：“蔚来”已来，“理想”何在？](https://www.huxiu.com/article/372633.html)
+
+45. [靠汽车电线做上市的沪光股份，厉害在哪儿？](https://www.huxiu.com/article/372624.html)
+
+46. [海外汽配市场还撑得住这家即将上市的温州公司吗？](https://www.huxiu.com/article/372623.html)
+
+47. [反向特斯拉：理想的财富密码](https://www.huxiu.com/article/372755.html)
+
+48. [自动驾驶初创公司「Argo AI」最新估值75亿美元，由大众集团和福特汽车共同控股](https://36kr.com/p/818144552082569)
+
+49. [网约车巨头Lyft的新动作：与Sixt合作，扩大美国汽车租赁业务](https://36kr.com/p/818105958505858)
+
+50. [华兴资本包凡谈新造车：李斌是自上而下，李想是自内而外](https://36kr.com/p/817739770729608)
+
+51. [滴滴智慧交通推出滴滴信控系统基础版，面向行业用户开放试用](https://www.jiqizhixin.com/dailies/488b81da-55a9-44ae-90ea-02bcaba8c336)
+
+52. [Ibeo成为长城汽车首个量产激光雷达供应商](https://www.jiqizhixin.com/articles/2020-07-31-10)
+
+53. [千寻位置启动全球最大规模北斗高精度定位路测](https://www.jiqizhixin.com/articles/2020-07-31-3)
+
+54. [XPILOT 3.0 Traffic Light Recognition](https://www.reddit.com/r/SelfDrivingCars/comments/i0zci0/xpilot_30_traffic_light_recognition_xpeng_p7/)
