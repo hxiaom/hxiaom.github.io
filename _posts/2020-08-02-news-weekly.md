@@ -29,3 +29,19 @@ categories: Mobility
 12. [阿里秘密洽谈投资享道出行：智慧出行赛道反击腾讯](https://36kr.com/p/821520293371270)
 
 13. [特斯拉报告：自动驾驶每 453 万英里 1 起事故，明显改善](https://www.jiqizhixin.com/dailies/ee15317e-d450-439b-a3be-1afe18630bf9)
+
+14. [中国电动双轮车市场有多大？](https://www.huxiu.com/article/373413.html)
+
+15. [“我不是美国贾跃亭”](https://www.huxiu.com/article/373437.html)
+
+16. [3700亿元估值，超越SpaceX，滴滴值得吗？](https://36kr.com/p/823484745571714)
+
+17. [手柄代替方向盘？宝马自动驾驶新专利曝光](https://36kr.com/p/823033330883719)
+
+18. [蔚来决定“砍”电池两刀](https://36kr.com/p/822253930405765)
+
+19. [SpaceX载人龙飞船成功返航，马斯克：当太空旅行变得普遍，文明的未来将得到保证](https://www.jiqizhixin.com/articles/2020-08-03-9)
+
+20. [张一鸣发全员信同步TikTok进展：积极配合调查，不放弃任何可能性](https://www.jiqizhixin.com/articles/2020-08-03-10)
+
+21. [RoboSense 80 Laser-Beam LiDAR RS-Ruby Lite Is Officially for Sale, Early-Bird Price $12,800](https://www.reddit.com/r/SelfDrivingCars/comments/i3s4tc/robosense_80_laserbeam_lidar_rsruby_lite_is/)
