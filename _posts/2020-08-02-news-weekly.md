@@ -45,3 +45,23 @@ categories: Mobility
 20. [张一鸣发全员信同步TikTok进展：积极配合调查，不放弃任何可能性](https://www.jiqizhixin.com/articles/2020-08-03-10)
 
 21. [RoboSense 80 Laser-Beam LiDAR RS-Ruby Lite Is Officially for Sale, Early-Bird Price $12,800](https://www.reddit.com/r/SelfDrivingCars/comments/i3s4tc/robosense_80_laserbeam_lidar_rsruby_lite_is/)
+
+22. [​蔚来、小鹏与理想的“隆中对”](https://www.huxiu.com/article/373551.html)
+
+23. [当特斯拉的屠刀真实落下](https://www.huxiu.com/article/373479.html)
+
+24. [蔚来的“投名状”](https://www.huxiu.com/article/373870.html)
+
+25. [宁德时代再获大订单，将成为奔驰头部电池供应商](https://36kr.com/p/825890763562119)
+
+26. [中国共享服务在日本遇到的2个障碍](https://36kr.com/p/825840653163651)
+
+27. [小鹏不是小米](https://36kr.com/p/825761370283138)
+
+28. [威马内部生变：联合创始人陆斌离职，年内另有多名高管出走](https://36kr.com/p/825733724380546)
+
+29. [李想感叹特斯拉销量碾压所有品牌，揭秘“赢的原因很初级”](https://36kr.com/p/824744940018821)
+
+30. [“真大屏、假智能”当道，智能汽车如何找到爆点？](https://36kr.com/p/824911700040839)
+
+31. [前阿里巴巴机器人CEO加盟矩阵汽车](https://www.jiqizhixin.com/dailies/f83a697c-e5ca-4905-982a-b137e02670a2)
