@@ -65,3 +65,19 @@ categories: Mobility
 30. [“真大屏、假智能”当道，智能汽车如何找到爆点？](https://36kr.com/p/824911700040839)
 
 31. [前阿里巴巴机器人CEO加盟矩阵汽车](https://www.jiqizhixin.com/dailies/f83a697c-e5ca-4905-982a-b137e02670a2)
+
+32. [传小鹏汽车8月赴美IPO，是跟风还是真走到那一步了？](https://36kr.com/p/826319251071367)
+
+33. [销量被丰田反超、软件遭特斯拉吊打：大众的痛苦才刚刚开始](https://36kr.com/p/826354287992960)
+
+34. [中信证券总经理：无人驾驶可让滴滴每年节省千亿司机开支](https://www.jiqizhixin.com/dailies/1161e578-ec95-4eaf-9f39-a3642bc3116b)
+
+35. [全球首个自动驾驶商业化规则制定中](https://www.jiqizhixin.com/dailies/6b172595-e5b0-40d2-aa8f-61bc2f07fb60)
+
+36. [Anthony Levandowski, self-driving tech pioneer, sentenced to prison for stealing trade secrets](https://www.sfchronicle.com/business/article/Anthony-Levandowski-self-driving-tech-pioneer-15459192.php)
+
+37. [Lyft engineer sees self-driving as long game, calls for public prediction data](https://www.fierceelectronics.com/electronics/lyft-engineer-sees-self-driving-as-long-game-calls-for-public-prediction-data)
+
+38. [AAA automotive researchers recommend further testing on self-driving vehicles](https://www.macombdaily.com/business/aaa-automotive-researchers-recommend-further-testing-on-self-driving-vehicles/article_d6572b7e-d7f5-11ea-ab86-3f01608ebcf1.html)
+
+39. [Yandex 1-hour autonomous drive in Ann Arbor, Michigan](https://www.reddit.com/r/SelfDrivingCars/comments/i4qb8h/yandex_1hour_autonomous_drive_in_ann_arbor/)
