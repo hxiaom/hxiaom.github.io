@@ -81,3 +81,23 @@ categories: Mobility
 38. [AAA automotive researchers recommend further testing on self-driving vehicles](https://www.macombdaily.com/business/aaa-automotive-researchers-recommend-further-testing-on-self-driving-vehicles/article_d6572b7e-d7f5-11ea-ab86-3f01608ebcf1.html)
 
 39. [Yandex 1-hour autonomous drive in Ann Arbor, Michigan](https://www.reddit.com/r/SelfDrivingCars/comments/i4qb8h/yandex_1hour_autonomous_drive_in_ann_arbor/)
+
+40. [新造车竞技场：跑慢一步就是死亡](https://36kr.com/p/827144019845506)
+
+41. [吉利汽车7月销量10.52万辆，领克品牌售出1.53万辆创新高](https://36kr.com/p/827197333512585)
+
+42. [接盘神州租车，北汽烫手吗？](https://36kr.com/p/827223669596295)
+
+43. [云度公布未来5年战略规划，以智能模块化平台为核心竞争力](https://36kr.com/p/827273761841281)
+
+44. [雷克萨斯7月在华销量同比增长38.6%，电气化车型占比近4成](https://36kr.com/p/827349911789704)
+
+45. [特斯拉新开两家上海门店，重点在华布局销售网络](https://36kr.com/p/827474292400260)
+
+46. [理想ONE再遇起火事故，造车新势力如何应对产品大考？](https://36kr.com/p/827752074469768)
+
+47. [“车圈安卓”助力，几何C能否引领一次开源革命？](https://36kr.com/p/828198013084037)
+
+48. [Kaggle 提供 170 万篇文章以上的 arXiv 论文数据集](https://www.jiqizhixin.com/dailies/1f82ba59-1023-4dc4-a26a-26747da7c69a)
+
+49. [Autonomous Tesla Model 3 Test Vehicle Spotted in Belgium](https://thelastdriverlicenseholder.com/2020/08/06/autonomous-tesla-model-3-test-vehicle-spotted-in-belgium/)
