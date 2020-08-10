@@ -13,3 +13,7 @@ categories: Mobility
 4. [Jaguar's Autonomous Cars Won't Make You Feel Sick](https://carbuzz.com/news/jaguars-autonomous-cars-wont-make-you-feel-sick)
 
 5. [China Relaxes High Definition Mapping Regulations To Power Self-Driving Cars](https://www.caixinglobal.com/2020-08-08/china-relaxes-high-definition-mapping-regulations-to-power-self-driving-cars-101590569.html)
+
+6. [腹背受敌的小鹏路在何方？](https://www.huxiu.com/article/374350.html)
+
+7. [华为造芯，十年不晚，余承东：华为将在半导体全方位扎根](https://www.jiqizhixin.com/articles/2020-08-09-2)
