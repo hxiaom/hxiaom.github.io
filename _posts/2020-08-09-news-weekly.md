@@ -53,3 +53,19 @@ categories: Mobility
 24. [Why Israel’s Mobileye Is Winning the Self-Driving Race](https://www.reddit.com/r/SelfDrivingCars/comments/i7775h/why_israels_mobileye_is_winning_the_selfdriving/)
 
 25. [Interview with CEO/Co-Founder of Recogni](https://www.youtube.com/watch?v=PjOKRqrU_Qk&feature=youtu.be)
+
+26. [手握现金超 100 亿，蔚来挣脱负毛利](https://www.huxiu.com/article/374888.html)
+
+27. [李斌何小鹏同台，华为激光雷达计划曝光：半个汽车圈的大佬都说了什么？](https://36kr.com/p/833513657377416)
+
+28. [小鹏G3自燃？小鹏回应：电池箱底部有明显磕碰](https://36kr.com/p/833432403354759)
+
+29. [乘联会：7月乘用车迎来近两年最强正增长，新能源车将进入高增长周期](https://36kr.com/p/833061236073609)
+
+30. [投资蔚来，值吗？](https://36kr.com/p/832973994714240)
+
+31. [吴声：车载微信不是微信，数字化的车是人类的新器官](https://36kr.com/p/832980290347648)
+
+32. [现代汽车与 Aptiv 合作的自动驾驶汽车项目现在称为 Motional](https://www.jiqizhixin.com/dailies/d3a73cb4-6af7-4aaa-8746-5faeadf3dfd5)
+
+33. [图森未来宣布前美国代表加入顾问委员会](https://www.jiqizhixin.com/dailies/be5ac1a1-6112-4d5e-bb48-fad3b8b01b0d)
