@@ -69,3 +69,21 @@ categories: Mobility
 32. [现代汽车与 Aptiv 合作的自动驾驶汽车项目现在称为 Motional](https://www.jiqizhixin.com/dailies/d3a73cb4-6af7-4aaa-8746-5faeadf3dfd5)
 
 33. [图森未来宣布前美国代表加入顾问委员会](https://www.jiqizhixin.com/dailies/be5ac1a1-6112-4d5e-bb48-fad3b8b01b0d)
+
+34. [“摩托车大王”力帆终究还是倒下了](https://www.huxiu.com/article/374982.html)
+
+35. [Locomotion 完成针对半自动卡车车队技术的公共道路试验](https://www.jiqizhixin.com/dailies/14850bb4-b5ad-4e5f-be72-db0c6ae72275)
+
+36. [特斯拉将股票1拆5，成为仅次于苹果最受欢迎的股票](https://36kr.com/p/834333528269449)
+
+37. [特斯拉化身“卖碳翁”，上半年靠出售碳排放积分赚了近60亿元](https://36kr.com/p/834447197515140)
+
+38. [动力电池巨头战：“韩国欧巴”春风得意，“中国一哥”蛰伏追击](https://36kr.com/p/834542672882818)
+
+39. [蔚来毛利率大增，除了卖车还有两招提升毛利](https://36kr.com/p/834694731082881)
+
+40. [新势力Rivian驳斥特斯拉“盗窃技术”诉讼：就是想搞臭我们](https://36kr.com/p/834722288888963)
+
+41. [宁德时代董事长拉响警报，中国不能起大早赶晚集，欧洲电动车将反超中国](https://36kr.com/p/834737052839305)
+
+42. [「中天安驰」获亿元人民币C轮融资，为交通出行提供AIoT整体解决方案](https://36kr.com/p/833803833549441)
