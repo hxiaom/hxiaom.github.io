@@ -99,3 +99,17 @@ categories: Mobility
 47. [特斯拉7月欧洲销量崩盘，Model 3的销冠宝座拱手让出](https://36kr.com/p/835754975574151)
 
 48. [成立8年，Lyft二季度仍亏损4.371亿美元，与Uber“同病相怜”](https://36kr.com/p/835803998091653)
+
+49. [理想股价连跌5天，蔚来回到起点，新造车上市上了个寂寞？](https://36kr.com/p/837735653394441)
+
+50. [被特斯拉「嫌弃」的拼多多，早已成为凯迪拉克们的销售「大腿」](https://36kr.com/p/838620910339845)
+
+51. [续航达1000公里，丰田研发新型氟离子电池](https://36kr.com/p/837205298808580)
+
+52. [新基建下的充电基础设施，“新”在哪？](https://36kr.com/p/837128580515846)
+
+53. [华为不在“塔山”在“南泥湾”](https://www.jiqizhixin.com/articles/2020-08-13-9)
+
+54. [Elon Musk: Tesla Full Self-Driving is going to have ‘quantum leap’ w/ new rewrite, coming in ‘6 to 10 weeks’](https://electrek.co/2020/08/14/elon-musk-tesla-full-self-driving-quantum-leap-new-rewrite/)
+
+55. [Huawei makes significant investment in smart car solutions, lidar technology](https://kr-asia.com/huawei-makes-significant-investment-in-smart-car-solutions-lidar-technology)
