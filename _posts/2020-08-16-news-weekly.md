@@ -7,3 +7,6 @@ categories: Mobility
 1. [Berkeley SkyDeck startup creates ‘digital seatbelt’ for self-driving cars](https://news.berkeley.edu/2020/08/14/berkeley-skydeck-startup-creates-digital-seatbelt-for-self-driving-cars/)
 
 2. [Urban Autonomy: The Next Stage Of Self-Driving](https://www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/#7a7988847628)
+
+3. [为何拼多多特斯拉陷入纷争？](https://www.huxiu.com/article/375913.html)
+
