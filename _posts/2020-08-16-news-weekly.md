@@ -10,3 +10,10 @@ categories: Mobility
 
 3. [为何拼多多特斯拉陷入纷争？](https://www.huxiu.com/article/375913.html)
 
+4. [死磕“全自动驾驶”，马斯克的“超级怪兽”1.0最快明年完成](https://www.huxiu.com/article/376134.html)
+
+5. [Lyft 曙光未现 ，目前不值得投资](https://36kr.com/p/841999630403588)
+
+6. [AutoX自动驾驶示范应用向公众开放，上海民众可用高德打车APP免费叫车](https://36kr.com/p/840327876970240)
+
+7. [理想汽车回应“断轴”事故：系事故损坏，并非质量原因](https://36kr.com/p/841430319089668)
