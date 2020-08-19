@@ -17,3 +17,23 @@ categories: Mobility
 6. [AutoX自动驾驶示范应用向公众开放，上海民众可用高德打车APP免费叫车](https://36kr.com/p/840327876970240)
 
 7. [理想汽车回应“断轴”事故：系事故损坏，并非质量原因](https://36kr.com/p/841430319089668)
+
+8. [特斯拉交了车，拼多多也不算赢](https://www.huxiu.com/article/376430.html)
+
+9. [详细对比蔚来、理想、小鹏的财务数据后，我们得出了四点结论](https://36kr.com/p/844175735985665)
+
+10. [每秒赚63万：特斯拉股价飙涨，马斯克成全球第四大富豪](https://36kr.com/p/844089749181959)
+
+11. [汽车市场格局生变，1-7月SUV销量占比首超轿车](https://36kr.com/p/843454489988869)
+
+12. [净利润下滑43%，2020年连「自主一哥」都喊难](https://36kr.com/p/843307505405697)
+
+13. [氢能第一股上市了，但燃料电池产业依然是个“深坑”](https://36kr.com/p/843141466879878)
+
+14. [特斯拉柏林超级工厂获批下阶段建设，预计10个月建成刷新上海速度](https://36kr.com/p/843131307394825)
+
+15. [做中国的“巴博斯”，是每个汽车改装人的梦想](https://36kr.com/p/842864965285513)
+
+16. [滴滴出行CTO张博详解地图布局：智能地图已成滴滴核心技术](https://www.jiqizhixin.com/articles/2020-08-18-12)
+
+17. [Tesla is working on HW 4.0 self-driving chip with TSMC for mass production in Q4 2021, report says](https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/)
