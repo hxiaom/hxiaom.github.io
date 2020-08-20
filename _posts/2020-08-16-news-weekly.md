@@ -37,3 +37,17 @@ categories: Mobility
 16. [滴滴出行CTO张博详解地图布局：智能地图已成滴滴核心技术](https://www.jiqizhixin.com/articles/2020-08-18-12)
 
 17. [Tesla is working on HW 4.0 self-driving chip with TSMC for mass production in Q4 2021, report says](https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/)
+
+18. [广汽蔚来廖兵：硬件综合利润率将不超过1％，超出部分全部返还给用户](https://36kr.com/p/845576488949255)
+
+19. [大众出行与AutoX宣布战略合作，将在全国范围组建自动驾驶车队](https://36kr.com/p/845005079582216)
+
+20. [元戎启行与曹操出行合作，计划2022年杭州亚运会对公众开放试乘数百辆自动驾驶网约车](https://36kr.com/p/842167134914313)
+
+21. [消息称小鹏汽车计划周五提交10亿美元的美股IPO申请](https://36kr.com/p/844596079630081)
+
+22. [销量为0，马太效应加剧，汽车消费的未来是年轻化](https://36kr.com/p/844636095747844)
+
+23. [英国政府考虑将自动驾驶汽车带入高速公路场景](https://www.jiqizhixin.com/dailies/9541143d-23bb-482e-8e9e-9b260fe39897)
+
+24. [台積電7奈米 獲博通HPC訂單](https://www.chinatimes.com/newspapers/20200817000176-260202?chdtv)
