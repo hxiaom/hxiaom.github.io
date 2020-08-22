@@ -59,3 +59,21 @@ categories: Mobility
 27. [宁德时代与蔚来等成立电池资产公司，推“车电分离”新商业模式](https://36kr.com/p/846056341165576)
 
 28. [松下重启面向特斯拉的电池增产投资](https://36kr.com/p/845939227645700)
+
+29. [蔚来理想全对比：通往千亿美元的分岔路](https://www.huxiu.com/article/377078.html)
+
+30. [加州对共享经济说不：Uber与Lyft停业抗议](https://www.huxiu.com/article/377012.html)
+
+31. [蔚来总裁秦力洪解答「车电分离」：电池何以「长生不老」](https://36kr.com/p/847567548405248)
+
+32. [亏损59亿、负债62亿的小鹏距离特斯拉，还差了21个蔚来](https://36kr.com/p/847429445195526)
+
+33. [复盘滴滴小桔车服：快公司的慢生意](https://36kr.com/p/847363211663108)
+
+34. [北汽新能源官方回应电动车起火遇水又爆炸：不符合电池过热现象规律](https://36kr.com/p/847336596248320)
+
+35. [十大零部件企业交出70年来最差半年报](https://36kr.com/p/847092227634823)
+
+36. [Aptiv: 100,000+ Commercial Robotaxi Rides in Las Vegas](https://cleantechnica.com/2020/08/21/aptiv-100000-commercial-robotaxi-rides-in-las-vegas/)
+
+37. [Apollo Go开启多城运营，百度无人出租车上线沧州啦](https://baijiahao.baidu.com/s?id=1675628591343591667)
