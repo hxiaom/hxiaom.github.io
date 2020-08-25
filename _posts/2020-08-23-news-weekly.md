@@ -17,3 +17,17 @@ categories: Mobility
 6. [文远知HR负责人张碧珺：自动驾驶行业的人才从哪里找？](https://autobit.xyz/archives/6129)
 
 7. [广汽冯兴亚：辅助驾驶和无人驾驶之间的鸿沟，远比我们想象的要深](https://autobit.xyz/archives/6109)
+
+8. [是蔚来教育市场，还是被市场教育](https://www.huxiu.com/article/377739.html)
+
+9. [首汽约车CEO魏东：我们一定要从单纯的运输服务商，变成移动生活服务商](https://36kr.com/p/850818243220998)
+
+10. [中美价差超14万，Model Y能否接棒Model 3成为销量担当？](https://36kr.com/p/851825957149062)
+
+11. [车企加速布局自动驾驶，广汽或2023年实现L4级区域示范运营](https://36kr.com/p/851377750087175)
+
+12. [冲击5000亿市值，动力电池龙头宁德时代的近忧和远虑](https://36kr.com/p/851245069407745)
+
+13. [大变革前夜：我们为什么坚定布局电动车？](https://www.weibo.com/ttarticle/p/show?id=2309404541411923198436#_0)
+
+14. [SelfDriving.fyi: every single company working on autonomous vehicles and related tech](https://www.reddit.com/r/SelfDrivingCars/comments/iftda9/selfdrivingfyi_every_single_company_working_on/)
