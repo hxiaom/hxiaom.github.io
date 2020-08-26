@@ -31,3 +31,29 @@ categories: Mobility
 13. [大变革前夜：我们为什么坚定布局电动车？](https://www.weibo.com/ttarticle/p/show?id=2309404541411923198436#_0)
 
 14. [SelfDriving.fyi: every single company working on autonomous vehicles and related tech](https://www.reddit.com/r/SelfDrivingCars/comments/iftda9/selfdrivingfyi_every_single_company_working_on/)
+
+15. [大多数的自动驾驶公司，注定要倒闭](https://www.huxiu.com/article/377912.html)
+
+16. [马斯克：三四年内有望将电池能量密度提高50％，电动飞机或成现实](https://36kr.com/p/854139891915144)
+
+17. [合众汽车董事长方运舟：中国新能源汽车真正的爆发拐点，来源于乡村](https://36kr.com/p/844937329563395)
+
+18. [广汽新能源古惠南：单车智能是必经之路 ，不一定非要车路协同](https://36kr.com/p/853396821154695)
+
+19. [打车8公里花1.9元还返现，滴滴「亲儿子」拱了谁的白菜？](https://36kr.com/p/853287156832641)
+
+20. [吉利李书福：汽车不是有钱就能玩的买卖，未来成功者将寥寥无几](https://36kr.com/p/853227549432706)
+
+21. [网约车小弟“抱团全暖”，聚合平台能否与滴滴霸主一较高下？](https://36kr.com/p/851813633973384)
+
+22. [重塑汽车（一）：从零开始，汽车业正在大转型](https://36kr.com/p/846082534250248)
+
+23. [重塑汽车（二）：你的下一辆车是电动车](https://36kr.com/p/846099297850885)
+
+24. [重塑汽车（三）：为什么特斯拉是全球第一的汽车制造商？](https://36kr.com/p/847211312879108)
+
+25. [重塑汽车（四）：电池供应的全球竞赛](https://36kr.com/p/847274940897029)
+
+26. [重塑汽车（五）：硅谷的软件文化写出“车轮上的代码”](https://36kr.com/p/847294138930688)
+
+27. [楼天城专访：自动驾驶价值，今天只看到冰山一角](https://weibo.com/ttarticle/p/show?id=2309404541827482255575#_0)
