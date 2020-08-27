@@ -57,3 +57,25 @@ categories: Mobility
 26. [重塑汽车（五）：硅谷的软件文化写出“车轮上的代码”](https://36kr.com/p/847294138930688)
 
 27. [楼天城专访：自动驾驶价值，今天只看到冰山一角](https://weibo.com/ttarticle/p/show?id=2309404541827482255575#_0)
+
+28. [恒大健康正式更名恒大汽车，总市值位列国内车企第三](https://36kr.com/p/855611542165893)
+
+29. [特斯拉买一辆“送”五辆？车主APP出现可怕Bug](https://36kr.com/p/855458670074755)
+
+30. [3076人抢一个指标，北京小客车指标摇号难度再创新高](https://36kr.com/p/854563081886593)
+
+31. [滴滴在俄罗斯推出快车服务，开辟首个欧洲市场](https://36kr.com/p/854232665545089)
+
+32. [小马智行宣布与博世合作，双方将共建自动驾驶车队管理方案](https://autobit.xyz/archives/6200)
+
+33. [最高奖2亿，武汉经济开发区将出台智能网联汽车产业扶持政策](https://autobit.xyz/archives/6196)
+
+34. [东风联合多家自动驾驶公司，拟在两年内在武汉部署超过200台Robotaxi](https://autobit.xyz/archives/6171)
+
+35. [特斯拉封杀越狱软件；蔚来拟明年进入欧洲市场；理想汽车迎来首任CTO](https://autobit.xyz/archives/6179)
+
+36. [摊开蚂蚁集团500页招股书，看懂半年净赚219亿生意经](https://www.jiqizhixin.com/articles/2020-08-26-10)
+
+37. [Dojo+HW4.0，特斯拉自动驾驶的下一个“大杀器”](https://autobit.xyz/archives/6189)
+
+38. [Waymo Taps Texas As Its Robot Truck Hub With Dallas Depot](https://www.reddit.com/r/SelfDrivingCars/comments/igcmp5/waymo_taps_texas_as_its_robot_truck_hub_with/)
