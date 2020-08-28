@@ -79,3 +79,29 @@ categories: Mobility
 37. [Dojo+HW4.0，特斯拉自动驾驶的下一个“大杀器”](https://autobit.xyz/archives/6189)
 
 38. [Waymo Taps Texas As Its Robot Truck Hub With Dallas Depot](https://www.reddit.com/r/SelfDrivingCars/comments/igcmp5/waymo_taps_texas_as_its_robot_truck_hub_with/)
+
+39. [蔚来、理想、小鹏，为什么上市就疯狂涨？](https://www.huxiu.com/article/378209.html)
+
+40. [何小鹏还缺一张“王牌”](https://www.huxiu.com/article/378569.html)
+
+41. [新造车三兄弟终聚首，高光之后“吊车尾”的小鹏怎么走？](https://www.huxiu.com/article/378571.html)
+
+42. [上汽集团二季度净利72.73亿元，同比增长31.92%](https://36kr.com/p/857116388989831)
+
+43. [消息称特斯拉拟推出新入门级车型，或将被命名为Model 2](https://36kr.com/p/856035186366854)
+
+44. [负债1200亿，宝马也带不动了，危机中的华晨还能翻身吗？](https://36kr.com/p/856001895684997)
+
+45. [王兴说美团电单车要做市场第一，程维同意吗？](https://36kr.com/p/854370581814151)
+
+46. [上半年动力电池装机总量同比下降42%，宁德时代净利润下滑7.86%](https://36kr.com/p/855622787488128)
+
+47. [「禾多科技」获A+轮融资，推进高速公路自动驾驶和智能泊车的量产落地](https://36kr.com/p/855804331743620)
+
+48. [百度中标今年国内智能交通领域的最大招标订单](https://www.jiqizhixin.com/dailies/eef8b3e9-f6b3-4d1f-8dc0-991a80863034)
+
+49. [叮当快药首款无人配送车发布](https://www.jiqizhixin.com/dailies/b70f6f41-9c11-498f-8ef4-886decc203f7)
+
+50. [Self-Driving Cars Learn to Read the Body Language of People on the Street](https://www.reddit.com/r/SelfDrivingCars/comments/ihtzb0/selfdriving_cars_learn_to_read_the_body_language/)
+
+51. [Nissan won't build a full self-driving car anytime soon](https://www.topgear.com/car-news/future-tech/nissan-wont-build-full-self-driving-car-anytime-soon)
