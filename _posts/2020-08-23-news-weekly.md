@@ -105,3 +105,5 @@ categories: Mobility
 50. [Self-Driving Cars Learn to Read the Body Language of People on the Street](https://www.reddit.com/r/SelfDrivingCars/comments/ihtzb0/selfdriving_cars_learn_to_read_the_body_language/)
 
 51. [Nissan won't build a full self-driving car anytime soon](https://www.topgear.com/car-news/future-tech/nissan-wont-build-full-self-driving-car-anytime-soon)
+
+52. [Uber Expands Self-Driving Safety Report After NTSB Slams Culture](https://www.ttnews.com/articles/uber-expands-self-driving-safety-report-after-ntsb-slams-culture)
