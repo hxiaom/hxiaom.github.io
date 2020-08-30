@@ -17,3 +17,5 @@ categories: Mobility
 6. [Tesla releases new software update to visually detect speed limit signs, and more](https://electrek.co/2020/08/29/tesla-software-update-visually-detect-speed-limit-signs/)
 
 7. [Ike: Updating our Safety Report](https://medium.com/ike-blog/updating-our-safety-report-5773c8dc06cd)
+
+8. [理想汽车举办成都用户日，李想爆粗回怼技术质疑，力挺增程模式](https://new.qq.com/omn/20200830/20200830A01HC100.html?pc)
