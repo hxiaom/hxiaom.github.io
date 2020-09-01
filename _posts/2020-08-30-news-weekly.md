@@ -39,3 +39,27 @@ categories: Mobility
 17. [A Closer Look at Tesla’s Path to Fully Self-Driving Vehicles](https://medium.com/predict/a-closer-look-at-teslas-path-to-fully-self-driving-vehicles-eeb2879d0e1f)
 
 18. [LiDAR is getting so cheap it’d be madness not to use it in self-driving cars](https://thenextweb.com/shift/2020/08/24/lidar-is-getting-so-cheap-itd-be-madness-not-to-use-it-in-self-driving-cars/)
+
+19. [二线网约车集体反攻滴滴：蚂蚁真的能啃噬大象吗？](https://www.huxiu.com/article/379101.html)
+
+20. [威马汽车关联公司注册资本增加200%，冲上科创板之路并不轻松](https://36kr.com/p/862783341124489)
+
+21. [蔚来减持长安蔚来股份，长安汽车持股比例高达95.38%](https://36kr.com/p/862767938787717)
+
+22. [7月销量大跌76%，特斯拉为什么在欧洲备受冷遇？](https://36kr.com/p/861703915739527)
+
+23. [孚能科技CEO王瑀：电动车自燃等热失控问题，主要因为电池安全边界认知不清晰](https://36kr.com/p/862019122862464)
+
+24. [理想、蔚来、小鹏齐了！你想押注哪只？](https://36kr.com/p/861527699462789)
+
+25. [有了越来越宽的车载大屏，我们还需要物理按键吗？](https://36kr.com/p/861532300925314)
+
+26. [抢滩科创板，吉利或先于威马拿下整车第一股？](https://autobit.xyz/archives/6298)
+
+27. [前菜鸟ET实验室总监：搞了五年，为什么无人配送还未普及？](https://www.jiqizhixin.com/articles/2020-08-31-6)
+
+28. [Nio to raise $1.7 billion for autonomous driving, global expansion](https://global.chinadaily.com.cn/a/202008/31/WS5f4cc399a310675eafc56946.html)
+
+29. [New Mercedes Benz S-Class first car to obtain SAE-Level 3](https://www.reddit.com/r/SelfDrivingCars/comments/ika70b/new_mercedes_benz_sclass_first_car_to_obtain/)
+
+30. [Hesai announces Pandar128 lidar](https://www.reddit.com/r/SelfDrivingCars/comments/iker1p/hesai_announces_pandar128_lidar/)
