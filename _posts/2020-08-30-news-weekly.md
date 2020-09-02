@@ -63,3 +63,17 @@ categories: Mobility
 29. [New Mercedes Benz S-Class first car to obtain SAE-Level 3](https://www.reddit.com/r/SelfDrivingCars/comments/ika70b/new_mercedes_benz_sclass_first_car_to_obtain/)
 
 30. [Hesai announces Pandar128 lidar](https://www.reddit.com/r/SelfDrivingCars/comments/iker1p/hesai_announces_pandar128_lidar/)
+
+31. [前特斯拉 CTO 的再创业之路，看上了这门生意](https://36kr.com/p/863211807201669)
+
+32. [吉利汽车：科创板上市申请获上交所受理，融资金额200亿元](https://36kr.com/p/863178404960641)
+
+33. [遭遇“绝对灾难”也未泯灭热情，大众狂砸4900亿死磕软件](https://36kr.com/p/863130748984192)
+
+34. [前8个月累计销量达10.85万辆，红旗年销量20万辆的目标还有戏吗？](https://36kr.com/p/863005881768834)
+
+35. [智能汽车昨夜今晨：小鹏汽车推出电池租赁方案；原特斯拉CTO创办电池回收公司；Taycan卖到供不应求](https://autobit.xyz/archives/6305)
+
+36. [里程碑！亚马逊无人机送货获FAA批准，揭秘七年跋涉背后的冲突与无奈](https://www.jiqizhixin.com/articles/2020-09-01-8)
+
+37. [Robot Trucks Are Seeking Inroads Into Freight Business](https://www.wsj.com/articles/robot-trucks-are-seeking-inroads-into-freight-business-11598954400)
