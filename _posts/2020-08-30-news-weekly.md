@@ -77,3 +77,31 @@ categories: Mobility
 36. [里程碑！亚马逊无人机送货获FAA批准，揭秘七年跋涉背后的冲突与无奈](https://www.jiqizhixin.com/articles/2020-09-01-8)
 
 37. [Robot Trucks Are Seeking Inroads Into Freight Business](https://www.wsj.com/articles/robot-trucks-are-seeking-inroads-into-freight-business-11598954400)
+
+38. [蔚来汽车的三段「婚姻」](https://36kr.com/p/864535472167812)
+
+39. [「高仙机器人」获1.5亿人民币B+轮融资，智能清洁机器人落地30多个国家和地区](https://36kr.com/p/860050275981704)
+
+40. [特斯拉趁热打铁再融50亿美元，股价疯涨也缺钱？](https://36kr.com/p/864064690822023)
+
+41. [时隔5年“快的”重出江湖：滴滴投入1亿补贴，石东海任总经理向程维汇报](https://36kr.com/p/864076190652800)
+
+42. [二手车“淡季不淡”：7月交易量同比增长4%，8月线上车源同比增长7.5%](https://36kr.com/p/864114645670278)
+
+43. [4427亿美元，特斯拉市值“封神”，中国造车新势力也被炒上天，但考验才刚刚开始](https://36kr.com/p/864066341477250)
+
+44. [上汽通用五菱8月销量同比涨17%至14.8万辆，宏光MINI EV贡献了1.5万辆](https://36kr.com/p/864271884376969)
+
+45. [智能汽车昨夜今晨：均胜电子子公司获蔚来6.6亿元定点；理想8月交付2771辆；禾赛发布雷达产品Pandar128](https://autobit.xyz/archives/6334)
+
+46. [江铃汽车CTO兼总裁助理黄少堂：软件定义汽车，架构定义软件](https://autobit.xyz/archives/6319)
+
+47. [Motional 发布扩展自动驾驶数据集, 超 14 亿激光雷达点数据标注](https://www.jiqizhixin.com/dailies/b45009a2-1bdb-4f15-b8b7-4e65ac2a9a3b)
+
+48. [美国国家公路交通安全管理局无人驾驶测试跟踪工具数据尚不完整](https://www.jiqizhixin.com/dailies/51586cb1-fd87-48d9-93e4-f9877771852a)
+
+49. [性能翻倍，英伟达最强消费级显卡RTX 3090出炉：半价买泰坦](https://www.jiqizhixin.com/articles/2020-09-02-3)
+
+50. [Three major trucking companies subscribe to self-driving truck service](https://cdllife.com/2020/three-major-trucking-companies-subscribe-to-self-driving-truck-service/)
+
+51. [Apple May Be Working on a Self-Driving Car Featuring Controlled Doors and VR System](https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20655/Apple-May-Be-Working-on-a-Self-Driving-Car-Featuring-Controlled-Doors-and-VR-System.aspx)
