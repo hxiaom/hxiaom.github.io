@@ -105,3 +105,19 @@ categories: Mobility
 50. [Three major trucking companies subscribe to self-driving truck service](https://cdllife.com/2020/three-major-trucking-companies-subscribe-to-self-driving-truck-service/)
 
 51. [Apple May Be Working on a Self-Driving Car Featuring Controlled Doors and VR System](https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20655/Apple-May-Be-Working-on-a-Self-Driving-Car-Featuring-Controlled-Doors-and-VR-System.aspx)
+
+52. [蔚来完成超1亿股ADS，募集资金超17亿美元](https://36kr.com/p/865535715433348)
+
+53. [雷克萨斯8月在华销量超2万辆，电气化车型占比4成](https://36kr.com/p/865551228312451)
+
+54. [「分裂」的比亚迪：股价春风得意，销量暗藏危机](https://36kr.com/p/866086404168579)
+
+55. [剑指科创板、合并沃尔沃，吉利想要讲一个怎样的新故事？](https://36kr.com/p/866158509595272)
+
+56. [不到20万的Model 2几时出？特斯拉比你还急](https://36kr.com/p/866267845139337)
+
+57. [重磅！安徽首条！刚刚正式开通！](https://autobit.xyz/archives/6345)
+
+58. [文远知行创始人韩旭讨论自动驾驶的经济和社会效益](https://www.jiqizhixin.com/dailies/de322deb-3feb-4cc9-9d66-13b265fa8e7b)
+
+59. [10纳米来了：英特尔十一代酷睿上市，性能提升20%，AI算力乘5倍](https://www.jiqizhixin.com/articles/2020-09-03-4)
