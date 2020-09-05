@@ -121,3 +121,13 @@ categories: Mobility
 58. [文远知行创始人韩旭讨论自动驾驶的经济和社会效益](https://www.jiqizhixin.com/dailies/de322deb-3feb-4cc9-9d66-13b265fa8e7b)
 
 59. [10纳米来了：英特尔十一代酷睿上市，性能提升20%，AI算力乘5倍](https://www.jiqizhixin.com/articles/2020-09-03-4)
+
+60. [深圳拥有了都市圈的轨道主导权](https://www.huxiu.com/article/380166.html)
+
+61. [租车下半场：携程入局神州“傍大款”，有玩家要做租车界的“美团”](https://36kr.com/p/867392852359049)
+
+62. [奔驰卖一辆车亏4885元，宝马更甚：车市危机远比想象的更严重？](https://36kr.com/p/867443979646343)
+
+63. [合肥智能网联产业生态升级，合肥中关村、华为和科大讯飞等共话发展](https://autobit.xyz/archives/6372)
+
+64. [Yandex 和 Uber 斥资 1.5 亿美元分拆自动驾驶业务](https://www.jiqizhixin.com/dailies/5e26e5a1-1cde-4aa8-bd77-a276acabee30)
