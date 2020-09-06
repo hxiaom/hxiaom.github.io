@@ -131,3 +131,4 @@ categories: Mobility
 63. [合肥智能网联产业生态升级，合肥中关村、华为和科大讯飞等共话发展](https://autobit.xyz/archives/6372)
 
 64. [Yandex 和 Uber 斥资 1.5 亿美元分拆自动驾驶业务](https://www.jiqizhixin.com/dailies/5e26e5a1-1cde-4aa8-bd77-a276acabee30)
+
