@@ -49,3 +49,25 @@ categories: Mobility
 22. [自动驾驶汽车每天产生10TB数据，如何在海量数据中挖掘到金矿？](https://autobit.xyz/archives/6421)
 
 23. [I took a ride on Yandex driverless taxi](https://www.reddit.com/r/SelfDrivingCars/comments/ipdz8c/i_took_a_ride_on_yandex_driverless_taxi/)
+
+24. [“卡车界的特斯拉”尼古拉遭做空，被指从未拥有氢燃料电池技术](https://36kr.com/p/876807484769286)
+
+25. [一则传闻「烧掉」400亿市值，宁德时代的软肋出现了？](https://36kr.com/p/875843975333120)
+
+26. [2死6伤车祸背后：特斯拉仍坚称车辆无故障，多位车主表示遭遇意外加速](https://36kr.com/p/875348313424904)
+
+27. [D轮融资接近完成，威马汽车联手高通、百度，加速智能化落地](https://36kr.com/p/875462926484736)
+
+28. [中汽协：8月汽车销量218.6万辆，新能源车产销刷新8月历史纪录](https://36kr.com/p/875745809384710)
+
+29. [一汽红旗冲击100万辆年销量，国产供应商的新机遇](https://autobit.xyz/archives/6450)
+
+30. [Cruise 的人工智能技术使无人驾驶车辆能够在不常见的情况下导航](https://www.jiqizhixin.com/dailies/ad9bd92f-458f-4c59-a217-f493f4c8430a)
+
+31. [沃尔玛开始测试家用物品以及杂货的无人机交付](https://www.jiqizhixin.com/dailies/d2984f65-c214-4783-a9f7-c72fcbf7ec15)
+
+32. [The Waymo Driver’s training regimen: How structured testing prepares our self-driving technology for the real world](https://blog.waymo.com/2020/09/the-waymo-drivers-training-regime.html)
+
+33. [Cruise’s Continuous Learning Machine Predicts the Unpredictable on San Francisco Roads](https://medium.com/cruise/cruise-continuous-learning-machine-30d60f4c691b)
+
+34. [‘Villages in the City’: WeRide Self-Driving on China’s Unique Urban Roads](https://www.youtube.com/watch?v=yxgAAfblfn8)
