@@ -71,3 +71,15 @@ categories: Mobility
 33. [Cruise’s Continuous Learning Machine Predicts the Unpredictable on San Francisco Roads](https://medium.com/cruise/cruise-continuous-learning-machine-30d60f4c691b)
 
 34. [‘Villages in the City’: WeRide Self-Driving on China’s Unique Urban Roads](https://www.youtube.com/watch?v=yxgAAfblfn8)
+
+35. [特斯拉“狙击”蔚来，回收电池“屠杀”换电](https://www.huxiu.com/article/381656.html)
+
+36. [比尔·盖茨觉得特斯拉造了个寂寞？](https://www.huxiu.com/article/381188.html)
+
+37. [日系不甘做老二](https://www.huxiu.com/article/381862.html)
+
+38. [蔚来总裁秦力洪：同年龄的蔚来比特斯拉更优秀](https://36kr.com/p/877330461901830)
+
+39. [为什么特斯拉终将是美股最大的泡沫？](https://36kr.com/p/876767168186112)
+
+40. [Baidu rolls out self-driving taxi service in Beijing](https://www.shine.cn/biz/tech/2009115834/)
