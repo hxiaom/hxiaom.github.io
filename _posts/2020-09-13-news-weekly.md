@@ -35,3 +35,21 @@ categories: Mobility
 15. [Waymo's head of lidar explains how the advanced laser tech went from science fiction to being a vital tool for self-driving cars](https://www.businessinsider.com/waymo-lidar-went-from-science-fiction-to-self-driving-cars-2020-9)
 
 16. [Germany aiming to be the first country to put driverless cars on the streets](https://www.iamexpat.de/expat-info/german-expat-news/germany-aiming-be-first-country-put-driverless-cars-streets)
+
+17. [36氪对话理想汽车、ARCFOX：特斯拉不会一手遮天，客户关系是未来最重要资产](https://36kr.com/p/881536561857795)
+
+18. [恒大汽车募资40亿港元，阿里、腾讯再次入局新造车](https://36kr.com/p/882519609328649)
+
+19. [尼古拉股价坐上过山车：反驳沽空机构涨11%，遭SEC调查跌逾8%](https://36kr.com/p/882538603365377)
+
+20. [百度首发5G云代驾，李彦宏放言5年内一线城市不需要限行](https://36kr.com/p/882662173983750)
+
+21. [NVIDIA确认将以400亿美元收购Arm](https://autobit.xyz/archives/6481)
+
+22. [智能汽车昨夜今晨：嘉定区启动智能网联测试道路全域开放；特斯拉Autopilot或在12月推出更新；传阿里30亿美元投资Grab](https://autobit.xyz/archives/6485)
+
+23. [工信部：《智能网联汽车道路测试与示范应用管理规范》即将修订发布](https://www.jiqizhixin.com/dailies/c5b027f3-82ac-4b13-8d31-b5941d56454e)
+
+24. [威马宣布支持L4级别自动驾驶车型将于明年4月交付](https://www.jiqizhixin.com/dailies/2266f60c-80a1-4656-8dcd-9008a0bf9572)
+
+25. [Aurora: New Vehicle Platform, New Sensor Arrangement](https://thelastdriverlicenseholder.com/2020/09/14/aurora-new-vehicle-platform-new-sensor-arrangement/)
