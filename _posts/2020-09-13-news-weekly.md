@@ -53,3 +53,29 @@ categories: Mobility
 24. [威马宣布支持L4级别自动驾驶车型将于明年4月交付](https://www.jiqizhixin.com/dailies/2266f60c-80a1-4656-8dcd-9008a0bf9572)
 
 25. [Aurora: New Vehicle Platform, New Sensor Arrangement](https://thelastdriverlicenseholder.com/2020/09/14/aurora-new-vehicle-platform-new-sensor-arrangement/)
+
+26. [当理想再次升起](https://www.huxiu.com/article/382349.html)
+
+27. [十一订票要抓紧？酒店机票预订量超去年](https://www.huxiu.com/article/382541.html)
+
+28. [王凯出任理想汽车首席技术官](https://autobit.xyz/archives/6494)
+
+29. [智能汽车昨夜今晨：Nikola 2021年四季度量产半挂卡车；FCA与PSA合并交易2021年一季度完成；王凯出任理想汽车CTO](https://autobit.xyz/archives/6500)
+
+30. [于万智驾与龙马环卫签署战略合作，无人驾驶赋能智慧环卫](https://autobit.xyz/archives/6503)
+
+31. [16万亿市场蛋糕前，华为离造车还有多远？](https://autobit.xyz/archives/6507)
+
+32. [迟到的Lucid，特斯拉的影子杀手](https://autobit.xyz/archives/6510)
+
+33. [吉利入局换电模式，2020年计划在重庆建35座换电站](https://36kr.com/p/884199693992966)
+
+34. [广汽集团调整组织架构，强化自主板块体系运作效率](https://36kr.com/p/883948879119621)
+
+35. [新能源车企去钴疑云](https://36kr.com/p/884163515417865)
+
+36. [美国新造车公司尼古拉承认造假，通用投了20亿美元成冤大头](https://36kr.com/p/883802540934153)
+
+37. [中国自动驾驶相关企业融资达数百亿元](https://www.jiqizhixin.com/dailies/5d909573-d9a1-44fc-b492-2b08d0ecfcbd)
+
+38. [Why Nvidia's Acquisition Of ARM Is A Big Deal For Self-Driving Car Technology ](https://www.carandbike.com/news/why-nvidias-acquisition-of-arm-is-a-big-deal-for-self-driving-car-technology-2295275)
