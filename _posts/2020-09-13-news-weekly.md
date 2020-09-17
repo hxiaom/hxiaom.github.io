@@ -79,3 +79,19 @@ categories: Mobility
 37. [中国自动驾驶相关企业融资达数百亿元](https://www.jiqizhixin.com/dailies/5d909573-d9a1-44fc-b492-2b08d0ecfcbd)
 
 38. [Why Nvidia's Acquisition Of ARM Is A Big Deal For Self-Driving Car Technology ](https://www.carandbike.com/news/why-nvidias-acquisition-of-arm-is-a-big-deal-for-self-driving-car-technology-2295275)
+
+39. [LG化学vs宁德时代：富二代学霸上位史](https://www.huxiu.com/article/382764.html)
+
+40. [王秉刚称中国不会推出禁燃时间表](https://36kr.com/p/884344956001031)
+
+41. [滴滴6年赔390亿，神州租车半年亏43亿，传统车企怎么还跳这个「坑」](https://36kr.com/p/884449310203650)
+
+42. [5年全面商用，10年告别限行限购，自动驾驶终于将走进现实？](https://36kr.com/p/884424349245443)
+
+43. [华为造车传闻再起](https://36kr.com/p/885218093473801)
+
+44. [又一车企被“油泵门”拖下水，长安马自达召回近3万辆问题车辆](https://36kr.com/p/885310421458949)
+
+45. [智能汽车昨夜今晨：理想将与英伟达合作；美司法部调查Nikola；政策对“混合动力”技术路线松口](https://autobit.xyz/archives/6515)
+
+46. [Safety Driver in Uber fatality charged with Negligent Homicide, please not guilty](https://www.reddit.com/r/SelfDrivingCars/comments/itmfrs/safety_driver_in_uber_fatality_charged_with/)
