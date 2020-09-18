@@ -95,3 +95,21 @@ categories: Mobility
 45. [智能汽车昨夜今晨：理想将与英伟达合作；美司法部调查Nikola；政策对“混合动力”技术路线松口](https://autobit.xyz/archives/6515)
 
 46. [Safety Driver in Uber fatality charged with Negligent Homicide, please not guilty](https://www.reddit.com/r/SelfDrivingCars/comments/itmfrs/safety_driver_in_uber_fatality_charged_with/)
+
+47. [特斯拉App“串车”有多危险，当事人和律师这样说](https://www.huxiu.com/article/382811.html)
+
+48. [对话孙枢：滴滴为什么要做花小猪？](https://36kr.com/p/882827326702857)
+
+49. [一日两笔投资，境内外同步开花，宁德时代终于出手了](https://36kr.com/p/885717488593415)
+
+50. [优信Q2营收暴跌80%、部分线下门店关闭，剥离金融业务能否断臂求生？](https://36kr.com/p/885672075880712)
+
+51. [电芯企业4年死掉85家，新能源汽车供应链大洗牌](https://36kr.com/p/885768215652609)
+
+52. [理想汽车CTO王凯：车企新标签应该是科技公司，不是制造公司](https://36kr.com/p/886795846625537)
+
+53. [威马8月销量同比增长143%；吉利回复上交所27问；黑莓进军电动汽车领域](https://36kr.com/p/887254634752520  )
+
+54. [智能汽车昨夜今晨：华为智慧出行与亿咖通签署合作；Uber拟出手部分滴滴股权；工信部将发起汽车芯片联盟](https://autobit.xyz/archives/6570)
+
+55. [蛰伏三年，达摩院首款无人驾驶终端产品，阿里牵出一头「小蛮驴」](https://www.jiqizhixin.com/articles/2020-09-17-11)
