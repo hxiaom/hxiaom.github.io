@@ -21,3 +21,35 @@ categories: Mobility
 8. [Zoox 获准在加利福尼亚测试无安全驾驶员的自动驾驶汽车](https://www.jiqizhixin.com/dailies/91f18be1-e786-45db-bf91-ca27a42169b1)
 
 9. [波士顿动力最早于明年交付物流机器人计划](https://www.jiqizhixin.com/dailies/662521c4-f033-41b2-9359-72058c0aa9ee)
+
+10. [​薛定谔的比亚迪](https://www.huxiu.com/article/383520.html)
+
+11. [Uber无人车撞死人，安全员被控过失杀人，算法免于追责](https://www.huxiu.com/article/383561.html)
+
+12. [威马汽车完成百亿人民币融资，百度仍是最大机构股东](https://www.huxiu.com/article/383732.html)
+
+13. [顺风车进入收获季，嘀嗒上位靠运气？](https://36kr.com/p/890917577140744)
+
+14. [产能制约新车交付，比亚迪将建8条刀片电池产线](https://36kr.com/p/891039883979269)
+
+15. [9月沪牌中标率13.2%，连续6个月超10%，拍卖最低成交价90600元](https://36kr.com/p/891097583479303)
+
+16. [抢占发展制高点，高级别自动驾驶示范区将落户北京亦庄](https://36kr.com/p/891296696068355)
+
+17. [实探威马汽车温州工厂，C2M生产模式将大幅缩短交付周期](https://36kr.com/p/891493406157064)
+
+18. [比亚迪回应与滴滴合作打造电动车：现阶段暂无披露信息](https://36kr.com/p/892443253320450)
+
+19. [马斯克：电池日新品2022年量产，未来特斯拉仍会加大对电池的采购](https://36kr.com/p/892718215506689)
+
+20. [理想汽车2022年将推全尺寸SUV，首家搭载英伟达最新自动驾驶芯片Orin](https://36kr.com/p/892807386966787)
+
+21. [特斯拉“电池日”新品2022年量产；北京车展精彩抢先看；尼古拉创始人辞职](https://36kr.com/p/892808594762501)
+
+22. [宁德时代研究报告](https://mp.weixin.qq.com/s/gkxd6jFWebB_3c9aFiZi7w)
+
+23. [遭遇海量数据，自动驾驶的野心何处安放？](https://autobit.xyz/archives/6643)
+
+24. [The Waymo Driver Handbook: How our highly-detailed maps help unlock new locations for autonomous driving](https://blog.waymo.com/2020/09/the-waymo-driver-handbook-mapping.html)
+
+25. [This Waymo Manager Wants You to Know That Self-Driving Cars Are Totally Safe](https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/)
