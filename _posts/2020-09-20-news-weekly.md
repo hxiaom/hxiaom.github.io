@@ -53,3 +53,21 @@ categories: Mobility
 24. [The Waymo Driver Handbook: How our highly-detailed maps help unlock new locations for autonomous driving](https://blog.waymo.com/2020/09/the-waymo-driver-handbook-mapping.html)
 
 25. [This Waymo Manager Wants You to Know That Self-Driving Cars Are Totally Safe](https://observer.com/2020/09/waymo-manager-everest-climber-pilot-self-driving-interview/)
+
+26. [空客的“好基友”，是怎样在半年内亏掉54亿英镑的？](https://www.huxiu.com/article/383883.html)
+
+27. [地铁也要遵循“红灯停、绿灯行”的交通规则吗？](https://www.huxiu.com/article/383711.html)
+
+28. [揭秘特斯拉中国的权力围城](https://www.huxiu.com/article/383957.html)
+
+29. [特斯拉电池日：饼画了很多，股价也跌了不少](https://www.huxiu.com/article/384054.html)
+
+30. [腾讯地图与滴滴合作入场聚合打车，它还有机会吗？](https://36kr.com/p/893255829288193)
+
+31. [哈啰出行：共享单车混战的突围者，如何做电单车业务？](https://36kr.com/p/893091492394247)
+
+32. [「易马达」获数亿人民币C1轮融资, 头部城市已盈利](https://36kr.com/p/892473441496321)
+
+33. [星星充电获得8.55亿元A轮融资，中金资本旗下基金和施耐德电气领投](https://36kr.com/p/894300110680837)
+
+34. [河北设国内首条自动驾驶汽车旅游专线，采用百度自动驾驶汽车](https://www.jiqizhixin.com/dailies/fd2fb643-d3b7-4db0-8dce-4d99040c0705)
