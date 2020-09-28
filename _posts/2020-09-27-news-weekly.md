@@ -19,3 +19,22 @@ categories: Mobility
 7. [滴滴柳青：随着无人驾驶技术完善 交通事故会降低甚至消失](https://finance.sina.com.cn/tech/2020-09-26/doc-iivhvpwy8953894.shtml)
 
 8. [Uber Launches Volvo Self Driving Car!](https://www.reddit.com/r/SelfDrivingCars/comments/j0lteq/uber_launches_volvo_self_driving_car/)
+
+9. [比尔·盖茨投资的电池公司，可能是特斯拉的劲敌？](https://www.huxiu.com/article/384849.html)
+
+10. [极星CEO托马斯：如果我们企图一夜之间赶超特斯拉，那就太天真了](https://36kr.com/p/901310236046593)
+
+11. [「​芯驰科技」获5亿人民币A轮融资，加速车规处理器芯片的量产落地](https://36kr.com/p/894713164870404)
+
+12. [福布斯中国汽车富豪榜：宁德时代曾毓群居首，新势力创始人榜上有名](https://36kr.com/p/900853461644040)
+
+13. [原华为副总裁、小牛电动创始人李一男再创业，造增程电动汽车](https://36kr.com/p/900294997718280)
+
+14. [地平线车载AI预计装车百万辆，2020年内将有6款相关量产车型上市](https://36kr.com/p/900982604395777)
+
+15. [华晨汽车的救赎与自我救赎](https://36kr.com/p/900208423921409)
+
+16. [1-8月汽车制造业累计实现利润3084.8亿元，第四季度车市仍有冲高希望](https://36kr.com/p/901192309814529)
+
+17. [专访北汽新能源高层：ARCFOX请用户尽情吐槽，αT会完爆40万元以内汽油车](https://36kr.com/p/901309731337474)
+
