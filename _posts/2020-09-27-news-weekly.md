@@ -38,3 +38,16 @@ categories: Mobility
 
 17. [专访北汽新能源高层：ARCFOX请用户尽情吐槽，αT会完爆40万元以内汽油车](https://36kr.com/p/901309731337474)
 
+18. [科创板第一“车”，吉利 A 股求药](https://www.huxiu.com/article/385115.html)
+
+19. [预言一场电动爹大逃杀](https://www.huxiu.com/article/383205.html)
+
+20. [40亿融资后，六问小鹏“飞行汽车”](https://36kr.com/p/901413241156872)
+
+21. [英特尔子公司拿下吉利大单，欲与高通英伟达争抢自动驾驶市场份额](https://36kr.com/p/902239376061702)
+
+22. [ 全国连锁新型汽车超市「宜买车」完成数千万美金B轮融资，自营门店已超200家](https://36kr.com/p/902381681128713)
+
+23. [Velodyne即将在10月初完成借壳上市，固态激光雷达Velarray在中国市场开始售卖](https://autobit.xyz/archives/6761)
+
+24. [主线科技：开启全球首个完全无人驾驶卡车商业化运营](https://www.jiqizhixin.com/dailies/922a82d6-c8b1-4e97-b1f0-198648302eec)
