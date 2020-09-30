@@ -51,3 +51,13 @@ categories: Mobility
 23. [Velodyne即将在10月初完成借壳上市，固态激光雷达Velarray在中国市场开始售卖](https://autobit.xyz/archives/6761)
 
 24. [主线科技：开启全球首个完全无人驾驶卡车商业化运营](https://www.jiqizhixin.com/dailies/922a82d6-c8b1-4e97-b1f0-198648302eec)
+
+25. [为了让电池更便宜，特斯拉都在里面塞了啥？](https://www.huxiu.com/article/385335.html)
+
+26. [智能汽车昨夜今晨：2025年油电汽车平价时代到来；滴滴：今日将成为最难打车日](https://autobit.xyz/archives/6768)
+
+27. [Uber首起自驾致死车祸两年后重开审判，安全驾驶员被判刑2.5年，人车协同为啥这么难？](https://36kr.com/p/902608722670336)
+
+28. [专访天际汽车张海亮：新一轮融资正在进行，计划明年上市](https://36kr.com/p/902721804760328)
+
+29. [股价涨10倍，蔚来发生了什么？](https://36kr.com/p/902994977059593)
