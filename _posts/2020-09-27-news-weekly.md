@@ -61,3 +61,39 @@ categories: Mobility
 28. [专访天际汽车张海亮：新一轮融资正在进行，计划明年上市](https://36kr.com/p/902721804760328)
 
 29. [股价涨10倍，蔚来发生了什么？](https://36kr.com/p/902994977059593)
+
+30. [“汽车强国”：我国汽车产业转型升级的战略研究](https://www.huxiu.com/article/385450.html)
+
+31. [三十岁了，哪领兰博基尼？](https://www.huxiu.com/article/385512.html)
+
+32. [谁说美国就没有乐视了？给你看一个](https://www.huxiu.com/article/385525.html)
+
+33. [政策倾斜混动，PHEV或成赢家？](https://www.huxiu.com/article/385537.html)
+
+34. [马斯克专访实录：自己不会感染新冠，拒绝接种新冠疫苗](https://www.huxiu.com/article/385533.html)
+
+35. [政策倾斜混动，PHEV或成赢家？](https://www.huxiu.com/article/385537.html)
+
+36. [昨天提车今天降价，特斯拉车主：我们叫韭菜？](https://www.huxiu.com/article/385718.html)
+
+37. [刚被亚马逊收购的Zoox获加州全无人驾驶测试牌照，是全球第四家](https://36kr.com/p/904517284999943)
+
+38. [均胜电子旗下「均联智行」获7.2亿人民币融资，明年量产首个乘用车5G-V2X产品](https://36kr.com/p/904414570443527)
+
+39. [大众集团旗下卡车制造商传拓（Traton）战略投资图森未来，在欧洲研发自动驾驶卡车](https://36kr.com/p/904321029010177)
+
+40. [大众或放弃兰博基尼和布加迪品牌；上汽计划2025年前投放近百款新能源车；专家预计2035年中国新能源车销量占比50%到60%](https://36kr.com/p/904197892551426)
+
+41. [争夺新能源汽车“终端”，大佬不能输](https://36kr.com/p/904139263895552)
+
+42. [新能源车变“电动爹”，背后是充电桩之殇](https://36kr.com/p/903710803113223)
+
+43. [算力硬刚特斯拉FSD，黑芝麻 FAD 计算平台要做高性能自动驾驶平台的国产替代者](https://autobit.xyz/archives/6798)
+
+44. [Alexa 的自动模式将用户手机变成「驾驶员友好」的显示屏](https://www.jiqizhixin.com/dailies/e6b0a8a8-0ef7-4fd8-be2e-fddf123e888e)
+
+45. [Uber ‘wasted’ $3.5 billion on self-driving cars with no ‘meaningful progress’](https://www.heraldsun.com.au/motoring/on-the-road/uber-wasted-35-billion-on-selfdriving-cars-with-no-meaningful-progress/news-story/1ade9a515dadad5a492322c14d2d2f35)
+
+46. [Velodyne Plummets, but Baird Says Self-Driving Car Stock Could Rise 50%](https://www.barrons.com/articles/velodyne-falls-baird-says-self-driving-car-stock-could-rise-50-51601560058)
+
+47. [Predicting the Unpredictable: Inside Cruise's Continuous Learning Machine](https://www.youtube.com/watch?v=hFLarLVVPZw)
