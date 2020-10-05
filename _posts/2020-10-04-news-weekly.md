@@ -21,3 +21,5 @@ categories: Mobility
 8. [Swedish Authorities Deny Test License, Because Autonomous Truck Cannot Perform Alcohol Test](https://www.reddit.com/r/SelfDrivingCars/comments/j3xddd/swedish_authorities_deny_test_license_because/)
 
 9. [Velodyne Lidar Chief Eyes Growth as Stock Sinks in Public Debut](https://www.reddit.com/r/SelfDrivingCars/comments/j3rlps/velodyne_lidar_chief_eyes_growth_as_stock_sinks/)
+
+10. [Tesla Bird’s Eye View Explained, Tesla To Offer Bird’s Eye View In FSD Package](https://www.reddit.com/r/SelfDrivingCars/)
