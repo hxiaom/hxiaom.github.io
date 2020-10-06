@@ -23,3 +23,5 @@ categories: Mobility
 9. [Velodyne Lidar Chief Eyes Growth as Stock Sinks in Public Debut](https://www.reddit.com/r/SelfDrivingCars/comments/j3rlps/velodyne_lidar_chief_eyes_growth_as_stock_sinks/)
 
 10. [Tesla Bird’s Eye View Explained, Tesla To Offer Bird’s Eye View In FSD Package](https://www.reddit.com/r/SelfDrivingCars/)
+
+11. [Self-Driving Cars Could Be Operating Daily In 1-2 Years—Just Not in Big Cities](https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus)
