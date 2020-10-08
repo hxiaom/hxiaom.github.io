@@ -25,3 +25,9 @@ categories: Mobility
 10. [Tesla Bird’s Eye View Explained, Tesla To Offer Bird’s Eye View In FSD Package](https://www.reddit.com/r/SelfDrivingCars/)
 
 11. [Self-Driving Cars Could Be Operating Daily In 1-2 Years—Just Not in Big Cities](https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus)
+
+12. [KITTI-360 Dataset Cinematic Trailer](https://www.reddit.com/r/SelfDrivingCars/comments/j679px/kitti360_dataset_cinematic_trailer/)
+
+13. [马斯克：特斯拉不需要公关](https://www.huxiu.com/article/386087.html)
+
+14. [Elon Musk Confirms Tesla's Full Self-Driving Cars Will Soon Arrive in Japan](https://www.techtimes.com/articles/253146/20201007/elon-musk-confirms-teslas-full-self-driving-cars-will-soon-arrive-in-japan.htm)
