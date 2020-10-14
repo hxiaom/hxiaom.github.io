@@ -47,3 +47,31 @@ categories: Mobility
 21. [Tesla CEO Elon Musk criticizes Waymo’s autonomous tech on Twitter](https://www.foxbusiness.com/lifestyle/elon-musk-waymos-autonomous-tech)
 
 22. [Daytime ride in Waymo driverless car (no safety driver)](https://www.reddit.com/r/SelfDrivingCars/comments/j9j2rn/daytime_ride_in_waymo_driverless_car_no_safety/)
+
+23. [买车是看颜值，还是看性价比](https://www.huxiu.com/article/387125.html)
+
+24. [我劝你现在不要坐百度无人车](https://www.huxiu.com/article/387188.html)
+
+25. [比iPhone 12更值得期待的，是苹果的电动车](https://www.huxiu.com/article/387244.html)
+
+26. [北汽新能源9月销量下降77.57%，产量仅为221辆](https://36kr.com/p/923540598327177)
+
+27. [威马汽车拟在科创板上市，中信建投为辅导机构](https://36kr.com/p/923523199371654)
+
+28. [美团上线“弹幕车”，行业或迎来单车的广告化？](https://36kr.com/p/922924238670213)
+
+29. [蔚来调整换电权益，新车主不再享受无限次免费换电](https://36kr.com/p/922598917966216)
+
+30. [中汽协：9月汽车销量256.5万辆，连续5个月增速超10%](https://36kr.com/p/922497340230024)
+
+31. [天际汽车完成超50亿元新一轮融资，计划2021年IPO](https://36kr.com/p/922225494378880)
+
+32. [9月日产在华销量14.16万辆，东风日产贡献逾8成](https://36kr.com/p/922131798755716)
+
+33. [预计前三季度净利润34亿-36亿元，比亚迪修正业绩预告](https://36kr.com/p/922105278924676)
+
+34. [江西省政府与滴滴出行签署战略合作协议](https://www.jiqizhixin.com/dailies/a4527c6f-3123-47de-a6a9-67f9c3ba41e7)
+
+35. [《中国自动驾驶仿真蓝皮书2020》发布，自动驾驶下半场战事开启，本土企业靠什么突围？](https://www.jiqizhixin.com/articles/2020-10-13-8)
+
+36. [Measuring Autonomy Performance: Going From Zero To One](https://wayve.ai/blog/measuring-autonomy-performance-going-from-zero-to-one/)
