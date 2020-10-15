@@ -75,3 +75,17 @@ categories: Mobility
 35. [《中国自动驾驶仿真蓝皮书2020》发布，自动驾驶下半场战事开启，本土企业靠什么突围？](https://www.jiqizhixin.com/articles/2020-10-13-8)
 
 36. [Measuring Autonomy Performance: Going From Zero To One](https://wayve.ai/blog/measuring-autonomy-performance-going-from-zero-to-one/)
+
+37. [原来百度的自动驾驶出租车，也会“抢黄灯”？](https://www.huxiu.com/article/387386.html)
+
+38. [科创板：造车新势力的保送通知书？](https://www.huxiu.com/article/387396.html)
+
+39. [深交所创业板受理东风汽车IPO申请，拟募资210亿打破金龙鱼纪录](https://36kr.com/p/923568093481352)
+
+40. [新造车的下半场](https://36kr.com/p/923962883918208)
+
+41. [昔日重庆首富遭立案调查，「摩托大王」终究是凉了？](https://36kr.com/p/923987658410374)
+
+42. [骂声充斥的上市路，嘀嗒难圆的“名媛梦”？](https://36kr.com/p/923995346134791)
+
+43. [9月一汽-大众零售量同比增8.7%，“南北大众”蝉联车企销量冠亚军](https://36kr.com/p/924120912545666)
