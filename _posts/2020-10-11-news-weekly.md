@@ -12,6 +12,8 @@ categories: Mobility
 
 4. [上市这条路，嘀嗒凭啥比滴滴跑更快？](https://www.huxiu.com/article/386667.html)
 
+58. [在干掉司机这个终极目标上，自动驾驶这门生意有多诱人？](https://www.autobit.xyz/live/744.html)
+
 5. [为什么特斯拉的自动驾驶总是很好骗？](https://www.huxiu.com/article/386833.html)
 
 6. [百度自动驾驶初体验：就这？](https://www.huxiu.com/article/386922.html)
@@ -89,3 +91,37 @@ categories: Mobility
 42. [骂声充斥的上市路，嘀嗒难圆的“名媛梦”？](https://36kr.com/p/923995346134791)
 
 43. [9月一汽-大众零售量同比增8.7%，“南北大众”蝉联车企销量冠亚军](https://36kr.com/p/924120912545666)
+
+44. [当人不需要驾驶的时候，车里就是另一个场景了](https://www.huxiu.com/article/387704.html)
+
+45. [「Getaround」完成1.4亿美元E轮融资，将加速在全球市场实现盈利](https://36kr.com/p/923955727157635)
+
+46. [FF再获3亿元债权融资，或借壳上市推进FF 91量产](https://36kr.com/p/924854210677122)
+
+47. [8天两台电动车自燃，威马承认EX5电池存质量问题](https://36kr.com/p/924887118595972)
+
+48. [天风证券：国产Model Y入门价或低至27.5万元，单月销量有望达3万辆](https://36kr.com/p/924931619096450)
+
+49. [长安预计前三季度净利最高达38亿元，昔日“自主一哥”加速回归？](https://36kr.com/p/924945923983235)
+
+50. [特斯拉败给五菱比亚迪，谁是“金九”最大赢家？](https://36kr.com/p/925390725417350)
+
+51. [五菱汽车股价收盘涨42%，盘中一度涨超60%](https://36kr.com/p/925472862095233)
+
+52. [是什么在推动中国电动车股逆市飙涨？](https://36kr.com/p/925424215804290)
+
+53. [背靠长城汽车，毫末智行明年计划推出自动驾驶乘用车型，加速落地物流无人车](https://36kr.com/p/925811072878979)
+
+54. [充电桩这么好的生意，为什么没人做？](https://36kr.com/p/925750793292162)
+
+55. [体验完18款车的智能座舱，我们发现这届座舱技术：新势力最强，自主品牌紧随，日韩垫底](https://www.autobit.xyz/live/737.html)
+
+56. [大众ID.4国内首发时间推迟](https://www.autobit.xyz/kuaixun/741.html)
+
+57. [破解自动驾驶测试难题，腾讯打造虚拟仿真领域的「安卓系统」](https://www.autobit.xyz/news/742.html)
+
+58. [在干掉司机这个终极目标上，自动驾驶这门生意有多诱人？](https://www.autobit.xyz/live/744.html)
+
+59. [Researchers Develop Framework To Identify Health Impacts Of Self-Driving Vehicles](https://today.tamu.edu/2020/10/13/researchers-develop-framework-to-identify-health-impacts-of-self-driving-vehicles/)
+
+60. [Cruise receives permit from California DMV to remove safety drivers](https://www.reddit.com/r/SelfDrivingCars/comments/jbrvca/cruise_receives_permit_from_california_dmv_to/)
