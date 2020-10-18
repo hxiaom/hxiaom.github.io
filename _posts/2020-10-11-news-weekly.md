@@ -125,3 +125,17 @@ categories: Mobility
 59. [Researchers Develop Framework To Identify Health Impacts Of Self-Driving Vehicles](https://today.tamu.edu/2020/10/13/researchers-develop-framework-to-identify-health-impacts-of-self-driving-vehicles/)
 
 60. [Cruise receives permit from California DMV to remove safety drivers](https://www.reddit.com/r/SelfDrivingCars/comments/jbrvca/cruise_receives_permit_from_california_dmv_to/)
+
+61. [特斯拉一降再降，是在“割韭菜”吗？](https://www.huxiu.com/article/387800.html)
+
+62. [Uber们花1.8亿美元捍卫“零工经济”，图啥？](https://www.huxiu.com/article/387835.html)
+
+63. [理想汽车事故，自动驾驶惹的祸？](https://www.huxiu.com/article/388013.html)
+
+64. [秘诀首次“外传”，丰田向广汽提供混合动力技术](https://36kr.com/p/926353811999110)
+
+65. [共享汽车GoFun融资数亿元，正谋求上市](https://36kr.com/p/925798790187394)
+
+66. [J.D. Power新车质量报告：中国主流车与豪华车质量差距逐年缩小](https://36kr.com/p/926397036530053)
+
+67. [9月欧洲新能源车销量创新高，全年有望突破110万辆](https://36kr.com/p/926441751889795)
