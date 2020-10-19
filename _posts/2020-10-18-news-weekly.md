@@ -33,3 +33,17 @@ categories: Mobility
 14. [美团开店首秀：全自动拣货，95%订单全无人配送](https://www.jiqizhixin.com/articles/2020-10-16-6)
 
 15. [台积电四季度向华为零供货：财报超预期，5纳米收入占比达8%](https://www.jiqizhixin.com/articles/2020-10-16-7)
+
+16. [威马，上市未捷先“上火”](https://www.huxiu.com/article/388162.html)
+
+17. [千店退网、七成净亏：谁「杀死」了汽车经销商？](https://36kr.com/p/929810422696326)
+
+18. [国产特斯拉再降价，马斯克想掀翻中国车市？](https://36kr.com/p/929848872068865)
+
+19. [开电动汽车能省多少钱？](https://36kr.com/p/930502461081481)
+
+20. [用AI和大数据改变货运，G7发布数字货舱2.0](https://www.autobit.xyz/news/754.html)
+
+21. [智能汽车昨夜今晨：北京新增 100 个自动驾驶停靠站；LG 化学计划与多家车企洽谈成立电池公司](https://www.autobit.xyz/news/755.html)
+
+22. [Lidar used to cost $75,000—here’s how Apple brought it to the iPhone](https://arstechnica.com/cars/2020/10/the-technology-behind-the-iphone-lidar-may-be-coming-soon-to-cars/)
