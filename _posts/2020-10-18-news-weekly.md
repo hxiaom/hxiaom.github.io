@@ -47,3 +47,31 @@ categories: Mobility
 21. [智能汽车昨夜今晨：北京新增 100 个自动驾驶停靠站；LG 化学计划与多家车企洽谈成立电池公司](https://www.autobit.xyz/news/755.html)
 
 22. [Lidar used to cost $75,000—here’s how Apple brought it to the iPhone](https://arstechnica.com/cars/2020/10/the-technology-behind-the-iphone-lidar-may-be-coming-soon-to-cars/)
+
+23. [滴滴悄悄注册了一个新商标，把战壕挖到了BAT的腹地](https://www.huxiu.com/article/388247.html)
+
+24. [特斯拉降价太随便了，但我还是要帮他说两句](https://www.huxiu.com/article/388255.html)
+
+25. [用时10个月，理想ONE累计交付突破2万辆](https://36kr.com/p/930620325971847)
+
+26. [“自燃”阴影下的威马汽车，上市后能跑多远？](https://36kr.com/p/928080353748992)
+
+27. [特斯拉将于2021年1月进军印度，马斯克的“印度梦”有戏了？](https://36kr.com/p/930709674183040)
+
+28. [GoFun拿到融资欲上市，共享汽车行业就能活了？](https://36kr.com/p/930740213909385)
+
+29. [从翻车到翻盘，蔚来做对了什么？](https://36kr.com/p/930849682884480)
+
+30. [吉利智能换电站落地济南：90秒完成换电，司机全程不用下车](https://36kr.com/p/931019452778882)
+
+31. [特斯拉信心不再](https://36kr.com/p/931073533233544)
+
+32. [富士康：我不造车，但我想吃汽车红利](https://36kr.com/p/931082997696388)
+
+33. [马斯克再度食言，国产特斯拉Model 3即将出口欧洲](https://36kr.com/p/932006827772288)
+
+34. [百度在合肥成立自动驾驶新公司](https://www.autobit.xyz/kuaixun/756.html)
+
+35. [在商用车领域，博世将跳过 L3 级别自动驾驶](https://www.autobit.xyz/kuaixun/759.html)
+
+36. [百度陶吉：无人出租车在北京全面铺开，乘客普遍持认可态](https://www.jiqizhixin.com/dailies/153a2a5b-7c35-43ec-810d-0f1e287d6a78)
