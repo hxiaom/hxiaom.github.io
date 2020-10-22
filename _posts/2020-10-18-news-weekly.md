@@ -107,3 +107,35 @@ categories: Mobility
 51. [领克欧洲“分克”来了：首家体验店在荷兰开业，领克01全球版中欧同步开启预售](https://36kr.com/p/933504232015744)
 
 52. [旷视物流，一个AI独角兽的B面](https://www.jiqizhixin.com/articles/2020-10-19-9)
+
+53. [银隆死了又何妨，董明珠还活着啊](https://www.huxiu.com/article/388764.html)
+
+54. [地铁修到别人家里去是怎样的体验？](https://www.huxiu.com/article/388843.html)
+
+55. [信用卡玩家疯抢随心飞：狂撸延误险，一趟航班赚8000](https://www.huxiu.com/article/388854.html)
+
+56. [特斯拉“降价”这把刀](https://www.huxiu.com/article/388952.html)
+
+57. [特斯拉让丰田意识到如何与衰落抗争](https://36kr.com/p/933579406428035)
+
+58. [滴滴发组织任命邮件，花小猪总经理孙枢接任网约车公司执行总裁](https://36kr.com/p/933761259538818)
+
+59. [江淮汽车终于扭亏为盈，但前三季度利润同比仍下滑超六成](https://36kr.com/p/933851893909379)
+
+60. [上汽、东风、北汽们的最后一张牌](https://36kr.com/p/933898633283969)
+
+61. [博世转向「求生」](https://36kr.com/p/933912887789444)
+
+62. [GoFun CEO谭奕：获数亿B轮融资，明年计划30万辆车上平台](https://36kr.com/p/928536091248521)
+
+63. [五菱“碾压”了特斯拉，凭啥？](https://36kr.com/p/934073770485761)
+
+64. [上汽集团市值排名一退再退，推高端电车品牌或存无奈](https://36kr.com/p/934825074875527)
+
+65. [特斯拉交“史上最好季报”，三季度净利润同比暴增131%](https://36kr.com/p/934869105449856)
+
+66. [知名汽车媒体人王秋凤入职北汽新能源，任职ARCFOX事业部副总裁](https://36kr.com/p/934927175621504)
+
+67. [小鹏汽车今晚将正式推送Xmart OS 2.1.0版本OTA升级软件](https://www.jiqizhixin.com/dailies/d7bb07f4-c587-4a17-b9a5-1f4392c18c32)
+
+68. [Tesla FSD beta first driving video](https://www.reddit.com/r/SelfDrivingCars/comments/jfslx9/tesla_fsd_beta_first_driving_video/)
