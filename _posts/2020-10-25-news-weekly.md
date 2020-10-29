@@ -119,3 +119,25 @@ categories: Mobility
 57. [Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz](https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/)
 
 58. [Self-Driving Cars Can Also Self-Design A Whole New Traffic Code](https://www.forbes.com/sites/bradtempleton/2020/10/27/self-driving-cars-can-also-self-design-a-whole-new-traffic-code/#552043cd3379)
+
+59. [终究舍不得宾利，大众要卖给自家老弟](https://www.huxiu.com/article/389825.html)
+
+60. [MIT出品的自动驾驶船，你敢坐吗？](https://www.huxiu.com/article/390077.html)
+
+61. [3800亿，比亚迪值吗？](https://36kr.com/p/943198274350725)
+
+62. [10位特斯拉「韭菜」的烦恼](https://36kr.com/p/943240379952777)
+
+63. [特斯拉在中国的需求问题](https://36kr.com/p/943293954255747)
+
+64. [宁德时代三季度实现今年首次净利正增长，四季度配备特斯拉部分车型](https://36kr.com/p/943423120206726)
+
+65. [威马EX5在北京起火爆炸，一个月内发生三起自燃事故](https://36kr.com/p/943492757646980)
+
+66. [威马EX5在北京起火爆炸：浓烟超过四层楼，官方曾承认电池有问题](https://36kr.com/p/943490798644103)
+
+67. [因电池存在起火风险，威马汽车召回1282辆EX5](https://36kr.com/p/943767169920644)
+
+68. [单店销量翻数倍，特斯拉又卖爆了](https://36kr.com/p/943760849628293)
+
+69. [MINIEYE获2.7亿人民币C轮融资，推动自动驾驶感知解决方案的量产交付](https://36kr.com/p/944195939543942)
