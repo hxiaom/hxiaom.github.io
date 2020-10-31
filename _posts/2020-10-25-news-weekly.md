@@ -141,3 +141,65 @@ categories: Mobility
 68. [单店销量翻数倍，特斯拉又卖爆了](https://36kr.com/p/943760849628293)
 
 69. [MINIEYE获2.7亿人民币C轮融资，推动自动驾驶感知解决方案的量产交付](https://36kr.com/p/944195939543942)
+
+70. [未来汽车十问惊雷：晨哨CEO王云帆对话原上汽副总裁程惊雷](https://mp.weixin.qq.com/s/DtlE_l_Vg_TqSx029pnyqA)
+
+71. [理想 CTO 王凯在 #全球未来出行大会# 上谈到了智能汽车的架构话题](https://www.weibo.com/1793995075/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1)
+
+72. [大变革前奏：燃油车因何将溃败，电动车为何要长牛？](https://www.huxiu.com/article/390270.html)
+
+73. [新能源汽车：芯片被禁了可能补不上，电芯被禁了我们能补上](https://36kr.com/p/944667216277125)
+
+74. [重卡自动驾驶没有冬天：最强巨头合作量产、供应商2.7亿融资创史](https://36kr.com/p/944723811069573)
+
+75. [PSA今年三季度营收下滑0.8%，预计2020年中国市场销量下滑10%](https://36kr.com/p/944833109044869)
+
+76. [福特三季度营收利润均超市场预期，将于11月发布全电动货车](https://36kr.com/p/944864293579655)
+
+77. [车载传感器之争：日企VS世界](https://36kr.com/p/945115278863236)
+
+78. [辰韬资本智驾基金合伙人萧伊婷：港口自动驾驶天花板低，但有望2022年底规模商用](https://36kr.com/p/944261354647174)
+
+79. [拜腾新公司「盛腾科技」正式揭牌，整车工程、动力系统等多岗位启动招聘](https://36kr.com/p/945314706860933)
+
+80. [全球最权威17种量产辅助驾驶系统大PK：特斯拉再输通用](https://36kr.com/p/946073532788358)
+
+81. [「追势科技」获数千万人民币Pre-A轮融资，加速低速自动驾驶量产落地](https://36kr.com/p/944258808408964)
+
+82. [智能汽车昨夜今晨：蔚来实现单月产量破5000台；宝马加速电动化进程](https://www.autobit.xyz/news/792.html)
+
+83. [首汽约车联合亚马逊云服务发布出行行业首个定制智能语音解决方案](https://www.jiqizhixin.com/articles/2020-10-29-9)
+
+84. [Tesla officially increases price of its Full Self-Driving Kickstarter campaign to $10,000](https://electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/)
+
+85. [Testing Waymo Self-Driving Cars at Night (Part 1 of 3)](https://www.youtube.com/watch?v=9HFzqNHzZ6I&feature=youtu.be)
+
+86. [频繁引“火”上身的威马，能撑得起上市的野心吗？](https://www.huxiu.com/article/390479.html)
+
+87. [曹操出行野蛮生长](https://www.huxiu.com/article/390606.html)
+
+88. [涨幅堪比特斯拉，比亚迪上演惊天大逆转](https://36kr.com/p/946152940596615)
+
+89. [哈啰出行启动新业务“哈啰打车”，主打低佣金会吸引更多用户吗？](https://36kr.com/p/946197818470016)
+
+90. [GoFun难讲新故事](https://36kr.com/p/945527787679107)
+
+91. [造车新势力离丰收还有多远？](https://36kr.com/p/946206947454084)
+
+92. [「踏歌智行」获2亿人民币B轮融资，计划未来1-2年科创板上市](https://36kr.com/p/945390922559109)
+
+93. [全球未来出行大会：无人驾驶离我们还有多远？车企做出行有无边界？](https://36kr.com/p/946657361898377)
+
+94. [李斌：蔚来目前正在研发 150 度电池包，NEDC 续航里程将超过 900 公里](https://www.autobit.xyz/kuaixun/797.html)
+
+95. [华为发布智能汽车解决方案新品牌“HI”](https://www.autobit.xyz/kuaixun/795.html)
+
+96. [陈清泰：我国新能源汽车正进入中高级发展阶段](https://www.autobit.xyz/kuaixun/794.html)
+
+97. [福瑞泰克将落地L4无人驾驶小巴常态化运营，加快自动驾驶场景商业化布局](https://www.autobit.xyz/news/793.html)
+
+98. [Waymo 的无人驾驶汽车在 20 个月内发生了 18 起事故](https://www.jiqizhixin.com/dailies/7c9ded37-a91c-4a99-9734-bd763b10ba5c)
+
+99. [19个神经元控制自动驾驶汽车，MIT等虫脑启发新研究登Nature子刊](https://www.jiqizhixin.com/articles/2020-10-30-10)
+
+100. [Waymo Data Shows Superhuman Safety Record. They Should Deploy Today](https://www.forbes.com/sites/bradtempleton/2020/10/30/waymo-data-shows-incredible-safety-record--they-should-deploy-today/?sh=f9868e23829f)
