@@ -24,6 +24,52 @@ categories: Mobility
 
 10. [天天拍车：上海外牌限行新政公布后，二手车周成交量环比增长60%](https://36kr.com/p/950424660192129)
 
+11. [又一家新势力车企倒下：烧光51亿](https://www.huxiu.com/article/391323.html)
+
+12. [粤港澳大湾区“1小时交通圈”的边界难题](https://www.huxiu.com/article/391325.html)
+
+13. [围猎特斯拉，穿越血色黎明](https://36kr.com/p/951262596577155)
+
+14. [蔚来杀入欧洲黄金赛道，却难逃水土不服？](https://36kr.com/p/951064196672903)
+
+15. [国务院放大招，新能源汽车产业发展定调，万亿级汽车迎最强助攻](https://36kr.com/p/952125478499972)
+
+16. [戴姆勒卡车牵手沃尔沃，成立燃料电池合资公司](https://36kr.com/p/952165316606344)
+
+17. [「优必爱」获近千万美元A轮融资，提供数字化汽车服务平台](https://36kr.com/p/946981435730821)
+
+18. [蔚来回应2021年进军欧洲市场；特斯拉柏林工厂或年底前获最终建设许可；辽宁省政府或推动华晨司法重整](https://36kr.com/p/952287555335808)
+
+19. [最高涨幅达20%，新规划出炉，新能源产业链开盘大涨](https://36kr.com/p/952288765589891)
+
+20. [超越沃尔沃、凯迪拉克，C级轿车市场出现搅局者？](https://36kr.com/p/952291754850694)
+
+21. [大众电动车来了：传统巨擘反扑中国造车新势力](https://36kr.com/p/953156594088323)
+
+22. [无人智能洗车降低传统门店80%成本，「小睿智洗」获数千万元pre-A轮融资](https://36kr.com/p/952333987772039)
+
+23. [威马10月份销量3003辆，今年累计销量达16889辆](https://www.autobit.xyz/kuaixun/811.html)
+
+24. [小马智行宣布获一汽投资，将基于红旗、解放旗下车型打造自动驾驶系统](https://www.autobit.xyz/kuaixun/812.html)
+
+25. [智能汽车昨夜今晨：大众ID.4补贴后售价将不超25万元；比亚迪D1最快12月中旬上市](https://www.autobit.xyz/news/814.html)
+
+26. [宁夏银川市发放首批7张自动驾驶路测牌照](https://www.jiqizhixin.com/dailies/8fed8e00-4805-441f-a10a-e12e9c643c23)
+
+27. [华为正在建立新的芯片工厂，从制造低端45纳米芯片开始](https://www.jiqizhixin.com/dailies/e9cdd55f-3206-47bb-b727-90a2797496b1)
+
+28. [华为、千寻位置、高德联手，全球首发亚米级车道导航](https://www.jiqizhixin.com/articles/2020-11-02-4)
+
+29. [Tesla is going to expand Full Self-Driving to Canada and Norway next](https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/)
+
+30. [These are the countries that trust self-driving cars the most](https://www.weforum.org/agenda/2020/11/self-driving-cars-autonomous-vehicles-public-health-saftey-trust)
+
+31. [DeepRoute Fully Autonomous Driving Test in Shenzhen China](https://www.youtube.com/watch?v=E8Bo2q8sxg8&t=1s)
+
+32. [Uber still sees micromobility and AVs in its future, and could push Prop 22 beyond California](https://techcrunch.com/2020/10/07/uber-micromobility-prop-22-avs/)
+
+33. [国务院办公厅关于印发新能源汽车产业发展规划（2021—2035年）的通知](http://app.www.gov.cn/govdata/gov/202011/02/464401/article.html)
+
 11. [1-10月累计销量同比增长103%，红旗有望达成20万辆销售目标](https://36kr.com/p/950464902146951)
 
 12. [马斯克：全自动驾驶Beta版可以减少30%的人工干预](https://36kr.com/p/950490805414784)
