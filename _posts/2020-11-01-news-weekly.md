@@ -70,42 +70,70 @@ categories: Mobility
 
 33. [国务院办公厅关于印发新能源汽车产业发展规划（2021—2035年）的通知](http://app.www.gov.cn/govdata/gov/202011/02/464401/article.html)
 
-11. [1-10月累计销量同比增长103%，红旗有望达成20万辆销售目标](https://36kr.com/p/950464902146951)
+34. [中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议](https://weibo.com/ttarticle/p/show?id=2309404567241743270136#_0)
 
-12. [马斯克：全自动驾驶Beta版可以减少30%的人工干预](https://36kr.com/p/950490805414784)
+35. [1-10月累计销量同比增长103%，红旗有望达成20万辆销售目标](https://36kr.com/p/950464902146951)
 
-13. [日产今后在中国上市新车将全部电动化](https://36kr.com/p/950604328791686)
+36. [马斯克：全自动驾驶Beta版可以减少30%的人工干预](https://36kr.com/p/950490805414784)
 
-14. [又一造车新势力倒下，长江汽车进入破产清算程序](https://36kr.com/p/950662750662278)
+37. [日产今后在中国上市新车将全部电动化](https://36kr.com/p/950604328791686)
 
-15. [理想汽车，认错了](https://36kr.com/p/950842825501573)
+38. [又一造车新势力倒下，长江汽车进入破产清算程序](https://36kr.com/p/950662750662278)
 
-16. [吉利CMA超级母体首款宽体轿车星瑞上市，可实现整车OTA](https://36kr.com/p/950901361847939)
+39. [理想汽车，认错了](https://36kr.com/p/950842825501573)
 
-17. [成功「上位」却根基未稳，郑义宣如何「守业」？](https://36kr.com/p/950903369232008)
+40. [吉利CMA超级母体首款宽体轿车星瑞上市，可实现整车OTA](https://36kr.com/p/950901361847939)
 
-18. [理想汽车回应「断轴」频发，是硬件升级还是认错「召回」？](https://36kr.com/p/950904337361794)
+41. [成功「上位」却根基未稳，郑义宣如何「守业」？](https://36kr.com/p/950903369232008)
 
-19. [江淮大众增资事宜获批，将引入大众4-5款纯电动车型](https://36kr.com/p/951050424331136)
+42. [理想汽车回应「断轴」频发，是硬件升级还是认错「召回」？](https://36kr.com/p/950904337361794)
 
-20. [踏歌智行完成B轮2亿元融资，无人驾驶矿山赛道爆发在即](https://www.autobit.xyz/news/805.html)
+43. [江淮大众增资事宜获批，将引入大众4-5款纯电动车型](https://36kr.com/p/951050424331136)
 
-21. [蔚来十月交付首破5000台，新车型EC6近千台](https://www.autobit.xyz/kuaixun/806.html)
+44. [踏歌智行完成B轮2亿元融资，无人驾驶矿山赛道爆发在即](https://www.autobit.xyz/news/805.html)
 
-22. [小鹏汽车十月份交付3040台，同比增长229%](https://www.autobit.xyz/kuaixun/807.html)
+45. [蔚来十月交付首破5000台，新车型EC6近千台](https://www.autobit.xyz/kuaixun/806.html)
 
-23. [理想汽车10月交付3692辆，今年累计交付突破两万辆](https://www.autobit.xyz/kuaixun/808.html)
+46. [小鹏汽车十月份交付3040台，同比增长229%](https://www.autobit.xyz/kuaixun/807.html)
 
-24. [日本政府计划无人机供应链「去中国化」，政策将于明年4月生效](https://www.jiqizhixin.com/articles/2020-11-02-13)
+47. [理想汽车10月交付3692辆，今年累计交付突破两万辆](https://www.autobit.xyz/kuaixun/808.html)
 
-25. [十四五规划发布，科技自给自足第一次被摆在首位](https://www.jiqizhixin.com/articles/2020-11-02-12)
+48. [日本政府计划无人机供应链「去中国化」，政策将于明年4月生效](https://www.jiqizhixin.com/articles/2020-11-02-13)
 
-26. [Alibaba-backed AutoX to test autonomous cars in more cities in China](https://sports.yahoo.com/alibababacked-auto-x-gets-ready-to-test-autonomous-cars-in-more-cities-085451588.html)
+49. [十四五规划发布，科技自给自足第一次被摆在首位](https://www.jiqizhixin.com/articles/2020-11-02-12)
 
-27. [Two examples of Waymo Rider Support calls in the third and last part of the fully self-driving at night series](https://www.reddit.com/r/SelfDrivingCars/comments/jmqvbb/two_examples_of_waymo_rider_support_calls_in_the/)
+50. [Alibaba-backed AutoX to test autonomous cars in more cities in China](https://sports.yahoo.com/alibababacked-auto-x-gets-ready-to-test-autonomous-cars-in-more-cities-085451588.html)
 
-28. [Tesla FSD Beta Zero Disengagements](https://www.reddit.com/r/SelfDrivingCars/comments/jminth/tesla_fsd_beta_zero_disengagements/)
+51. [Two examples of Waymo Rider Support calls in the third and last part of the fully self-driving at night series](https://www.reddit.com/r/SelfDrivingCars/comments/jmqvbb/two_examples_of_waymo_rider_support_calls_in_the/)
 
-29. [Lidar startup Aeva to go public via $2.1 billion SPAC merger](https://techcrunch.com/2020/11/02/lidar-startup-aeva-to-go-public-via-2-1-billion-spac-merger/)
+52. [Tesla FSD Beta Zero Disengagements](https://www.reddit.com/r/SelfDrivingCars/comments/jminth/tesla_fsd_beta_zero_disengagements/)
 
-30. [Bringing micromobility to Africa](https://techcrunch.com/2020/10/07/bringing-micromobility-to-africa/)
+53. [Lidar startup Aeva to go public via $2.1 billion SPAC merger](https://techcrunch.com/2020/11/02/lidar-startup-aeva-to-go-public-via-2-1-billion-spac-merger/)
+
+54. [Bringing micromobility to Africa](https://techcrunch.com/2020/10/07/bringing-micromobility-to-africa/)
+
+55. [2035年汽车全面混动，有可能吗？](https://www.huxiu.com/article/391409.html)
+
+56. [滴滴为什么要重新做一个打车软件？](https://www.huxiu.com/article/391377.html)
+
+57. [增程式技术兴衰史](https://36kr.com/p/953334416242052)
+
+58. [松下将为特斯拉供应新电池，充电速度或将提升](https://36kr.com/p/953447835383426)
+
+59. [人人车为何驶入迷途？](https://36kr.com/p/953515866519432)
+
+60. [车标被疑「撞脸」，雪铁龙「碰瓷」极星？](https://36kr.com/p/953815057119622)
+
+61. [深度试驾新款奔驰E级：老牌豪华销量王如何「不油腻」？](https://36kr.com/p/953816233163143)
+
+62. [比亚迪10月汽车销量4.77万辆，纯电动车占比超3成](https://36kr.com/p/953913052313219)
+
+63. [广汽新能源推新款 Aion LX，全面配备 ADiGO 自动驾驶系统](https://www.autobit.xyz/kuaixun/815.html)
+
+64. [智能汽车昨夜今晨：ID.4 X 中文名为“光荷4 X”；小米芯片负责人白剑加盟蔚来](https://www.autobit.xyz/news/816.html)
+
+65. [千寻位置公布全球最大规模北斗高精度定位路测的阶段性成果](https://www.jiqizhixin.com/dailies/588dcd5f-03e8-43b7-938b-b3c7671b132b)
+
+66. [为「无人驾驶地铁」做准备，深圳地铁全自动运行试验中心开工](https://www.jiqizhixin.com/dailies/ab867f19-5c01-4952-9326-d5cccbb4508c)
+
+67. [Massachusetts voters pass a right-to-repair measure, giving them unprecedented access to their car data](https://techcrunch.com/2020/11/04/massachusetts-voters-pass-a-right-to-repair-measure-giving-them-unprecedented-access-to-their-car-data/)
