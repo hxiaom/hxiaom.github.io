@@ -137,3 +137,35 @@ categories: Mobility
 66. [为「无人驾驶地铁」做准备，深圳地铁全自动运行试验中心开工](https://www.jiqizhixin.com/dailies/ab867f19-5c01-4952-9326-d5cccbb4508c)
 
 67. [Massachusetts voters pass a right-to-repair measure, giving them unprecedented access to their car data](https://techcrunch.com/2020/11/04/massachusetts-voters-pass-a-right-to-repair-measure-giving-them-unprecedented-access-to-their-car-data/)
+
+68. [变革前奏：燃油车的“诺基亚时刻”](https://www.huxiu.com/article/391735.html)
+
+69. [“滚粗”这门手艺，国产车也学会了](https://www.huxiu.com/article/390687.html)
+
+70. [“安全”是造车新势力的命门吗？](https://36kr.com/p/954593550072194)
+
+71. [动力电池走向双寡头时代，谁是宁德时代真正的敌人？](https://36kr.com/p/954610754467463)
+
+72. [无人出租要遍地，Waymo百度这种报告就得常走起](https://36kr.com/p/954640586339972)
+
+73. [长安汽车10月销量达21.26万辆，同比增长29.65%](https://36kr.com/p/954776354289281)
+
+74. [小米芯片核心人物白剑加盟，蔚来自研芯片再提速](https://36kr.com/p/954852573460867)
+
+75. [中金研报：2021年新能源车市继续上扬，国产Model Y预计销量15万辆](https://36kr.com/p/954872026609283)
+
+76. [得益于中国豪华车市场复苏，宝马三季度净利润上涨近10%](https://36kr.com/p/954978344859270)
+
+77. [企业借外力发现漏洞，丰田感谢腾讯](https://36kr.com/p/955140363499144)
+
+78. [「弃子」宾利](https://36kr.com/p/955175150352771)
+
+79. [蔚来市值连超宝马通用，小鹏理想逼近福特法拉利，新势力的子弹还能飞多久？](https://36kr.com/p/955187788773761)
+
+80. [智能汽车昨夜今晨：上海共享特斯拉平台涉嫌非法运营；沃尔沃、戴姆勒合作研发应用于重卡的燃料电池](https://www.autobit.xyz/news/817.html)
+
+81. [点燃北京市民热情后，百度Apollo再拿银川测试牌照，开辟大西北自动驾驶运营](https://www.autobit.xyz/live/818.html)
+
+82. [Let me know what you think of my video about the history of Waymo :)](https://www.reddit.com/r/SelfDrivingCars/comments/jopqo2/let_me_know_what_you_think_of_my_video_about_the/)
+
+83. [Seniors react to Waymo (1/4) plus a sudden stop](https://www.youtube.com/watch?v=vqGrzoU_ANY&feature=youtu.be)
