@@ -169,3 +169,33 @@ categories: Mobility
 82. [Let me know what you think of my video about the history of Waymo :)](https://www.reddit.com/r/SelfDrivingCars/comments/jopqo2/let_me_know_what_you_think_of_my_video_about_the/)
 
 83. [Seniors react to Waymo (1/4) plus a sudden stop](https://www.youtube.com/watch?v=vqGrzoU_ANY&feature=youtu.be)
+
+84. [固态电池之战：特斯拉vs宁德时代vs比亚迪](https://www.huxiu.com/article/391978.html)
+
+85. [揭秘汽车成本演变：软件授权费曾引发车企争议，特斯拉玩法势不可挡](https://36kr.com/p/956066108029316)
+
+86. [国产特斯拉Model Y已完成工信部申报，将搭载三元锂离子电池](https://36kr.com/p/956103004731012)
+
+87. [告别“油改电”，宝马将研发电动车专用平台](https://36kr.com/p/956133006014848)
+
+88. [彻底转型为纯电动品牌，宾利2030年将停产燃油车型](https://36kr.com/p/956165063505543)
+
+89. [再投5亿美元，LG化学扩大南京工厂产能](https://36kr.com/p/956196731614848)
+
+90. [T3出行CEO崔大勇：三年将投100亿元，抢占接近30%市场份额](https://36kr.com/p/956185090930306)
+
+91. [理想发致歉信承认“升级”说法不妥，将“召回”共计10469辆理想ONE](https://36kr.com/p/956414367987328)
+
+92. [自动驾驶公司「小马智行」获2.67亿美元C轮融资，估值超53亿美元](https://36kr.com/p/956429917092226)
+
+93. [车企扎堆续签，今年进博会比车展更香？](https://36kr.com/p/956599250549123)
+
+94. [哈啰出行启动打车业务分羹网约车市场，需面对监管、运营、竞争等难题](https://36kr.com/p/956580409588102)
+
+95. [现代发布在华氢能源战略，2025年将普及4000辆氢燃料电池卡车](https://36kr.com/p/956873290971524)
+
+96. [蔚来上线100kWh电池并发布升级方案，NEDC续航最高可达615公里](https://www.autobit.xyz/kuaixun/822.html)
+
+97. [北汽新能源换电团队已超200人，明年换电站将兼容5家车企旗下车型](https://www.autobit.xyz/news/820.html)
+
+98. [高通向物联网，汽车，数据中心和边缘计算多元化发展](https://www.jiqizhixin.com/dailies/e702a037-d4b1-4dfb-86a2-cf65173ccb2b)
