@@ -73,3 +73,63 @@ categories: Mobility
 34. [Tesla FSD beta is learning tricks to navigate tight spaces](https://www.teslarati.com/tesla-fsd-beta-side-mirror-tight-spaces-video)
 
 35. [Uber has its highest close since IPO](https://techcrunch.com/2020/11/09/uber-has-its-highest-close-since-ipo/)
+
+36. [德国火车准时的神话，被私有化毁了？](https://www.huxiu.com/article/392626.html)
+
+37. [波音737MAX复飞渐近，现在可以放心坐了吗？](https://www.huxiu.com/article/392815.html)
+
+38. [FCA和PSA合并再近一步，新公司“Stellantis”发布集团标识](https://36kr.com/p/961761748160006)
+
+39. [造车新贵做LP](https://36kr.com/p/961796984557314)
+
+40. [LG化学送子出征](https://36kr.com/p/962252966235652)
+
+41. [恒大汽车推出恒驰车标；沃尔沃在美国召回5.4万辆汽车；小摩上调蔚来、小鹏目标价](https://36kr.com/p/962254529416708)
+
+42. [ID.4对决Model Y，谁更能打？](https://36kr.com/p/962258755374855)
+
+43. [新出行大战](https://36kr.com/p/962079787798025)
+
+44. [智能汽车昨夜今晨：通用Cruise与沃尔玛试点无人车送货；理想ONE连续两月占据国内新能源SUV销量榜首](https://www.autobit.xyz/news/834.html)
+
+45. [烧光51亿，被李嘉诚看重的“神话”成了“笑话”](https://www.huxiu.com/article/392927.html)
+
+46. [2020年了，还有人靠PPT造车狂卷25亿美元](https://www.huxiu.com/article/392988.html)
+
+47. [内燃机研发难，难道电机就容易么？](https://www.huxiu.com/article/393150.html)
+
+48. [特斯拉承认触控屏存储设备存在故障，将延长质保有效期](https://36kr.com/p/963154232790785)
+
+49. [神州优车拟转让神州租车4.43亿股，将不再持有神州租车股份](https://36kr.com/p/963188402703872)
+
+50. [一汽集团10月销量达35.5万辆，红旗品牌领跑](https://36kr.com/p/963200943214343)
+
+51. [“营销老兵”蔡建军正式加盟吉利汽车，出任销售公司副总经理](https://36kr.com/p/963326188031489)
+
+52. [特斯拉在中国的增长正变得举步维艰](https://36kr.com/p/963701710052872)
+
+53. [宝马iNEXT量产车型BMW iX全球首发，将于明年引入国内](https://36kr.com/p/963957045141251)
+
+54. [全球自动驾驶再加速，中国公司的等待与进击](https://36kr.com/p/945459597061001)
+
+55. [双十一，5000亿比亚迪股价“打折”逼近跌停](https://36kr.com/p/964593441480450)
+
+56. [捷豹路虎优化在华业务模式，由中国总裁潘庆统一决策](https://36kr.com/p/964617466191618)
+
+57. [恒大汽车上海、广州基地启动试生产，恒驰系列明年下半年量产](https://36kr.com/p/964636951387913)
+
+58. [L4当L2用，Mobileye下一代方案能否突围？](https://www.autobit.xyz/live/836.html)
+
+59. [2年39个版本更新，蔚来自研FOTA技术，掌控智能汽车进化的奥秘](https://www.autobit.xyz/live/837.html)
+
+60. [本土最强智能电动轿跑，选比亚迪汉EV还是小鹏P7？](https://www.autobit.xyz/live/838.html)
+
+61. [《智能网联汽车技术路线图2.0》发布](https://www.autobit.xyz/kuaixun/839.html)
+
+62. [智能汽车昨夜今晨：宝马iX量产车全球首发；小鹏P7搭载千寻位置时空智能服务](https://www.autobit.xyz/news/841.html)
+
+63. [全球首家？本田宣布将率先量产L3级自动驾驶汽车](https://www.autobit.xyz/kuaixun/842.html)
+
+64. [价格屠夫大刀一挥，16线激光雷达降至6488元](https://www.autobit.xyz/news/843.html)
+
+65. [PAVE- Autonowashing: Why Words Matter with Liza Dixon](https://www.youtube.com/watch?v=57Os51dbaqc)
