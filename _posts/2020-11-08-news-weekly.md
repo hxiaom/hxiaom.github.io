@@ -133,3 +133,35 @@ categories: Mobility
 64. [价格屠夫大刀一挥，16线激光雷达降至6488元](https://www.autobit.xyz/news/843.html)
 
 65. [PAVE- Autonowashing: Why Words Matter with Liza Dixon](https://www.youtube.com/watch?v=57Os51dbaqc)
+
+66. [磷酸铁锂的第二春](https://www.huxiu.com/article/393289.html)
+
+67. [没有一辆共享电单车能开进北上广深](https://www.huxiu.com/article/393340.html)
+
+68. [网约车二战打响：模式之争下，乘客、司机、平台的三方博弈](https://36kr.com/p/963856346846729)
+
+69. [威尔森首席产品创新营销官：车企应该怎样做数字化转型？](https://36kr.com/p/960881913433604)
+
+70. [本田3级自动驾驶车将投入实用，全球首获认可](https://36kr.com/p/964830238056199)
+
+71. [小鹏汽车交上市后首份财报，三季度毛利率首度转正，总营收同比增长342.5%](https://36kr.com/p/965061978463751)
+
+72. [长安、北汽公布L4级量产时间表，无人驾驶时代真的要来了？](https://36kr.com/p/965093685370372)
+
+73. [哈弗初恋实车亮相，计划出口海外](https://36kr.com/p/965096858214151)
+
+74. [在自动驾驶领域，谁有机会成为那个通吃的赢家？](https://36kr.com/p/965042856941313)
+
+75. [滴滴自动驾驶获上海三个测试区开放测试路段牌照](https://www.autobit.xyz/kuaixun/844.html)
+
+76. [智能汽车昨夜今晨：小鹏汽车第四季度交付有望破万辆；国务院：除导航电子地图外，其他甲级测绘资质审批下放至省级](https://www.autobit.xyz/news/845.html)
+
+77. [深圳市携手华为发布《鹏城智能体-城市安全发展白皮书》](https://www.jiqizhixin.com/dailies/d8a51237-c1ed-42b5-a42f-2f0b974b0cd2)
+
+78. [特斯拉公布《特斯拉车辆安全报告》调查方法](https://www.jiqizhixin.com/dailies/e6a31903-6cb1-4ff6-9956-af1720aeb5f6)
+
+79. [Tesla FSD beta, Gravel roads and more](https://www.youtube.com/watch?v=4m_EpCvuM8g&feature=youtu.be)
+
+80. [How Zoox Uses TeleGuidance to Provide Remote Assistance to its Autonomous Vehicles](https://www.youtube.com/watch?v=NKQHuutVx78)
+
+81. [Measuring Autonomy Performance, Part 3: Evaluating Autonomy On The Road](https://wayve.ai/blog/measuring-autonomy-performance-part-3-evaluating-autonomy-on-the-road/)
