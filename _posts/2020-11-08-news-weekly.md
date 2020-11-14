@@ -165,3 +165,5 @@ categories: Mobility
 80. [How Zoox Uses TeleGuidance to Provide Remote Assistance to its Autonomous Vehicles](https://www.youtube.com/watch?v=NKQHuutVx78)
 
 81. [Measuring Autonomy Performance, Part 3: Evaluating Autonomy On The Road](https://wayve.ai/blog/measuring-autonomy-performance-part-3-evaluating-autonomy-on-the-road/)
+
+82. [汽车向投研思路](https://weibo.com/ttarticle/p/show?id=2309404548754736021507#_0)
