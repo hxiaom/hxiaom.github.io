@@ -167,3 +167,31 @@ categories: Mobility
 81. [Measuring Autonomy Performance, Part 3: Evaluating Autonomy On The Road](https://wayve.ai/blog/measuring-autonomy-performance-part-3-evaluating-autonomy-on-the-road/)
 
 82. [汽车向投研思路](https://weibo.com/ttarticle/p/show?id=2309404548754736021507#_0)
+
+83. [我养的“电动爹”不配有桩？](https://www.huxiu.com/article/393594.html)
+
+84. [新能源汽车狂奔中的落寞背影](https://36kr.com/p/965894184754947)
+
+85. [戴姆勒CEO：未来5年公司规模将缩小，转型电动化和自动驾驶](https://36kr.com/p/965983633628936)
+
+86. [小鹏亏本卖小鹏](https://36kr.com/p/966022371073795)
+
+87. [一代“神车”丰田皇冠将彻底停产，SUV车型或继任](https://36kr.com/p/966070687211267)
+
+88. [斥资2200万美元建造电池工程实验室，大众距离“电池自由”还有多远？](https://36kr.com/p/966557494961667)
+
+89. [戴姆勒将缩小公司规模；贾跃亭时隔4个月再度发声；华晨汽车集团被申请重整](https://36kr.com/p/966558250576129)
+
+90. [李想：在快充技术成熟前，不会推出纯电车型](https://36kr.com/p/967350662916361)
+
+91. [Velodyne 推出 500 美元固态激光雷达，将在 2021 年投产](https://www.autobit.xyz/kuaixun/847.html)
+
+92. [第一代滴滴D1来了：滴滴将于11月16日发布共享出行新物种](https://www.autobit.xyz/kuaixun/848.html)
+
+93. [Uber 正在洽谈出售自动驾驶业务，Aurora 接盘？](https://www.autobit.xyz/kuaixun/849.html)
+
+94. [刚刚！长安汽车宣布联合华为、宁德时代 打造高端智能电动车品牌](https://www.autobit.xyz/kuaixun/850.html)
+
+95. [投了禾赛、主线和驭势的博世创投，要在中国自动驾驶市场继续加注](https://www.autobit.xyz/live/851.html)
+
+96. [Tesla Autopilot FSD Attempting Chinatown in the Rain](https://www.youtube.com/watch?v=YAX-g2tikMs&feature=youtu.be)
