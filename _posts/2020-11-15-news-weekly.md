@@ -49,3 +49,27 @@ categories: Mobility
 22. [Active Driving Assistance Systems: Test Results and Design Recommendations](https://data.consumerreports.org/wp-content/uploads/2020/11/consumer-reports-active-driving-assistance-systems-november-16-2020.pdf)
 
 23. [Introducing Voyage Commander](https://news.voyage.auto/introducing-voyage-commander-d7d7b2b4eb22)
+
+24. [宝能汽车成立汽车软件公司，到2025年招募5000人](https://36kr.com/p/971725429272576)
+
+25. [股价高位巨震+大空头亮剑，新能源的车还能上吗？](https://36kr.com/p/971613988663048)
+
+26. [大众“狙击特斯拉小组”将推旗舰电动车，2024年生产续航650km](https://36kr.com/p/971850776834305)
+
+27. [中金公司：RCEP签订利好汽车产业和中国二轮车出口](https://36kr.com/p/971860089909257)
+
+28. [特斯拉停售最低价版Model 3；华晨汽车确认65亿债务违约；大众考虑分拆兰博基尼与杜卡迪](https://36kr.com/p/972117286924290)
+
+29. [滴滴「造车」，意欲何为？](https://36kr.com/p/972215430951171)
+
+30. [车市「银十」狂飙，但特斯拉已经不是领跑者](https://36kr.com/p/972257761308929)
+
+31. [百度三季报业绩超预期，Apollo商业化进程加速](https://www.autobit.xyz/feature/858.html)
+
+32. [TCL实业副总裁何军分享《新基建时代的制造业大数据价值变现》](https://www.jiqizhixin.com/articles/2020-11-17-10)
+
+33. [沈向洋博士：三十年科研路，我踩过的那些坑](https://www.jiqizhixin.com/articles/2020-11-17-7)
+
+34. [从末端配送到全场景赋能，坎德拉科技举办2020新品发布](https://www.jiqizhixin.com/articles/2020-11-16)
+
+35. [Motional: Earning our Driverless License](https://motional.com/earning-our-driverless-license/)
