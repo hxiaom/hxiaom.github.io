@@ -73,3 +73,39 @@ categories: Mobility
 34. [从末端配送到全场景赋能，坎德拉科技举办2020新品发布](https://www.jiqizhixin.com/articles/2020-11-16)
 
 35. [Motional: Earning our Driverless License](https://motional.com/earning-our-driverless-license/)
+
+36. [长城、比亚迪们纷纷发债，缺钱了？](https://www.huxiu.com/article/394594.html)
+
+37. [理想汽车，二档起步](https://36kr.com/p/973021729009416)
+
+38. [特斯拉、Uber等游说政府，要求2030年美国新车全部销售电动车](https://36kr.com/p/973078153097473)
+
+39. [PSA不再投资内燃机，提高在华业绩是主要任务](https://36kr.com/p/973143353618694)
+
+40. [戴姆勒与吉利联合开发内燃机，计划于2024年开始实施](https://36kr.com/p/973171991048201)
+
+41. [蜂巢能源欧洲电池工厂选址德国，投资20亿欧元2023年底建成投产](https://36kr.com/p/973193993039879)
+
+42. [职场人新能源车消费调研，近7成用户仍存在掉电顾虑](https://36kr.com/p/973183065091848)
+
+43. [蔚来理想小鹏交答卷：每个问题里都有特斯拉](https://36kr.com/p/973115189899012)
+
+44. [火山口上狂欢的新能源汽车盛宴](https://36kr.com/p/973120647343875)
+
+45. [二手车电商十年：一场看不到终点的战争](https://36kr.com/p/973365836787976)
+
+46. [贾跃亭没有梦想](https://36kr.com/p/973315602427648)
+
+47. [试驾ARCFOX 极狐 αT ：能否撑起北汽品牌向上的大旗？](https://36kr.com/p/973569043542274)
+
+48. [「回击」香橼做空，蔚来三季度实现两位数毛利率](https://36kr.com/p/973569917530376)
+
+49. [对话博世创投：欧洲CVC进入中国To B深水区｜in Focus](https://36kr.com/p/972331057033473)
+
+50. [长安高端序列UNI-K全球首秀，能否助力品牌向上？](https://36kr.com/p/973614414114819)
+
+51. [蔚来李斌：第二代平台车型将具备全栈自研能力](https://www.autobit.xyz/kuaixun/860.html)
+
+52. [智能汽车昨夜今晨：吉利智能驾驶体系生变；现代Motional获准测试无人车](https://www.autobit.xyz/news/861.html)
+
+53. [发布首款定制网约车D1，滴滴在讲一个什么样的「出行」新故事？](https://www.jiqizhixin.com/articles/2020-11-18-10)
