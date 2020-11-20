@@ -109,3 +109,29 @@ categories: Mobility
 52. [智能汽车昨夜今晨：吉利智能驾驶体系生变；现代Motional获准测试无人车](https://www.autobit.xyz/news/861.html)
 
 53. [发布首款定制网约车D1，滴滴在讲一个什么样的「出行」新故事？](https://www.jiqizhixin.com/articles/2020-11-18-10)
+
+54. [三份财报一起看，“造车三傻”殊途同归](https://www.huxiu.com/article/394770.html)
+
+55. [召回大户特斯拉的「美式」傲慢](https://36kr.com/p/974423431462400)
+
+56. [促汽车消费政策再加码，新一轮汽车下乡即将开展](https://36kr.com/p/974516504264457)
+
+57. [新一轮疫情严重反弹，欧洲10月新车销量同比下降7.8%](https://36kr.com/p/974545482644997)
+
+58. [蔚来理想小鹏答卷对比，谁离特斯拉最近？](https://36kr.com/p/974761614049027)
+
+59. [先不管自动驾驶，这样的滴滴定制网约车D1你pi不pick？](https://36kr.com/p/974938362014979)
+
+60. [Uber计划与其他厂商合作开发自动驾驶技术，可提供客户群体数据](https://36kr.com/p/974961508482560)
+
+61. [岚图技术日「放大招」：不怕与宝马竞争](https://36kr.com/p/975046097813250)
+
+62. [全新梅赛德斯-迈巴赫S级全球首发，迈巴赫GLS正式登陆中国市场](https://36kr.com/p/975251933511426)
+
+63. [天天拍车：1-10月新能源二手车成交量同比涨幅超84%](https://36kr.com/p/975836640263683)
+
+64. [博世成立智能网联科技有限公司，总部落户无锡](https://www.autobit.xyz/kuaixun/862.html)
+
+65. [智能汽车昨夜今晨：比亚迪：明年将是新能源汽车爆发期；Rivian或将在中国推出小型电动汽车](https://www.autobit.xyz/news/863.html)
+
+66. [Robotaxi companies get the green light to charge for rides in California](https://techcrunch.com/2020/11/19/robotaxi-companies-get-the-green-light-to-charge-for-rides-in-california/)
