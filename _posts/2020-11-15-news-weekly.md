@@ -135,3 +135,31 @@ categories: Mobility
 65. [智能汽车昨夜今晨：比亚迪：明年将是新能源汽车爆发期；Rivian或将在中国推出小型电动汽车](https://www.autobit.xyz/news/863.html)
 
 66. [Robotaxi companies get the green light to charge for rides in California](https://techcrunch.com/2020/11/19/robotaxi-companies-get-the-green-light-to-charge-for-rides-in-california/)
+
+67. [华晨汽车破产重整，宝马也救不了它](https://www.huxiu.com/article/395049.html)
+
+68. [翻盘之后，蔚来如何撑起“高估值”？](https://36kr.com/p/975840442609408)
+
+69. [小鹏P7鹏翼版开启预售，2021年量产激光雷达智能汽车](https://36kr.com/p/976093376843140)
+
+70. [一款“并不完美”的产品成为销冠，五菱宏光MINIEV的营销启示](https://36kr.com/p/975908660883205)
+
+71. [香橼看空，德银唱反调，谁会是造车新势力领头羊？](https://36kr.com/p/975970152804098)
+
+72. [广汽蔚来首次参展，007系列家族迎新兵](https://36kr.com/p/976290032815490)
+
+73. [一汽丰田ALLION正式亮相，填补A+级市场空缺](https://36kr.com/p/976359195724934)
+
+74. [东风加速转型，到2023年将推出超17款电动化产品](https://36kr.com/p/976392419609737)
+
+75. [小鹏汽车CEO何小鹏：短期来看，科技型车企有太高毛利是错误的](https://36kr.com/p/976456945552771)
+
+76. [华晨宇站台，沃尔沃首款纯电SUV正式上市，售价35.7万元](https://36kr.com/p/976400298773639)
+
+77. [荣威RX5 MAX Supreme上市，补贴后售价13.78万-15.78万元](https://36kr.com/p/976684480728199)
+
+78. [美国监管机构寻求公众对自动驾驶汽车新安全标准的意见](https://www.jiqizhixin.com/dailies/6d27b1fc-5d38-4b88-9330-f0437d8bd8d6)
+
+79. [Loadsmart 为其智能运输技术筹集了 9000 万美元](https://www.jiqizhixin.com/dailies/c0d6e6f9-124d-40e3-b644-4c9d65d73259)
+
+80. [Mobileye 聘请 Luminar 为其 Robotaxi 机队提供激光雷达](https://www.jiqizhixin.com/dailies/deef8abe-f43c-49e7-80c9-035b2c36e380)
