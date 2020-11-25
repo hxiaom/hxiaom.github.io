@@ -71,3 +71,23 @@ categories: Mobility
 33. [KFC Autonomous 5G Vehicles Make Driver-less Food Trucks a Reality in China](https://www.tripzilla.com/kfc-autonomous-5g-vehicles-china/116430)
 
 34. [Comma.ai Drive and Tour with George Hotz and Lex Fridman](https://www.youtube.com/watch?v=Lks97-GLElk&feature=youtu.be)
+
+35. [在自动驾驶这场战役里，老牌汽车强国可能会哭得很厉害](https://www.huxiu.com/article/395582.html)
+
+36. [汽车大佬，乌镇「吐」真言](https://36kr.com/p/982144936692865)
+
+37. [特斯拉股价创新高，马斯克身价超过盖茨](https://36kr.com/p/981562046942595)
+
+38. [产品线单薄、动力电池布局拖后腿，长城还有多少短板](https://36kr.com/p/981558033632387)
+
+39. [进一步扩张欧洲市场版图，爱驰U5将在荷兰销售](https://36kr.com/p/981598583082112)
+
+40. [激光雷达点燃资本市场热情，小鹏汽车股价大涨33.92%](https://36kr.com/p/981646230375552)
+
+41. [长安欧尚2021年密集推新，将陆续发布12款全新车型](https://36kr.com/p/981957950098566)
+
+42. [全球汽车产业势力版图重心在转向中国](https://36kr.com/p/981998668008838)
+
+43. [独家专访比亚迪李云飞：以混动技术降维打击燃油车](https://36kr.com/p/982136130522241)
+
+44. [智能汽车昨夜今晨：利欧股份：投资理想狂赚21.8倍；特斯拉正开发1000公里续航车型，FSD Beta 5即将推出](https://www.autobit.xyz/news/870.html)
