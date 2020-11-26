@@ -202,3 +202,5 @@ categories: Mobility
 73. [麦格纳携手 Mobileye 推出全新 ADAS 系统，EyeQ5 芯片量产上车进程加速](https://www.autobit.xyz/kuaixun/882.html)
 
 74. [上汽R品牌独立运营，明年销量目标3万辆](https://www.autobit.xyz/kuaixun/883.html)
+
+75. [Motional Consumer Mobility Report](https://motional.com/mobilityreport/?utm_medium=paidsocial&utm_source=twitter&utm_content=V4&utm_campaign=Video_AlwaysOn)
