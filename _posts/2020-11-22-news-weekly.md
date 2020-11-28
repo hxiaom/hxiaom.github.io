@@ -204,3 +204,25 @@ categories: Mobility
 74. [上汽R品牌独立运营，明年销量目标3万辆](https://www.autobit.xyz/kuaixun/883.html)
 
 75. [Motional Consumer Mobility Report](https://motional.com/mobilityreport/?utm_medium=paidsocial&utm_source=twitter&utm_content=V4&utm_campaign=Video_AlwaysOn)
+
+76. [切入蔚来和理想之间，老央企要抢新市场？](https://www.huxiu.com/article/394551.html)
+
+77. [纳入标普前夕特斯拉股票交易量激增，超同期亚马逊和苹果交易总额](https://36kr.com/p/985817143892612)
+
+78. [传统出租车贡献运力超70%，上线率不足10%](https://36kr.com/p/985939925015426)
+
+79. [转让旗下“利润奶牛”，均胜电子加速整合内部资源](https://36kr.com/p/986020012907399)
+
+80. [股价一度暴涨33.92%，何小鹏喊话小鹏员工：不要只盯着股价的短期起落](https://36kr.com/p/986159449219717)
+
+81. [独家专访哪吒汽车胡恩平：要成为汽车界的OPPO](https://36kr.com/p/986494004733063)
+
+82. [专访长城欧拉姚飞：做to B赚钱效益差，还伤害品牌](https://36kr.com/p/987198297384068)
+
+83. [专访广汽埃安沈向阳：做科技公司，和燃油车正面竞争](https://36kr.com/p/987199982003335)
+
+84. [五倍能量提升！特斯拉4680电池信息曝光](https://www.autobit.xyz/news/887.html)
+
+85. [华为96线激光雷达参数细节披露，将在北汽和长安的高端车型上量产](https://www.autobit.xyz/news/888.html)
+
+86. [First regular operation of free, self-driving buses began Thursday](https://the-japan-news.com/news/article/0006956950)
