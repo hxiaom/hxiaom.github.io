@@ -61,3 +61,40 @@ categories: Mobility
 28. [小鹏汽车今年累计交付量超两万，P7车型交付已破万](https://www.autobit.xyz/kuaixun/894.html)
 
 29. [蔚来11月新车交付5291台，连续8个月同比翻番](https://www.autobit.xyz/kuaixun/896.html)
+
+30. [苹果玩智能汽车，路子比特斯拉还野](https://www.huxiu.com/article/397353.html)
+
+31. [阿里给小鹏派的新董事，只待了10天；普京指示下周开始接种新冠疫苗](https://www.huxiu.com/article/397559.html)
+
+32. [马斯克带头泼冷水：若不控制成本，特斯拉股价将暴跌](https://36kr.com/p/992883366754178)
+
+33. [半个月股价大涨62.4%，长安汽车连发股价异动风险提示公告](https://36kr.com/p/992888408438657)
+
+34. [拟高位增发港股，受资本追捧的比亚迪也“缺钱”？](https://36kr.com/p/992967332870018)
+
+35. [现代汽车发布电动汽车平台“E-GMP”，NEDC续航可达600km](https://36kr.com/p/992993857140611)
+
+36. [LG化学计划将中国电池产能翻倍，但有机构预计明年供给或远超需求](https://36kr.com/p/992995421353865)
+
+37. [宝马曾「折戟」的高端出行领域，奔驰联手吉利能行吗？](https://36kr.com/p/993405103814528)
+
+38. [一个「青年汽车」倒下了，警惕下一个氢能源「神车」爬起来](https://36kr.com/p/993408775566979)
+
+39. [11月造车新势力销量大PK：TOP 3格局已定？](https://36kr.com/p/993411414554247)
+
+40. [哪吒汽车C轮融资将收官 华鼎资本独家领投20亿元](https://36kr.com/p/993491331200903)
+
+41. [中国媒体深度对话特斯拉设计师，火星皮卡曾参考战斗机](https://36kr.com/p/994171659843712)
+
+42. [华为智能汽车部件将采用三元锂电池](https://www.autobit.xyz/kuaixun/899.html)
+
+43. [市值超过5500亿美元，特斯拉或考虑收购一家传统车企](https://www.autobit.xyz/news/901.html)
+
+44. [Velodyne与福特合作，共同进行重型卡车自动驾驶研发测试](https://www.autobit.xyz/kuaixun/902.html)
+
+45. [长安高端品牌平台定名CHN，华为、腾讯、宁德时代三巨头正洽谈入股长安蔚来](https://www.autobit.xyz/p/904.html)
+
+46. [自动驾驶卡车初创公司 TuSimple 从美国铁路、零售和货运巨头筹集了 3.5 亿美元](https://www.jiqizhixin.com/dailies/fd7a0d4d-c42c-47a2-a3c8-86cd4a954c7e)
+
+47. [据报道优步将出售其飞行出租车业务给创业公司 Joby Aviation](https://www.jiqizhixin.com/dailies/e8203325-b600-4198-b30f-85a3d8028ecf)
+
