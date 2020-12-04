@@ -98,3 +98,46 @@ categories: Mobility
 
 47. [据报道优步将出售其飞行出租车业务给创业公司 Joby Aviation](https://www.jiqizhixin.com/dailies/e8203325-b600-4198-b30f-85a3d8028ecf)
 
+48. [揭秘特斯拉新电池：降价冲量，续航却严重缩水](https://www.huxiu.com/article/397572.html)
+
+49. [华为不造车，为什么“有效期”是三年？](https://www.huxiu.com/article/397593.html)
+
+50. [谁在帮马斯克封神？](https://www.huxiu.com/article/397657.html)
+
+51. [蔚来小鹏理想一夜跌掉130亿美元，华尔街为何不认销量创新高？](https://36kr.com/p/994217060628617)
+
+52. [极星汽车被传效仿蔚来模式与亦庄国投合作，官方回应：不予置评](https://36kr.com/p/994476765001862)
+
+53. [主动申请再做中保研“碰撞测试”，帕萨特想打一个“翻身仗”](https://36kr.com/p/994485082667654)
+
+54. [理想汽车拟增发ADS筹资约16亿美元，王兴有意斥资至多2000万美元增持](https://36kr.com/p/994511215393413)
+
+55. [打造新汽车集团比肩福特，这才是吉利收购沃尔沃的真正“野心”？](https://36kr.com/p/994554529183873)
+
+56. [江淮大众改名只是第一步，未来大众汽车更多车型将导入](https://36kr.com/p/994672754538633)
+
+57. [蔚来李斌的飞驰人生](https://36kr.com/p/994323993177865)
+
+58. [奥迪砸钱赌未来：到2025年共投资350亿欧元，技术支出占半壁江山](https://36kr.com/p/994809358405891)
+
+59. [狂涨狂泻一夜间：新造车玩的不是火，是泡沫](https://36kr.com/p/994812840808452)
+
+60. [迪斯和大众没有胜者](https://36kr.com/p/994843945373696)
+
+61. [激光雷达：智能汽车的下一仗](https://36kr.com/p/995581592015880)
+
+62. [IDC报告预测：今年中国新能源汽车销量将达116万辆，未来五年复合增长率36%](https://36kr.com/p/995744321884676)
+
+63. [大众品牌退出赛车圈，赛车业务员工转岗至电动汽车产品线](https://36kr.com/p/995747185529353)
+
+64. [AutoX推出国内首批全无人RoboTaxi车队，真正的无人驾驶要来了吗？](https://36kr.com/p/995668449153537)
+
+65. [德赛西威与理想汽车、英伟达签署智能驾驶方面的战略合作协议](https://www.jiqizhixin.com/dailies/17a07b3d-9b0e-4903-babd-7512e0755214)
+
+66. [轻舟智航与华砺智行合作打造的5G+V2X无人公交方案首次在广州亮相](https://www.jiqizhixin.com/articles/2020-12-04-2)
+
+67. [Automakers propose policy changes to speed self-driving vehicle roll-out](https://www.detroitnews.com/story/business/autos/2020/12/02/automakers-propose-policy-changes-allow-self-driving-vehicle-roll-out/3793811001/)
+
+68. [Waymo LiDAR/Camera dome cleaning routine up close](https://www.reddit.com/r/SelfDrivingCars/comments/k5vry4/waymo_lidarcamera_dome_cleaning_routine_up_close/)
+
+69. [Waymo will build a city in Ohio to test its self-driving cars](https://www.archpaper.com/2020/12/waymo-will-build-fake-city-in-ohio-to-test-self-driving-cars/)
