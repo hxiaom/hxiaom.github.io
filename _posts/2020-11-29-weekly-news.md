@@ -141,3 +141,19 @@ categories: Mobility
 68. [Waymo LiDAR/Camera dome cleaning routine up close](https://www.reddit.com/r/SelfDrivingCars/comments/k5vry4/waymo_lidarcamera_dome_cleaning_routine_up_close/)
 
 69. [Waymo will build a city in Ohio to test its self-driving cars](https://www.archpaper.com/2020/12/waymo-will-build-fake-city-in-ohio-to-test-self-driving-cars/)
+
+70. [戴姆勒砸850亿美元转型电气化，中国研发技术中心明年启用](https://36kr.com/p/995965246018566)
+
+71. [电动化动摇日本汽车产业“金字塔”](https://36kr.com/p/996022361248768)
+
+72. [10年后，沃尔沃彻底停产燃油车](https://36kr.com/p/996070512481280)
+
+73. [据传长续航Model 3再降4万，特斯拉降价的极限在哪里？](https://36kr.com/p/996206185419776)
+
+74. [11月汽车销量预估完成273.3万辆；众泰新能源破产清算；博世减持Nikola](https://36kr.com/p/996276933169673)
+
+75. [不甘做“中国版库里南”的红旗E-HS9正式上市，售价50.98万-72.98万元](https://36kr.com/p/996379573916679)
+
+76. [理想汽车高额募资，增程之外，纯电动车型也将推出](https://36kr.com/p/996014090555907)
+
+77. [传激光雷达公司 Innoviz 将通过 SPAC 方式上市](https://www.autobit.xyz/kuaixun/913.html)
