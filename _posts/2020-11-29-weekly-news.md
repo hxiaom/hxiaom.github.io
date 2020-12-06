@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly News(2020.11.29-2020.12.05) 
+title: Weekly News(2020.11.29-2020.12.06) 
 categories: Mobility
 ---
 
@@ -157,3 +157,15 @@ categories: Mobility
 76. [理想汽车高额募资，增程之外，纯电动车型也将推出](https://36kr.com/p/996014090555907)
 
 77. [传激光雷达公司 Innoviz 将通过 SPAC 方式上市](https://www.autobit.xyz/kuaixun/913.html)
+
+78. [历史何其相似：电动车狂潮与自行车泡沫](https://www.huxiu.com/article/398190.html)
+
+79. [携程的“四三六”魔咒](https://www.huxiu.com/article/397826.html)
+
+80. [跑到美国财务造假？又一家车企被做空](https://www.huxiu.com/article/398095.html)
+
+81. [华晨集团前董事长被调查 曾提出退休前让华晨进入世界500强](https://36kr.com/p/997910456626952)
+
+82. [「网新数字」展出交通基础设施智慧诊断解决方案](https://www.jiqizhixin.com/dailies/7bb7641b-1539-4ca9-8da9-b73c3393d292)
+
+83. [比亚迪面向深圳地区汉EV车主推出APA自动泊车辅助系统升级服务](https://www.jiqizhixin.com/dailies/af366812-7087-489a-8694-47052f8b173a)
