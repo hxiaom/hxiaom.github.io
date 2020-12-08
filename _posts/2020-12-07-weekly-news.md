@@ -21,3 +21,25 @@ categories: Mobility
 8. [东风公司成立股权投资基金；红旗 E-HS9 正式上市](https://www.autobit.xyz/news/917.html)
 
 9. [Waymo is now instantly approving people for Waymo One](https://www.reddit.com/r/waymo/comments/k856d3/waymo_is_now_instantly_approving_people_for_waymo/)
+
+10. [四轮战事又起，出租车重回C位](https://36kr.com/p/1000273537553413)
+
+11. [用户逃离、人才流失，汽车之家的下滑通道](https://36kr.com/p/1000370407419137)
+
+12. [造车新势力回应芯片缺货影响；恒驰1启动路跑测试；长安汽车11月销量近22万辆](https://36kr.com/p/1000445559034375)
+
+13. [马斯克考虑收购一家传统车企，戴姆勒成「最合适的选择」](https://36kr.com/p/1000450110886405)
+
+14. [吉利汽车11月销量15.05万辆，领克销量再刷新高达2.28万辆](https://36kr.com/p/1000470453621763)
+
+15. [351天，4次庭审，判赔151.88万：我和特斯拉打官司的这一年](https://36kr.com/p/1000493865145347)
+
+16. [一夜暴增2600亿，特斯拉疯了，市值达3.9万亿，已超过3个丰田](https://36kr.com/p/1001284701606914)
+
+17. [继理想之后，小鹏汽车计划增发4000万股ADS，募资约20亿美元](https://www.autobit.xyz/news/919.html)
+
+18. [Aurora收购Uber ATG，后者估值40亿美元；北京市向百度发放主驾无人测试牌照](https://www.autobit.xyz/news/921.html)
+
+19. [百度获批在北京进行完全无人驾驶道路测试](https://www.jiqizhixin.com/dailies/a80cf2ce-0b7e-4e81-9127-af3fd2a0bccd)
+
+20. [Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'](https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12)
