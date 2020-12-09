@@ -43,3 +43,31 @@ categories: Mobility
 19. [百度获批在北京进行完全无人驾驶道路测试](https://www.jiqizhixin.com/dailies/a80cf2ce-0b7e-4e81-9127-af3fd2a0bccd)
 
 20. [Elon Musk makes clear his stance on self-driving cars, AI oversight, and his 'ad for Mars'](https://www.businessinsider.com/elon-musk-on-self-driving-cars-artificial-intelligence-and-mars-2020-12)
+
+21. [华晨破产重整，仰融还在做梦](https://www.huxiu.com/article/398546.html)
+
+22. [特斯拉是不是最大的泡沫？](https://www.huxiu.com/article/398680.html)
+
+23. [特斯拉市值突破6000亿美元，分析师预计未来三年股价可再涨300％](https://36kr.com/p/1001447051236352)
+
+24. [与通用合作生变后，Nikola称正按速度推进工厂第一阶段建设](https://36kr.com/p/1001470725411849)
+
+25. [Uber自动驾驶业务40亿美元“大甩卖”，初创公司Aurora接手](https://36kr.com/p/1001592181822469)
+
+26. [许家印亮相恒大造车一线，恒大电池研究院阵容首度公开](https://36kr.com/p/1001628650459650)
+
+27. [乘联会：11月乘用车市场同比增长8%至208.1万辆，预计明年零售增速7%](https://36kr.com/p/1001828637708804)
+
+28. [汽车“缺芯”危机一时难解，明年一季度部分车企或受较大影响](https://36kr.com/p/1001849741874178)
+
+29. [百度Apollo商业化路在何方？](https://36kr.com/p/1001854628794883)
+
+30. [狮桥集团司楠楠：物流产业互联网，一场价值3万亿的产业革命](https://36kr.com/p/1001526016610816)
+
+31. [Model 3 11月销量暴增78%，达到21604辆](https://www.autobit.xyz/kuaixun/924.html)
+
+32. [中国一汽红旗品牌E-HS9正式上市，搭载千寻位置FindAUTO高精度定位量产服务](https://www.jiqizhixin.com/dailies/157c537b-ed76-4bc5-8fa3-b6920f3400d0)
+
+33. [Apple reportedly hands over its self-driving car project to executive who oversees Siri](https://www.theverge.com/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri)
+
+34. [Dr. David Yang, Executive Director, AAA Foundation for Traffic Safety - Saving Lives With Technology](https://www.youtube.com/watch?v=TCIFAXjdiY0)
