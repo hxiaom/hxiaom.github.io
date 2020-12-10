@@ -71,3 +71,49 @@ categories: Mobility
 33. [Apple reportedly hands over its self-driving car project to executive who oversees Siri](https://www.theverge.com/2020/12/8/22163939/apple-self-driving-car-john-giannandrea-ai-siri)
 
 34. [Dr. David Yang, Executive Director, AAA Foundation for Traffic Safety - Saving Lives With Technology](https://www.youtube.com/watch?v=TCIFAXjdiY0)
+
+35. [求求了，别再把电动车的油门叫“电门”](https://www.huxiu.com/article/397157.html)
+
+36. [短缺 、被涨价、停产，汽车芯片被“卡脖子”之痛](https://www.huxiu.com/article/398844.html)
+
+37. [好好的马路，为什么突然就陷个大坑、凸根钢筋？](https://www.huxiu.com/article/398894.html)
+
+38. [36城道路“画像”，千万人极端通勤症结在哪？](https://www.huxiu.com/article/399120.html)
+
+39. [2018~2020，蔚来的魔幻漂流](https://www.huxiu.com/article/399107.html)
+
+40. [围猎充电桩](https://36kr.com/p/1002736175312129)
+
+41. [许家印亲自验车，恒驰1内饰首次曝光](https://36kr.com/p/1002822117135367)
+
+42. [威马百度联手“造车”，L4级别自动驾驶新车2021年发售](https://36kr.com/p/1002848410358788)
+
+43. [特斯拉再发行50亿美元普通股，为十个月来第三次筹资](https://36kr.com/p/1002880419877890)
+
+44. [苹果自动驾驶部门人事变动，AI负责人接管苹果“泰坦计划”](https://36kr.com/p/1002897312797702)
+
+45. [大众汽车正式落户合肥 ，首款MEB车型2023年投产](https://36kr.com/p/1002942797730304)
+
+46. [工信部约谈广汽、比亚迪、吉利等25家新能源汽车生产企业，责令限期整改](https://36kr.com/p/1003075006108679)
+
+47. [出海产品越来越垂直，eBay能靠汽配品类争取更多中国卖家吗？](https://36kr.com/p/1003160464544776)
+
+48. [丰田发售新款燃料电池车“未来”，续航850公里](https://36kr.com/p/1003088463025158)
+
+49. [卖车还是讲故事，车企出海是噱头吗？](https://36kr.com/p/1003282020897283)
+
+50. [长城汽车数字化执行官李鹏：智能汽车的新思考](https://36kr.com/p/1003321222402569)
+
+51. [小鹏汽车增发募资21.6亿美元，创中概股最大规模首次增发](https://36kr.com/p/1004246386594820)
+
+52. [摩根大通称特斯拉股价被“严重高估” ，马斯克身家一夜缩水89亿美元](https://36kr.com/p/1004267285435397)
+
+53. [SpaceX星舰着陆时发生爆炸，马斯克为何发文“祝贺”？](https://36kr.com/p/1004512059134467)
+
+54. [11月份理想ONE上险数4676辆，位列新能源中大型SUV市场销量第一名](https://www.autobit.xyz/kuaixun/928.html)
+
+55. [菜鸟新零售物流技术入围全球最高工业奖项，已破60多项世界纪录](https://www.jiqizhixin.com/articles/2020-12-10-3)
+
+56. [理想照进现实：大量AI项目未见收益，产业方渐归冷静](https://www.jiqizhixin.com/articles/2020-12-09-8)
+
+57. [Waymo: "Fully autonomous rides operated by the #WaymoDriver. Available to everyone"](https://www.reddit.com/r/SelfDrivingCars/)
