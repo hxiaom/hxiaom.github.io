@@ -117,3 +117,13 @@ categories: Mobility
 56. [理想照进现实：大量AI项目未见收益，产业方渐归冷静](https://www.jiqizhixin.com/articles/2020-12-09-8)
 
 57. [Waymo: "Fully autonomous rides operated by the #WaymoDriver. Available to everyone"](https://www.reddit.com/r/SelfDrivingCars/)
+
+58. [电动车销量之和不敌特斯拉，BBA急了](https://36kr.com/p/1004743628575749)
+
+59. [传苹果拟在美国设厂造车，正加紧搭建供应链](https://36kr.com/p/1005425207551490)
+
+60. [小鹏汽车“贱卖新车”追踪：再三否认背后难掩对销量的渴求](https://36kr.com/p/1005543864166153)
+
+61. [智能汽车昨夜今晨：蔚来增发6000万股 将加大研发投入；长城SL项目首款车对标蔚来ES8](https://www.autobit.xyz/news/929.html)
+
+62. [长城高端智能电动项目进一步曝光：仙豆智能CEO李鹏将出任法人，首款车对标ES8](https://www.autobit.xyz/news/930.html)
