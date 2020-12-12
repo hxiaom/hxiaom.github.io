@@ -127,3 +127,21 @@ categories: Mobility
 61. [智能汽车昨夜今晨：蔚来增发6000万股 将加大研发投入；长城SL项目首款车对标蔚来ES8](https://www.autobit.xyz/news/929.html)
 
 62. [长城高端智能电动项目进一步曝光：仙豆智能CEO李鹏将出任法人，首款车对标ES8](https://www.autobit.xyz/news/930.html)
+
+63. [国内造车新势力的估值，都存在泡沫](https://www.huxiu.com/article/399487.html)
+
+64. [中国恒大连续三天增持恒大汽车，持股比例升至74.4%](https://36kr.com/p/1005666743182852)
+
+65. [红旗E-HS9“出海”挪威，盲订阶段订单已超650辆](https://36kr.com/p/1005679420696320)
+
+66. [售卖事故二手车，被法院判定“退一赔三” ，特斯拉接着怼：将上诉](https://36kr.com/p/1005670428370694)
+
+67. [哈啰出行李开逐：技术引领，构筑普惠出行全生态](https://36kr.com/p/1003254256275970)
+
+68. [欧洲车载电池生产将增加至15倍](https://36kr.com/p/1005941969648133)
+
+69. [2025年中国汽车销量有望达3000万辆；中国恒大连续三天增持恒大汽车；法拉利CEO卸任](https://36kr.com/p/1006094824521475)
+
+70. [瓜子二手车不再喧嚣](https://36kr.com/p/1007229066833664)
+
+71. [Why is Uber selling its autonomous-vehicle division?](https://www.economist.com/business/2020/12/12/why-is-uber-selling-its-autonomous-vehicle-division)
