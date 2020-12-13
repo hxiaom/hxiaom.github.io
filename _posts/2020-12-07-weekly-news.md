@@ -145,3 +145,5 @@ categories: Mobility
 70. [瓜子二手车不再喧嚣](https://36kr.com/p/1007229066833664)
 
 71. [Why is Uber selling its autonomous-vehicle division?](https://www.economist.com/business/2020/12/12/why-is-uber-selling-its-autonomous-vehicle-division)
+
+72. [论文千千万，如何发现和综述新研究？这里有个利用AI技术的热门开源项目](https://www.jiqizhixin.com/articles/2020-12-13-2)
