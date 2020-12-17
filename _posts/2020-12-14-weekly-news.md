@@ -81,3 +81,29 @@ categories: Mobility
 38. [智能汽车昨夜今晨：传百度正与多家车企接洽拟成立合资公司造车；大众ID.3实车现身国内](https://www.autobit.xyz/news/939.html)
 
 39. [Mobileye 在德国慕尼黑测试自动驾驶汽车导航](https://www.jiqizhixin.com/dailies/11e517f6-5049-4778-944b-dd587841f0d5)
+
+40. [北京明确不发展共享电单车，多家企业被约谈](https://36kr.com/p/1012834246761096)
+
+41. [广汽集团预计年底进行石墨烯电池量产测试，将用于埃安品牌](https://36kr.com/p/1012850082503297)
+
+42. [享道出行回应“宁德时代和阿里巴巴注资”：A轮融资已接近尾声](https://36kr.com/p/1012859697306244)
+
+43. [百度「造车」：性感有余，胜算几何？](https://36kr.com/p/1013197119151497)
+
+44. [万顺叫车：网约车新业态新模式帮助司乘实现共赢](https://36kr.com/p/1013135505743241)
+
+45. [蔚来汽车CEO李斌：移动互联网下的汽车产业变革](https://36kr.com/p/1013119733930633)
+
+46. [收购Zoox，世界首富的野心不只是自动驾驶](https://36kr.com/p/1013245524647303)
+
+47. [续航断崖式下跌，25万的特斯拉竟成“电动爹”？](https://36kr.com/p/1013287656299144)
+
+48. [Mobileye正在自研激光雷达，2025年搭载上车](https://www.autobit.xyz/news/940.html)
+
+49. [Motional 和 Lyft 的目标是 2023 年在美国主要城市部署无人驾驶机器人服务](https://www.jiqizhixin.com/dailies/bf05bdd7-070a-4cc9-8c32-a1d99594d277)
+
+50. [欧洲优步的竞争对手博尔特为人工智能自动驾驶筹集了超过 1.8 亿美元](https://www.jiqizhixin.com/dailies/99b150dd-4904-4230-afa2-4d5a4a10e8b0)
+
+51. [如何打造最小可行AI产品？这里有份避坑工程指南](https://www.jiqizhixin.com/articles/2020-12-16-6)
+
+52. [Walmart Expanding Self-Driving Vehicle Pilot](https://progressivegrocer.com/walmart-expanding-self-driving-vehicle-pilot)
