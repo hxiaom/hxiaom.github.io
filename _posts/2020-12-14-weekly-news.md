@@ -107,3 +107,21 @@ categories: Mobility
 51. [如何打造最小可行AI产品？这里有份避坑工程指南](https://www.jiqizhixin.com/articles/2020-12-16-6)
 
 52. [Walmart Expanding Self-Driving Vehicle Pilot](https://progressivegrocer.com/walmart-expanding-self-driving-vehicle-pilot)
+
+53. [充电桩 2020：大火一年，它依然没赚到钱](https://www.huxiu.com/article/400779.html)
+
+54. [“电动三傻”集中增发股票，是真缺钱还是想套现？](https://www.huxiu.com/article/400782.html)
+
+55. [华为牵手奇瑞，共同研发智能汽车](https://36kr.com/p/1014163893836424)
+
+56. [马斯克将扩建拉斯维加斯地下隧道交通，拟增加一条环线](https://36kr.com/p/1014247699755138)
+
+57. [一辆劳斯莱斯补贴122万，拼多多不怕亏本吗？](https://36kr.com/p/1014594182623367)
+
+58. [那些活在「新造车三剑客」阴影下的腰部新势力](https://36kr.com/p/1014596788138113)
+
+59. [锂离子电池组的价格正式突破100美元大关](https://36kr.com/p/1014675399094401)
+
+60. [坦克300正式上市，能帮助WEY品牌销量止跌回升吗？](https://36kr.com/p/1014819638506630)
+
+61. [欧洲七大车企砸1000亿欧，要终结百年历史的燃油车时代](https://36kr.com/p/1015499565805704)
