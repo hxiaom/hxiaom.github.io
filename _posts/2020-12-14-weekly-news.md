@@ -125,3 +125,9 @@ categories: Mobility
 60. [坦克300正式上市，能帮助WEY品牌销量止跌回升吗？](https://36kr.com/p/1014819638506630)
 
 61. [欧洲七大车企砸1000亿欧，要终结百年历史的燃油车时代](https://36kr.com/p/1015499565805704)
+
+62. [小马智行获广州市自动驾驶卡车测试牌照](https://www.autobit.xyz/news/943.html)
+
+63. [快仓完成亿级美元C+轮融资，物流AMR要让人类不再搬运](https://www.jiqizhixin.com/articles/2020-12-17-10)
+
+64. [Building a self-driving car that people can trust](https://www.technologyreview.com/2020/12/16/1014672/building-a-self-driving-car-that-people-can-trust/)
