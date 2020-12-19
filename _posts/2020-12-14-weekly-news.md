@@ -131,3 +131,23 @@ categories: Mobility
 63. [快仓完成亿级美元C+轮融资，物流AMR要让人类不再搬运](https://www.jiqizhixin.com/articles/2020-12-17-10)
 
 64. [Building a self-driving car that people can trust](https://www.technologyreview.com/2020/12/16/1014672/building-a-self-driving-car-that-people-can-trust/)
+
+65. [谁掀开了电动车的遮羞布](https://www.huxiu.com/article/400680.html)
+
+66. [宁德时代阴影下的动力电池生死竞赛](https://36kr.com/p/1015526780022914)
+
+67. [FCA和PSA希望于2021年1月底前完成合并，唐唯实或任新公司CEO](https://36kr.com/p/1015798590764168)
+
+68. [国内成品油价年内第7次上调，私家车加满一箱油多花约6元](https://36kr.com/p/1015650089857155)
+
+69. [原京东汽车商城CEO李海港加盟奇瑞，或进一步开拓下沉市场](https://36kr.com/p/1015882607686793)
+
+70. [百度威马回应联手造车，沈晖点赞默认？](https://36kr.com/p/1015913178525825)
+
+71. [享道出行完成超3亿元A轮融资，阿里巴巴和宁德时代共同投资](https://36kr.com/p/1016023569526919)
+
+72. [哪吒汽车张祺：新势力做OTA远比传统车企靠谱](https://36kr.com/p/1016047098639494)
+
+73. [受英国无协议脱欧影响，宝马或每年需支付5亿欧元关税](https://36kr.com/p/1016076131266693)
+
+74. [WYOMING LOOKS TO ESTABLISH RULES FOR SELF-DRIVING PERSONAL AND COMMERCIAL VEHICLES](https://oilcity.news/wyoming/legislature/2020/12/17/wyoming-looks-to-establish-rules-for-self-driving-personal-and-commercial-vehicles/)
