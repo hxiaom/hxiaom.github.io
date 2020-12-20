@@ -151,3 +151,7 @@ categories: Mobility
 73. [受英国无协议脱欧影响，宝马或每年需支付5亿欧元关税](https://36kr.com/p/1016076131266693)
 
 74. [WYOMING LOOKS TO ESTABLISH RULES FOR SELF-DRIVING PERSONAL AND COMMERCIAL VEHICLES](https://oilcity.news/wyoming/legislature/2020/12/17/wyoming-looks-to-establish-rules-for-self-driving-personal-and-commercial-vehicles/)
+
+75. [广汽蔚来拟引入北京政府投资，公司总部或将「北上」](https://36kr.com/p/1017382148080896)
+
+76. [「力压」理想、「师从」蔚来，不到40万的岚图FREE来了](https://36kr.com/p/1017452592481026)
