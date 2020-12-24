@@ -67,3 +67,25 @@ categories: Mobility
 31. [激光雷达公司扎堆上市，Ouster也来了，估值19亿美金](https://www.autobit.xyz/kuaixun/954.html)
 
 32. [AV Sensing Tech and Algorithms with Gaby Hayon of Mobileye](https://www.youtube.com/watch?v=GjmZyMWo7YY)
+
+33. [炮轰电动车，丰田章男为什么急了？](https://36kr.com/p/1023386263881472)
+
+34. [共享单车迷途](https://36kr.com/p/1023155116832136)
+
+35. [“正在消失”的共享汽车](https://36kr.com/p/1023947620632321)
+
+36. [江淮汽车2021年产销冲击50万辆，思皓品牌将成“销量推手”？](https://36kr.com/p/1024130612905730)
+
+37. [传地平线将于2021年登陆科创板，目前正以35亿美元估值进行C轮融资](https://www.autobit.xyz/kuaixun/961.html)
+
+38. [博世拿下200亿元车载计算机订单，17000人新部门明年1月启动运营](https://www.autobit.xyz/kuaixun/957.html)
+
+39. [蔚来跨越2020：150度的电池包来了，带激光雷达的NT 2.0也来了](https://www.autobit.xyz/p/959.html)
+
+40. [Nuro 成为首家获美国加州车管局商用无人驾驶汽车许可证的公司](https://www.jiqizhixin.com/dailies/45013059-9e7c-472b-b533-efb441fa24d7)
+
+41. [Nuro 收购自动驾驶卡车创企 Ike](https://www.jiqizhixin.com/dailies/26dc6767-c0f4-4d1e-bbad-956f7d383470)
+
+42. [无人驾驶航空货运公司 Xwing 提供 COVID-19 疫苗运输服务](https://www.jiqizhixin.com/dailies/37b25ae2-a755-4022-9f41-72134d66c394)
+
+43. [Apple Said to Be Planning Self-Driving Electric Car](https://www.bloomberg.com/news/videos/2020-12-22/apple-said-to-be-planning-self-driving-electric-car-video)
