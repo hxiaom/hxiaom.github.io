@@ -119,3 +119,5 @@ categories: Mobility
 57. ["保时泰"凉了](https://36kr.com/p/1026064471929733)
 
 58. [全球智能汽车按下加速键，百度Apollo遇上风口](https://www.autobit.xyz/p/966.html)
+
+59. [Elon Musk talks about Tesla, Autopilot, AI, FSD Chip at China AI conference](https://www.youtube.com/watch?v=2Y_mMLYD00I&feature=emb_logo)
