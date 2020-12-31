@@ -65,3 +65,23 @@ categories: Mobility
 30. [AI如何助力数字化智能出行？这六位专家给你答案](https://www.jiqizhixin.com/articles/2020-12-28-6)
 
 31. [Volkswagen teases an electric car-charging robot with eyes](https://www.theverge.com/2020/12/28/22202913/volkswagen-charging-robot-electric-cars-vw)
+
+32. [拟投390亿元建3大电池生产基地，为提速产能宁德时代“拼了”](https://36kr.com/p/1032598660928515)
+
+33. [宝马电动化再提速，计划三年内实现20%车辆电动化](https://36kr.com/p/1032603537380101)
+
+34. [市值超越中石油，但车企为何想要逃离宁德时代？](https://36kr.com/p/1032585282892674)
+
+35. [穿大衣、盖棉被……冬季电动车续航受限，听专家揭秘用电动车到底有哪些讲究](https://36kr.com/p/1032608155800329)
+
+36. [特斯拉中国乱象丛生？其实总部问题更甚](https://36kr.com/p/1032909807596424)
+
+37. [长城汽车升级智能驾驶，正式启动高端电动车项目](https://36kr.com/p/1033068409115396)
+
+38. [特斯拉Model 3加速冲进酒店大堂，司机称未踩油门疑似刹车失灵](https://36kr.com/p/1033330887567625)
+
+39. [再关30城，优信陷入持续困局](https://36kr.com/p/1033084141220736)
+
+40. [智能汽车昨夜今晨：华为AOS等获得ASIL-D认证；比亚迪半导体筹划分拆上市](https://www.autobit.xyz/news/978.html)
+
+41. [Elon Musk promises 3 free months of Tesla's 'self-driving' software for vehicles delivered in the final 3 days of 2020](https://www.businessinsider.com/elon-musk-tesla-delivered-2020-three-free-months-self-drive-2020-12)
