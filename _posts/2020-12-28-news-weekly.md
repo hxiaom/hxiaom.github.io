@@ -85,3 +85,51 @@ categories: Mobility
 40. [智能汽车昨夜今晨：华为AOS等获得ASIL-D认证；比亚迪半导体筹划分拆上市](https://www.autobit.xyz/news/978.html)
 
 41. [Elon Musk promises 3 free months of Tesla's 'self-driving' software for vehicles delivered in the final 3 days of 2020](https://www.businessinsider.com/elon-musk-tesla-delivered-2020-three-free-months-self-drive-2020-12)
+
+42. [易车内斗升级，李斌与昔日盟友反目？](https://36kr.com/p/1033423669327241)
+
+43. [解开苹果造车的秘密：“毛利”是关键词](https://36kr.com/p/1033236432008073)
+
+44. [磷酸铁锂厂家齐涨价，2021年将回潮迎来“第二春”？](https://36kr.com/p/1033958850522115)
+
+45. [天风证券：乐观预计2021年电动车销量或超200万辆，特斯拉Model 3和Model Y贡献16万辆](https://36kr.com/p/1034044830411011)
+
+46. [一汽-大众年产整车超207万辆，上调2021年目标迎“产品大年”](https://36kr.com/p/1034061438921731)
+
+47. [新能源汽车崛起，传统汽配出海将遭遇怎样的阻击？](https://36kr.com/p/1034193248315651)
+
+48. [深圳推出全国首张无人公交月卡，由轻舟智航提供自动驾驶服务](https://36kr.com/p/1034212408109313)
+
+49. [重磅！36氪中国新基建之王「新能源充电桩领域」TOP50企业揭晓](https://36kr.com/p/1034143875804162)
+
+50. [主打支持线控功能的中央控制器产品，「领世汽车」想为整车企业降本增效](https://36kr.com/p/1021666627126024)
+
+51. [PSA/FCA报团取暖，要烧掉广菲克这块碳？](https://36kr.com/p/1034158908224387)
+
+52. [“国产替代”成为趋势，比亚迪半导体分拆上市提上日程](https://36kr.com/p/1034435299781633)
+
+53. [细嗅全新奥迪A3这朵蔷薇](https://36kr.com/p/1034424390904835)
+
+54. [走“车路协同”路线,「中智行」在上海和南京测试自动驾驶乘用车](https://36kr.com/p/952344224496002)
+
+55. [特斯拉Model 3再「失控」；哈弗H6侧面碰撞异常公开调查结果；广汽蔚来宣布接受数字货币支付车款](https://36kr.com/p/1034531512216582)
+
+56. [交通运输部关于促进道路交通自动驾驶技术发展和应用的指导意见](http://xxgk.mot.gov.cn/2020/jigou/kjs/202012/t20201230_3510291.html)
+
+57. [互联网巨头造车三步走：资本布局、技术支持、亲自下场](https://36kr.com/p/1035389963023749)
+
+58. [特斯拉国产Model Y降价至33.99万元起开售，最早本月交付](https://36kr.com/p/1035832471006216)
+
+59. [把车牌留住，将4S店买空](https://36kr.com/p/1036817304316160)
+
+60. [预见2021：汽车业十大预判](https://36kr.com/p/1036900054722820)
+
+61. [特斯拉2020年交付499550辆电动汽车 略落后于目标](https://finance.sina.com.cn/stock/usstock/c/2021-01-03/doc-iiznctke9852986.shtml)
+
+62. [理想汽车公布2020年战绩：12月交付6126辆，全年总计交付32624辆](https://www.autobit.xyz/kuaixun/985.html)
+
+63. [小鹏汽车官宣与Livox达成合作，今年量产带激光雷达车型](https://www.autobit.xyz/news/984.html)
+
+64. [百度地图的内容更新，已经实现了90%AI化](https://www.jiqizhixin.com/articles/2020-12-30-3)
+
+65. [Waymo CEO John Krafcik Keynote Interview](https://www.youtube.com/watch?v=TPve7x0GOT8&feature=youtu.be)
