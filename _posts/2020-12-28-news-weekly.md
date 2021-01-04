@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly News(2020.12.28-2020.01.02) 
+title: Weekly News(2020.12.28-2020.01.03) 
 categories: Mobility
 ---
 
@@ -129,6 +129,7 @@ categories: Mobility
 62. [理想汽车公布2020年战绩：12月交付6126辆，全年总计交付32624辆](https://www.autobit.xyz/kuaixun/985.html)
 
 63. [小鹏汽车官宣与Livox达成合作，今年量产带激光雷达车型](https://www.autobit.xyz/news/984.html)
+
 
 64. [百度地图的内容更新，已经实现了90%AI化](https://www.jiqizhixin.com/articles/2020-12-30-3)
 
