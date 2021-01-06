@@ -41,3 +41,37 @@ categories: Mobility
 18. [Rolling out driverless cars is ‘extraordinary grind’, says Waymo boss](https://www.ft.com/content/6b1b11ea-b50b-4dd5-802d-475c9731e89a?segmentid=acee4131-99c2-09d3-a635-873e61754ec6)
 
 19. [Nuro can now operate and charge for autonomous delivery services in California](https://techcrunch.com/2020/12/23/nuro-can-now-operate-and-charge-for-autonomous-delivery-services-in-california/)
+
+20. [「燧原科技」获18亿人民币C轮融资，研发高性能AI云端训练和推理芯片](https://36kr.com/p/1039758821566727)
+
+21. [滴滴计划于2021年赴港 IPO；小鹏汽车12月交付量5700辆；2021年北京小客车指标总量为10万个](https://36kr.com/p/1041025810382596)
+
+22. [对话李斌：特斯拉要成为大众，蔚来对标的是奔驰宝马奥迪](https://36kr.com/p/1040895171755783)
+
+23. [特斯拉Model S Plaid或今年底交付，2.1秒破百续航约840km](https://36kr.com/p/1041050882686727)
+
+24. [现代汽车集团2020年全球销量同比下跌11.8%，2021年将“触底反弹”？](https://36kr.com/p/1041075850116869)
+
+25. [众泰汽车开向绝境](https://36kr.com/p/1041065158081800)
+
+26. [2021年将赴港上市？滴滴官方表示暂不回应](https://36kr.com/p/1041132299206407)
+
+27. [抢占中国氢能汽车市场，现代汽车将在华建氢燃料电池工厂](https://36kr.com/p/1041580206309128)
+
+28. [马斯克狂想最新季：生前清空房产，死后葬于火星](https://36kr.com/p/1041626928692998)
+
+29. [哈啰的「二次战争」](https://36kr.com/p/1042271095947398)
+
+30. [解密2020年最大资本悬疑：新能源车企股价一飞冲天，谁是幕后推手？](https://36kr.com/p/1042343588282498)
+
+31. [关门、卖身、落地、上市，复盘全球自动驾驶「跌宕起伏」的 2020](https://36kr.com/p/1042402757558404)
+
+32. [广汽蔚来增资24亿，未来将开设两条全新产品线](https://36kr.com/p/1042432750714633)
+
+33. [比亚迪2020年新能源汽车销售18.97万辆，同比下降17.35%](https://www.autobit.xyz/kuaixun/992.html)
+
+34. [消息称蔚来计划搭载磷酸铁锂电池，已包下宁德时代一条生产线](https://www.autobit.xyz/kuaixun/994.html)
+
+35. [This Year, Autonomous Trucks Will Take to the Road With No One on Board](https://spectrum.ieee.org/transportation/self-driving/this-year-autonomous-trucks-will-take-to-the-road-with-no-one-on-board)
+
+36. [Tesla FSD going from Los Angeles to Silicon Valley with zero interventions](https://www.youtube.com/watch?v=XPrsRM2cxGs&feature=youtu.be)
