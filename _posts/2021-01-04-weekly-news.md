@@ -75,3 +75,19 @@ categories: Mobility
 35. [This Year, Autonomous Trucks Will Take to the Road With No One on Board](https://spectrum.ieee.org/transportation/self-driving/this-year-autonomous-trucks-will-take-to-the-road-with-no-one-on-board)
 
 36. [Tesla FSD going from Los Angeles to Silicon Valley with zero interventions](https://www.youtube.com/watch?v=XPrsRM2cxGs&feature=youtu.be)
+
+37. [高估值背后的「无奈」，车载芯片创业「破圈」之难](https://36kr.com/p/1042709352578818)
+
+38. [PSA合并FCA，先把丑话说在前头？](https://36kr.com/p/1042744772263687)
+
+39. [车企「芯」事重重](https://36kr.com/p/1042961423335554)
+
+40. [丰富10万元以内车型阵容，长城汽车推出哈弗M6 PLUS](https://36kr.com/p/1043103233376390)
+
+41. [智能汽车昨夜今晨：国产Model Y推迟交付，疑似比亚迪MPV车型"夏"曝光](https://www.autobit.xyz/news/997.html)
+
+42. [追求严谨，Waymo 将不再使用Self-driving 一词描述其自动驾驶车辆](https://www.jiqizhixin.com/dailies/b9927c54-b0bb-49e5-97f3-56376b6f0cba)
+
+43. [Oxbotica 融资 4700 万美元，将其自动驾驶汽车软件部署到工业应用中](https://www.jiqizhixin.com/dailies/8adb95bf-bfec-44aa-9b35-198df41d6875)
+
+44. [Aurora-Uber: Set Up For Failure?](https://thelastdriverlicenseholder.com/2021/01/06/aurora-uber-set-up-for-failure/)
