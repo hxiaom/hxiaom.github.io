@@ -91,3 +91,37 @@ categories: Mobility
 43. [Oxbotica 融资 4700 万美元，将其自动驾驶汽车软件部署到工业应用中](https://www.jiqizhixin.com/dailies/8adb95bf-bfec-44aa-9b35-198df41d6875)
 
 44. [Aurora-Uber: Set Up For Failure?](https://thelastdriverlicenseholder.com/2021/01/06/aurora-uber-set-up-for-failure/)
+
+45. [网上车市，再造一个汽车之家？](https://36kr.com/p/1043757923188487)
+
+46. [单飞四年，启辰何归？](https://36kr.com/p/1043845226266116)
+
+47. [广汽集团2020年产销均突破200万辆，2021年挑战225万辆销量目标](https://36kr.com/p/1043928852152450)
+
+48. [通用汽车2020年在华销量达290万辆，将加速推出新能源车型](https://36kr.com/p/1043947172774017)
+
+49. [比亚迪半导体“大刀阔斧”推进分拆上市，意欲何为？](https://36kr.com/p/1035297980771331)
+
+50. [蔚来推出磷酸铁锂车型？李斌：有点离谱，在做各种讨论，短期不会量产](https://36kr.com/p/1044100679499522)
+
+51. [「闪开」获数千万人民币B轮战略融资，提供电动车智慧出行能源互联网解决方案](https://36kr.com/p/1043985071669380)
+
+52. [准备二次上市的汽车之家悄悄杀入“汽车老家”](https://36kr.com/p/1043894320791044)
+
+53. [曹德旺给新能源汽车泼冷水；李斌回应蔚来将推磷酸铁锂车型；地平线完成C2轮4亿美元融资](https://36kr.com/p/1044373331869825)
+
+54. ["凛冬"已至二手车，还能"守望"多久？](https://36kr.com/p/1044218498711048)
+
+55. [Model Y狂卖一周，超过某些新造车努力一年？](https://36kr.com/p/1044380997467905)
+
+56. [我在-20°C的北京街头开「电动爹」，趴窝了](https://36kr.com/p/1045076243316480)
+
+57. [五大计算平台竞逐高阶自动驾驶量产，谁是最强芯片？](https://www.autobit.xyz/p/999.html)
+
+58. [地平线完成 C2 轮融资 4 亿美元，宁德时代入局](https://www.autobit.xyz/kuaixun/1000.html)
+
+59. [告别英特尔，「硅仙人」吉姆 · 凯勒加入AI芯片初创公司Tenstorrent](https://www.jiqizhixin.com/articles/2021-01-07-4)
+
+60. [Apple’s Self-Driving Electric Car Is at Least Half a Decade Away](https://www.bloomberg.com/news/articles/2021-01-07/apple-s-aapl-tesla-tsla-killer-won-t-ship-for-at-least-half-a-decade)
+
+61. [Boris Sofman: How do you train autonomous vehicles?](https://www.mlminutes.com/post/boris-sofman-how-do-you-train-autonomous-vehicles)
