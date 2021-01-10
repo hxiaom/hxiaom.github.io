@@ -125,3 +125,39 @@ categories: Mobility
 60. [Apple’s Self-Driving Electric Car Is at Least Half a Decade Away](https://www.bloomberg.com/news/articles/2021-01-07/apple-s-aapl-tesla-tsla-killer-won-t-ship-for-at-least-half-a-decade)
 
 61. [Boris Sofman: How do you train autonomous vehicles?](https://www.mlminutes.com/post/boris-sofman-how-do-you-train-autonomous-vehicles)
+
+62. [燃料电池风起2021：一个超越锂电的新能源“高维战场”](https://36kr.com/p/1045174390226434)
+
+63. [完成C2轮融资4亿美元，地平线备战芯片市场“决赛”](https://36kr.com/p/1045353381052163)
+
+64. [苹果计划与现代汽车合作打造电动汽车，或还将生产动力电池](https://36kr.com/p/1045437724671749)
+
+65. [上汽集团2020年销量560万辆，同比下滑10.22%](https://36kr.com/p/1045457990696705)
+
+66. [我，马斯克：地球首富却要葬在火星](https://36kr.com/p/1045480861368067)
+
+67. [宁德时代：已对邦普等单位进行隐患排查，爆炸对公司生产经营影响有限](https://36kr.com/p/1045515083628681)
+
+68. [复盘造车新势力2020年的崛起与局限：2021年成败几何？](https://36kr.com/p/1045564725214721)
+
+69. [现任CEO廖兵将于3月离任，销量百辆的广汽蔚来何去何从？](https://36kr.com/p/1045690788593797)
+
+70. [吉利搭台，百度唱戏？](https://36kr.com/p/1045698566356742)
+
+71. [本田因半导体短缺实施减产](https://36kr.com/p/1045701965528840)
+
+72. [蔚来将推出150度固态电池包，最早明年上车](https://36kr.com/p/1045665513029383)
+
+73. [接盘拜腾，富士康不亏](https://36kr.com/p/1045874805800454)
+
+74. [一代神车夏利，彻底熄火了](https://36kr.com/p/1045856044662272)
+
+75. [蔚来回击特斯拉：你秀价格，我秀“肌肉”](https://36kr.com/p/1047513698548993)
+
+76. [长城公布2020年全年销量超111万辆，哈弗H6、大狗、欧拉黑猫等6款车月销量破万](https://www.autobit.xyz/news/1006.html)
+
+77. [特斯拉或新增国产车型，定位低于Model 3，售价16万起](https://www.autobit.xyz/kuaixun/1004.html)
+
+78. [梅赛德斯-奔驰通过英伟达驱动的人工智能改变了汽车驾驶舱](https://www.jiqizhixin.com/dailies/25cfc217-4b3e-4c8f-922f-44a60566b579)
+
+79. [Kyle Vogt compares robotaxis to airplanes](https://mobile.twitter.com/kvogt/status/1347545807122173953)
