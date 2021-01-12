@@ -43,3 +43,29 @@ categories: Mobility
 19. [蔚来要对标「苹果」？逻辑是什么？](https://36kr.com/p/1050027557994247)
 
 20. [如何让自动驾驶系统运行100公里只耗1度电？元戎启行推理引擎亮相CES 2021](https://www.jiqizhixin.com/articles/2021-01-11-7)
+
+21. [蔚来“超级电池”的1000公里续航如何了?](https://36kr.com/p/1049952754351363)
+
+22. [比亚迪DM-i超级混动技术正式发布，旗下三款车型同步启动预售](https://36kr.com/p/1050272313622665)
+
+23. [哈弗品牌发布“弗星系”生态计划，上市3款新车抢占SUV细分市场](https://36kr.com/p/1050914816966400)
+
+24. [研发出360°混合固态激光雷达，「慧建科技」实现高性价比](https://36kr.com/p/1045570019180680)
+
+25. [格林美、中伟股份、华友钴业，新能源车电池前驱材料哪家强？](https://36kr.com/p/1050873765379841)
+
+26. [“比亚迪开发者创新大赛”重磅启动](https://36kr.com/p/1050989167263877)
+
+27. [上汽集团2020年净利润预计同比下滑21.89%，年销量同比下滑10.22%](https://36kr.com/p/1051111013236866)
+
+28. [获五大银行综合授信128亿元，小鹏汽车离“财富自由”再近一步？](https://36kr.com/p/1051382930489473)
+
+29. [2020年在华交付超77万辆汽车，BBA年度销冠花落宝马](https://36kr.com/p/1051399631965828)
+
+30. [上汽高端品牌“智己”新动作：两款量产定型车将在明天发布](https://www.autobit.xyz/kuaixun/1014.html)
+
+31. [智能汽车昨夜今晨：Mobileye发布激光雷达芯片；理想ONE成为中国新能源SUV销冠；比亚迪发布超级混动车型](https://www.autobit.xyz/news/1013.html)
+
+32. [美国国家公路交通安全管理局开放 AV TEST 自动驾驶车辆跟踪计划](https://www.jiqizhixin.com/dailies/9c4de71e-52d8-4b1a-a6a9-ee8fe4c0543f)
+
+33. [DOT lays out strategy for automated trucking](https://www.freightwaves.com/news/dot-lays-out-strategy-for-automated-trucking)
