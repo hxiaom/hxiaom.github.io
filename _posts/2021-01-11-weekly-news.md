@@ -69,3 +69,25 @@ categories: Mobility
 32. [美国国家公路交通安全管理局开放 AV TEST 自动驾驶车辆跟踪计划](https://www.jiqizhixin.com/dailies/9c4de71e-52d8-4b1a-a6a9-ee8fe4c0543f)
 
 33. [DOT lays out strategy for automated trucking](https://www.freightwaves.com/news/dot-lays-out-strategy-for-automated-trucking)
+
+34. [宝马创下在华最好销售纪录；小鹏获128亿元银行授信；工信部拟允许自动驾驶汽车上高速测试](https://36kr.com/p/1051511913631360)
+
+35. [信仰、教义和狂欢：蔚来卖的是车吗？](https://36kr.com/p/1052233090796929)
+
+36. [国产Model Y本月开始陆续交付，特斯拉上海工厂将迎产能爬坡关键期](https://36kr.com/p/1052475863158401)
+
+37. [“芯病”仍在汽车圈蔓延，全球多家车企宣布减产，“攻芯大战”一触即发](https://36kr.com/p/1052489791507842)
+
+38. [滴滴货运融资获7倍超额认购，同城货运领域战役打响](https://36kr.com/p/1052609869745792)
+
+39. [威马站在十字路口](https://36kr.com/p/1052314542243331)
+
+40. [中汽协：2020年汽车销量达2531.1万辆，同比下降1.9%](https://36kr.com/p/1052803607662213)
+
+41. [大众汽车2020年在中国累计交付285万辆，同比下降9.9%](https://36kr.com/p/1052871722798467)
+
+42. [智能汽车昨夜今晨：国产Model 3 全年销量达13.7万；索尼汽车Vision-S公开路测](https://www.autobit.xyz/news/1015.html)
+
+43. [Mobileye 在东京，上海和巴黎开展自动驾驶汽车试点计划](https://www.jiqizhixin.com/dailies/888f3b58-cd2a-4a7b-ac0d-2a6a828b74d0)
+
+44. [2021 CES: Under the Hood with Prof. Amnon Shashua](https://www.youtube.com/watch?time_continue=334&v=B7YNj66GxRA&feature=emb_logo)
