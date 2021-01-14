@@ -91,3 +91,19 @@ categories: Mobility
 43. [Mobileye 在东京，上海和巴黎开展自动驾驶汽车试点计划](https://www.jiqizhixin.com/dailies/888f3b58-cd2a-4a7b-ac0d-2a6a828b74d0)
 
 44. [2021 CES: Under the Hood with Prof. Amnon Shashua](https://www.youtube.com/watch?time_continue=334&v=B7YNj66GxRA&feature=emb_logo)
+
+45. [2021 CES看点：奔驰消灭实体按键，通用汽车要上天？](https://36kr.com/p/1052910828555906)
+
+46. [「文远知行」获3.1亿美元B轮融资，无人驾驶微循环小巴开始广州生物岛试运营](https://36kr.com/p/1053088364826752)
+
+47. [“第四类造车玩家”登上历史舞台，中美欧暗战自动驾驶](https://36kr.com/p/1053670440636802)
+
+48. [百年汽车行业十字路口：传统车企能否避免“诺基亚悲剧”？](https://36kr.com/p/1053804534796418)
+
+49. [NHTSA责令特斯拉召回，涉及Model S、Model X两车型共15.8万辆](https://36kr.com/p/1053911911977094)
+
+50. [大众销量被丰田反超，未实现5年蝉联首位](https://36kr.com/p/1054046613459591)
+
+51. [智己汽车冲击高端：1000公里续航、1000T算力储备，今年底实现点到点自动驾驶](https://www.autobit.xyz/p/1019.html)
+
+52. [Indy 为自动驾驶挑战赛题目选择了人工智能驱动汽车](https://www.jiqizhixin.com/dailies/f4b0e62d-150f-43b8-9ebb-7d2d5b4bf935)
