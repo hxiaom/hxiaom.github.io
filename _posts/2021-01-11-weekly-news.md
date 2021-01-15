@@ -107,3 +107,31 @@ categories: Mobility
 51. [智己汽车冲击高端：1000公里续航、1000T算力储备，今年底实现点到点自动驾驶](https://www.autobit.xyz/p/1019.html)
 
 52. [Indy 为自动驾驶挑战赛题目选择了人工智能驱动汽车](https://www.jiqizhixin.com/dailies/f4b0e62d-150f-43b8-9ebb-7d2d5b4bf935)
+
+53. [汽车原材料价格飙涨，车价会涨吗？](https://36kr.com/p/1054291424546952)
+
+54. [嘀嗒或率先上市，滴滴着急吗？](https://36kr.com/p/1054292200214663)
+
+55. [富士康调动人员入驻拜腾，债转股方案遭员工拒绝](https://36kr.com/p/1054304202166920)
+
+56. [「维智科技WAYZ」获4000万美元A+轮融资，利用“时空AI”帮助线下产业数字化升级](https://36kr.com/p/1054313633894528)
+
+57. [2021年新能源车销量预增40%，但仍需警惕芯片短缺](https://36kr.com/p/1055060086608001)
+
+58. [油价或将实现五连涨，多地92号汽车将回归6元时代](https://36kr.com/p/1055196127089280)
+
+59. [给补贴、争车企、抢资源：谁能成为“新能源汽车之都”？](https://36kr.com/p/1055268757164423)
+
+60. [任正非小女儿姚安娜站台，长城汽车WEY品牌全新旗舰SUV亮相](https://36kr.com/p/1055314586095752)
+
+61. [大众汽车推出AR抬头显示系统，将率先搭载至ID.3和ID.4车型](https://36kr.com/p/1055318303510659)
+
+62. [索尼汽车上路，奔驰宝马对决车载大屏，CES汽车科技五大看点](https://36kr.com/p/1055467016819331)
+
+63. [电池科技树被锁，看北欧小国如何解决电动车冬季续航](https://36kr.com/p/1055594726707081)
+
+64. [无人驾驶汽车初创公司文远知行筹集了 3.1 亿美元的资金](https://www.jiqizhixin.com/dailies/36d36eb8-9745-4783-9cab-d074aac545ad)
+
+65. [Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources](https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA)
+
+66. [Toyota Research Institute and Stanford University’s Dynamic Design Lab Study How to Improve Automotive Safety](https://pressroom.toyota.com/toyota-research-institute-and-stanford-universitys-dynamic-design-lab-study-how-to-improve-automotive-safety/)
