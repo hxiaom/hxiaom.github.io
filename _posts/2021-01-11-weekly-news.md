@@ -135,3 +135,15 @@ categories: Mobility
 65. [Chinese drone firm DJI builds team to work on self-driving tech: job posts, sources](https://www.reuters.com/article/us-dji-auto/chinese-drone-firm-dji-builds-team-to-work-on-self-driving-tech-job-posts-sources-idUSKBN29J0DA)
 
 66. [Toyota Research Institute and Stanford University’s Dynamic Design Lab Study How to Improve Automotive Safety](https://pressroom.toyota.com/toyota-research-institute-and-stanford-universitys-dynamic-design-lab-study-how-to-improve-automotive-safety/)
+
+67. [广汽埃安宣布石墨烯电池进入量产测试阶段，广汽集团股价涨停](https://36kr.com/p/1055734217708165)
+
+68. [蔚来老将加盟富士康，「代工巨头」真的不造车？](https://36kr.com/p/1055748980723840)
+
+69. [「希迪智驾」获4亿人民币融资，融合“单车智能”和“车路协同”两大方案](https://36kr.com/p/1055816041992836)
+
+70. [美国针对自动驾驶汽车豁免某些碰撞标准](https://www.jiqizhixin.com/dailies/5b0a04a9-aed0-4792-b841-b6863954adc9)
+
+71. [亚马逊首次开放 Alexa AI 技术帮助汽车制造商定制虚拟助手](https://www.jiqizhixin.com/dailies/719ecff7-6852-4c67-9995-ca8ada69218d)
+
+72. [#213: Aicha Evans and Jesse Levinson of Zoox](http://www.autonocast.com/blog/2021/1/15/213-aicha-evans-and-jesse-levinson-of-zoox)
