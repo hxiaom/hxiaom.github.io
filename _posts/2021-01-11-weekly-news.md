@@ -147,3 +147,7 @@ categories: Mobility
 71. [亚马逊首次开放 Alexa AI 技术帮助汽车制造商定制虚拟助手](https://www.jiqizhixin.com/dailies/719ecff7-6852-4c67-9995-ca8ada69218d)
 
 72. [#213: Aicha Evans and Jesse Levinson of Zoox](http://www.autonocast.com/blog/2021/1/15/213-aicha-evans-and-jesse-levinson-of-zoox)
+
+73. [Lyft Self-Driving Level 5 Testing Track in East Palo Alto, CA](https://www.youtube.com/watch?time_continue=58&v=xPloPmUKsHM&feature=emb_logo)
+
+74. [NHTSA is Defining Safety for Self-Driving Cars, But It Has Questions For You](https://www.eetimes.com/nhtsa-is-defining-safety-for-self-driving-cars-but-it-has-questions-for-you/)
