@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly News(2020.01.11-2020.01.18) 
+title: Weekly News(2020.01.11-2020.01.17) 
 categories: Mobility
 ---
 
