@@ -47,3 +47,45 @@ categories: Mobility
 21. [智能汽车赛道升温，紫光国微祭出“超级汽车芯”](https://www.autobit.xyz/p/1028.html)
 
 22. [Kim Paquette - Tesla FSD Beta Build 10 - 30 minutes in town, 1 disengagement](https://www.reddit.com/r/SelfDrivingCars/)
+
+23. [智慧网联时代，比亚迪想和万千开发者一起定义智慧汽车的未来](https://36kr.com/p/1061145034368648)
+
+24. [为什么科技巨头开始造车了？](https://36kr.com/p/1061169594508935)
+
+25. [「踏歌智行」获数千万人民币B+轮融资，CMC创投加注矿山无人驾驶运输](https://36kr.com/p/1061083388683911)
+
+26. [威马沈晖：1000公里续航意义不大，今年将推续航800公里车型](https://36kr.com/p/1061464562328964)
+
+27. [让渡奥迪一汽控股权，一汽的「野心」在于国产保时捷电动车？](https://36kr.com/p/1061470705231236)
+
+28. [200余起人事「地震」：2020车企高管都去哪儿了？](https://36kr.com/p/1061473709319817)
+
+29. [广汽石墨烯电池走向量产？一场技术革命和花式噱头的争议](https://36kr.com/p/1061096725680004)
+
+30. [2021，造车大战元年](https://36kr.com/p/1061436189216646)
+
+31. [当库克决定造车时，郭台铭的算盘和李书福的押注](https://36kr.com/p/1062159186159236)
+
+32. [通用Cruise再获20亿美元融资，微软参投](https://36kr.com/p/1062176272803456)
+
+33. [迷航威马，能凭「W6」打一场翻身仗？](https://36kr.com/p/1062228620617094)
+
+34. [全球车企缺芯停产，只因低估了有钱人的欲望？](https://36kr.com/p/1062242107762049)
+
+35. [Rivian就是下个特斯拉？获得26.5亿美元投资估值达276亿](https://36kr.com/p/1062361036449157)
+
+36. [关于特斯拉、蔚来、理想汽车和“新造车”赛道的一些思考](https://36kr.com/p/1062523472946566)
+
+37. [ID.4“南北”大众齐上阵，兄弟车型能否大杀四方？](https://36kr.com/p/1062819173885570)
+
+38. [科技巨头卡位自动驾驶，微软20亿美元投钱问路](https://36kr.com/p/1062826146309760)
+
+39. [2020年车市众生相：强者愈强，弱者离场](https://36kr.com/p/1062834441872770)
+
+40. [特斯拉的定价策略，为什么让所有人都觉得亏？](https://36kr.com/p/1062821575698049)
+
+41. [本田与Cruise合作新进展：自动驾驶车辆年内在日本开展测试](https://www.autobit.xyz/kuaixun/1032.html)
+
+42. [川普特赦无人驾驶传奇人物莱万多夫斯基，后者免受18个月牢狱之灾](https://www.autobit.xyz/news/1033.html)
+
+43. [Q&A: Inside Waymo's 2021 Game Plan for Autonomous Ride-Hailing and Trucking](https://www.morningbrew.com/emerging-tech/stories/2021/01/18/qa-inside-waymos-plans-autonomous-ridehailing-trucking-2021powered-3-billion-funding)
