@@ -89,3 +89,37 @@ categories: Mobility
 42. [川普特赦无人驾驶传奇人物莱万多夫斯基，后者免受18个月牢狱之灾](https://www.autobit.xyz/news/1033.html)
 
 43. [Q&A: Inside Waymo's 2021 Game Plan for Autonomous Ride-Hailing and Trucking](https://www.morningbrew.com/emerging-tech/stories/2021/01/18/qa-inside-waymos-plans-autonomous-ridehailing-trucking-2021powered-3-billion-funding)
+
+44. [被敲诈2.35亿的爱玛要上市了](https://www.huxiu.com/article/405114.html)
+
+45. [追风筝的车：新能源搭台，国产化唱戏](https://www.huxiu.com/article/405313.html)
+
+46. [充电8分钟，续航800公里？超级电池前面还有三道坎](https://www.huxiu.com/article/405489.html)
+
+47. [充电桩：被遗忘的“新基建”](https://www.huxiu.com/article/405606.html)
+
+48. [如果只是活着，腰部新造车早晚都会死](https://www.huxiu.com/article/405706.html)
+
+49. [汽车行业将因电动车崩盘？](https://www.huxiu.com/article/401080.html)
+
+50. [无人驾驶卡车竞争加剧，Aurora 联手 Paccar 展开技术合作](https://www.jiqizhixin.com/dailies/ecd7a709-deb4-4686-9507-d6f9eff159b0)
+
+51. [全球首富最新共识：五大巨头重注智能汽车，门票10亿美元起步](https://36kr.com/p/1063523057526146)
+
+52. [从隐藏式触控到全息图像，苹果汽车六大秘密武器曝光](https://36kr.com/p/1063594416579972)
+
+53. [汽车芯片缺货原因深究](https://36kr.com/p/1063758302995842)
+
+54. [2020年欧盟汽车销量下跌24%，新能源车成销量回暖助推器](https://36kr.com/p/1063890453161604)
+
+55. [一位比亚迪电动车主自述：续航惊心动魄、轮胎险致命](https://36kr.com/p/1063815476940681)
+
+56. [新能源汽车集体狂欢背后 谁在格外焦虑？](https://36kr.com/p/1064021233062277)
+
+57. [蔚来的幸福烦恼](https://36kr.com/p/1064170674922882)
+
+58. [起底充电桩“三强”：特锐德vs星星充电vs国电南瑞](https://36kr.com/p/1063608857383301)
+
+59. [新能源汽车时代，小命重要还是续航重要？](https://36kr.com/p/1063279356039044)
+
+60. [智能汽车昨夜今晨：蔚来合肥工厂或将扩产；华尔街知名空头宣布不再做空特斯拉](https://www.autobit.xyz/news/1034.html)
