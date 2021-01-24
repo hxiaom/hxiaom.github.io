@@ -145,3 +145,13 @@ categories: Mobility
 70. [汽车芯片缺货原因深究](https://www.autobit.xyz/p/1040.html)
 
 71. [TikTok star criminally uses Tesla Autopilot and posts video evidence](https://electrek.co/2021/01/20/tiktok-star-criminally-tesla-autopilot-posts-video-evidence/)
+
+72. [1000公里成车企“标配”，里程焦虑2.0开始了？](https://36kr.com/p/1065632792514436)
+
+73. [富士康董事长刘扬伟出席拜腾全员会，将派百余人进厂](https://36kr.com/p/1065689185035651)
+
+74. [汽车人，困在「内卷」里](https://36kr.com/p/1068396814477448)
+
+75. [Waymo CEO say hardware cost per mile of Waymo vehicles at around 30 cents per mile](https://www.reddit.com/r/SelfDrivingCars/comments/l3csvj/waymo_ceo_say_hardware_cost_per_mile_of_waymo/)
+
+76. [Tesla’s Autopilot Won’t Achieve Full Autonomy, Waymo CEO Says](https://www.bloomberg.com/news/articles/2021-01-22/tesla-s-autopilot-won-t-achieve-full-autonomy-waymo-ceo-says)
