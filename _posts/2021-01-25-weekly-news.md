@@ -39,3 +39,23 @@ categories: Mobility
 17. [传吉利与法拉第未来进行技术和产能代工合作谈判](https://www.autobit.xyz/kuaixun/1046.html)
 
 18. [XPeng Navigation Guided Pilot vs Tesla Autopilot](https://www.youtube.com/watch?time_continue=763&v=oK38HbHxw3M&feature=emb_logo)
+
+19. [谁在押注许家印造车？](https://www.huxiu.com/article/406527.html)
+
+20. [那些秀“自动驾驶”的网红，其实是在拿命博眼球](https://36kr.com/p/1070584410138497)
+
+21. [从半导体不足看到的汽车产业](https://36kr.com/p/1070912505211014)
+
+22. [FF最快两周内启动上市，吉利计划投资数千万美元](https://36kr.com/p/1070916799178633)
+
+23. [那些活在BBA阴影下的豪华品牌](https://36kr.com/p/1071279908595587)
+
+24. [北汽蓝谷子公司A+轮融资超3亿，换电的春天真的来了？](https://36kr.com/p/1071281528449158)
+
+25. [小鹏汽车总裁顾宏地：Q4交付第三款车型，未受芯片短缺影响](https://36kr.com/p/1071312894535555)
+
+26. [因「断芯」索赔上亿欧元：汽车芯片短缺，受影响的不止大众一家](https://36kr.com/p/1071313917159559)
+
+27. [三十年，苹果特斯拉们是如何干掉车钥匙的？](https://36kr.com/p/1071348624926599)
+
+28. [Blackberry and Baidu deepen autonomous, connected car partnership](https://techcrunch.com/2021/01/25/blackberry-and-baidu-deepen-autonomous-connected-car-partnership/)
