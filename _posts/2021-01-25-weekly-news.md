@@ -59,3 +59,63 @@ categories: Mobility
 27. [三十年，苹果特斯拉们是如何干掉车钥匙的？](https://36kr.com/p/1071348624926599)
 
 28. [Blackberry and Baidu deepen autonomous, connected car partnership](https://techcrunch.com/2021/01/25/blackberry-and-baidu-deepen-autonomous-connected-car-partnership/)
+
+29. [别又让那个男人忽悠了](https://www.huxiu.com/article/406873.html)
+
+30. [智能汽车“增量部件”争夺战（二）：高精度地图“走俏”，初创玩家如何从“BAT防线”中突围？](https://36kr.com/p/1071503401169286)
+
+31. [帮贾跃亭造车，吉利在下一盘什么样的棋？](https://36kr.com/p/1072125062148993)
+
+32. [汽车芯片进入5nm时代，高通连发两款新品，明年上车](https://36kr.com/p/1072114463028097)
+
+33. [新能源汽车的2020：谁丢盔弃甲，谁兵临城下？](https://36kr.com/p/1072336842879875)
+
+34. [比亚迪盛宴：51岁女员工，身家超30亿](https://36kr.com/p/1072518432780164)
+
+35. [投资蔚来、押注零跑，合肥为了新能源汽车有多拼？](https://36kr.com/p/1072561564103047)
+
+36. [滴滴确定入局新造车，已入股爱驰汽车](https://www.autobit.xyz/news/1055.html)
+
+37. [比亚迪将推出高端新能源品牌，最快今年，最晚明年](https://www.autobit.xyz/kuaixun/1056.html)
+
+38. [文远知行无人小巴发车，在广州开启常态化测试和服务](https://www.autobit.xyz/news/1054.html)
+
+39. [Waymo Disengagement (the fact that this is a rare occurrence should be noted)](https://www.reddit.com/r/SelfDrivingCars/comments/l5tnil/waymo_disengagement_the_fact_that_this_is_a_rare/)
+
+40. [马斯克：2021，我想卖游戏机](https://www.huxiu.com/article/406986.html)
+
+41. [贾跃亭的FF，值得珠海押注吗？](https://www.huxiu.com/article/407135.html)
+
+42. [充电桩“劫后余生”](https://www.huxiu.com/article/407141.html)
+
+43. [华为激光雷达：虚晃一枪还是真功夫？](https://www.huxiu.com/article/407258.html)
+
+44. [特斯拉在印度还有很长的路要走：基础设施和供应链问题尚未解决](https://36kr.com/p/1072733650202502)
+
+45. [大众与特斯拉“正面刚”，国轩高科赢了？](https://36kr.com/p/1073507463082375)
+
+46. [AutoX全无人驾驶出租车对公众开放试运营，可在深圳坪山区预约乘坐](https://36kr.com/p/1072429206925184)
+
+47. [滴滴自动驾驶获IDG资本领投3亿美元融资，去年曾获超5亿美元融资](https://36kr.com/p/1073696173272964)
+
+48. [吉利入股孚能科技，化解电池焦虑](https://36kr.com/p/1073961597809031)
+
+49. [马斯克把飞船方向盘用在特斯拉新车上，乞丐版80万起](https://36kr.com/p/1074005538238340)
+
+50. [市值超 6000 亿，蔚来李斌：我们还在「资格赛」阶段](https://36kr.com/p/1074996207530880)
+
+51. [汽车芯片供应链安全问题，悬在国内厂商头顶的达摩克利斯之剑](https://36kr.com/p/1075012068651912)
+
+52. [法拉利、兰博基尼、玛莎拉蒂……这个「不靠谱」的国家为什么豪车品牌这么多？](https://36kr.com/p/1074991471128449)
+
+53. [「能链」获1亿美元战略融资，做能源物联网EIoT及能源新零售平台](https://36kr.com/p/1075230477823881)
+
+54. [苹果汽车项目一年开放300+职位，13人高管团队曝光，动真格了？](https://36kr.com/p/1075576445629314)
+
+55. [收购阿斯顿·马丁补「豪华」？比亚迪发力高端新能源车](https://36kr.com/p/1075533489483655)
+
+56. [因逆变器故障，小鹏汽车召回13399辆G3车型](https://www.autobit.xyz/news/1065.html)
+
+57. [Baidu Wins California Permit to Test Fully Driverless Vehicles](https://www.caixinglobal.com/2021-01-28/baidu-wins-california-permit-to-test-fully-driverless-vehicles-101657263.html)
+
+58. [Tesla is willing to license Autopilot and has already had ‘preliminary discussions’ about it with other automakers](https://techcrunch.com/2021/01/27/tesla-is-willing-to-license-autopilot-and-has-already-had-preliminary-discussions-about-it-with-other-automakers/amp/)
