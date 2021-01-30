@@ -119,3 +119,15 @@ categories: Mobility
 57. [Baidu Wins California Permit to Test Fully Driverless Vehicles](https://www.caixinglobal.com/2021-01-28/baidu-wins-california-permit-to-test-fully-driverless-vehicles-101657263.html)
 
 58. [Tesla is willing to license Autopilot and has already had ‘preliminary discussions’ about it with other automakers](https://techcrunch.com/2021/01/27/tesla-is-willing-to-license-autopilot-and-has-already-had-preliminary-discussions-about-it-with-other-automakers/amp/)
+
+59. [长江汽车还能扭转局势吗？](https://36kr.com/p/1076067323720073)
+
+60. [围攻特斯拉，朱江回应：福特国产「电动野马」不会降价](https://36kr.com/p/1076436039118726)
+
+61. [马斯克的万亿美元理想](https://36kr.com/p/1075504946868613)
+
+62. [恒大造车：不缺钱了，但问题还有很多](https://36kr.com/p/1075391742701959)
+
+63. [Tesla has a new gaming computer and plans to (sort of) compete with Xbox and Steam](https://electrek.co/2021/01/29/tesla-new-gaming-computer-compete-xbox-steam/)
+
+64. [Driverless robotaxis are now available for public rides in China](https://www.engadget.com/amp/autox-fully-driverless-robotaxi-china-145126521.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAHIlGBLd8LlY5BSh5liDd1xVAYxdOM7wYo6c3B7Oe7OuMIZt91pGzg6TmCCXshcQNsKqiFS25caBBMlK0bx7rGT6ckc6012rKgaCvon3zjsMD8VybHDz9TQgqhky0ozmIZTE-OltHgi1Hr53PjRXbDBqWQH2xwnO-iaAhCPF8EfG)
