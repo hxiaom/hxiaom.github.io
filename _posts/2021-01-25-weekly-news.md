@@ -131,3 +131,15 @@ categories: Mobility
 63. [Tesla has a new gaming computer and plans to (sort of) compete with Xbox and Steam](https://electrek.co/2021/01/29/tesla-new-gaming-computer-compete-xbox-steam/)
 
 64. [Driverless robotaxis are now available for public rides in China](https://www.engadget.com/amp/autox-fully-driverless-robotaxi-china-145126521.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAHIlGBLd8LlY5BSh5liDd1xVAYxdOM7wYo6c3B7Oe7OuMIZt91pGzg6TmCCXshcQNsKqiFS25caBBMlK0bx7rGT6ckc6012rKgaCvon3zjsMD8VybHDz9TQgqhky0ozmIZTE-OltHgi1Hr53PjRXbDBqWQH2xwnO-iaAhCPF8EfG)
+
+65. [VC们，该卖电动车股票了吧？](https://www.huxiu.com/article/407600.html)
+
+66. [放弃高薪和百万股票，那个离开蔚来的年轻人回来了](https://36kr.com/p/1077883850847113)
+
+67. [“复制”马斯克（一）：全世界都会为“自大狂”让路吗？](https://36kr.com/p/1072905634640258)
+
+68. [“复制”马斯克（二）：“一无所有”的世界首富想要什么？](https://36kr.com/p/1074289561728128)
+
+69. [“复制”马斯克（三）：我们要为他的“反智事业”买单吗？](https://36kr.com/p/preview/XNsyAvPtq3JHWWOWWqIG7gtvwfOlHfmz_rDmAkHRP5MR711aPShKE9fhhxEyJIyt)
+
+70. [A Taxonomy of AV Myths](https://www.reddit.com/r/SelfDrivingCars/comments/l8p2dp/a_taxonomy_of_av_myths/)
