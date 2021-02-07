@@ -75,3 +75,79 @@ categories: Mobility
 35. [UK Govt. has published a report revealing the full economic value of self-driving vehicles in the UK. The report predicts connected and automated vehicles (CAV) to be worth £41.7 billion by 2035 investment in this area could create nearly 40,000 jobs in the UK: Source: Govt.UK](https://www.reddit.com/r/SelfDrivingCars/comments/lanpfo/uk_govt_has_published_a_report_revealing_the_full/)
 
 36. [Estimating the residual risk of ADAS / AV](https://blog.foretellix.com/2021/02/01/estimating-the-residual-risk-of-adas-av/)
+
+37. [特斯拉首次实现年度盈利，利润主要来自哪部分？](https://www.huxiu.com/article/408136.html)
+
+38. [不回家的网约车司机：塑料薄膜里的“隔离人生”](https://www.huxiu.com/article/408481.html)
+
+39. [自动驾驶汽车法律政策趋势观察](https://www.huxiu.com/article/408531.html)
+
+40. [苹果：给你36亿，帮我造车](https://www.huxiu.com/article/408582.html)
+
+41. [特斯拉端起甩不掉的锅](https://www.huxiu.com/article/408786.html)
+
+42. [苹果汽车潜在参数曝光？百公里加速3.5秒内，WLTP续航500km](https://36kr.com/p/1081486347550979)
+
+43. [2021年造车新势力第一次月考，小鹏为何最先交卷](https://36kr.com/p/1082110404593672)
+
+44. [松下的特斯拉电池业务预计首次盈利](https://36kr.com/p/1082171906589703)
+
+45. [1月汽车公司市值榜：特斯拉笑傲群雄，比亚迪国内“封王”](https://36kr.com/p/1082168736924678)
+
+46. [为了砍特斯拉一刀，宝马先砍了自己一刀](https://36kr.com/p/1082540414124297)
+
+47. [给红旗5年，它能冲到全球豪华品牌第一阵营吗？](https://36kr.com/p/1082545604559111)
+
+48. [航司『生存大挑战』：美国四大航净亏2000多亿元，中国三大航死守70%客座率](https://36kr.com/p/1082616227185669)
+
+49. [瞄准县域市场,「松果出行」宣布电单车日订单量峰值达300万](https://36kr.com/p/1082666645423104)
+
+50. [触底与重塑：否认裁员，北汽蓝谷挥刀改革](https://36kr.com/p/1083366325814278)
+
+51. [蔚来ES8开L2撞人又撞车，为啥装24个传感器都躲不开？](https://36kr.com/p/1083365637260293)
+
+52. [百度高调造车：憋了8年，李彦宏又赶了个晚集](https://36kr.com/p/1083384640242695)
+
+53. [正经人谁买特斯拉来打游戏？](https://36kr.com/p/1083365818500105)
+
+54. [百度芯事：750亿美金的认知差](https://36kr.com/p/1083407234238723)
+
+55. [北京现代年销量下挫近三成背后：“以价换量”隐患多，频繁换将难挽颓势](https://36kr.com/p/1083546302005506)
+
+56. [续航超1100公里，部分场景支持L4级自动驾驶，哪吒新车将于2021年上海车展亮相](https://36kr.com/p/1083924723073280)
+
+57. [马斯克的巨型机器曝光，造车就像造玩具一样简单？](https://36kr.com/p/1083928039342343)
+
+58. [文远知行CEO韩旭：中国自动驾驶行业缺少一场公开竞赛](https://36kr.com/p/1082612294435078)
+
+59. [低温下为新能源汽车加热，薄膜热管理方案供应商「海姆霍兹」获近亿元B轮融资](https://36kr.com/p/1082146696037384)
+
+60. [华为、宁德时代参与融资？长安新能源IPO前，还需连闯两道关](https://36kr.com/p/1085051677557761)
+
+61. [苹果挖角保时捷：“我要造电动青蛙车”](https://36kr.com/p/1085243580956929)
+
+62. [汽车上「云」，全新赛道？](https://36kr.com/p/1085284691985417)
+
+63. [蔚来「重仓」蔚来](https://36kr.com/p/1085439353979912)
+
+64. [为Model Y疯狂的36天](https://36kr.com/p/1087167185633543)
+
+65. [奔驰爷爷“断臂”自救](https://36kr.com/p/1087192635638022)
+
+66. [90%回收率，大众开始挖掘旧电池中的黄金](https://36kr.com/p/1087686927499522)
+
+67. [小米，也许可以造个车？](https://36kr.com/p/1087712414007561)
+
+68. [中国官方唯一无人车路测报告一出炉，百度股价又涨了](https://36kr.com/p/1087937777615878)
+
+69. [比亚迪：不造芯片的电池厂不是好车企](https://36kr.com/p/1088088114069767)
+
+70. [挥手就能开天窗：5G技术量产上车，上汽MARVEL R正式上市](https://36kr.com/p/1088320118162433)
+
+71. [蔚来联手合肥打造世界级电动汽车产业园，投资或超百亿美金](https://www.autobit.xyz/news/1085.html)
+
+72. [地平线获舜宇光学战略投资，双方将合作打造车载视觉解决方案](https://www.autobit.xyz/news/1089.html)
+
+73. [Didi Makes $1 Billion Profit While Uber Bleeds — Good News For Robotaxis](https://www.forbes.com/sites/bradtempleton/2021/02/04/didi-makes-1-billion-profit-while-uber-bleeds---good-news-for-robotaxis/?sh=184e5cbb6ee4)
+
+74. [Automakers push for movement on 'critical' rules for self-driving cars](https://www.detroitnews.com/story/business/autos/2021/02/03/automakers-push-movement-critical-rules-self-driving-cars/4375057001/)
