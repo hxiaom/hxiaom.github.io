@@ -83,3 +83,9 @@ categories: Mobility
 39. [2020加州自动驾驶路测报告出炉，两家中国公司MPI指标进入全球前五](https://www.autobit.xyz/news/1104.html)
 
 40. [特斯拉确定在中国独立研发一款入门车型，约 16 万起](https://www.autobit.xyz/news/1106.html)
+
+41. [苹果汽车项目死而复生，价格、代工厂这八个细节你最好提前了解](https://36kr.com/p/1097632065292806)
+
+42. [Aurora Partners With Toyota on Self-Driving Sienna Taxis](https://www.wired.com/story/aurora-partnership-toyota-self-driving-taxis/)
+
+43. [VW, Microsoft Extend Collaboration to Self-Driving Car Software](https://www.ttnews.com/articles/vw-microsoft-extend-collaboration-self-driving-car-software)
