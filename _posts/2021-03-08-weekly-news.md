@@ -21,3 +21,27 @@ categories: Mobility
 8. [这个华人团队设计的自动驾驶加速测试环境，碾压Waymo和百度](https://36kr.com/p/1130307653890565)
 
 9. [Waymo Study Says Their Cars Can Prevent Accidents Caused By Other Drivers](https://www.forbes.com/sites/bradtempleton/2021/03/08/waymo-study-says-their-cars-would-be-very-good-at-avoiding-accidents/?sh=1939d16e21f6)
+
+10. [长沙坠车事件后，货拉拉上线行程录音功能、试运行车载设备](https://36kr.com/p/1133301394785408)
+
+11. [Waymo模拟了近百起车祸现场，证明「自动驾驶比人类靠谱得多」](https://36kr.com/p/1132983175857541)
+
+12. [现代电动车着火，LG买单，8万台车被召回，损失超50亿元](https://36kr.com/p/1130757782237703)
+
+13. [OURS 创始人首谈 1 亿美金被 Aurora 收购：激光雷达是否为刚需仍有待观察](https://36kr.com/p/1130788821152263)
+
+14. [字节看上的自动驾驶公司：创始人来自Waymo，两年落地无人公交](https://36kr.com/p/1131482823394696)
+
+15. [《2020年新能源乘用车白皮书》：五菱宏光MINI硬撼特斯拉MODEL 3，宁德时代市场份额下滑](https://36kr.com/p/1131637165933699)
+
+16. [理想CEO激励计划：交付量决定一切](https://36kr.com/p/1132168154842246)
+
+17. [全球电动车企最大规模IPO：44亿美元融资，配置激光雷达，Lucid挑战特斯拉](https://36kr.com/p/1132888159863936)
+
+18. [嬴彻科技发布「轩辕」卡车自动驾驶系统，剑指2021年底量产交付L3重卡](https://www.autobit.xyz/news/1155.html)
+
+19. [汽车涂装能有多危险？模型和你，或许都不可靠！](https://www.jiqizhixin.com/articles/2021-03-10-7)
+
+20. [Waymo is disclosing more autonomous vehicle data for research purposes](https://www.theverge.com/platform/amp/2021/3/10/22322100/waymo-motion-dataset-autonomous-vehicles-research)
+
+21. [Autonomous Zoox in Amazon Prime colours](https://www.reddit.com/r/SelfDrivingCars/comments/m1cur1/autonomous_zoox_in_amazon_prime_colours/)
