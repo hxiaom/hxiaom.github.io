@@ -45,3 +45,9 @@ categories: Mobility
 20. [Waymo is disclosing more autonomous vehicle data for research purposes](https://www.theverge.com/platform/amp/2021/3/10/22322100/waymo-motion-dataset-autonomous-vehicles-research)
 
 21. [Autonomous Zoox in Amazon Prime colours](https://www.reddit.com/r/SelfDrivingCars/comments/m1cur1/autonomous_zoox_in_amazon_prime_colours/)
+
+22. [两会闭幕，这里是关于自动驾驶的 15 份提案](https://36kr.com/p/1133573818418310)
+
+23. [首款获批上路的L3级自动驾驶车辆，竟然不是特斯拉](https://36kr.com/p/1133833512568192)
+
+24. [金额1.05亿！百度Apollo再下一城，中标成都高新区5G智慧城智能驾驶项目](https://www.autobit.xyz/news/1160.html)
