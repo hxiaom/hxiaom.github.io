@@ -51,3 +51,11 @@ categories: Mobility
 23. [首款获批上路的L3级自动驾驶车辆，竟然不是特斯拉](https://36kr.com/p/1133833512568192)
 
 24. [金额1.05亿！百度Apollo再下一城，中标成都高新区5G智慧城智能驾驶项目](https://www.autobit.xyz/news/1160.html)
+
+25. [特斯拉“失控门”调查：突然加速、刹车失灵、数据消失？](https://www.huxiu.com/article/414630.html)
+
+26. [禾赛「终止」IPO 背后，4 大原因猜想，激光雷达好戏尚远？](https://36kr.com/p/1135056092644741)
+
+27. [谷歌自锤Attention is all you need：纯注意力并没那么有用，Transformer组件很重要](https://www.jiqizhixin.com/articles/2021-03-14)
+
+28. [Tesla removed some drivers from its self-driving test for not paying attention](https://edition.cnn.com/2021/03/14/tech/elon-musk-tesla-full-self-driving-beta/index.html)
