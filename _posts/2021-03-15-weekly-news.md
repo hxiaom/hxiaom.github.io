@@ -25,3 +25,7 @@ categories: Mobility
 10. [三星斩获Waymo核心芯片订单；吉利星越L将搭载AVP无人泊车技术](https://www.autobit.xyz/news/1172.html)
 
 11. [TuSimple gets Shanghai’s nod to road test self-driving trucks](http://autonews.gasgoo.com/icv/70018084.html)
+
+12. [货拉拉的“钱途”：平台向左，司机向右](https://36kr.com/p/1145865221983233)
+
+13. [Tesla's "Full Self Driving" Beta Is Just Laughably Bad and Potentially Dangerous](https://www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/)
