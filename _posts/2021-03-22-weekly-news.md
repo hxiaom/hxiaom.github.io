@@ -35,3 +35,9 @@ categories: Mobility
 15. [定义新基建交通路口中国标准，北京亦庄迈入智能交通发展新纪元](https://www.autobit.xyz/kuaixun/1181.html)
 
 16. [Xpeng Begins Ambitious 2,284-mile Cross-Country Autonomous Media Drive](https://insideevs.com/news/495954/xpeng-autonomous-drive-across-china/?linkId=100000037570169)
+
+17. [中国的K-car时代要到来了？](https://36kr.com/p/1154662149719430)
+
+18. [三年亏损近20亿，图森未来冲刺自动驾驶第一股](https://36kr.com/p/1154660236575878)
+
+19. [On Black Swans, Failures-by-Design, and Safety of Automated Driving Systems](https://amnon-shashua.medium.com/on-black-swans-failures-by-design-and-safety-of-automated-driving-systems-1401076e9027)
