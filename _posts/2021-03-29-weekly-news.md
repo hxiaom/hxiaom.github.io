@@ -29,3 +29,11 @@ categories: Mobility
 12. [Chipotle invests in self-driving startup Nuro as it prepares for delivery’s future](https://www.freightwaves.com/news/chipotle-invests-in-self-driving-startup-nuro-as-it-prepares-for-deliverys-future)
 
 13. [Volvo and Aurora team up on fully autonomous trucks for North America](https://www.theverge.com/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership)
+
+14. [草莽生长的电瓶车市场，最终会走向何处？](https://www.huxiu.com/article/418960.html)
+
+15. [哈啰出行的智能电动车要来了，将搭载超连网车机系统](https://36kr.com/p/1162634765616258)
+
+16. [自动驾驶公司「智加科技」获2.2亿美元新一轮融资，今年已完成融资4.2亿美元](https://36kr.com/p/1161827879339139)
+
+17. [智能汽车昨夜今晨：小马智行卡车业务定名“PONYTRON”；小鹏计划实现每千公里人为接管一次](https://www.autobit.xyz/news/1199.html)
