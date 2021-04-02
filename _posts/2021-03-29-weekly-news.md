@@ -37,3 +37,11 @@ categories: Mobility
 16. [自动驾驶公司「智加科技」获2.2亿美元新一轮融资，今年已完成融资4.2亿美元](https://36kr.com/p/1161827879339139)
 
 17. [智能汽车昨夜今晨：小马智行卡车业务定名“PONYTRON”；小鹏计划实现每千公里人为接管一次](https://www.autobit.xyz/news/1199.html)
+
+18. [小米造车的两位关键先生](https://36kr.com/p/1163571098766345)
+
+19. [小鹏汽车CEO何小鹏：雷军没投资我时，我就建议他造车](https://36kr.com/p/1162944954385801)
+
+20. [什么是自动驾驶下半场？](https://mp.weixin.qq.com/s/Ss5vIoJNBnXqS2z2tZzQCw)
+
+21. [Angry Residents, Abrupt Stops: Waymo Vehicles Are Still Causing Problems in Arizona](https://www.phoenixnewtimes.com/news/waymo-arizona-abrupt-stops-angry-residents-are-still-a-problem-11541896)
