@@ -29,3 +29,13 @@ categories: Mobility
 12. [Two die in driverless Tesla incident. Where are the regulators?](https://www.latimes.com/business/story/2021-04-19/tesla-on-autopilot-kills-two-where-are-the-regulators)
 
 13. [TuSimple Raises $1.35 Billion Through IPO](https://www.ttnews.com/articles/tusimple-raises-135-billion-through-ipo)
+
+14. [面临苹果、华为抢夺市场，蔚来：一个月内宣布欧洲扩张计划](https://36kr.com/p/1193941719779589)
+
+15. [威马汽车，到底在急什么？](https://36kr.com/p/1192806979988356)
+
+16. [华为掀起了自动驾驶小高潮](https://36kr.com/p/1193894047853701)
+
+17. [Mobileye 2021年Q1营收3.77亿美元，同比增长48%](https://www.autobit.xyz/news/1263.html)
+
+18. [AutoX 入股新造车公司艾康尼克，或将推动L4无人车量产](https://www.autobit.xyz/kuaixun/1262.html)
