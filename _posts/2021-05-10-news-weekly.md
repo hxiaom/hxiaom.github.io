@@ -13,3 +13,9 @@ categories: Mobility
 4. [恒大汽车，依然在高市值坚挺着](https://36kr.com/p/1220767295083139)
 
 5. [周鸿祎：哪吒汽车从LOGO到价格都得改一改](https://www.jiqizhixin.com/articles/2021-05-12)
+
+6. [2021“五一”假期经济洞察报告](https://www.huxiu.com/article/427495.html)
+
+7. [文远知行WeRide获数亿美元C轮融资，投后估值33亿美元](https://36kr.com/p/1221393581691267)
+
+8. [Waymo to lose its CFO and head of automotive partnerships](https://techcrunch.com/2021/05/12/waymos-cfo-and-head-of-automotive-partnerships-are-leaving-the-autonomous-vehicle-company/)
